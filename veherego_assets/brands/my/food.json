@@ -1,0 +1,662 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 28,
+  "brand_aliases": {
+    "bakerscottage_q107801364": {
+      "slug": "bakerscottage_q107801364",
+      "title": "Baker's Cottage",
+      "short_name": "Baker's Co",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "aliases": [
+        "Baker's Cottage"
+      ],
+      "keywords": [
+        "Baker's Cottage"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bakerscottage-146b0c.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bakerscottage-146b0c",
+        "wikidata": "Q107801364"
+      }
+    },
+    "paul_q3370417": {
+      "slug": "paul_q3370417",
+      "title": "Paul",
+      "short_name": "Paul",
+      "badge_text": "P",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "aliases": [
+        "Paul"
+      ],
+      "keywords": [
+        "Paul"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "paul-652955",
+        "wikidata": "Q3370417"
+      }
+    },
+    "touslesjours_q3535609": {
+      "slug": "touslesjours_q3535609",
+      "title": "Tous les Jours",
+      "short_name": "Tous les J",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "aliases": [
+        "Tous les Jours"
+      ],
+      "keywords": [
+        "Tous les Jours"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/touslesjours-e39ddb.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "touslesjours-e39ddb",
+        "wikidata": "Q3535609"
+      }
+    },
+    "4fingerscrispychicken_q23043391": {
+      "slug": "4fingerscrispychicken_q23043391",
+      "title": "4Fingers Crispy Chicken",
+      "short_name": "4Fingers C",
+      "badge_text": "4",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "4Fingers Crispy Chicken"
+      ],
+      "keywords": [
+        "4Fingers Crispy Chicken"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/4fingerscrispychicken-aadea7.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "4fingerscrispychicken-aadea7",
+        "wikidata": "Q23043391"
+      }
+    },
+    "awmalaysia_q132858554": {
+      "slug": "awmalaysia_q132858554",
+      "title": "A&W (Malaysia)",
+      "short_name": "A&W (Malay",
+      "badge_text": "A",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "A&W"
+      ],
+      "keywords": [
+        "A&W"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "aandw-627b23",
+        "wikidata": "Q132858554"
+      }
+    },
+    "fiveguys_q1131810": {
+      "slug": "fiveguys_q1131810",
+      "title": "Five Guys",
+      "short_name": "Five Guys",
+      "badge_text": "F",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Five Guys"
+      ],
+      "keywords": [
+        "Five Guys"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fiveguys-f26f5c.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "fiveguys-f26f5c",
+        "wikidata": "Q1131810"
+      }
+    },
+    "ikeabistro_q54078": {
+      "slug": "ikeabistro_q54078",
+      "title": "IKEA Bistro",
+      "short_name": "IKEA Bistr",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "IKEA Bistro",
+        "IKEA"
+      ],
+      "keywords": [
+        "IKEA Bistro",
+        "IKEA"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ikeabistro-e746e6",
+        "wikidata": "Q54078"
+      }
+    },
+    "ikearestaurant_q54078": {
+      "slug": "ikearestaurant_q54078",
+      "title": "IKEA Restaurant",
+      "short_name": "IKEA Resta",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "IKEA Restaurant",
+        "IKEA"
+      ],
+      "keywords": [
+        "IKEA Restaurant",
+        "IKEA"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ikearestaurant-15fdc5",
+        "wikidata": "Q54078"
+      }
+    },
+    "jcodonuts_q4260444": {
+      "slug": "jcodonuts_q4260444",
+      "title": "J.Co Donuts",
+      "short_name": "J.Co Donut",
+      "badge_text": "J",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "J.Co Donuts'",
+        "J.Co"
+      ],
+      "keywords": [
+        "J.Co Donuts'",
+        "J.Co"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jco-67fcce.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "jco-67fcce",
+        "wikidata": "Q4260444"
+      }
+    },
+    "momen_q3317535": {
+      "slug": "momen_q3317535",
+      "title": "Mo'men",
+      "short_name": "Mo'men",
+      "badge_text": "M",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Mo'men"
+      ],
+      "keywords": [
+        "Mo'men"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/momen-f39225.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "momen-f39225",
+        "wikidata": "Q3317535"
+      }
+    },
+    "richeesefactory_q22915087": {
+      "slug": "richeesefactory_q22915087",
+      "title": "Richeese Factory",
+      "short_name": "Richeese F",
+      "badge_text": "R",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Richeese Factory"
+      ],
+      "keywords": [
+        "Richeese Factory"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/richeesefactory-ca13a2.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "richeesefactory-ca13a2",
+        "wikidata": "Q22915087"
+      }
+    },
+    "secretrecipe_q7444079": {
+      "slug": "secretrecipe_q7444079",
+      "title": "Secret Recipe",
+      "short_name": "Secret Rec",
+      "badge_text": "S",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Secret Recipe"
+      ],
+      "keywords": [
+        "Secret Recipe"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/secretrecipe-541408.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "secretrecipe-541408",
+        "wikidata": "Q7444079"
+      }
+    },
+    "tacobell_q752941": {
+      "slug": "tacobell_q752941",
+      "title": "Taco Bell",
+      "short_name": "Taco Bell",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Taco Bell"
+      ],
+      "keywords": [
+        "Taco Bell"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "tacobell-a1c9df",
+        "wikidata": "Q752941"
+      }
+    },
+    "texaschicken_q1089932": {
+      "slug": "texaschicken_q1089932",
+      "title": "Texas Chicken",
+      "short_name": "Texas Chic",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Texas Chicken"
+      ],
+      "keywords": [
+        "Texas Chicken"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/texaschicken-a57bb7.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "texaschicken-a57bb7",
+        "wikidata": "Q1089932"
+      }
+    },
+    "thepizzacompany_q2413520": {
+      "slug": "thepizzacompany_q2413520",
+      "title": "The Pizza Company",
+      "short_name": "The Pizza ",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "The Pizza Company"
+      ],
+      "keywords": [
+        "The Pizza Company"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thepizzacompany-abbb1f.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "thepizzacompany-abbb1f",
+        "wikidata": "Q2413520"
+      }
+    },
+    "yoshinoya_q776272": {
+      "slug": "yoshinoya_q776272",
+      "title": "Yoshinoya",
+      "short_name": "Yoshinoya",
+      "badge_text": "Y",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Yoshinoya"
+      ],
+      "keywords": [
+        "Yoshinoya"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yoshinoya-ffe475.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "yoshinoya-ffe475",
+        "wikidata": "Q776272"
+      }
+    },
+    "_q4704878": {
+      "slug": "_q4704878",
+      "title": "الطازج",
+      "short_name": "الطازج",
+      "badge_text": "ا",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "الطازج",
+        "Al Tazaj"
+      ],
+      "keywords": [
+        "الطازج",
+        "Al Tazaj"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altazaj-7c76bb.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "altazaj-7c76bb",
+        "wikidata": "Q4704878"
+      }
+    },
+    "_q14955169": {
+      "slug": "_q14955169",
+      "title": "栄寿司",
+      "short_name": "栄寿司",
+      "badge_text": "栄",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "栄寿司",
+        "Sakae Sushi"
+      ],
+      "keywords": [
+        "栄寿司",
+        "Sakae Sushi"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sakaesushi-1ef1da.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "sakaesushi-1ef1da",
+        "wikidata": "Q14955169"
+      }
+    },
+    "bonchonchicken_q4941248": {
+      "slug": "bonchonchicken_q4941248",
+      "title": "Bonchon Chicken",
+      "short_name": "Bonchon Ch",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Bonchon Chicken"
+      ],
+      "keywords": [
+        "Bonchon Chicken"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bonchonchicken-b76b63.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bonchonchicken-b76b63",
+        "wikidata": "Q4941248"
+      }
+    },
+    "burgerlobster_q113547162": {
+      "slug": "burgerlobster_q113547162",
+      "title": "Burger & Lobster",
+      "short_name": "Burger & L",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Burger & Lobster"
+      ],
+      "keywords": [
+        "Burger & Lobster"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burgerandlobster-513426.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "burgerandlobster-513426",
+        "wikidata": "Q113547162"
+      }
+    },
+    "dintaifung_q699142": {
+      "slug": "dintaifung_q699142",
+      "title": "Din Tai Fung",
+      "short_name": "Din Tai Fu",
+      "badge_text": "D",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Din Tai Fung"
+      ],
+      "keywords": [
+        "Din Tai Fung"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dintaifung-4a64f1.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "dintaifung-4a64f1",
+        "wikidata": "Q699142"
+      }
+    },
+    "happylambhotpot_q123091978": {
+      "slug": "happylambhotpot_q123091978",
+      "title": "Happy Lamb Hot Pot",
+      "short_name": "Happy Lamb",
+      "badge_text": "H",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Happy Lamb Hot Pot"
+      ],
+      "keywords": [
+        "Happy Lamb Hot Pot"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "happylambhotpot-20752b",
+        "wikidata": "Q123091978"
+      }
+    },
+    "ippudo_q6065417": {
+      "slug": "ippudo_q6065417",
+      "title": "Ippudo",
+      "short_name": "Ippudo",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Ippudo"
+      ],
+      "keywords": [
+        "Ippudo"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ippudo-b715b9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ippudo-b715b9",
+        "wikidata": "Q6065417"
+      }
+    },
+    "kennyrogersroasters_q6391200": {
+      "slug": "kennyrogersroasters_q6391200",
+      "title": "Kenny Rogers Roasters",
+      "short_name": "Kenny Roge",
+      "badge_text": "K",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Kenny Rogers Roasters"
+      ],
+      "keywords": [
+        "Kenny Rogers Roasters"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kennyrogersroasters-66fc2f.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "kennyrogersroasters-66fc2f",
+        "wikidata": "Q6391200"
+      }
+    },
+    "nandos_q3472954": {
+      "slug": "nandos_q3472954",
+      "title": "Nando's",
+      "short_name": "Nando's",
+      "badge_text": "N",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Nando's"
+      ],
+      "keywords": [
+        "Nando's"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nandos-32ebee.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "nandos-32ebee",
+        "wikidata": "Q3472954"
+      }
+    },
+    "ramensantouka_q17210103": {
+      "slug": "ramensantouka_q17210103",
+      "title": "Ramen Santouka",
+      "short_name": "Ramen Sant",
+      "badge_text": "R",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Hokkaido Ramen Santouka"
+      ],
+      "keywords": [
+        "Hokkaido Ramen Santouka"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hokkaidoramensantouka-94e5f8.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "hokkaidoramensantouka-94e5f8",
+        "wikidata": "Q17210103"
+      }
+    },
+    "sushiking_q121089223": {
+      "slug": "sushiking_q121089223",
+      "title": "Sushi King",
+      "short_name": "Sushi King",
+      "badge_text": "S",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Sushi King"
+      ],
+      "keywords": [
+        "Sushi King"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sushiking-8a5996.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "sushiking-8a5996",
+        "wikidata": "Q121089223"
+      }
+    },
+    "xiaolongkan_q108212427": {
+      "slug": "xiaolongkan_q108212427",
+      "title": "XiaoLongKan",
+      "short_name": "XiaoLongKa",
+      "badge_text": "X",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "XiaoLongKan"
+      ],
+      "keywords": [
+        "XiaoLongKan"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "xiaolongkan-fa3040",
+        "wikidata": "Q108212427"
+      }
+    }
+  }
+}

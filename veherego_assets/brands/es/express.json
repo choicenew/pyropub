@@ -1,0 +1,77 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 3,
+  "brand_aliases": {
+    "nacex_q126366376": {
+      "slug": "nacex_q126366376",
+      "title": "Nacex",
+      "short_name": "Nacex",
+      "badge_text": "N",
+      "category": "express",
+      "sub_category": "courier",
+      "color": "#3B82F6",
+      "aliases": [
+        "Nacex"
+      ],
+      "keywords": [
+        "Nacex"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "nacex-10ef8b",
+        "wikidata": "Q126366376"
+      }
+    },
+    "citypaq_q110748819": {
+      "slug": "citypaq_q110748819",
+      "title": "CityPaq",
+      "short_name": "CityPaq",
+      "badge_text": "C",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "CityPaq"
+      ],
+      "keywords": [
+        "CityPaq"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citypaq-0d29dc.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "citypaq-0d29dc",
+        "wikidata": "Q110748819"
+      }
+    },
+    "inpost_q3182097": {
+      "slug": "inpost_q3182097",
+      "title": "InPost",
+      "short_name": "InPost",
+      "badge_text": "I",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "InPost"
+      ],
+      "keywords": [
+        "InPost"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "inpost-6b37ec",
+        "wikidata": "Q3182097"
+      }
+    }
+  }
+}

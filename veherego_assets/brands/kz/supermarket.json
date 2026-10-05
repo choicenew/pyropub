@@ -1,0 +1,750 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 32,
+  "brand_aliases": {
+    "magnum": {
+      "slug": "magnum",
+      "title": "Magnum",
+      "short_name": "Magnum",
+      "badge_text": "M",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Magnum"
+      ],
+      "keywords": [
+        "Magnum"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "magnum-7ad3ae",
+        "wikidata": ""
+      }
+    },
+    "small": {
+      "slug": "small",
+      "title": "Small",
+      "short_name": "Small",
+      "badge_text": "S",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Small"
+      ],
+      "keywords": [
+        "Small"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "small-8f26de",
+        "wikidata": ""
+      }
+    },
+    "d1ee01c9c3c5": {
+      "slug": "d1ee01c9c3c5",
+      "title": "Азия",
+      "short_name": "Азия",
+      "badge_text": "А",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Азия"
+      ],
+      "keywords": [
+        "Азия"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "d1ee01-c9c3c5",
+        "wikidata": ""
+      }
+    },
+    "_q21638412": {
+      "slug": "_q21638412",
+      "title": "Гроздь",
+      "short_name": "Гроздь",
+      "badge_text": "Г",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Гроздь"
+      ],
+      "keywords": [
+        "Гроздь"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/44aeb3-4736ec.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "44aeb3-4736ec",
+        "wikidata": "Q21638412"
+      }
+    },
+    "_q136697017": {
+      "slug": "_q136697017",
+      "title": "Доброцен",
+      "short_name": "Доброцен",
+      "badge_text": "Д",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Dobrotsen",
+        "Доброцен"
+      ],
+      "keywords": [
+        "Dobrotsen",
+        "Доброцен"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "dobrotsen-4736ec",
+        "wikidata": "Q136697017"
+      }
+    },
+    "_q940518": {
+      "slug": "_q940518",
+      "title": "Магнит",
+      "short_name": "Магнит",
+      "badge_text": "М",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Magnit",
+        "Магнит"
+      ],
+      "keywords": [
+        "Magnit",
+        "Магнит"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "magnit-4e470f",
+        "wikidata": "Q940518"
+      }
+    },
+    "ministop_q1038929": {
+      "slug": "ministop_q1038929",
+      "title": "Ministop",
+      "short_name": "Ministop",
+      "badge_text": "M",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Ministop"
+      ],
+      "keywords": [
+        "Ministop"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ministop-365d07.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ministop-365d07",
+        "wikidata": "Q1038929"
+      }
+    },
+    "qazaqoil_q115190155": {
+      "slug": "qazaqoil_q115190155",
+      "title": "Qazaq Oil",
+      "short_name": "Qazaq Oil",
+      "badge_text": "Q",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Qazaq Oil"
+      ],
+      "keywords": [
+        "Qazaq Oil"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qazaqoil-7ad3ae.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "qazaqoil-7ad3ae",
+        "wikidata": "Q115190155"
+      }
+    },
+    "6580f97f3189": {
+      "slug": "6580f97f3189",
+      "title": "Айсберг",
+      "short_name": "Айсберг",
+      "badge_text": "А",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Айсберг"
+      ],
+      "keywords": [
+        "Айсберг"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "6580f9-7f3189",
+        "wikidata": ""
+      }
+    },
+    "060bbfa39fe8": {
+      "slug": "060bbfa39fe8",
+      "title": "Береке",
+      "short_name": "Береке",
+      "badge_text": "Б",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Береке"
+      ],
+      "keywords": [
+        "Береке"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "060bbf-a39fe8",
+        "wikidata": ""
+      }
+    },
+    "34f9fe1656a9": {
+      "slug": "34f9fe1656a9",
+      "title": "Волна",
+      "short_name": "Волна",
+      "badge_text": "В",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Волна"
+      ],
+      "keywords": [
+        "Волна"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "34f9fe-1656a9",
+        "wikidata": ""
+      }
+    },
+    "e404bb7f3189": {
+      "slug": "e404bb7f3189",
+      "title": "Восток",
+      "short_name": "Восток",
+      "badge_text": "В",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Восток"
+      ],
+      "keywords": [
+        "Восток"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "e404bb-7f3189",
+        "wikidata": ""
+      }
+    },
+    "ab7c057ad3ae": {
+      "slug": "ab7c057ad3ae",
+      "title": "Дәулет",
+      "short_name": "Дәулет",
+      "badge_text": "Д",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Дәулет"
+      ],
+      "keywords": [
+        "Дәулет"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ab7c05-7ad3ae",
+        "wikidata": ""
+      }
+    },
+    "9020b8c281b4": {
+      "slug": "9020b8c281b4",
+      "title": "Заря",
+      "short_name": "Заря",
+      "badge_text": "З",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Заря"
+      ],
+      "keywords": [
+        "Заря"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "9020b8-c281b4",
+        "wikidata": ""
+      }
+    },
+    "8d46a2c281b4": {
+      "slug": "8d46a2c281b4",
+      "title": "Изюминка",
+      "short_name": "Изюминка",
+      "badge_text": "И",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Изюминка"
+      ],
+      "keywords": [
+        "Изюминка"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "8d46a2-c281b4",
+        "wikidata": ""
+      }
+    },
+    "a5ede8c281b4": {
+      "slug": "a5ede8c281b4",
+      "title": "Калина",
+      "short_name": "Калина",
+      "badge_text": "К",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Калина"
+      ],
+      "keywords": [
+        "Калина"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "a5ede8-c281b4",
+        "wikidata": ""
+      }
+    },
+    "60a976c281b4": {
+      "slug": "60a976c281b4",
+      "title": "Катюша",
+      "short_name": "Катюша",
+      "badge_text": "К",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Катюша"
+      ],
+      "keywords": [
+        "Катюша"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "60a976-c281b4",
+        "wikidata": ""
+      }
+    },
+    "5f2eca685d2b": {
+      "slug": "5f2eca685d2b",
+      "title": "Кедр",
+      "short_name": "Кедр",
+      "badge_text": "К",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Кедр"
+      ],
+      "keywords": [
+        "Кедр"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "5f2eca-685d2b",
+        "wikidata": ""
+      }
+    },
+    "_q1417227": {
+      "slug": "_q1417227",
+      "title": "ҚазМұнайГаз",
+      "short_name": "ҚазМұнайГа",
+      "badge_text": "Қ",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "ҚазМұнайГаз"
+      ],
+      "keywords": [
+        "ҚазМұнайГаз"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ef63bd-7ad3ae.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ef63bd-7ad3ae",
+        "wikidata": "Q1417227"
+      }
+    },
+    "baaf01c281b4": {
+      "slug": "baaf01c281b4",
+      "title": "Лилия",
+      "short_name": "Лилия",
+      "badge_text": "Л",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Лилия"
+      ],
+      "keywords": [
+        "Лилия"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "baaf01-c281b4",
+        "wikidata": ""
+      }
+    },
+    "_q329347": {
+      "slug": "_q329347",
+      "title": "Лукойл",
+      "short_name": "Лукойл",
+      "badge_text": "Л",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Лукойл",
+        "Lukoil"
+      ],
+      "keywords": [
+        "Лукойл",
+        "Lukoil"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukoil-5a849f.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "lukoil-5a849f",
+        "wikidata": "Q329347"
+      }
+    },
+    "357655c281b4": {
+      "slug": "357655c281b4",
+      "title": "Народный",
+      "short_name": "Народный",
+      "badge_text": "Н",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Народный"
+      ],
+      "keywords": [
+        "Народный"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "357655-c281b4",
+        "wikidata": ""
+      }
+    },
+    "bd53d6c281b4": {
+      "slug": "bd53d6c281b4",
+      "title": "Наш",
+      "short_name": "Наш",
+      "badge_text": "Н",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Наш"
+      ],
+      "keywords": [
+        "Наш"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bd53d6-c281b4",
+        "wikidata": ""
+      }
+    },
+    "9f9c541656a9": {
+      "slug": "9f9c541656a9",
+      "title": "Огонёк",
+      "short_name": "Огонёк",
+      "badge_text": "О",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Огонёк"
+      ],
+      "keywords": [
+        "Огонёк"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "9f9c54-1656a9",
+        "wikidata": ""
+      }
+    },
+    "bfeaa1c281b4": {
+      "slug": "bfeaa1c281b4",
+      "title": "Пятачок",
+      "short_name": "Пятачок",
+      "badge_text": "П",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Пятачок"
+      ],
+      "keywords": [
+        "Пятачок"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bfeaa1-c281b4",
+        "wikidata": ""
+      }
+    },
+    "d3e941c281b4": {
+      "slug": "d3e941c281b4",
+      "title": "Садко",
+      "short_name": "Садко",
+      "badge_text": "С",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Садко"
+      ],
+      "keywords": [
+        "Садко"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "d3e941-c281b4",
+        "wikidata": ""
+      }
+    },
+    "384e40c281b4": {
+      "slug": "384e40c281b4",
+      "title": "Северный",
+      "short_name": "Северный",
+      "badge_text": "С",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Северный"
+      ],
+      "keywords": [
+        "Северный"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "384e40-c281b4",
+        "wikidata": ""
+      }
+    },
+    "8e7c7ac281b4": {
+      "slug": "8e7c7ac281b4",
+      "title": "У дома",
+      "short_name": "У дома",
+      "badge_text": "У",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "У дома"
+      ],
+      "keywords": [
+        "У дома"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "8e7c7a-c281b4",
+        "wikidata": ""
+      }
+    },
+    "516c18c281b4": {
+      "slug": "516c18c281b4",
+      "title": "Удачный",
+      "short_name": "Удачный",
+      "badge_text": "У",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Удачный"
+      ],
+      "keywords": [
+        "Удачный"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "516c18-c281b4",
+        "wikidata": ""
+      }
+    },
+    "420f79c281b4": {
+      "slug": "420f79c281b4",
+      "title": "Удобный",
+      "short_name": "Удобный",
+      "badge_text": "У",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Удобный"
+      ],
+      "keywords": [
+        "Удобный"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "420f79-c281b4",
+        "wikidata": ""
+      }
+    },
+    "b5ec71685d2b": {
+      "slug": "b5ec71685d2b",
+      "title": "Успех",
+      "short_name": "Успех",
+      "badge_text": "У",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Успех"
+      ],
+      "keywords": [
+        "Успех"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "b5ec71-685d2b",
+        "wikidata": ""
+      }
+    },
+    "4cacba162f8e": {
+      "slug": "4cacba162f8e",
+      "title": "Флагман",
+      "short_name": "Флагман",
+      "badge_text": "Ф",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Флагман"
+      ],
+      "keywords": [
+        "Флагман"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "4cacba-162f8e",
+        "wikidata": ""
+      }
+    }
+  }
+}

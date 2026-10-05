@@ -1,0 +1,77 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 3,
+  "brand_aliases": {
+    "pick_q120051152": {
+      "slug": "pick_q120051152",
+      "title": "Pick",
+      "short_name": "Pick",
+      "badge_text": "P",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "Pick"
+      ],
+      "keywords": [
+        "Pick"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "pick-14a07a",
+        "wikidata": "Q120051152"
+      }
+    },
+    "popstation_q120048216": {
+      "slug": "popstation_q120048216",
+      "title": "POPStation",
+      "short_name": "POPStation",
+      "badge_text": "P",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "POPStation"
+      ],
+      "keywords": [
+        "POPStation"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "popstation-14a07a",
+        "wikidata": "Q120048216"
+      }
+    },
+    "bestexpress_q22099540": {
+      "slug": "bestexpress_q22099540",
+      "title": "Best Express",
+      "short_name": "Best Expre",
+      "badge_text": "B",
+      "category": "express",
+      "sub_category": "station",
+      "color": "#3B82F6",
+      "aliases": [
+        "Best Express"
+      ],
+      "keywords": [
+        "Best Express"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bestexpress-4c54ab.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bestexpress-4c54ab",
+        "wikidata": "Q22099540"
+      }
+    }
+  }
+}

@@ -1,0 +1,984 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 42,
+  "brand_aliases": {
+    "getrnkewelthse_q107370287": {
+      "slug": "getrnkewelthse_q107370287",
+      "title": "Getränkewelt (HSE)",
+      "short_name": "Getränkewe",
+      "badge_text": "G",
+      "category": "drink",
+      "sub_category": "fruit_tea",
+      "color": "#0D9488",
+      "aliases": [
+        "Getränkewelt"
+      ],
+      "keywords": [
+        "Getränkewelt"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "getrankewelt-fe99b7",
+        "wikidata": "Q107370287"
+      }
+    },
+    "nespresso_q301301": {
+      "slug": "nespresso_q301301",
+      "title": "Nespresso",
+      "short_name": "Nespresso",
+      "badge_text": "N",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Nespresso"
+      ],
+      "keywords": [
+        "Nespresso"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nespresso-d0bfaf.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "nespresso-d0bfaf",
+        "wikidata": "Q301301"
+      }
+    },
+    "arabica_q107639197": {
+      "slug": "arabica_q107639197",
+      "title": "% Arabica",
+      "short_name": "% Arabica",
+      "badge_text": "%",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "% Arabica"
+      ],
+      "keywords": [
+        "% Arabica"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arabica-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "arabica-e1ef51",
+        "wikidata": "Q107639197"
+      }
+    },
+    "cafamazon_q43247503": {
+      "slug": "cafamazon_q43247503",
+      "title": "Café Amazon",
+      "short_name": "Café Amazo",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Café Amazon"
+      ],
+      "keywords": [
+        "Café Amazon"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cafeamazon-ea0f6a.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "cafeamazon-ea0f6a",
+        "wikidata": "Q43247503"
+      }
+    },
+    "cafecoffeeday_q5017235": {
+      "slug": "cafecoffeeday_q5017235",
+      "title": "Cafe Coffee Day",
+      "short_name": "Cafe Coffe",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Cafe Coffee Day"
+      ],
+      "keywords": [
+        "Cafe Coffee Day"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cafecoffeeday-93bf5b.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "cafecoffeeday-93bf5b",
+        "wikidata": "Q5017235"
+      }
+    },
+    "caffpascucci_q5017191": {
+      "slug": "caffpascucci_q5017191",
+      "title": "Caffè Pascucci",
+      "short_name": "Caffè Pasc",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Caffè Pascucci"
+      ],
+      "keywords": [
+        "Caffè Pascucci"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caffepascucci-54573b.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "caffepascucci-54573b",
+        "wikidata": "Q5017191"
+      }
+    },
+    "chatime_q16829306": {
+      "slug": "chatime_q16829306",
+      "title": "Chatime",
+      "short_name": "Chatime",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Chatime"
+      ],
+      "keywords": [
+        "Chatime"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chatime-859a55.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "chatime-859a55",
+        "wikidata": "Q16829306"
+      }
+    },
+    "coco_q65084369": {
+      "slug": "coco_q65084369",
+      "title": "CoCo",
+      "short_name": "CoCo",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "CoCo",
+        "CoCo Fresh Tea & Juice"
+      ],
+      "keywords": [
+        "CoCo",
+        "CoCo Fresh Tea & Juice"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cocofreshteaandjuice-859a55.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "cocofreshteaandjuice-859a55",
+        "wikidata": "Q65084369"
+      }
+    },
+    "coffeerepublic_q5140923": {
+      "slug": "coffeerepublic_q5140923",
+      "title": "Coffee Republic",
+      "short_name": "Coffee Rep",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Coffee Republic"
+      ],
+      "keywords": [
+        "Coffee Republic"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coffeerepublic-e1ef51.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "coffeerepublic-e1ef51",
+        "wikidata": "Q5140923"
+      }
+    },
+    "coffeetime_q5140932": {
+      "slug": "coffeetime_q5140932",
+      "title": "Coffee Time",
+      "short_name": "Coffee Tim",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Coffee Time"
+      ],
+      "keywords": [
+        "Coffee Time"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coffeetime-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "coffeetime-e1ef51",
+        "wikidata": "Q5140932"
+      }
+    },
+    "coffeeshopcompany_q873767": {
+      "slug": "coffeeshopcompany_q873767",
+      "title": "Coffeeshop Company",
+      "short_name": "Coffeeshop",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Coffeeshop Company"
+      ],
+      "keywords": [
+        "Coffeeshop Company"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "coffeeshopcompany-e1ef51",
+        "wikidata": "Q873767"
+      }
+    },
+    "costa_q608845": {
+      "slug": "costa_q608845",
+      "title": "Costa",
+      "short_name": "Costa",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Costa"
+      ],
+      "keywords": [
+        "Costa"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/costa-b21a9d.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "costa-b21a9d",
+        "wikidata": "Q608845"
+      }
+    },
+    "costadrivethru_q608845": {
+      "slug": "costadrivethru_q608845",
+      "title": "Costa Drive Thru",
+      "short_name": "Costa Driv",
+      "badge_text": "C",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Costa",
+        "Costa Drive Thru"
+      ],
+      "keywords": [
+        "Costa",
+        "Costa Drive Thru"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/costadrivethru-b21a9d.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "costadrivethru-b21a9d",
+        "wikidata": "Q608845"
+      }
+    },
+    "dingtea_q112123475": {
+      "slug": "dingtea_q112123475",
+      "title": "Ding Tea",
+      "short_name": "Ding Tea",
+      "badge_text": "D",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Ding Tea"
+      ],
+      "keywords": [
+        "Ding Tea"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dingtea-12bfe8.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "dingtea-12bfe8",
+        "wikidata": "Q112123475"
+      }
+    },
+    "eln_q131470289": {
+      "slug": "eln_q131470289",
+      "title": "EL&N",
+      "short_name": "EL&N",
+      "badge_text": "E",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "EL&N"
+      ],
+      "keywords": [
+        "EL&N"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elandn-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "elandn-e1ef51",
+        "wikidata": "Q131470289"
+      }
+    },
+    "gloriajeans_q2666365": {
+      "slug": "gloriajeans_q2666365",
+      "title": "Gloria Jean's",
+      "short_name": "Gloria Jea",
+      "badge_text": "G",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Gloria Jean's"
+      ],
+      "keywords": [
+        "Gloria Jean's"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gloriajeans-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "gloriajeans-e1ef51",
+        "wikidata": "Q2666365"
+      }
+    },
+    "happylemon_q109968422": {
+      "slug": "happylemon_q109968422",
+      "title": "Happy Lemon",
+      "short_name": "Happy Lemo",
+      "badge_text": "H",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Happy Lemon"
+      ],
+      "keywords": [
+        "Happy Lemon"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/happylemon-859a55.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "happylemon-859a55",
+        "wikidata": "Q109968422"
+      }
+    },
+    "joethejuice_q26221514": {
+      "slug": "joethejuice_q26221514",
+      "title": "Joe & The Juice",
+      "short_name": "Joe & The ",
+      "badge_text": "J",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Joe & The Juice"
+      ],
+      "keywords": [
+        "Joe & The Juice"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joeandthejuice-ff94db.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "joeandthejuice-ff94db",
+        "wikidata": "Q26221514"
+      }
+    },
+    "juanvaldezcaf_q6301102": {
+      "slug": "juanvaldezcaf_q6301102",
+      "title": "Juan Valdez Café",
+      "short_name": "Juan Valde",
+      "badge_text": "J",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Juan Valdez Café"
+      ],
+      "keywords": [
+        "Juan Valdez Café"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/juanvaldezcafe-ff94db.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "juanvaldezcafe-ff94db",
+        "wikidata": "Q6301102"
+      }
+    },
+    "kungfutea_q66023886": {
+      "slug": "kungfutea_q66023886",
+      "title": "Kung Fu Tea",
+      "short_name": "Kung Fu Te",
+      "badge_text": "K",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Kung Fu Tea"
+      ],
+      "keywords": [
+        "Kung Fu Tea"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kungfutea-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "kungfutea-e1ef51",
+        "wikidata": "Q66023886"
+      }
+    },
+    "lavazza_q543750": {
+      "slug": "lavazza_q543750",
+      "title": "Lavazza",
+      "short_name": "Lavazza",
+      "badge_text": "L",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Lavazza"
+      ],
+      "keywords": [
+        "Lavazza"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lavazza-e1ef51.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "lavazza-e1ef51",
+        "wikidata": "Q543750"
+      }
+    },
+    "lepainquotidien_q2046903": {
+      "slug": "lepainquotidien_q2046903",
+      "title": "Le Pain Quotidien",
+      "short_name": "Le Pain Qu",
+      "badge_text": "L",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Le Pain Quotidien"
+      ],
+      "keywords": [
+        "Le Pain Quotidien"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lepainquotidien-ff94db.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "lepainquotidien-ff94db",
+        "wikidata": "Q2046903"
+      }
+    },
+    "luckincoffee_q56811344": {
+      "slug": "luckincoffee_q56811344",
+      "title": "Luckin Coffee",
+      "short_name": "Luckin Cof",
+      "badge_text": "L",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Luckin Coffee"
+      ],
+      "keywords": [
+        "Luckin Coffee"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luckincoffee-93bf5b.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "luckincoffee-93bf5b",
+        "wikidata": "Q56811344"
+      }
+    },
+    "machimachi_q114828290": {
+      "slug": "machimachi_q114828290",
+      "title": "Machi machi",
+      "short_name": "Machi mach",
+      "badge_text": "M",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Machi machi",
+        "machi machi"
+      ],
+      "keywords": [
+        "Machi machi",
+        "machi machi"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "machimachi-e1ef51",
+        "wikidata": "Q114828290"
+      }
+    },
+    "mccaf_q3114287": {
+      "slug": "mccaf_q3114287",
+      "title": "McCafé",
+      "short_name": "McCafé",
+      "badge_text": "M",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "McCafé"
+      ],
+      "keywords": [
+        "McCafé"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mccafe-e1ef51.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "mccafe-e1ef51",
+        "wikidata": "Q3114287"
+      }
+    },
+    "nuttea_q111313216": {
+      "slug": "nuttea_q111313216",
+      "title": "NUTTEA",
+      "short_name": "NUTTEA",
+      "badge_text": "N",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "NUTTEA"
+      ],
+      "keywords": [
+        "NUTTEA"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nuttea-485ab4.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "nuttea-485ab4",
+        "wikidata": "Q111313216"
+      }
+    },
+    "oldtownwhitecoffee_q7085308": {
+      "slug": "oldtownwhitecoffee_q7085308",
+      "title": "OldTown White Coffee",
+      "short_name": "OldTown Wh",
+      "badge_text": "O",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "OldTown White Coffee"
+      ],
+      "keywords": [
+        "OldTown White Coffee"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldtownwhitecoffee-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "oldtownwhitecoffee-e1ef51",
+        "wikidata": "Q7085308"
+      }
+    },
+    "onezotapioca_q111537052": {
+      "slug": "onezotapioca_q111537052",
+      "title": "OneZo Tapioca",
+      "short_name": "OneZo Tapi",
+      "badge_text": "O",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "OneZo Tapioca"
+      ],
+      "keywords": [
+        "OneZo Tapioca"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onezotapioca-859a55.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "onezotapioca-859a55",
+        "wikidata": "Q111537052"
+      }
+    },
+    "quickly_q3771463": {
+      "slug": "quickly_q3771463",
+      "title": "Quickly",
+      "short_name": "Quickly",
+      "badge_text": "Q",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Quickly"
+      ],
+      "keywords": [
+        "Quickly"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/quickly-92c4b0.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "quickly-92c4b0",
+        "wikidata": "Q3771463"
+      }
+    },
+    "royaltea_q112778483": {
+      "slug": "royaltea_q112778483",
+      "title": "Royaltea 皇茶",
+      "short_name": "Royaltea 皇",
+      "badge_text": "R",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Royaltea"
+      ],
+      "keywords": [
+        "Royaltea"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royaltea-2403e7.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "royaltea-2403e7",
+        "wikidata": "Q112778483"
+      }
+    },
+    "seattlesbestcoffee_q766329": {
+      "slug": "seattlesbestcoffee_q766329",
+      "title": "Seattle's Best Coffee",
+      "short_name": "Seattle's ",
+      "badge_text": "S",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Seattle's Best Coffee"
+      ],
+      "keywords": [
+        "Seattle's Best Coffee"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seattlesbestcoffee-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "seattlesbestcoffee-e1ef51",
+        "wikidata": "Q766329"
+      }
+    },
+    "secondcup_q862180": {
+      "slug": "secondcup_q862180",
+      "title": "Second Cup",
+      "short_name": "Second Cup",
+      "badge_text": "S",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Second Cup"
+      ],
+      "keywords": [
+        "Second Cup"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/secondcup-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "secondcup-e1ef51",
+        "wikidata": "Q862180"
+      }
+    },
+    "segafredo_q21282762": {
+      "slug": "segafredo_q21282762",
+      "title": "Segafredo",
+      "short_name": "Segafredo",
+      "badge_text": "S",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Segafredo"
+      ],
+      "keywords": [
+        "Segafredo"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "segafredo-e1ef51",
+        "wikidata": "Q21282762"
+      }
+    },
+    "starbucks_q37158": {
+      "slug": "starbucks_q37158",
+      "title": "Starbucks",
+      "short_name": "Starbucks",
+      "badge_text": "S",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Starbucks"
+      ],
+      "keywords": [
+        "Starbucks"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/starbucks-795f60.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "starbucks-795f60",
+        "wikidata": "Q37158"
+      }
+    },
+    "t4teahouse_q112123535": {
+      "slug": "t4teahouse_q112123535",
+      "title": "T4 Tea House",
+      "short_name": "T4 Tea Hou",
+      "badge_text": "T",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "T4 Tea For U",
+        "T4"
+      ],
+      "keywords": [
+        "T4 Tea For U",
+        "T4"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/t4teaforu-e1ef51.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "t4teaforu-e1ef51",
+        "wikidata": "Q112123535"
+      }
+    },
+    "thecoffeebeantealeaf_q1141384": {
+      "slug": "thecoffeebeantealeaf_q1141384",
+      "title": "The Coffee Bean & Tea Leaf",
+      "short_name": "The Coffee",
+      "badge_text": "T",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "The Coffee Bean & Tea Leaf"
+      ],
+      "keywords": [
+        "The Coffee Bean & Tea Leaf"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecoffeebeanandtealeaf-ff94db.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "thecoffeebeanandtealeaf-ff94db",
+        "wikidata": "Q1141384"
+      }
+    },
+    "tigersugar_q76099070": {
+      "slug": "tigersugar_q76099070",
+      "title": "Tiger Sugar",
+      "short_name": "Tiger Suga",
+      "badge_text": "T",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Tiger Sugar"
+      ],
+      "keywords": [
+        "Tiger Sugar"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tigersugar-859a55.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "tigersugar-859a55",
+        "wikidata": "Q76099070"
+      }
+    },
+    "timhortons_q175106": {
+      "slug": "timhortons_q175106",
+      "title": "Tim Hortons",
+      "short_name": "Tim Horton",
+      "badge_text": "T",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Tim Hortons"
+      ],
+      "keywords": [
+        "Tim Hortons"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/timhortons-ff94db.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "timhortons-ff94db",
+        "wikidata": "Q175106"
+      }
+    },
+    "wildbeancafe_q61804826": {
+      "slug": "wildbeancafe_q61804826",
+      "title": "Wild Bean Cafe",
+      "short_name": "Wild Bean ",
+      "badge_text": "W",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Wild Bean Cafe"
+      ],
+      "keywords": [
+        "Wild Bean Cafe"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wildbeancafe-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "wildbeancafe-e1ef51",
+        "wikidata": "Q61804826"
+      }
+    },
+    "xingfutang_q95720330": {
+      "slug": "xingfutang_q95720330",
+      "title": "Xing Fu Tang",
+      "short_name": "Xing Fu Ta",
+      "badge_text": "X",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Xing Fu Tang"
+      ],
+      "keywords": [
+        "Xing Fu Tang"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xingfutang-a90eeb.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "xingfutang-a90eeb",
+        "wikidata": "Q95720330"
+      }
+    },
+    "yifangtea_q66196395": {
+      "slug": "yifangtea_q66196395",
+      "title": "Yi Fang Tea",
+      "short_name": "Yi Fang Te",
+      "badge_text": "Y",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Yi Fang Tea"
+      ],
+      "keywords": [
+        "Yi Fang Tea"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yifangtea-a90eeb.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "yifangtea-a90eeb",
+        "wikidata": "Q66196395"
+      }
+    },
+    "_q123370986": {
+      "slug": "_q123370986",
+      "title": "库迪咖啡",
+      "short_name": "库迪咖啡",
+      "badge_text": "库",
+      "category": "drink",
+      "sub_category": "coffee",
+      "color": "#0D9488",
+      "aliases": [
+        "Cotti Coffee",
+        "Cotti Coffee 库迪咖啡"
+      ],
+      "keywords": [
+        "Cotti Coffee",
+        "Cotti Coffee 库迪咖啡"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cotticoffee-e1ef51.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "cotticoffee-e1ef51",
+        "wikidata": "Q123370986"
+      }
+    }
+  }
+}

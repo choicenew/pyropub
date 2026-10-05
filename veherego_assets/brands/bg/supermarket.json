@@ -1,0 +1,613 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 25,
+  "brand_aliases": {
+    "billa_q537781": {
+      "slug": "billa_q537781",
+      "title": "Billa",
+      "short_name": "Billa",
+      "badge_text": "B",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Billa"
+      ],
+      "keywords": [
+        "Billa"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/billa-3380c4.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "billa-3380c4",
+        "wikidata": "Q537781"
+      }
+    },
+    "billa_q124377887": {
+      "slug": "billa_q124377887",
+      "title": "Billa Днес",
+      "short_name": "Billa Днес",
+      "badge_text": "B",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Billa Днес"
+      ],
+      "keywords": [
+        "Billa Днес"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "4e4d77-56b425",
+        "wikidata": "Q124377887"
+      }
+    },
+    "cba_q779845": {
+      "slug": "cba_q779845",
+      "title": "CBA (България)",
+      "short_name": "CBA (Бълга",
+      "badge_text": "C",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "CBA",
+        "ЦБА"
+      ],
+      "keywords": [
+        "CBA",
+        "ЦБА"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cba-854be4.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "cba-854be4",
+        "wikidata": "Q779845"
+      }
+    },
+    "cbabolero_q124736758": {
+      "slug": "cbabolero_q124736758",
+      "title": "CBA Bolero",
+      "short_name": "CBA Bolero",
+      "badge_text": "C",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "ЦБА Болеро",
+        "CBA Bolero"
+      ],
+      "keywords": [
+        "ЦБА Болеро",
+        "CBA Bolero"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cbabolero-56b425.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "cbabolero-56b425",
+        "wikidata": "Q124736758"
+      }
+    },
+    "cbaklasiko_q124736768": {
+      "slug": "cbaklasiko_q124736768",
+      "title": "CBA Klasiko",
+      "short_name": "CBA Klasik",
+      "badge_text": "C",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "ЦБА Класико",
+        "CBA Klasiko"
+      ],
+      "keywords": [
+        "ЦБА Класико",
+        "CBA Klasiko"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cbaklasiko-56b425.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "cbaklasiko-56b425",
+        "wikidata": "Q124736768"
+      }
+    },
+    "cbakome_q124736748": {
+      "slug": "cbakome_q124736748",
+      "title": "CBA Kome",
+      "short_name": "CBA Kome",
+      "badge_text": "C",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "ЦБА Коме",
+        "CBA Kome"
+      ],
+      "keywords": [
+        "ЦБА Коме",
+        "CBA Kome"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cbakome-56b425.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "cbakome-56b425",
+        "wikidata": "Q124736748"
+      }
+    },
+    "hitmax_q114053568": {
+      "slug": "hitmax_q114053568",
+      "title": "HitMax",
+      "short_name": "HitMax",
+      "badge_text": "H",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "ХитМакс",
+        "HitMax"
+      ],
+      "keywords": [
+        "ХитМакс",
+        "HitMax"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "hitmax-56b425",
+        "wikidata": "Q114053568"
+      }
+    },
+    "kaufland_q685967": {
+      "slug": "kaufland_q685967",
+      "title": "Kaufland (България)",
+      "short_name": "Kaufland (",
+      "badge_text": "K",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Кауфланд",
+        "Kaufland"
+      ],
+      "keywords": [
+        "Кауфланд",
+        "Kaufland"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaufland-56b425.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "kaufland-56b425",
+        "wikidata": "Q685967"
+      }
+    },
+    "mixmarkt_q327854": {
+      "slug": "mixmarkt_q327854",
+      "title": "Mix Markt (България)",
+      "short_name": "Mix Markt ",
+      "badge_text": "M",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Микс Маркт",
+        "Mix Markt"
+      ],
+      "keywords": [
+        "Микс Маркт",
+        "Mix Markt"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mixmarkt-56b425.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "mixmarkt-56b425",
+        "wikidata": "Q327854"
+      }
+    },
+    "_q66133376": {
+      "slug": "_q66133376",
+      "title": "Булмаг",
+      "short_name": "Булмаг",
+      "badge_text": "Б",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "BulMag",
+        "Булмаг"
+      ],
+      "keywords": [
+        "BulMag",
+        "Булмаг"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bulmag-56b425.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bulmag-56b425",
+        "wikidata": "Q66133376"
+      }
+    },
+    "_q124736705": {
+      "slug": "_q124736705",
+      "title": "Бурлекс",
+      "short_name": "Бурлекс",
+      "badge_text": "Б",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Бурлекс"
+      ],
+      "keywords": [
+        "Бурлекс"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1b9c5d-56b425.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "1b9c5d-56b425",
+        "wikidata": "Q124736705"
+      }
+    },
+    "_q114053570": {
+      "slug": "_q114053570",
+      "title": "Дар",
+      "short_name": "Дар",
+      "badge_text": "Д",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Дар",
+        "Dar"
+      ],
+      "keywords": [
+        "Дар",
+        "Dar"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dar-56b425.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "dar-56b425",
+        "wikidata": "Q114053570"
+      }
+    },
+    "_q65296228": {
+      "slug": "_q65296228",
+      "title": "Кам Маркет (България)",
+      "short_name": "Кам Маркет",
+      "badge_text": "К",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Кам Маркет"
+      ],
+      "keywords": [
+        "Кам Маркет"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/146354-56b425.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "146354-56b425",
+        "wikidata": "Q65296228"
+      }
+    },
+    "_q108169047": {
+      "slug": "_q108169047",
+      "title": "Лидл (България)",
+      "short_name": "Лидл (Бълг",
+      "badge_text": "Л",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Лидл",
+        "Lidl"
+      ],
+      "keywords": [
+        "Лидл",
+        "Lidl"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lidl-56b425.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "lidl-56b425",
+        "wikidata": "Q108169047"
+      }
+    },
+    "_q940518": {
+      "slug": "_q940518",
+      "title": "Магнит",
+      "short_name": "Магнит",
+      "badge_text": "М",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Magnit",
+        "Магнит"
+      ],
+      "keywords": [
+        "Magnit",
+        "Магнит"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "magnit-4e470f",
+        "wikidata": "Q940518"
+      }
+    },
+    "_q64033983": {
+      "slug": "_q64033983",
+      "title": "Т-Маркет",
+      "short_name": "Т-Маркет",
+      "badge_text": "Т",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Т-Маркет",
+        "T-Market"
+      ],
+      "keywords": [
+        "Т-Маркет",
+        "T-Market"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "tmarket-56b425",
+        "wikidata": "Q64033983"
+      }
+    },
+    "_q61140834": {
+      "slug": "_q61140834",
+      "title": "Фантастико",
+      "short_name": "Фантастико",
+      "badge_text": "Ф",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Fantastiko",
+        "Фантастико"
+      ],
+      "keywords": [
+        "Fantastiko",
+        "Фантастико"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fantastiko-56b425.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "fantastiko-56b425",
+        "wikidata": "Q61140834"
+      }
+    },
+    "_q115452307": {
+      "slug": "_q115452307",
+      "title": "Фреш Маркет",
+      "short_name": "Фреш Марке",
+      "badge_text": "Ф",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Fresh Market",
+        "Фреш Маркет"
+      ],
+      "keywords": [
+        "Fresh Market",
+        "Фреш Маркет"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "freshmarket-56b425",
+        "wikidata": "Q115452307"
+      }
+    },
+    "avia_q300147": {
+      "slug": "avia_q300147",
+      "title": "Avia",
+      "short_name": "Avia",
+      "badge_text": "A",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Avia"
+      ],
+      "keywords": [
+        "Avia"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avia-da37e8.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "avia-da37e8",
+        "wikidata": "Q300147"
+      }
+    },
+    "hei_q1788862": {
+      "slug": "hei_q1788862",
+      "title": "hei",
+      "short_name": "hei",
+      "badge_text": "H",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "hei"
+      ],
+      "keywords": [
+        "hei"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hei-6378da.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "hei-6378da",
+        "wikidata": "Q1788862"
+      }
+    },
+    "minimart_q119168386": {
+      "slug": "minimart_q119168386",
+      "title": "Minimart",
+      "short_name": "Minimart",
+      "badge_text": "M",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Minimart"
+      ],
+      "keywords": [
+        "Minimart"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/minimart-854be4.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "minimart-854be4",
+        "wikidata": "Q119168386"
+      }
+    },
+    "pavilion24_q140798080": {
+      "slug": "pavilion24_q140798080",
+      "title": "Pavilion 24",
+      "short_name": "Pavilion 2",
+      "badge_text": "P",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Pavilion 24"
+      ],
+      "keywords": [
+        "Pavilion 24"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pavilion24-854be4.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "pavilion24-854be4",
+        "wikidata": "Q140798080"
+      }
+    },
+    "viva_q120134542": {
+      "slug": "viva_q120134542",
+      "title": "Viva",
+      "short_name": "Viva",
+      "badge_text": "V",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Viva"
+      ],
+      "keywords": [
+        "Viva"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "viva-16370c",
+        "wikidata": "Q120134542"
+      }
+    },
+    "_q136378283": {
+      "slug": "_q136378283",
+      "title": "КварталМаг",
+      "short_name": "КварталМаг",
+      "badge_text": "К",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "КварталМаг"
+      ],
+      "keywords": [
+        "КварталМаг"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/e93bd8-854be4.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "e93bd8-854be4",
+        "wikidata": "Q136378283"
+      }
+    },
+    "_q329347": {
+      "slug": "_q329347",
+      "title": "Лукойл (България)",
+      "short_name": "Лукойл (Бъ",
+      "badge_text": "Л",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Лукойл",
+        "Lukoil"
+      ],
+      "keywords": [
+        "Лукойл",
+        "Lukoil"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukoil-854be4.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "lukoil-854be4",
+        "wikidata": "Q329347"
+      }
+    }
+  }
+}

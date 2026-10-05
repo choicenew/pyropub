@@ -1,0 +1,79 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 3,
+  "brand_aliases": {
+    "dpdpickupstation_q114273730": {
+      "slug": "dpdpickupstation_q114273730",
+      "title": "DPD Pickup Station",
+      "short_name": "DPD Pickup",
+      "badge_text": "D",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "DPD Pickup Station"
+      ],
+      "keywords": [
+        "DPD Pickup Station"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "dpdpickupstation-5c8577",
+        "wikidata": "Q114273730"
+      }
+    },
+    "inpost_q3182097": {
+      "slug": "inpost_q3182097",
+      "title": "InPost",
+      "short_name": "InPost",
+      "badge_text": "I",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "InPost"
+      ],
+      "keywords": [
+        "InPost"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "inpost-6b37ec",
+        "wikidata": "Q3182097"
+      }
+    },
+    "postpackup_q1570910": {
+      "slug": "postpackup_q1570910",
+      "title": "POST PackUp",
+      "short_name": "POST PackU",
+      "badge_text": "P",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "PackUp",
+        "POST Luxembourg"
+      ],
+      "keywords": [
+        "PackUp",
+        "POST Luxembourg"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/packup-f54db3.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "packup-f54db3",
+        "wikidata": "Q1570910"
+      }
+    }
+  }
+}

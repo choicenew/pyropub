@@ -1,0 +1,54 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 2,
+  "brand_aliases": {
+    "gant_q1380537": {
+      "slug": "gant_q1380537",
+      "title": "Géant",
+      "short_name": "Géant",
+      "badge_text": "G",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Géant"
+      ],
+      "keywords": [
+        "Géant"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "geant-a2a643",
+        "wikidata": "Q1380537"
+      }
+    },
+    "gantexpress_q137579657": {
+      "slug": "gantexpress_q137579657",
+      "title": "Géant Express",
+      "short_name": "Géant Expr",
+      "badge_text": "G",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Géant Express"
+      ],
+      "keywords": [
+        "Géant Express"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "geantexpress-a35511",
+        "wikidata": "Q137579657"
+      }
+    }
+  }
+}

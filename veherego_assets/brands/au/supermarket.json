@@ -1,0 +1,612 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 26,
+  "brand_aliases": {
+    "aldialdisdgroup_q41171672": {
+      "slug": "aldialdisdgroup_q41171672",
+      "title": "Aldi (Aldi Süd group)",
+      "short_name": "Aldi (Aldi",
+      "badge_text": "A",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Aldi"
+      ],
+      "keywords": [
+        "Aldi"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aldi-4b76bf.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "aldi-4b76bf",
+        "wikidata": "Q41171672"
+      }
+    },
+    "coles_q1108172": {
+      "slug": "coles_q1108172",
+      "title": "Coles",
+      "short_name": "Coles",
+      "badge_text": "C",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Coles"
+      ],
+      "keywords": [
+        "Coles"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coles-c254c9.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "coles-c254c9",
+        "wikidata": "Q1108172"
+      }
+    },
+    "colescentral_q5144653": {
+      "slug": "colescentral_q5144653",
+      "title": "Coles Central",
+      "short_name": "Coles Cent",
+      "badge_text": "C",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Coles Central"
+      ],
+      "keywords": [
+        "Coles Central"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "colescentral-c254c9",
+        "wikidata": "Q5144653"
+      }
+    },
+    "coleslocal_q104850818": {
+      "slug": "coleslocal_q104850818",
+      "title": "Coles Local",
+      "short_name": "Coles Loca",
+      "badge_text": "C",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Coles Local"
+      ],
+      "keywords": [
+        "Coles Local"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "coleslocal-c254c9",
+        "wikidata": "Q104850818"
+      }
+    },
+    "drakes_q48988077": {
+      "slug": "drakes_q48988077",
+      "title": "Drakes",
+      "short_name": "Drakes",
+      "badge_text": "D",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Drakes"
+      ],
+      "keywords": [
+        "Drakes"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drakes-c254c9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "drakes-c254c9",
+        "wikidata": "Q48988077"
+      }
+    },
+    "foodlandaustralia_q5465555": {
+      "slug": "foodlandaustralia_q5465555",
+      "title": "Foodland (Australia)",
+      "short_name": "Foodland (",
+      "badge_text": "F",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Foodland"
+      ],
+      "keywords": [
+        "Foodland"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foodland-c254c9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "foodland-c254c9",
+        "wikidata": "Q5465555"
+      }
+    },
+    "foodworks_q5465579": {
+      "slug": "foodworks_q5465579",
+      "title": "Foodworks",
+      "short_name": "Foodworks",
+      "badge_text": "F",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Foodworks"
+      ],
+      "keywords": [
+        "Foodworks"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foodworks-c254c9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "foodworks-c254c9",
+        "wikidata": "Q5465579"
+      }
+    },
+    "harrisfarmmarkets_q5664888": {
+      "slug": "harrisfarmmarkets_q5664888",
+      "title": "Harris Farm Markets",
+      "short_name": "Harris Far",
+      "badge_text": "H",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Harris Market Farms",
+        "Harris Farm Markets"
+      ],
+      "keywords": [
+        "Harris Market Farms",
+        "Harris Farm Markets"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harrisfarmmarkets-c254c9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "harrisfarmmarkets-c254c9",
+        "wikidata": "Q5664888"
+      }
+    },
+    "igaaustralia_q5970945": {
+      "slug": "igaaustralia_q5970945",
+      "title": "IGA (Australia)",
+      "short_name": "IGA (Austr",
+      "badge_text": "I",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "IGA"
+      ],
+      "keywords": [
+        "IGA"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "iga-0b0ae9",
+        "wikidata": "Q5970945"
+      }
+    },
+    "kflsupermarkets_q113462406": {
+      "slug": "kflsupermarkets_q113462406",
+      "title": "KFL Supermarkets",
+      "short_name": "KFL Superm",
+      "badge_text": "K",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "KFL Supermarkets"
+      ],
+      "keywords": [
+        "KFL Supermarkets"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kflsupermarkets-c254c9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "kflsupermarkets-c254c9",
+        "wikidata": "Q113462406"
+      }
+    },
+    "ritchies_q7336696": {
+      "slug": "ritchies_q7336696",
+      "title": "Ritchies",
+      "short_name": "Ritchies",
+      "badge_text": "R",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Ritchies"
+      ],
+      "keywords": [
+        "Ritchies"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ritchies-c254c9.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ritchies-c254c9",
+        "wikidata": "Q7336696"
+      }
+    },
+    "supabarn_q7641883": {
+      "slug": "supabarn_q7641883",
+      "title": "Supabarn",
+      "short_name": "Supabarn",
+      "badge_text": "S",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Supabarn"
+      ],
+      "keywords": [
+        "Supabarn"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supabarn-c254c9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "supabarn-c254c9",
+        "wikidata": "Q7641883"
+      }
+    },
+    "thesourcebulkfoods_q113771168": {
+      "slug": "thesourcebulkfoods_q113771168",
+      "title": "The Source Bulk Foods",
+      "short_name": "The Source",
+      "badge_text": "T",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "The Source Bulk Foods"
+      ],
+      "keywords": [
+        "The Source Bulk Foods"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thesourcebulkfoods-ff3d2b.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "thesourcebulkfoods-ff3d2b",
+        "wikidata": "Q113771168"
+      }
+    },
+    "woolworthsaustralia_q3249145": {
+      "slug": "woolworthsaustralia_q3249145",
+      "title": "Woolworths (Australia)",
+      "short_name": "Woolworths",
+      "badge_text": "W",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Woolworths"
+      ],
+      "keywords": [
+        "Woolworths"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworths-c254c9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "woolworths-c254c9",
+        "wikidata": "Q3249145"
+      }
+    },
+    "woolworthsmetroaustralia_q111772555": {
+      "slug": "woolworthsmetroaustralia_q111772555",
+      "title": "Woolworths Metro (Australia)",
+      "short_name": "Woolworths",
+      "badge_text": "W",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Woolworths Metro"
+      ],
+      "keywords": [
+        "Woolworths Metro"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworthsmetro-c254c9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "woolworthsmetro-c254c9",
+        "wikidata": "Q111772555"
+      }
+    },
+    "bpshop_q152057": {
+      "slug": "bpshop_q152057",
+      "title": "BP Shop",
+      "short_name": "BP Shop",
+      "badge_text": "B",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "BP Shop"
+      ],
+      "keywords": [
+        "BP Shop"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bpshop-24c3f1.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bpshop-24c3f1",
+        "wikidata": "Q152057"
+      }
+    },
+    "egaustralia_q5023980": {
+      "slug": "egaustralia_q5023980",
+      "title": "EG Australia",
+      "short_name": "EG Austral",
+      "badge_text": "E",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "EG Australia"
+      ],
+      "keywords": [
+        "EG Australia"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/egaustralia-0b0ae9.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "egaustralia-0b0ae9",
+        "wikidata": "Q5023980"
+      }
+    },
+    "ezymart_q117220554": {
+      "slug": "ezymart_q117220554",
+      "title": "EzyMart",
+      "short_name": "EzyMart",
+      "badge_text": "E",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "EzyMart"
+      ],
+      "keywords": [
+        "EzyMart"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ezymart-0b0ae9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ezymart-0b0ae9",
+        "wikidata": "Q117220554"
+      }
+    },
+    "foodary_q4748528": {
+      "slug": "foodary_q4748528",
+      "title": "Foodary",
+      "short_name": "Foodary",
+      "badge_text": "F",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Ampol",
+        "Foodary"
+      ],
+      "keywords": [
+        "Ampol",
+        "Foodary"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foodary-0b0ae9.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "foodary-0b0ae9",
+        "wikidata": "Q4748528"
+      }
+    },
+    "friendlygrocer_q24190419": {
+      "slug": "friendlygrocer_q24190419",
+      "title": "Friendly Grocer",
+      "short_name": "Friendly G",
+      "badge_text": "F",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Friendly Grocer"
+      ],
+      "keywords": [
+        "Friendly Grocer"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/friendlygrocer-0b0ae9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "friendlygrocer-0b0ae9",
+        "wikidata": "Q24190419"
+      }
+    },
+    "ikeaswedishfoodmarket_q54078": {
+      "slug": "ikeaswedishfoodmarket_q54078",
+      "title": "IKEA Swedish Food Market",
+      "short_name": "IKEA Swedi",
+      "badge_text": "I",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "IKEA Swedish Food Market",
+        "IKEA"
+      ],
+      "keywords": [
+        "IKEA Swedish Food Market",
+        "IKEA"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeaswedishfoodmarket-e66215.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ikeaswedishfoodmarket-e66215",
+        "wikidata": "Q54078"
+      }
+    },
+    "nightowl_q7033183": {
+      "slug": "nightowl_q7033183",
+      "title": "NightOwl",
+      "short_name": "NightOwl",
+      "badge_text": "N",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "NightOwl"
+      ],
+      "keywords": [
+        "NightOwl"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nightowl-0b0ae9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "nightowl-0b0ae9",
+        "wikidata": "Q7033183"
+      }
+    },
+    "otr_q116394019": {
+      "slug": "otr_q116394019",
+      "title": "OTR",
+      "short_name": "OTR",
+      "badge_text": "O",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "OTR"
+      ],
+      "keywords": [
+        "OTR"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/otr-0b0ae9.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "otr-0b0ae9",
+        "wikidata": "Q116394019"
+      }
+    },
+    "reddyexpress_q5144653": {
+      "slug": "reddyexpress_q5144653",
+      "title": "Reddy Express",
+      "short_name": "Reddy Expr",
+      "badge_text": "R",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Reddy Express"
+      ],
+      "keywords": [
+        "Reddy Express"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "reddyexpress-0b0ae9",
+        "wikidata": "Q5144653"
+      }
+    },
+    "united_q28224393": {
+      "slug": "united_q28224393",
+      "title": "United",
+      "short_name": "United",
+      "badge_text": "U",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "United"
+      ],
+      "keywords": [
+        "United"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/united-0b0ae9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "united-0b0ae9",
+        "wikidata": "Q28224393"
+      }
+    },
+    "woolworthsmetrogo_q111772555": {
+      "slug": "woolworthsmetrogo_q111772555",
+      "title": "Woolworths MetroGo",
+      "short_name": "Woolworths",
+      "badge_text": "W",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Woolworths MetroGo"
+      ],
+      "keywords": [
+        "Woolworths MetroGo"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworthsmetrogo-0b0ae9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "woolworthsmetrogo-0b0ae9",
+        "wikidata": "Q111772555"
+      }
+    }
+  }
+}

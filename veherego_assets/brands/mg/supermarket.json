@@ -1,0 +1,54 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 2,
+  "brand_aliases": {
+    "leaderprice_q2181426": {
+      "slug": "leaderprice_q2181426",
+      "title": "Leader Price",
+      "short_name": "Leader Pri",
+      "badge_text": "L",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Leader Price"
+      ],
+      "keywords": [
+        "Leader Price"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "leaderprice-8d94f8",
+        "wikidata": "Q2181426"
+      }
+    },
+    "shopriteafrica_q1857639": {
+      "slug": "shopriteafrica_q1857639",
+      "title": "Shoprite (Africa)",
+      "short_name": "Shoprite (",
+      "badge_text": "S",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "aliases": [
+        "Shoprite"
+      ],
+      "keywords": [
+        "Shoprite"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shoprite-502f12.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "shoprite-502f12",
+        "wikidata": "Q1857639"
+      }
+    }
+  }
+}

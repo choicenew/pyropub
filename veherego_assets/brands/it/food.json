@@ -1,0 +1,794 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 34,
+  "brand_aliases": {
+    "ilfornaio": {
+      "slug": "ilfornaio",
+      "title": "Il Fornaio",
+      "short_name": "Il Fornaio",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "aliases": [
+        "Il Fornaio"
+      ],
+      "keywords": [
+        "Il Fornaio"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ilfornaio-f9fe3a",
+        "wikidata": ""
+      }
+    },
+    "ilforno": {
+      "slug": "ilforno",
+      "title": "Il Forno",
+      "short_name": "Il Forno",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "aliases": [
+        "Il Forno"
+      ],
+      "keywords": [
+        "Il Forno"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ilforno-f9fe3a",
+        "wikidata": ""
+      }
+    },
+    "ilpanequotidiano": {
+      "slug": "ilpanequotidiano",
+      "title": "Il Pane Quotidiano",
+      "short_name": "Il Pane Qu",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "aliases": [
+        "Il Pane Quotidiano"
+      ],
+      "keywords": [
+        "Il Pane Quotidiano"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ilpanequotidiano-f9fe3a",
+        "wikidata": ""
+      }
+    },
+    "alice_q113973272": {
+      "slug": "alice_q113973272",
+      "title": "Alice",
+      "short_name": "Alice",
+      "badge_text": "A",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Alice"
+      ],
+      "keywords": [
+        "Alice"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alice-8391d7.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "alice-8391d7",
+        "wikidata": "Q113973272"
+      }
+    },
+    "allanticovinaio_q136350648": {
+      "slug": "allanticovinaio_q136350648",
+      "title": "All'Antico Vinaio",
+      "short_name": "All'Antico",
+      "badge_text": "A",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "All'Antico Vinaio"
+      ],
+      "keywords": [
+        "All'Antico Vinaio"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allanticovinaio-6b6fb0.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "allanticovinaio-6b6fb0",
+        "wikidata": "Q136350648"
+      }
+    },
+    "belchicken_q139504961": {
+      "slug": "belchicken_q139504961",
+      "title": "Belchicken",
+      "short_name": "Belchicken",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Belchicken"
+      ],
+      "keywords": [
+        "Belchicken"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belchicken-43a8cb.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "belchicken-43a8cb",
+        "wikidata": "Q139504961"
+      }
+    },
+    "billytacos_q122167398": {
+      "slug": "billytacos_q122167398",
+      "title": "Billy Tacos",
+      "short_name": "Billy Taco",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Billy Tacos"
+      ],
+      "keywords": [
+        "Billy Tacos"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/billytacos-b4e8f3.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "billytacos-b4e8f3",
+        "wikidata": "Q122167398"
+      }
+    },
+    "exki_q251760": {
+      "slug": "exki_q251760",
+      "title": "Exki",
+      "short_name": "Exki",
+      "badge_text": "E",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Exki"
+      ],
+      "keywords": [
+        "Exki"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exki-a3472e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "exki-a3472e",
+        "wikidata": "Q251760"
+      }
+    },
+    "fiveguys_q1131810": {
+      "slug": "fiveguys_q1131810",
+      "title": "Five Guys",
+      "short_name": "Five Guys",
+      "badge_text": "F",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Five Guys"
+      ],
+      "keywords": [
+        "Five Guys"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fiveguys-f26f5c.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "fiveguys-f26f5c",
+        "wikidata": "Q1131810"
+      }
+    },
+    "flowerburger_q67168925": {
+      "slug": "flowerburger_q67168925",
+      "title": "Flower Burger",
+      "short_name": "Flower Bur",
+      "badge_text": "F",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Flower Burger"
+      ],
+      "keywords": [
+        "Flower Burger"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flowerburger-4e7c43.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "flowerburger-4e7c43",
+        "wikidata": "Q67168925"
+      }
+    },
+    "ikeabistro_q54078": {
+      "slug": "ikeabistro_q54078",
+      "title": "IKEA Bistro",
+      "short_name": "IKEA Bistr",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "IKEA Bistro",
+        "IKEA"
+      ],
+      "keywords": [
+        "IKEA Bistro",
+        "IKEA"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ikeabistro-e746e6",
+        "wikidata": "Q54078"
+      }
+    },
+    "ikearestaurant_q54078": {
+      "slug": "ikearestaurant_q54078",
+      "title": "IKEA Restaurant",
+      "short_name": "IKEA Resta",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "IKEA Restaurant",
+        "IKEA"
+      ],
+      "keywords": [
+        "IKEA Restaurant",
+        "IKEA"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ikearestaurant-15fdc5",
+        "wikidata": "Q54078"
+      }
+    },
+    "kebhouze_q130465663": {
+      "slug": "kebhouze_q130465663",
+      "title": "Kebhouze",
+      "short_name": "Kebhouze",
+      "badge_text": "K",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Kebhouze"
+      ],
+      "keywords": [
+        "Kebhouze"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kebhouze-65215d.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "kebhouze-65215d",
+        "wikidata": "Q130465663"
+      }
+    },
+    "lapiadineria_q108195414": {
+      "slug": "lapiadineria_q108195414",
+      "title": "La Piadineria",
+      "short_name": "La Piadine",
+      "badge_text": "L",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "La Piadineria"
+      ],
+      "keywords": [
+        "La Piadineria"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lapiadineria-b4e8f3.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "lapiadineria-b4e8f3",
+        "wikidata": "Q108195414"
+      }
+    },
+    "malvn_q109877196": {
+      "slug": "malvn_q109877196",
+      "title": "Malvón",
+      "short_name": "Malvón",
+      "badge_text": "M",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Malvón"
+      ],
+      "keywords": [
+        "Malvón"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malvon-d3d66f.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "malvon-d3d66f",
+        "wikidata": "Q109877196"
+      }
+    },
+    "otacos_q28494040": {
+      "slug": "otacos_q28494040",
+      "title": "O'Tacos",
+      "short_name": "O'Tacos",
+      "badge_text": "O",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "O'Tacos"
+      ],
+      "keywords": [
+        "O'Tacos"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/otacos-33c697.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "otacos-33c697",
+        "wikidata": "Q28494040"
+      }
+    },
+    "oakberryaabowls_q104870840": {
+      "slug": "oakberryaabowls_q104870840",
+      "title": "Oakberry Açaí bowls",
+      "short_name": "Oakberry A",
+      "badge_text": "O",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Oakberry Açaí bowls"
+      ],
+      "keywords": [
+        "Oakberry Açaí bowls"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "oakberryacaibowls-5bb50d",
+        "wikidata": "Q104870840"
+      }
+    },
+    "panscompany_q11697586": {
+      "slug": "panscompany_q11697586",
+      "title": "Pans & Company",
+      "short_name": "Pans & Com",
+      "badge_text": "P",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Pans & Company"
+      ],
+      "keywords": [
+        "Pans & Company"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pansandcompany-b2cd69.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "pansandcompany-b2cd69",
+        "wikidata": "Q11697586"
+      }
+    },
+    "pitaya_q114970230": {
+      "slug": "pitaya_q114970230",
+      "title": "Pitaya",
+      "short_name": "Pitaya",
+      "badge_text": "P",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Pitaya"
+      ],
+      "keywords": [
+        "Pitaya"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pitaya-9eb450.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "pitaya-9eb450",
+        "wikidata": "Q114970230"
+      }
+    },
+    "pokehouse_q123399421": {
+      "slug": "pokehouse_q123399421",
+      "title": "Poke House",
+      "short_name": "Poke House",
+      "badge_text": "P",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Poke House"
+      ],
+      "keywords": [
+        "Poke House"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pokehouse-b87c08.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "pokehouse-b87c08",
+        "wikidata": "Q123399421"
+      }
+    },
+    "spizzico_q1419041": {
+      "slug": "spizzico_q1419041",
+      "title": "Spizzico",
+      "short_name": "Spizzico",
+      "badge_text": "S",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Spizzico"
+      ],
+      "keywords": [
+        "Spizzico"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spizzico-7eb3e4.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "spizzico-7eb3e4",
+        "wikidata": "Q1419041"
+      }
+    },
+    "sushishopeurope_q3505657": {
+      "slug": "sushishopeurope_q3505657",
+      "title": "Sushi Shop (Europe)",
+      "short_name": "Sushi Shop",
+      "badge_text": "S",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Sushi Shop"
+      ],
+      "keywords": [
+        "Sushi Shop"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sushishop-ac545e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "sushishop-ac545e",
+        "wikidata": "Q3505657"
+      }
+    },
+    "tacobell_q752941": {
+      "slug": "tacobell_q752941",
+      "title": "Taco Bell",
+      "short_name": "Taco Bell",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Taco Bell"
+      ],
+      "keywords": [
+        "Taco Bell"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "tacobell-a1c9df",
+        "wikidata": "Q752941"
+      }
+    },
+    "woktowalk_q4020634": {
+      "slug": "woktowalk_q4020634",
+      "title": "Wok to Walk",
+      "short_name": "Wok to Wal",
+      "badge_text": "W",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Wok to Walk"
+      ],
+      "keywords": [
+        "Wok to Walk"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "woktowalk-f5ada9",
+        "wikidata": "Q4020634"
+      }
+    },
+    "100montaditos_q8355805": {
+      "slug": "100montaditos_q8355805",
+      "title": "100 Montaditos",
+      "short_name": "100 Montad",
+      "badge_text": "1",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "100 Montaditos"
+      ],
+      "keywords": [
+        "100 Montaditos"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/100montaditos-f7c5fe.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "100montaditos-f7c5fe",
+        "wikidata": "Q8355805"
+      }
+    },
+    "autogrill_q786790": {
+      "slug": "autogrill_q786790",
+      "title": "Autogrill",
+      "short_name": "Autogrill",
+      "badge_text": "A",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Autogrill"
+      ],
+      "keywords": [
+        "Autogrill"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autogrill-4c0f72.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "autogrill-4c0f72",
+        "wikidata": "Q786790"
+      }
+    },
+    "doppiomalto_q125285187": {
+      "slug": "doppiomalto_q125285187",
+      "title": "Doppio Malto",
+      "short_name": "Doppio Mal",
+      "badge_text": "D",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Doppio Malto"
+      ],
+      "keywords": [
+        "Doppio Malto"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/doppiomalto-94430a.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "doppiomalto-94430a",
+        "wikidata": "Q125285187"
+      }
+    },
+    "francomanca_q28404417": {
+      "slug": "francomanca_q28404417",
+      "title": "Franco Manca",
+      "short_name": "Franco Man",
+      "badge_text": "F",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Franco Manca"
+      ],
+      "keywords": [
+        "Franco Manca"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/francomanca-6f1a9d.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "francomanca-6f1a9d",
+        "wikidata": "Q28404417"
+      }
+    },
+    "lanticapizzeriadamichele_q137571344": {
+      "slug": "lanticapizzeriadamichele_q137571344",
+      "title": "L'Antica Pizzeria da Michele",
+      "short_name": "L'Antica P",
+      "badge_text": "L",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "L'Antica Pizzeria da Michele"
+      ],
+      "keywords": [
+        "L'Antica Pizzeria da Michele"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lanticapizzeriadamichele-762625.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "lanticapizzeriadamichele-762625",
+        "wikidata": "Q137571344"
+      }
+    },
+    "oldwildwest_q25402475": {
+      "slug": "oldwildwest_q25402475",
+      "title": "Old Wild West",
+      "short_name": "Old Wild W",
+      "badge_text": "O",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Old Wild West"
+      ],
+      "keywords": [
+        "Old Wild West"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldwildwest-a042ef.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "oldwildwest-a042ef",
+        "wikidata": "Q25402475"
+      }
+    },
+    "roadhouse_q7339591": {
+      "slug": "roadhouse_q7339591",
+      "title": "Roadhouse",
+      "short_name": "Roadhouse",
+      "badge_text": "R",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Roadhouse"
+      ],
+      "keywords": [
+        "Roadhouse"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roadhouse-8aae3d.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "roadhouse-8aae3d",
+        "wikidata": "Q7339591"
+      }
+    },
+    "rossopomodoro_q16598843": {
+      "slug": "rossopomodoro_q16598843",
+      "title": "Rossopomodoro",
+      "short_name": "Rossopomod",
+      "badge_text": "R",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Rossopomodoro"
+      ],
+      "keywords": [
+        "Rossopomodoro"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rossopomodoro-8aae3d.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "rossopomodoro-8aae3d",
+        "wikidata": "Q16598843"
+      }
+    },
+    "sushiko_q135399093": {
+      "slug": "sushiko_q135399093",
+      "title": "Sushiko",
+      "short_name": "Sushiko",
+      "badge_text": "S",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Sushiko"
+      ],
+      "keywords": [
+        "Sushiko"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sushiko-8aae3d.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "sushiko-8aae3d",
+        "wikidata": "Q135399093"
+      }
+    },
+    "udon_q115679798": {
+      "slug": "udon_q115679798",
+      "title": "UDON",
+      "short_name": "UDON",
+      "badge_text": "U",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "UDON"
+      ],
+      "keywords": [
+        "UDON"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/udon-5e8163.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "udon-5e8163",
+        "wikidata": "Q115679798"
+      }
+    }
+  }
+}

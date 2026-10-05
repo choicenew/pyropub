@@ -1,0 +1,819 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 35,
+  "brand_aliases": {
+    "pasteleralety_q141250945": {
+      "slug": "pasteleralety_q141250945",
+      "title": "Pastelería Lety",
+      "short_name": "Pastelería",
+      "badge_text": "P",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "aliases": [
+        "Pastelería Lety"
+      ],
+      "keywords": [
+        "Pastelería Lety"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pastelerialety-13ef62.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "pastelerialety-13ef62",
+        "wikidata": "Q141250945"
+      }
+    },
+    "benedettispizza_q4887212": {
+      "slug": "benedettispizza_q4887212",
+      "title": "Benedetti's Pizza",
+      "short_name": "Benedetti'",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Benedetti's Pizza"
+      ],
+      "keywords": [
+        "Benedetti's Pizza"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benedettispizza-15d9cd.webp",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "benedettispizza-15d9cd",
+        "wikidata": "Q4887212"
+      }
+    },
+    "churchschicken_q1089932": {
+      "slug": "churchschicken_q1089932",
+      "title": "Church's Chicken",
+      "short_name": "Church's C",
+      "badge_text": "C",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Church's Chicken"
+      ],
+      "keywords": [
+        "Church's Chicken"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/churchschicken-484ae5.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "churchschicken-484ae5",
+        "wikidata": "Q1089932"
+      }
+    },
+    "costcofoodcourt_q715583": {
+      "slug": "costcofoodcourt_q715583",
+      "title": "Costco Food Court",
+      "short_name": "Costco Foo",
+      "badge_text": "C",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Costco Food Court",
+        "Costco"
+      ],
+      "keywords": [
+        "Costco Food Court",
+        "Costco"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "costcofoodcourt-438182",
+        "wikidata": "Q715583"
+      }
+    },
+    "elpolloloco_q2353849": {
+      "slug": "elpolloloco_q2353849",
+      "title": "El Pollo Loco",
+      "short_name": "El Pollo L",
+      "badge_text": "E",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "El Pollo Loco"
+      ],
+      "keywords": [
+        "El Pollo Loco"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elpolloloco-bca76b.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "elpolloloco-bca76b",
+        "wikidata": "Q2353849"
+      }
+    },
+    "habibs_q2504930": {
+      "slug": "habibs_q2504930",
+      "title": "Habib's",
+      "short_name": "Habib's",
+      "badge_text": "H",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Habib's"
+      ],
+      "keywords": [
+        "Habib's"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/habibs-4b8fdf.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "habibs-4b8fdf",
+        "wikidata": "Q2504930"
+      }
+    },
+    "ikeabistro_q54078": {
+      "slug": "ikeabistro_q54078",
+      "title": "IKEA Bistro",
+      "short_name": "IKEA Bistr",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "IKEA Bistro",
+        "IKEA"
+      ],
+      "keywords": [
+        "IKEA Bistro",
+        "IKEA"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ikeabistro-e746e6",
+        "wikidata": "Q54078"
+      }
+    },
+    "ikearestaurant_q54078": {
+      "slug": "ikearestaurant_q54078",
+      "title": "IKEA Restaurant",
+      "short_name": "IKEA Resta",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "IKEA Restaurant",
+        "IKEA"
+      ],
+      "keywords": [
+        "IKEA Restaurant",
+        "IKEA"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ikearestaurant-15fdc5",
+        "wikidata": "Q54078"
+      }
+    },
+    "jerseymikessubs_q6184897": {
+      "slug": "jerseymikessubs_q6184897",
+      "title": "Jersey Mike's Subs",
+      "short_name": "Jersey Mik",
+      "badge_text": "J",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Jersey Mike's Subs"
+      ],
+      "keywords": [
+        "Jersey Mike's Subs"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jerseymikessubs-738a45.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "jerseymikessubs-738a45",
+        "wikidata": "Q6184897"
+      }
+    },
+    "krispykrunchychicken_q65087447": {
+      "slug": "krispykrunchychicken_q65087447",
+      "title": "Krispy Krunchy Chicken",
+      "short_name": "Krispy Kru",
+      "badge_text": "K",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Krispy Krunchy Chicken"
+      ],
+      "keywords": [
+        "Krispy Krunchy Chicken"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "krispykrunchychicken-bca76b",
+        "wikidata": "Q65087447"
+      }
+    },
+    "oakberryaabowls_q104870840": {
+      "slug": "oakberryaabowls_q104870840",
+      "title": "Oakberry Açaí bowls",
+      "short_name": "Oakberry A",
+      "badge_text": "O",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Oakberry Açaí bowls"
+      ],
+      "keywords": [
+        "Oakberry Açaí bowls"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "oakberryacaibowls-5bb50d",
+        "wikidata": "Q104870840"
+      }
+    },
+    "pollofeliz_q88788024": {
+      "slug": "pollofeliz_q88788024",
+      "title": "Pollo Feliz",
+      "short_name": "Pollo Feli",
+      "badge_text": "P",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Pollo Feliz"
+      ],
+      "keywords": [
+        "Pollo Feliz"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "pollofeliz-15d9cd",
+        "wikidata": "Q88788024"
+      }
+    },
+    "tacobell_q752941": {
+      "slug": "tacobell_q752941",
+      "title": "Taco Bell",
+      "short_name": "Taco Bell",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Taco Bell"
+      ],
+      "keywords": [
+        "Taco Bell"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "tacobell-a1c9df",
+        "wikidata": "Q752941"
+      }
+    },
+    "tacopalenque_q7673965": {
+      "slug": "tacopalenque_q7673965",
+      "title": "Taco Palenque",
+      "short_name": "Taco Palen",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Taco Palenque"
+      ],
+      "keywords": [
+        "Taco Palenque"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacopalenque-bca76b.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "tacopalenque-bca76b",
+        "wikidata": "Q7673965"
+      }
+    },
+    "teriyakimadness_q107692862": {
+      "slug": "teriyakimadness_q107692862",
+      "title": "Teriyaki Madness",
+      "short_name": "Teriyaki M",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Teriyaki Madness"
+      ],
+      "keywords": [
+        "Teriyaki Madness"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teriyakimadness-53d9d9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "teriyakimadness-53d9d9",
+        "wikidata": "Q107692862"
+      }
+    },
+    "whichwich_q7993556": {
+      "slug": "whichwich_q7993556",
+      "title": "Which Wich?",
+      "short_name": "Which Wich",
+      "badge_text": "W",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Which Wich?"
+      ],
+      "keywords": [
+        "Which Wich?"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/whichwich-536de9.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "whichwich-536de9",
+        "wikidata": "Q7993556"
+      }
+    },
+    "wingstop_q8025339": {
+      "slug": "wingstop_q8025339",
+      "title": "Wingstop",
+      "short_name": "Wingstop",
+      "badge_text": "W",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Wingstop"
+      ],
+      "keywords": [
+        "Wingstop"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wingstop-72c67c.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "wingstop-72c67c",
+        "wikidata": "Q8025339"
+      }
+    },
+    "woktowalk_q4020634": {
+      "slug": "woktowalk_q4020634",
+      "title": "Wok to Walk",
+      "short_name": "Wok to Wal",
+      "badge_text": "W",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Wok to Walk"
+      ],
+      "keywords": [
+        "Wok to Walk"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "woktowalk-f5ada9",
+        "wikidata": "Q4020634"
+      }
+    },
+    "benihana_q4887996": {
+      "slug": "benihana_q4887996",
+      "title": "Benihana",
+      "short_name": "Benihana",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Benihana"
+      ],
+      "keywords": [
+        "Benihana"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benihana-934c20.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "benihana-934c20",
+        "wikidata": "Q4887996"
+      }
+    },
+    "bennigans_q8246508": {
+      "slug": "bennigans_q8246508",
+      "title": "Bennigan's",
+      "short_name": "Bennigan's",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Bennigan's"
+      ],
+      "keywords": [
+        "Bennigan's"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bennigans-2a32d0.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bennigans-2a32d0",
+        "wikidata": "Q8246508"
+      }
+    },
+    "bisquetsobregn_q131450266": {
+      "slug": "bisquetsobregn_q131450266",
+      "title": "Bisquets Obregón",
+      "short_name": "Bisquets O",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Bisquets Obregón"
+      ],
+      "keywords": [
+        "Bisquets Obregón"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bisquetsobregon-f5830e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bisquetsobregon-f5830e",
+        "wikidata": "Q131450266"
+      }
+    },
+    "bubbagumpshrimpcompany_q50024": {
+      "slug": "bubbagumpshrimpcompany_q50024",
+      "title": "Bubba Gump Shrimp Company",
+      "short_name": "Bubba Gump",
+      "badge_text": "B",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Bubba Gump Shrimp Company"
+      ],
+      "keywords": [
+        "Bubba Gump Shrimp Company"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bubbagumpshrimpcompany-a282f9.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "bubbagumpshrimpcompany-a282f9",
+        "wikidata": "Q50024"
+      }
+    },
+    "chuckecheese_q2438391": {
+      "slug": "chuckecheese_q2438391",
+      "title": "Chuck E. Cheese",
+      "short_name": "Chuck E. C",
+      "badge_text": "C",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Chuck E. Cheese"
+      ],
+      "keywords": [
+        "Chuck E. Cheese"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chuckecheese-826402.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "chuckecheese-826402",
+        "wikidata": "Q2438391"
+      }
+    },
+    "crepeswaffles_q5184238": {
+      "slug": "crepeswaffles_q5184238",
+      "title": "Crepes & Waffles",
+      "short_name": "Crepes & W",
+      "badge_text": "C",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Crepes & Waffles"
+      ],
+      "keywords": [
+        "Crepes & Waffles"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crepesandwaffles-7b5290.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "crepesandwaffles-7b5290",
+        "wikidata": "Q5184238"
+      }
+    },
+    "italiannis_q127388763": {
+      "slug": "italiannis_q127388763",
+      "title": "Italianni's",
+      "short_name": "Italianni'",
+      "badge_text": "I",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Italianni's"
+      ],
+      "keywords": [
+        "Italianni's"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/italiannis-f5830e.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "italiannis-f5830e",
+        "wikidata": "Q127388763"
+      }
+    },
+    "lacasadetoo_q125259119": {
+      "slug": "lacasadetoo_q125259119",
+      "title": "La Casa de Toño",
+      "short_name": "La Casa de",
+      "badge_text": "L",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "La Casa de Toño"
+      ],
+      "keywords": [
+        "La Casa de Toño"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lacasadetono-f5830e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "lacasadetono-f5830e",
+        "wikidata": "Q125259119"
+      }
+    },
+    "luckysushi_q128742144": {
+      "slug": "luckysushi_q128742144",
+      "title": "Lucky Sushi",
+      "short_name": "Lucky Sush",
+      "badge_text": "L",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Lucky Sushi"
+      ],
+      "keywords": [
+        "Lucky Sushi"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luckysushi-f5830e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "luckysushi-f5830e",
+        "wikidata": "Q128742144"
+      }
+    },
+    "mariecallenders_q6762784": {
+      "slug": "mariecallenders_q6762784",
+      "title": "Marie Callender's",
+      "short_name": "Marie Call",
+      "badge_text": "M",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Marie Callender's"
+      ],
+      "keywords": [
+        "Marie Callender's"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mariecallenders-27c30e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "mariecallenders-27c30e",
+        "wikidata": "Q6762784"
+      }
+    },
+    "pfchangs_q5360181": {
+      "slug": "pfchangs_q5360181",
+      "title": "P.F. Chang's",
+      "short_name": "P.F. Chang",
+      "badge_text": "P",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "P.F. Chang's"
+      ],
+      "keywords": [
+        "P.F. Chang's"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pfchangs-f036fe.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "pfchangs-f036fe",
+        "wikidata": "Q5360181"
+      }
+    },
+    "potzollcalli_q7235450": {
+      "slug": "potzollcalli_q7235450",
+      "title": "Potzollcalli",
+      "short_name": "Potzollcal",
+      "badge_text": "P",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Potzollcalli"
+      ],
+      "keywords": [
+        "Potzollcalli"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/potzollcalli-f5830e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "potzollcalli-f5830e",
+        "wikidata": "Q7235450"
+      }
+    },
+    "ruthschrissteakhouse_q7382829": {
+      "slug": "ruthschrissteakhouse_q7382829",
+      "title": "Ruth's Chris Steak House",
+      "short_name": "Ruth's Chr",
+      "badge_text": "R",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Ruth's Chris Steak House"
+      ],
+      "keywords": [
+        "Ruth's Chris Steak House"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ruthschrissteakhouse-f036fe.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "ruthschrissteakhouse-f036fe",
+        "wikidata": "Q7382829"
+      }
+    },
+    "sushiroll_q110702340": {
+      "slug": "sushiroll_q110702340",
+      "title": "Sushi Roll",
+      "short_name": "Sushi Roll",
+      "badge_text": "S",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Sushi Roll"
+      ],
+      "keywords": [
+        "Sushi Roll"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sushiroll-f5830e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "sushiroll-f5830e",
+        "wikidata": "Q110702340"
+      }
+    },
+    "tacotote_q16992316": {
+      "slug": "tacotote_q16992316",
+      "title": "Tacotote",
+      "short_name": "Tacotote",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Tacotote"
+      ],
+      "keywords": [
+        "Tacotote"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacotote-fcf6d2.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "tacotote-fcf6d2",
+        "wikidata": "Q16992316"
+      }
+    },
+    "toks_q48835586": {
+      "slug": "toks_q48835586",
+      "title": "Toks",
+      "short_name": "Toks",
+      "badge_text": "T",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Toks"
+      ],
+      "keywords": [
+        "Toks"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toks-f5830e.png",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "toks-f5830e",
+        "wikidata": "Q48835586"
+      }
+    },
+    "vipsmxico_q48783378": {
+      "slug": "vipsmxico_q48783378",
+      "title": "Vips (México)",
+      "short_name": "Vips (Méxi",
+      "badge_text": "V",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Vips"
+      ],
+      "keywords": [
+        "Vips"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vips-f5830e.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "vips-f5830e",
+        "wikidata": "Q48783378"
+      }
+    }
+  }
+}

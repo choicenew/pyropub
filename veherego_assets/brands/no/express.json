@@ -1,0 +1,54 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 2,
+  "brand_aliases": {
+    "instabox_q109923726": {
+      "slug": "instabox_q109923726",
+      "title": "Instabox",
+      "short_name": "Instabox",
+      "badge_text": "I",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "Instabox"
+      ],
+      "keywords": [
+        "Instabox"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "instabox-f97fed",
+        "wikidata": "Q109923726"
+      }
+    },
+    "postennorge_q1815701": {
+      "slug": "postennorge_q1815701",
+      "title": "Posten (Norge)",
+      "short_name": "Posten (No",
+      "badge_text": "P",
+      "category": "express",
+      "sub_category": "station",
+      "color": "#3B82F6",
+      "aliases": [
+        "Posten"
+      ],
+      "keywords": [
+        "Posten"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "posten-0526a8",
+        "wikidata": "Q1815701"
+      }
+    }
+  }
+}

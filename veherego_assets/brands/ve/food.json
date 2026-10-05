@@ -1,0 +1,54 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 2,
+  "brand_aliases": {
+    "mrpretzels_q115728208": {
+      "slug": "mrpretzels_q115728208",
+      "title": "Mr. Pretzels",
+      "short_name": "Mr. Pretze",
+      "badge_text": "M",
+      "category": "food",
+      "sub_category": "fast_food",
+      "color": "#F97316",
+      "aliases": [
+        "Mr. Pretzels"
+      ],
+      "keywords": [
+        "Mr. Pretzels"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "mrpretzels-d3f544",
+        "wikidata": "Q115728208"
+      }
+    },
+    "crepeswaffles_q5184238": {
+      "slug": "crepeswaffles_q5184238",
+      "title": "Crepes & Waffles",
+      "short_name": "Crepes & W",
+      "badge_text": "C",
+      "category": "food",
+      "sub_category": "restaurant",
+      "color": "#F97316",
+      "aliases": [
+        "Crepes & Waffles"
+      ],
+      "keywords": [
+        "Crepes & Waffles"
+      ],
+      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crepesandwaffles-7b5290.jpg",
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "crepesandwaffles-7b5290",
+        "wikidata": "Q5184238"
+      }
+    }
+  }
+}

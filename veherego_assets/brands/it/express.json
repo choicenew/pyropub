@@ -1,0 +1,54 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 2,
+  "brand_aliases": {
+    "inpost_q3182097": {
+      "slug": "inpost_q3182097",
+      "title": "InPost",
+      "short_name": "InPost",
+      "badge_text": "I",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "InPost"
+      ],
+      "keywords": [
+        "InPost"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "inpost-6b37ec",
+        "wikidata": "Q3182097"
+      }
+    },
+    "puntoposte_q110748322": {
+      "slug": "puntoposte_q110748322",
+      "title": "PuntoPoste",
+      "short_name": "PuntoPoste",
+      "badge_text": "P",
+      "category": "express",
+      "sub_category": "locker",
+      "color": "#3B82F6",
+      "aliases": [
+        "PuntoPoste"
+      ],
+      "keywords": [
+        "PuntoPoste"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "puntoposte-9e279b",
+        "wikidata": "Q110748322"
+      }
+    }
+  }
+}

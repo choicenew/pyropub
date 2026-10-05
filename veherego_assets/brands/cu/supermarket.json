@@ -1,0 +1,54 @@
+{
+  "type": "brand",
+  "version": 6,
+  "source": "nsi_auto_generated",
+  "total_brands": 2,
+  "brand_aliases": {
+    "panamericana": {
+      "slug": "panamericana",
+      "title": "Panamericana",
+      "short_name": "Panamerica",
+      "badge_text": "P",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "Panamericana"
+      ],
+      "keywords": [
+        "Panamericana"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "panamericana-915f01",
+        "wikidata": ""
+      }
+    },
+    "trd": {
+      "slug": "trd",
+      "title": "TRD",
+      "short_name": "TRD",
+      "badge_text": "T",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "aliases": [
+        "TRD"
+      ],
+      "keywords": [
+        "TRD"
+      ],
+      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "forces_pickup_scene": true,
+      "custom_metadata": {
+        "nsi_id": "trd-915f01",
+        "wikidata": ""
+      }
+    }
+  }
+}
