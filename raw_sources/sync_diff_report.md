@@ -1,6 +1,6 @@
 # 🌐 多源翻译语言 Difference 差异比对报告 (Autonym 母语版)
 
-- **比对时间**: `2026-10-01 09:15:12`
+- **比对时间**: `2026-10-05 04:50:03`
 - **合并总语言条目**: `604` 种
 
 ### 各翻译源 Difference 明细表
@@ -11,7 +11,7 @@
 | `apertium` | 46 | 46 | 46 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `argos` | 51 | 51 | 51 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `baidu` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function baidu() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
-| `bing` | 179 | 179 | 179 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
+| `bing` | 179 | 0 | 0 | `0.0%` | ✕ 抓取异常 (401 Client Error: Unauthorized for url: https://www.bing.com/ttranslatev3?isVertical=1&&IG=AD5983D4AB944471B37A13572BBCE846&IID=translator.5026) | - | `-ace`, `-af`, `-am`, `-ar`, `-arb`, `-ary` 等 179 个 |
 | `caiyun` | 20 | 20 | 20 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `cloudTranslation` | 36 | 36 | 36 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `deepl` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (429 Client Error: Too Many Requests for url: https://www2.deepl.com/jsonrpc?method=LMT_split_text) | - | - |
