@@ -44,12 +44,35 @@ def get_allowed_langs(country):
     """获取该国家的白名单语言，如果不在配置中，则默认使用自身代码及英文"""
     return LANG_WHITELIST.get(country, [country, 'en'])
 
-def generate_slug(display_name, wikidata):
+def extract_country_codes(location_set):
+    """解析 locationSet.include，规范化并提取所有的国家代码字符串。
+    支持嵌套列表、ISO 3166-2 地区代码（如 us-ca -> us）等。
+    """
+    countries = set()
+
+    def _extract(item):
+        if isinstance(item, str):
+            item = item.strip().lower()
+            if item:
+                # 处理如 "us-ca" -> "us" 的子区域代码
+                country_code = item.split('-')[0]
+                if country_code:
+                    countries.add(country_code)
+        elif isinstance(item, (list, tuple, set)):
+            for sub_item in item:
+                _extract(sub_item)
+
+    _extract(location_set)
+    return list(countries) if countries else ['001']
+
+def generate_slug(display_name, wikidata, item_id=""):
     """生成合规的 slug (小写英数字符 + wikidata)"""
     slug = re.sub(r'[^a-zA-Z0-9]', '', display_name.lower())
     if wikidata:
         slug += f"_{wikidata.lower()}"
-    return slug
+    if not slug and item_id:
+        slug = re.sub(r'[^a-zA-Z0-9]', '', item_id.lower())
+    return slug or "unknown_brand"
 
 def process():
     os.makedirs(BRANDS_OUT_DIR, exist_ok=True)
@@ -106,32 +129,38 @@ def process():
                 continue
 
             tags = item.get('tags', {})
-            # 提取它所属的国家列表，默认 001（全球）
-            location_set = item.get('locationSet', {}).get('include', ['001'])
+            item_id = item.get('id', '')
             wikidata = tags.get('brand:wikidata') or tags.get('name:wikidata') or ''
 
-            slug = generate_slug(display_name, wikidata)
+            # 提取所属国家列表，支持嵌套列表及各种 locationSet 格式
+            location_set_obj = item.get('locationSet')
+            if isinstance(location_set_obj, dict):
+                location_include = location_set_obj.get('include', ['001'])
+            else:
+                location_include = ['001']
 
-            item_id = item.get('id', '')
+            country_codes = extract_country_codes(location_include)
+
+            slug = generate_slug(display_name, wikidata, item_id)
+
             icon_url = None
-            if item_id in logo_manifest:
+            if item_id in logo_manifest and isinstance(logo_manifest[item_id], dict):
                 icon_url = logo_manifest[item_id].get('github_logo_url')
 
             # 分发到对应的国家文件中
-            for country in location_set:
-                country = country.lower()
+            for country in country_codes:
                 allowed_langs = get_allowed_langs(country)
 
                 aliases = set()
                 keywords = set()
 
                 # 默认把通用名字加进去
-                if 'name' in tags: aliases.add(tags['name'])
-                if 'brand' in tags: aliases.add(tags['brand'])
+                if 'name' in tags and isinstance(tags['name'], str): aliases.add(tags['name'])
+                if 'brand' in tags and isinstance(tags['brand'], str): aliases.add(tags['brand'])
 
                 # 基于白名单过滤多国语言
                 for k, v in tags.items():
-                    if k.startswith('name:') or k.startswith('brand:'):
+                    if isinstance(v, str) and (k.startswith('name:') or k.startswith('brand:')):
                         lang_part = k.split(':', 1)[1]
                         if lang_part in allowed_langs:
                             aliases.add(v)
@@ -142,7 +171,7 @@ def process():
                 # 提取网站域名，用于后续头像回源 (Unavatar)
                 website = tags.get('website', '')
                 domain = None
-                if website:
+                if website and isinstance(website, str):
                     match = re.search(r'https?://(?:www\.)?([^/]+)', website)
                     if match:
                         domain = match.group(1)
