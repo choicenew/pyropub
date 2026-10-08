@@ -87,7 +87,7 @@ jobs:
 
       - name: 🚀 Precompile Pyro Hetu Script Engine Bytecode (.ht -> .out)
         run: |
-          dart packages/core/pyro_hetu_script_engine/bin/compile_sdk.dart
+          (cd packages/core/pyro_hetu_script_engine && flutter pub get && dart bin/compile_sdk.dart)
 
       - name: Sync L10n to Native Android & iOS Strings
         working-directory: ./pyro_magma
