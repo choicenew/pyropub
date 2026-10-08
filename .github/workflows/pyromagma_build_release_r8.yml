@@ -84,6 +84,10 @@ jobs:
           flutter pub upgrade onnxruntime_v2
           flutter pub get
 
+      - name: 🚀 Precompile Pyro Hetu Script Engine Bytecode (.ht -> .out)
+        run: |
+          dart packages/core/pyro_hetu_script_engine/bin/compile_sdk.dart
+
       - name: Sync L10n to Native Android & iOS Strings
         working-directory: ./pyro_magma
         run: |
@@ -152,8 +156,12 @@ jobs:
         working-directory: ./pyro_magma
         run: |
           mkdir -p release_assets
-          cp build/app/outputs/flutter-apk/app-release.apk release_assets/pyro_magma-v${{ env.APP_VERSION }}-release-r8.apk
-          cp build/app/outputs/bundle/release/app-release.aab release_assets/pyro_magma-v${{ env.APP_VERSION }}-release-r8.aab
+          SUFFIX=""
+          if [ "${{ github.event.inputs.include_all_plugins }}" == "true" ]; then
+            SUFFIX="-all"
+          fi
+          cp build/app/outputs/flutter-apk/app-release.apk release_assets/pyro_magma-v${{ env.APP_VERSION }}-github-release${SUFFIX}.apk
+          cp build/app/outputs/bundle/release/app-release.aab release_assets/pyro_magma-v${{ env.APP_VERSION }}-playstore-release${SUFFIX}.aab
           ls -lh release_assets/
 
       - name: Publish R8 Release APK & AAB to GitHub Release

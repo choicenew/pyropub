@@ -32,7 +32,7 @@ jobs:
       - name: Run Store Listing Update Script
         env:
           PLAY_STORE_CREDENTIALS: ${{ secrets.PYROMAGMA_PLAY_STORE_SERVICE_ACCOUNT || secrets.PLAY_STORE_SERVICE_ACCOUNT }}
-          PACKAGE_NAME: ${{ secrets.PYROMAGMA_PACKAGE_NAME || 'com.pyromagma.pyro_magma' }}
+          PACKAGE_NAME: com.pyromagma.pyro_magma
           TRANSLATIONS_FILE: pyromagma_translations.json
         run: |
           if [ -z "$PLAY_STORE_CREDENTIALS" ]; then

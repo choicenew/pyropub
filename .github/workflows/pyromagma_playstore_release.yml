@@ -53,7 +53,7 @@ jobs:
         uses: r0adkll/upload-google-play@v1
         with:
           serviceAccountJsonPlainText: ${{ secrets.PYROMAGMA_PLAY_STORE_SERVICE_ACCOUNT || secrets.PLAY_STORE_SERVICE_ACCOUNT }}
-          packageName: ${{ secrets.PYROMAGMA_PACKAGE_NAME || 'com.pyromagma.pyro_magma' }}
-          releaseFiles: "release_assets/*.aab"
+          packageName: com.pyromagma.pyro_magma
+          releaseFiles: "release_assets/*playstore-release*.aab"
           track: production
           whatsNewDirectory: release_notes

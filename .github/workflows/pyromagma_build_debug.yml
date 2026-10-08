@@ -85,6 +85,10 @@ jobs:
           flutter pub upgrade onnxruntime_v2
           flutter pub get
 
+      - name: 🚀 Precompile Pyro Hetu Script Engine Bytecode (.ht -> .out)
+        run: |
+          dart packages/core/pyro_hetu_script_engine/bin/compile_sdk.dart
+
       - name: Sync L10n to Native Android & iOS Strings
         working-directory: ./pyro_magma
         run: |
@@ -144,7 +148,11 @@ jobs:
         working-directory: ./pyro_magma
         run: |
           mkdir -p release_assets
-          cp build/app/outputs/flutter-apk/app-debug.apk release_assets/pyro_magma-v${{ env.APP_VERSION }}-debug.apk
+          SUFFIX=""
+          if [ "${{ github.event.inputs.include_all_plugins }}" == "true" ]; then
+            SUFFIX="-all"
+          fi
+          cp build/app/outputs/flutter-apk/app-debug.apk release_assets/pyro_magma-v${{ env.APP_VERSION }}-github-debug${SUFFIX}.apk
           ls -lh release_assets/
 
       - name: Publish Test Build to GitHub Release
