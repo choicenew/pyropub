@@ -5,6 +5,12 @@ on:
     tags:
       - 'v*'
   workflow_dispatch:
+    inputs:
+      include_all_plugins:
+        description: 'Include ALL sample plugins (Default: false = Academic plugins only)'
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -110,6 +116,15 @@ jobs:
           echo "keyPassword=${{ secrets.PYROMAGMA_KEY_PASSWORD }}" >> android/key.properties
           echo "keyAlias=${{ secrets.PYROMAGMA_KEYSTORE_ALIAS }}" >> android/key.properties
           echo "storeFile=key.jks" >> android/key.properties
+
+      - name: ✂️ Prune Sample Plugins (Play Store / Academic Compliance Guard)
+        run: |
+          MODE="academic_only"
+          if [ "${{ github.event.inputs.include_all_plugins }}" == "true" ]; then
+            MODE="all"
+          fi
+          echo "Executing sample plugin pruning task with mode: $MODE"
+          python pyro_magma/tools/prune_sample_plugins.py "$MODE"
 
       - name: Build Release APK with R8 Proguard Obfuscation
         working-directory: ./pyro_magma

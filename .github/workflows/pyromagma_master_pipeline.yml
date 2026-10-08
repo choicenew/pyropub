@@ -4,6 +4,12 @@ on:
   push:
     branches: [ main, master ]
   workflow_dispatch:
+    inputs:
+      include_all_plugins:
+        description: 'Include ALL sample plugins (Default: false = Academic plugins only)'
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -145,6 +151,15 @@ jobs:
             echo "keyAlias=${{ secrets.PYROMAGMA_KEYSTORE_ALIAS }}" >> android/key.properties
             echo "storeFile=key.jks" >> android/key.properties
           fi
+
+      - name: ✂️ Prune Sample Plugins (Play Store / Academic Compliance Guard)
+        run: |
+          MODE="academic_only"
+          if [ "${{ github.event.inputs.include_all_plugins }}" == "true" ]; then
+            MODE="all"
+          fi
+          echo "Executing sample plugin pruning task with mode: $MODE"
+          python pyro_magma/tools/prune_sample_plugins.py "$MODE"
 
       - name: Build Debug APK
         working-directory: ./pyro_magma
