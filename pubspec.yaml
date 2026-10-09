@@ -1,0 +1,155 @@
+name: pyro_workspace
+description: Root Pub Workspace for Pyro Platform Monorepo.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+workspace:
+  - pyro_magma
+  - packages/action/pyro_action_hub
+  - packages/action/pyro_action_protocol
+  - packages/ai/pyro_ai
+  - packages/ai/pyro_ai_agent_ports
+  - packages/ai/pyro_ai_rag
+  - packages/ai/pyro_ai_visualization
+  - packages/ai/pyro_comic_overlay_engine
+  - packages/ai/pyro_comic_overlay_ui
+  - packages/ai/pyro_edge_ai
+  - packages/ai/pyro_edge_ai_detect
+  - packages/ai/pyro_edge_ai_infra
+  - packages/ai/pyro_edge_ai_ocr
+  - packages/ai/pyro_edge_ai_orchestrator
+  - packages/ai/pyro_edge_ai_orchestrator_ui
+  - packages/ai/pyro_edge_ai_translate
+  - packages/algorithms/pyro_algorithm_ad_insertion
+  - packages/algorithms/pyro_algorithm_behavior
+  - packages/algorithms/pyro_algorithm_protocol
+  - packages/algorithms/pyro_algorithm_recommend
+  - packages/algorithms/pyro_algorithm_risk
+  - packages/algorithms/pyro_algorithm_vector
+  - packages/clouddrive/pyro_cloud_drive_crypto
+  - packages/clouddrive/pyro_cloud_drive_database
+  - packages/clouddrive/pyro_cloud_drive_googledrive
+  - packages/clouddrive/pyro_cloud_drive_hetu
+  - packages/clouddrive/pyro_cloud_drive_hub
+  - packages/clouddrive/pyro_cloud_drive_onedrive
+  - packages/clouddrive/pyro_cloud_drive_protocol
+  - packages/clouddrive/pyro_cloud_drive_ui
+  - packages/clouddrive/pyro_cloud_drive_webdav
+  - packages/commercial/pyro_ads_admob
+  - packages/commercial/pyro_ads_applovin
+  - packages/commercial/pyro_ads_hub
+  - packages/commercial/pyro_ads_protocol
+  - packages/commercial/pyro_ads_startapp
+  - packages/commercial/pyro_ads_unity
+  - packages/commercial/pyro_commercial_hub
+  - packages/commercial/pyro_house_ads
+  - packages/commercial/pyro_purchase_core
+  - packages/commercial/pyro_purchase_protocol
+  - packages/commercial/pyro_purchase_ui
+  - packages/config/pyro_config_local
+  - packages/config/pyro_config_protocol
+  - packages/config/pyro_config_remote
+  - packages/config/pyro_l10n
+  - packages/config/pyro_risk_profiler
+  - packages/config/pyro_shadow_identity
+  - packages/config/pyro_theme
+  - packages/config/pyro_theme_ui
+  - packages/core/pyro_api_translate
+  - packages/core/pyro_atmosphere
+  - packages/core/pyro_cloudflare_proxy
+  - packages/core/pyro_database
+  - packages/core/pyro_fetch_protocol
+  - packages/core/pyro_hetu_script_engine
+  - packages/core/pyro_metadata_service
+  - packages/core/pyro_platform_http_adapter
+  - packages/core/pyro_translation_cache
+  - packages/core/pyro_tts
+  - packages/core/pyro_wasm_cc
+  - packages/core/pyro_worker_protocol
+  - packages/feed/pyro_feed_audio_deck
+  - packages/feed/pyro_feed_news_portal
+  - packages/feed/pyro_feed_protocol
+  - packages/feed/pyro_feed_vertical_immersive
+  - packages/feed/pyro_feed_waterfall_stream
+  - packages/hetu-script
+  - packages/hetu-script/packages/hetu_script
+  - packages/hetu-script/packages/hetu_script_code_pad
+  - packages/hetu-script/packages/hetu_script_dev_tools
+  - packages/hetu-script/packages/hetu_script_flutter
+  - packages/media/pyro_media_mapper
+  - packages/media/pyro_media_models
+  - packages/media/pyro_media_protocol
+  - packages/push/pyro_push_hub
+  - packages/push/pyro_push_protocol
+  - packages/render/pyro_browser_engine
+  - packages/render/pyro_render_ad_protocol
+  - packages/render/pyro_render_audio
+  - packages/render/pyro_render_author
+  - packages/render/pyro_render_comic
+  - packages/render/pyro_render_hub
+  - packages/render/pyro_render_news
+  - packages/render/pyro_render_novel
+  - packages/render/pyro_render_paper
+  - packages/render/pyro_render_protocol
+  - packages/render/pyro_render_video
+  - packages/render/pyro_render_wallpaper
+  - packages/source/pyro_source_clouddrive
+  - packages/source/pyro_source_csv_converter
+  - packages/source/pyro_source_download_engine
+  - packages/source/pyro_source_download_ui
+  - packages/source/pyro_source_hetu
+  - packages/source/pyro_source_hub
+  - packages/source/pyro_source_legado
+  - packages/source/pyro_source_match
+  - packages/source/pyro_source_opds
+  - packages/source/pyro_source_protocol
+  - packages/source/pyro_source_rss
+  - packages/source/pyro_source_ui
+  - packages/source/pyro_source_zlibrary
+  - packages/sync/pyro_crowdsourcing_arbiter
+  - packages/sync/pyro_sync_cloudflare
+  - packages/sync/pyro_sync_database
+  - packages/sync/pyro_sync_hub
+  - packages/sync/pyro_sync_koreader
+  - packages/sync/pyro_sync_protocol
+  - packages/sync/pyro_sync_supabase
+  - packages/sync/pyro_sync_suwayomi
+  - packages/sync/pyro_sync_syncitron
+  - packages/telemetry/pyro_analytics_firebase
+  - packages/telemetry/pyro_analytics_telemetry
+  - packages/tools/pyro_annotation
+  - packages/tools/pyro_dictionary
+  - packages/tools/pyro_flashcard
+  - packages/tools/pyro_pomodoro
+  - packages/tools/pyro_shelf
+  - packages/viewers/pyro_viewer_epub
+  - packages/viewers/pyro_viewer_hub
+  - packages/viewers/pyro_viewer_manga
+  - packages/viewers/pyro_viewer_media
+  - packages/viewers/pyro_viewer_pdf
+  - packages/viewers/pyro_viewer_protocol
+  - packages/viewers/pyro_viewer_txt
+  - packages/wallpaper/pyro_wallpaper_contracts
+  - packages/wallpaper/pyro_wallpaper_models
+  - packages/wallpaper/pyro_wallpaper_platform
+  - packages/wallpaper/pyro_wallpaper_ui
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dependency_overrides:
+  intl: any
+  xml: ^7.1.0
+  archive: ^4.0.9
+  dart_srs: ^1.0.1
+  syncitron: ^0.5.3
+  native_dio_adapter: ^1.8.0
+  cronet_http: ^1.10.0
+  onnxruntime_v2:
+    git:
+      url: https://github.com/haygcao/onnxruntime_flutter_1_22_0.git
+      ref: auto-sync
