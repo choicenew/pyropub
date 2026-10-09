@@ -91,10 +91,9 @@ jobs:
           python pyro_magma/tools/pyro_safe_governance.py
 
       - name: 3. 执行国际化同步 (L10n Sync)
-        working-directory: ./pyro_magma
         run: |
           flutter pub get
-          dart run tools/sync_l10n.dart
+          (cd pyro_magma && dart run tools/sync_l10n.dart)
 
       - name: 3. 上传治理产物 (Shared Versions)
         uses: actions/upload-artifact@v4

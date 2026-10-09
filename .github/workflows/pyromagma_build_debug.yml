@@ -79,10 +79,8 @@ jobs:
           channel: 'stable'
           cache: true
 
-      - name: Get Dependencies & Upgrade Git Packages
-        working-directory: ./pyro_magma
+      - name: Get Dependencies
         run: |
-          flutter pub upgrade onnxruntime_v2
           flutter pub get
 
       - name: 🚀 Precompile Pyro Hetu Script Engine Bytecode (.ht -> .out)
