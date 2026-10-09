@@ -1,9 +1,6 @@
 name: "[PyroMagma] Build Release (R8)"
 
 on:
-  push:
-    tags:
-      - 'v*'
   workflow_dispatch:
     inputs:
       include_all_plugins:

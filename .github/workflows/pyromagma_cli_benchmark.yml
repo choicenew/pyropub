@@ -1,8 +1,6 @@
 name: "[PyroMagma] CLI Benchmark & Matrix Tests"
 
 on:
-  push:
-    branches: [ main, master ]
   workflow_dispatch:
 
 permissions:
