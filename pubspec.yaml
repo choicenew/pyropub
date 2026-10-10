@@ -66,6 +66,8 @@ workspace:
   - packages/core/pyro_metadata_service
   - packages/core/pyro_platform_http_adapter
   - packages/core/pyro_translation_cache
+  - packages/core/pyro_translation_policy
+  - packages/core/pyro_web_translator
   - packages/core/pyro_tts
   - packages/core/pyro_wasm_cc
   - packages/core/pyro_worker_protocol
