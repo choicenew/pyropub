@@ -10,8 +10,16 @@ workspace:
   - pyro_magma
   - packages/action/pyro_action_hub
   - packages/action/pyro_action_protocol
-  - packages/ai/pyro_ai
   - packages/ai/pyro_ai_agent_ports
+  - packages/ai/pyro_ai_cache
+  - packages/ai/pyro_ai_dispatcher
+  - packages/ai/pyro_ai_driver_cloud
+  - packages/ai/pyro_ai_driver_cloud_ui
+  - packages/ai/pyro_ai_driver_edge
+  - packages/ai/pyro_ai_hub
+  - packages/ai/pyro_ai_policy
+  - packages/ai/pyro_ai_policy_ui
+  - packages/ai/pyro_ai_protocol
   - packages/ai/pyro_ai_rag
   - packages/ai/pyro_ai_visualization
   - packages/ai/pyro_comic_overlay_engine
@@ -19,10 +27,12 @@ workspace:
   - packages/ai/pyro_edge_ai
   - packages/ai/pyro_edge_ai_detect
   - packages/ai/pyro_edge_ai_infra
+  - packages/ai/pyro_edge_ai_infra_ui
   - packages/ai/pyro_edge_ai_ocr
   - packages/ai/pyro_edge_ai_orchestrator
   - packages/ai/pyro_edge_ai_orchestrator_ui
   - packages/ai/pyro_edge_ai_translate
+  - packages/迭代package/pyro_ai
   - packages/algorithms/pyro_algorithm_ad_insertion
   - packages/algorithms/pyro_algorithm_behavior
   - packages/algorithms/pyro_algorithm_protocol
@@ -161,6 +171,8 @@ workspace:
   - packages/wallpaper/pyro_wallpaper_models
   - packages/wallpaper/pyro_wallpaper_platform
   - packages/wallpaper/pyro_wallpaper_ui
+  - packages/迭代package/pyro_plugin_manager
+  - pyro_magma
 
 dependencies:
   flutter:
