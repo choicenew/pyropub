@@ -34,6 +34,9 @@ jobs:
           
           VERSION_CODE=$(echo "$SOURCE_TAG" | sed 's/.*[+|-]//')
           echo "version_code=${VERSION_CODE}" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Create Google Play Release Notes
         run: |
@@ -53,6 +56,7 @@ jobs:
           status: completed
           changesNotSentForReview: false
         env:
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Deploy Play Flavor AAB to Google Play Store (Closed Testing - Alpha Track)
@@ -68,6 +72,7 @@ jobs:
           status: completed
           changesNotSentForReview: false
         env:
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Check Deployment Status
