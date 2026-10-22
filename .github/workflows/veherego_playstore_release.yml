@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Fetch Details and Download AAB from GitHub Release
+      - name: Fetch Details and Download Play AAB from GitHub Release
         id: fetch_data
         run: |
           set -e
@@ -29,6 +29,7 @@ jobs:
           fi
           echo "Found tag: $SOURCE_TAG"
           mkdir -p release_assets
+          # 仅下载专门用于 Google Play 的 Play Flavor 专属包 (*play*.aab)
           gh release download "$SOURCE_TAG" --repo ${{ github.repository }} --pattern "*play*.aab" --dir release_assets
           
           VERSION_CODE=$(echo "$SOURCE_TAG" | sed 's/.*[+|-]//')
@@ -39,13 +40,41 @@ jobs:
           mkdir -p release_notes/en-US
           echo "VehereGo Official Release Build ${{ steps.fetch_data.outputs.version_code }}" > release_notes/en-US/${{ steps.fetch_data.outputs.version_code }}.txt
 
-      - name: Deploy AAB to Google Play Store
+      - name: Deploy Play Flavor AAB to Google Play Store (Production Track)
+        id: deploy_production
+        continue-on-error: true
         uses: r0adkll/upload-google-play@v1
         with:
           serviceAccountJsonPlainText: ${{ secrets.VEHEREGO_PLAY_STORE_SERVICE_ACCOUNT || secrets.PLAY_STORE_SERVICE_ACCOUNT }}
           packageName: ${{ secrets.VEHEREGO_PACKAGE_NAME || 'com.mypyro.veherego' }}
-          releaseFiles: "release_assets/*.aab"
-          track: production
+          releaseFiles: "release_assets/*play*.aab"
+          tracks: production
           whatsNewDirectory: release_notes
+          status: completed
+          changesNotSentForReview: false
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Deploy Play Flavor AAB to Google Play Store (Closed Testing - Alpha Track)
+        id: deploy_alpha
+        continue-on-error: true
+        uses: r0adkll/upload-google-play@v1
+        with:
+          serviceAccountJsonPlainText: ${{ secrets.VEHEREGO_PLAY_STORE_SERVICE_ACCOUNT || secrets.PLAY_STORE_SERVICE_ACCOUNT }}
+          packageName: ${{ secrets.VEHEREGO_PACKAGE_NAME || 'com.mypyro.veherego' }}
+          releaseFiles: "release_assets/*play*.aab"
+          tracks: alpha
+          whatsNewDirectory: release_notes
+          status: completed
+          changesNotSentForReview: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Check Deployment Status
+        run: |
+          echo "Production Track Deployment Result: ${{ steps.deploy_production.outcome }}"
+          echo "Alpha Track Deployment Result: ${{ steps.deploy_alpha.outcome }}"
+          if [ "${{ steps.deploy_production.outcome }}" != "success" ] && [ "${{ steps.deploy_alpha.outcome }}" != "success" ]; then
+            echo "::error::Both Production and Alpha deployments failed!"
+            exit 1
+          fi

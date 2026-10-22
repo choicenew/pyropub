@@ -49,11 +49,37 @@ jobs:
           mkdir -p release_notes/en-US
           echo "PyroMagma Official R8 Release Build ${{ steps.fetch_data.outputs.version_code }}" > release_notes/en-US/${{ steps.fetch_data.outputs.version_code }}.txt
 
-      - name: Deploy AAB to Google Play Store
+      - name: Deploy AAB to Google Play Store (Production Track)
+        id: deploy_production
+        continue-on-error: true
         uses: r0adkll/upload-google-play@v1
         with:
           serviceAccountJsonPlainText: ${{ secrets.PYROMAGMA_PLAY_STORE_SERVICE_ACCOUNT || secrets.PLAY_STORE_SERVICE_ACCOUNT }}
           packageName: com.pyromagma.pyro_magma
           releaseFiles: "release_assets/*playstore-release*.aab"
-          track: production
+          tracks: production
           whatsNewDirectory: release_notes
+          status: completed
+          changesNotSentForReview: false
+
+      - name: Deploy AAB to Google Play Store (Closed Testing - Alpha Track)
+        id: deploy_alpha
+        continue-on-error: true
+        uses: r0adkll/upload-google-play@v1
+        with:
+          serviceAccountJsonPlainText: ${{ secrets.PYROMAGMA_PLAY_STORE_SERVICE_ACCOUNT || secrets.PLAY_STORE_SERVICE_ACCOUNT }}
+          packageName: com.pyromagma.pyro_magma
+          releaseFiles: "release_assets/*playstore-release*.aab"
+          tracks: alpha
+          whatsNewDirectory: release_notes
+          status: completed
+          changesNotSentForReview: false
+
+      - name: Check Deployment Status
+        run: |
+          echo "Production Track Deployment Result: ${{ steps.deploy_production.outcome }}"
+          echo "Alpha Track Deployment Result: ${{ steps.deploy_alpha.outcome }}"
+          if [ "${{ steps.deploy_production.outcome }}" != "success" ] && [ "${{ steps.deploy_alpha.outcome }}" != "success" ]; then
+            echo "::error::Both Production and Alpha deployments failed!"
+            exit 1
+          fi
