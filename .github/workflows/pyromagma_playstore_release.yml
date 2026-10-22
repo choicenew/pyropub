@@ -61,7 +61,7 @@ jobs:
           tracks: production
           whatsNewDirectory: release_notes
           status: completed
-          changesNotSentForReview: false
+          changesNotSentForReview: true
         env:
           GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
@@ -77,7 +77,7 @@ jobs:
           tracks: alpha
           whatsNewDirectory: release_notes
           status: completed
-          changesNotSentForReview: false
+          changesNotSentForReview: true
         env:
           GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
