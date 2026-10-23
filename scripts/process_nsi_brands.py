@@ -61,46 +61,8 @@ def generate_slug(display_name, wikidata, item_id=""):
         slug = re.sub(r'[^a-zA-Z0-9]', '', item_id.lower())
     return slug or "unknown_brand"
 
-def count_items_in_json(rel_path):
-    """动态统计目标 JSON 文件中的真实条数 (规则数、品牌数或词典数)"""
-    abs_path = os.path.join(VEHEREGO_ASSETS_DIR, rel_path)
-    if not os.path.exists(abs_path):
-        return 0
-    try:
-        with open(abs_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            if isinstance(data, dict):
-                if 'brand_aliases' in data and isinstance(data['brand_aliases'], dict):
-                    return len(data['brand_aliases'])
-                if 'rules' in data and isinstance(data['rules'], list):
-                    return len(data['rules'])
-                if 'smart_rules' in data and isinstance(data['smart_rules'], list):
-                    return len(data['smart_rules'])
-                if 'transit_types' in data and isinstance(data['transit_types'], dict):
-                    return len(data['transit_types'])
-                if 'identity_rules' in data and isinstance(data['identity_rules'], list):
-                    return len(data['identity_rules'])
-                if 'manifest_files' in data and isinstance(data['manifest_files'], list):
-                    country_dir = os.path.dirname(abs_path)
-                    total_c = 0
-                    for m_file in data['manifest_files']:
-                        m_path = os.path.join(country_dir, m_file)
-                        if os.path.exists(m_path):
-                            try:
-                                with open(m_path, 'r', encoding='utf-8') as mf:
-                                    m_data = json.load(mf)
-                                    if 'brand_aliases' in m_data and isinstance(m_data['brand_aliases'], dict):
-                                        total_c += len(m_data['brand_aliases'])
-                            except Exception:
-                                pass
-                    return total_c
-            elif isinstance(data, list):
-                return len(data)
-    except Exception as e:
-        print(f"Failed to count items in {rel_path}: {e}")
-    return 0
-
 def process_brands():
+    """从 NSI 上游提取全球品牌并自动导出为分类 brand_catalog 与国家 brand_catalog_index JSON"""
     os.makedirs(BRANDS_OUT_DIR, exist_ok=True)
 
     logo_manifest = {}
@@ -249,34 +211,7 @@ def process_brands():
         with open(index_file, 'w', encoding='utf-8') as f:
             json.dump(index_data, f, ensure_ascii=False, indent=2)
 
-    print(f"NSI Brands processing completed! Generated brand files for {len(brand_data)} countries.")
-
-def generate_store_manifest():
-    """动态编译生成 100% 自动计算真实数字的商店配置文件 store_manifest.json"""
-    store_config = load_json_config('store_config.json', {})
-    store_config['type'] = 'store_manifest'
-    sources = store_config.get('sources', store_config.get('official_sources', []))
-    store_config['sources'] = sources
-    if 'official_sources' in store_config:
-        del store_config['official_sources']
-
-    for item in sources:
-        rel_url = item.get('url', '')
-        rel_path = ''
-        if 'veherego_assets/' in rel_url:
-            rel_path = rel_url.split('veherego_assets/')[1]
-
-        if rel_path:
-            real_count = count_items_in_json(rel_path)
-            if real_count > 0:
-                item['rule_count'] = real_count
-
-    out_store_path = os.path.join(VEHEREGO_ASSETS_DIR, 'store_manifest.json')
-    with open(out_store_path, 'w', encoding='utf-8') as f:
-        json.dump(store_config, f, ensure_ascii=False, indent=2)
-
-    print("Store manifest processing completed with 100% dynamically computed real item counts!")
+    print(f"NSI Brands processing completed! Generated brand_catalog files for {len(brand_data)} countries.")
 
 if __name__ == "__main__":
     process_brands()
-    generate_store_manifest()
