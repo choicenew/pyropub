@@ -4,6 +4,12 @@ on:
   workflow_dispatch: # 允许手动触发
   schedule:
     - cron: '0 0 * * 1' # 每周一凌晨自动执行一次
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/process_nsi_brands.py'
+      - 'veherego_assets/configs/**'
+      - '.github/workflows/generate_brands.yml'
 
 permissions:
   contents: write # 允许自动提交代码
