@@ -4,13 +4,24 @@
   "updated_at": "2026-10-23T12:00:00Z",
   "official_sources": [
     {
+      "id": "brands_manifest_master",
+      "name": "全球精选高频商户权威库 (Master Manifest)",
+      "name_en": "Global Master Brands & Merchants Manifest",
+      "description": "精选 103 个全球高频连锁品牌、外卖、自提柜与快递客服标识",
+      "type": "brands",
+      "country": "001",
+      "country_name": "全球通用",
+      "rule_count": 103,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/brands/brands_manifest.json"
+    },
+    {
       "id": "official_app_rules_global",
       "name": "Official Global App Extraction Rules",
       "name_en": "Official Global App Extraction Rules",
       "description": "Global parcel, food delivery, and travel extraction rules",
       "type": "rules",
       "country": "001",
-      "country_name": "Global",
+      "country_name": "全球通用",
       "rule_count": 38,
       "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/rules/default_rules.json"
     },
