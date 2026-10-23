@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "_instructions": "此文件用于注册第三方独立订阅源。默认 third_party_sources 数组为空 []。当需要新增第三方源时，请参照 _template_example 格式填写。",
+  "_template_example": [
+    {
+      "id": "third_party_cn_delivery_special",
+      "name": "社区精选 - 中国区外卖与商超补充规则包",
+      "name_en": "Community Choice - China Delivery & Supermarket Rules",
+      "description": "由第三方开发者独立维护的针对美团、饿了么、盒马的高频补充提取规则",
+      "type": "rules",
+      "source_type": "third_party",
+      "country": "cn",
+      "rule_count": 30,
+      "url": "https://example.com/rules/cn_delivery.json"
+    }
+  ],
+  "third_party_sources": []
+}

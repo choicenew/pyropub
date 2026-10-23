@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "description": "VehereGo Certified Global Subscription Store Catalog Index",
+  "updated_at": "2026-10-23T12:00:00Z",
+  "official_sources": [
+    {
+      "id": "official_app_rules_global",
+      "name": "Official Global App Extraction Rules",
+      "name_en": "Official Global App Extraction Rules",
+      "description": "Global parcel, food delivery, and travel extraction rules",
+      "type": "rules",
+      "country": "001",
+      "country_name": "Global",
+      "rule_count": 38,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/rules/default_rules.json"
+    },
+    {
+      "id": "official_app_rules_zh",
+      "name": "中国区 - 常用 App 专属提取规则包",
+      "name_en": "China App Extraction Rules",
+      "description": "针对菜鸟、美团、饿了么、顺丰等中国区高频 App 的专属提取规则",
+      "type": "rules",
+      "country": "cn",
+      "country_name": "中国",
+      "rule_count": 45,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/rules/default_rules_zh.json"
+    },
+    {
+      "id": "official_app_rules_en",
+      "name": "US App Extraction Rules",
+      "name_en": "US App Extraction Rules",
+      "description": "Rules for DoorDash, UberEats, FedEx, UPS, and Amazon",
+      "type": "rules",
+      "country": "us",
+      "country_name": "United States",
+      "rule_count": 30,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/rules/default_rules_en.json"
+    },
+    {
+      "id": "smart_dictionary_zh",
+      "name": "中文多语言状态推导词典",
+      "name_en": "Chinese Status Dictionary",
+      "description": "精炼中文包裹、餐饮、打车与出票全流程推导信号词典",
+      "type": "dictionary",
+      "country": "cn",
+      "country_name": "中国",
+      "rule_count": 120,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/dictionaries/liveupdate_dictionary_zh.json"
+    },
+    {
+      "id": "smart_dictionary_en",
+      "name": "English Smart Status Dictionary",
+      "name_en": "English Status Dictionary",
+      "description": "English logistics, delivery, and ticketing status dictionary",
+      "type": "dictionary",
+      "country": "us",
+      "country_name": "United States",
+      "rule_count": 95,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/dictionaries/liveupdate_dictionary_en.json"
+    },
+    {
+      "id": "smart_dictionary_ja",
+      "name": "日本宅急便与便利店状态推断词典",
+      "name_en": "Japanese Status Dictionary",
+      "description": "日文便利店自提、宅急便与餐饮状态推导词典",
+      "type": "dictionary",
+      "country": "jp",
+      "country_name": "日本",
+      "rule_count": 80,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/dictionaries/liveupdate_dictionary_ja.json"
+    },
+    {
+      "id": "smart_dictionary_ko",
+      "name": "Korean Smart Status Dictionary",
+      "name_en": "Korean Status Dictionary",
+      "description": "韩文配送、快递与外卖状态推导词典",
+      "type": "dictionary",
+      "country": "kr",
+      "country_name": "한국",
+      "rule_count": 75,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/dictionaries/liveupdate_dictionary_ko.json"
+    },
+    {
+      "id": "travel_rules_zh",
+      "name": "中国区 - 12306 高铁/民航/客运出行规则",
+      "name_en": "China Rail & Flight Travel Rules",
+      "description": "包含铁路 12306、中国民航登机牌与城际巴士检票口推导规则",
+      "type": "travel",
+      "country": "cn",
+      "country_name": "中国",
+      "rule_count": 65,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/travel/travel_rules_zh.json"
+    },
+    {
+      "id": "travel_rules_en",
+      "name": "International Flight & Rail Travel Rules",
+      "name_en": "International Travel Rules",
+      "description": "Includes Amtrak, Eurostar, Delta, and United Airlines travel rules",
+      "type": "travel",
+      "country": "us",
+      "country_name": "United States",
+      "rule_count": 50,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/travel/travel_rules_en.json"
+    },
+    {
+      "id": "identity_rules_master",
+      "name": "自提身份码与核销二维码规则库",
+      "name_en": "Pick-up Identity Rules",
+      "description": "包含菜鸟身份码、多多提货码、快递柜扫码核销规则",
+      "type": "identity",
+      "country": "cn",
+      "country_name": "中国",
+      "rule_count": 25,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/identity/identity_manifest.json"
+    },
+    {
+      "id": "brands_cn_catalog",
+      "name": "商超即配与餐饮品牌库",
+      "name_en": "China Retail & Food Brands",
+      "description": "包含美团、菜鸟、顺丰、瑞幸、蜜雪冰城等中国高频商户品牌",
+      "type": "brands",
+      "country": "cn",
+      "country_name": "中国",
+      "rule_count": 280,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/brands/cn/index.json"
+    },
+    {
+      "id": "brands_us_catalog",
+      "name": "US Retail, Food & Express Brands",
+      "name_en": "US Retail & Express Brands",
+      "description": "Includes DoorDash, UberEats, FedEx, UPS, Starbucks",
+      "type": "brands",
+      "country": "us",
+      "country_name": "United States",
+      "rule_count": 450,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/brands/us/index.json"
+    },
+    {
+      "id": "brands_jp_catalog",
+      "name": "コンビニ・スーパー・外食ブランド",
+      "name_en": "Japan Retail & Express Brands",
+      "description": "Seven-Eleven, Lawson, FamilyMart, Yamato など日本向け品牌",
+      "type": "brands",
+      "country": "jp",
+      "country_name": "日本",
+      "rule_count": 180,
+      "url": "https://cdn.jsdelivr.net/gh/choicenew/pyropub@main/veherego_assets/brands/jp/index.json"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "category_mappings": {
+    "amenity/cafe": {
+      "category": "drink",
+      "sub_category": "coffee",
+      "default_color": "#0D9488"
+    },
+    "amenity/bubble_tea": {
+      "category": "drink",
+      "sub_category": "milk_tea",
+      "default_color": "#0D9488"
+    },
+    "shop/beverages": {
+      "category": "drink",
+      "sub_category": "fruit_tea",
+      "default_color": "#0D9488"
+    },
+    "shop/coffee": {
+      "category": "drink",
+      "sub_category": "coffee",
+      "default_color": "#0D9488"
+    },
+    "amenity/fast_food": {
+      "category": "food",
+      "sub_category": "fast_food",
+      "default_color": "#F97316"
+    },
+    "amenity/restaurant": {
+      "category": "food",
+      "sub_category": "restaurant",
+      "default_color": "#F97316"
+    },
+    "amenity/food_court": {
+      "category": "food",
+      "sub_category": "restaurant",
+      "default_color": "#F97316"
+    },
+    "amenity/ice_cream": {
+      "category": "food",
+      "sub_category": "bakery",
+      "default_color": "#F97316"
+    },
+    "shop/bakery": {
+      "category": "food",
+      "sub_category": "bakery",
+      "default_color": "#F97316"
+    },
+    "shop/pastry": {
+      "category": "food",
+      "sub_category": "bakery",
+      "default_color": "#F97316"
+    },
+    "shop/convenience": {
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "default_color": "#16A34A"
+    },
+    "shop/supermarket": {
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "default_color": "#16A34A"
+    },
+    "shop/mall": {
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "default_color": "#16A34A"
+    },
+    "shop/department_store": {
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "default_color": "#16A34A"
+    },
+    "amenity/post_office": {
+      "category": "express",
+      "sub_category": "station",
+      "default_color": "#3B82F6"
+    },
+    "amenity/post_depot": {
+      "category": "express",
+      "sub_category": "courier",
+      "default_color": "#3B82F6"
+    },
+    "amenity/parcel_locker": {
+      "category": "express",
+      "sub_category": "locker",
+      "default_color": "#3B82F6"
+    },
+    "office/logistics": {
+      "category": "express",
+      "sub_category": "courier",
+      "default_color": "#3B82F6"
+    },
+    "office/courier": {
+      "category": "express",
+      "sub_category": "courier",
+      "default_color": "#3B82F6"
+    },
+    "tourism/hotel": {
+      "category": "travel",
+      "sub_category": "hotel",
+      "default_color": "#8B5CF6"
+    },
+    "amenity/taxi": {
+      "category": "travel",
+      "sub_category": "taxi",
+      "default_color": "#8B5CF6"
+    },
+    "amenity/bus_station": {
+      "category": "travel",
+      "sub_category": "transit",
+      "default_color": "#8B5CF6"
+    }
+  },
+  "category_labels_i18n": {
+    "drink": {
+      "zh": "茶饮咖啡",
+      "en": "Drinks & Coffee",
+      "ja": "ドリンク・カフェ",
+      "ko": "음료・카페",
+      "de": "Getränke & Kaffee",
+      "fr": "Boissons & Café",
+      "es": "Bebidas y Café",
+      "it": "Bevande e Caffè",
+      "pt": "Bebidas e Café",
+      "ru": "Напитки и Кофе",
+      "uk": "Напої та Кава",
+      "pl": "Napoje i Kawa",
+      "nl": "Dranken & Koffie",
+      "sv": "Drycker & Kaffe",
+      "no": "Drikke & Kaffe",
+      "fi": "Juomat & Kahvi",
+      "da": "Drikkevarer & Kaffe",
+      "tr": "İçecekler ve Kahve",
+      "th": "เครื่องดื่มและกาแฟ",
+      "vi": "Đồ uống & Cà phê",
+      "id": "Minuman & Kopi",
+      "ms": "Minuman & Kopi",
+      "ar": "المشروبات والقهوة",
+      "he": "משקאות וקפה",
+      "hi": "पेय और कॉफी"
+    },
+    "food": {
+      "zh": "餐饮美食",
+      "en": "Food & Dining",
+      "ja": "外食・グルメ",
+      "ko": "외식・맛집",
+      "de": "Essen & Restaurants",
+      "fr": "Restauration & Gastronomie",
+      "es": "Restaurantes y Comida",
+      "it": "Ristorazione e Cibo",
+      "pt": "Alimentação e Restaurantes",
+      "ru": "Еда и Рестораны",
+      "uk": "Їжа та Ресторани",
+      "pl": "Jedzenie i Restauracje",
+      "nl": "Eten & Restaurants",
+      "sv": "Mat & Restauranger",
+      "no": "Mat & Restauranger",
+      "fi": "Ruoka & Ravintolat",
+      "da": "Mad & Restauration",
+      "tr": "Yemek ve Restoran",
+      "th": "อาหารและภัตตาคาร",
+      "vi": "Ẩm thực & Nhà hàng",
+      "id": "Makanan & Restoran",
+      "ms": "Makanan & Restoran",
+      "ar": "المأكولات والمطاعم",
+      "he": "מזון ומסעדות",
+      "hi": "भोजन और रेस्तरां"
+    },
+    "express": {
+      "zh": "快递物流",
+      "en": "Express & Logistics",
+      "ja": "宅配・物流",
+      "ko": "택배・물류",
+      "de": "Paket & Logistik",
+      "fr": "Livraison & Logistique",
+      "es": "Logística y Envíos",
+      "it": "Spedizioni e Logistica",
+      "pt": "Entrega e Logística",
+      "ru": "Доставка и Логистика",
+      "uk": "Доставка та Логістика",
+      "pl": "Przesyłki i Logistyka",
+      "nl": "Pakket & Logistiek",
+      "sv": "Express & Logistik",
+      "no": "Ekspress & Logistikk",
+      "fi": "Kuriiri & Logistiikka",
+      "da": "Ekspres & Logistik",
+      "tr": "Kargo ve Lojistik",
+      "th": "พัสดุและโลจิสติกส์",
+      "vi": "Chuyển phát & Logisitcs",
+      "id": "Kurir & Logistik",
+      "ms": "Kurir & Logistik",
+      "ar": "الشحن والشحن السريع",
+      "he": "משלוחים ולוגיסטיקה",
+      "hi": "एक्सप्रेस और लॉजिस्टिक्स"
+    },
+    "supermarket": {
+      "zh": "商超即配",
+      "en": "Retail & Supermarket",
+      "ja": "コンビニ・スーパー",
+      "ko": "마트・편의점",
+      "de": "Supermarkt & Einzelhandel",
+      "fr": "Supermarché & Commerce",
+      "es": "Supermercado y Tiendas",
+      "it": "Supermercati e Negozi",
+      "pt": "Supermercado e Varejo",
+      "ru": "Supermarket and Stores",
+      "uk": "Супермаркет та Магазини",
+      "pl": "Supermarkety i Sklepy",
+      "nl": "Supermarkt & Winkels",
+      "sv": "Mataffär & Detaljhandel",
+      "no": "Supermarked & Detaljhandel",
+      "fi": "Supermarket & Kaupat",
+      "da": "Supermarked & Butikker",
+      "tr": "Süpermarket ve Mağazalar",
+      "th": "ซูเปอร์มาร์เก็ตและร้านค้า",
+      "vi": "Siêu thị & Cửa hàng",
+      "id": "Supermarket & Toko",
+      "ms": "Supermarket & Kedai",
+      "ar": "السوبرماركت والتجزئة",
+      "he": "סופרמרקט וקמעונאות",
+      "hi": "सुपरमार्केट और रिटेल"
+    },
+    "travel": {
+      "zh": "出行客票",
+      "en": "Travel & Mobility",
+      "ja": "交通・チケット",
+      "ko": "교통・티켓",
+      "de": "Reisen & Fahrkarten",
+      "fr": "Voyage & Billetterie",
+      "es": "Viajes y Billetes",
+      "it": "Viaggi e Biglietti",
+      "pt": "Viagens e Bilhetes",
+      "ru": "Путешествия и Билеты",
+      "uk": "Подорожі та Квитки",
+      "pl": "Podróże i Bilety",
+      "nl": "Reizen & Tickets",
+      "sv": "Resor & Biljetter",
+      "no": "Reiser & Billetter",
+      "fi": "Matkailu & Liput",
+      "da": "Rejser & Billetter",
+      "tr": "Seyahat ve Biletler",
+      "th": "การเดินทางและตั๋ว",
+      "vi": "Du lịch & Vé xe",
+      "id": "Perjalanan & Tiket",
+      "ms": "Perjalanan & Tiket",
+      "ar": "السفر والتذاكر",
+      "he": "נסיעות וכרטיסים",
+      "hi": "यात्रा और टिकट"
+    },
+    "flight": {
+      "zh": "民航机票",
+      "en": "Airlines & Flights",
+      "ja": "航空券・フライト",
+      "ko": "항공권",
+      "de": "Flüge & Airline",
+      "fr": "Vols & Compagnies aériennes",
+      "es": "Vuelos y Aerolíneas",
+      "it": "Voli e Compagnie Aeree",
+      "pt": "Voos e Companhias Aéreas",
+      "ru": "Авиабилеты",
+      "uk": "Авіаквитки",
+      "pl": "Loty i Linie Lotnicze",
+      "nl": "Vluchten & Luchtvaart",
+      "sv": "Flyg & Flygbolag",
+      "no": "Fly & Flyselskaper",
+      "fi": "Lennot & Lentoyhtiöt",
+      "da": "Fly & Flyselskaber",
+      "tr": "Uçuşlar ve Hava Yolları",
+      "th": "ตั๋วเครื่องบิน",
+      "vi": "Vé máy bay",
+      "id": "Tiket Pesawat",
+      "ms": "Tiket Pesawat",
+      "ar": "رحلات الطيران",
+      "he": "טיסות וחברות תעופה",
+      "hi": "उड़ानें और एयरलाइंस"
+    },
+    "other": {
+      "zh": "综合生活服务",
+      "en": "Lifestyle & General",
+      "ja": "生活サービス",
+      "ko": "생활 서비스",
+      "de": "Allgemeiner Service",
+      "fr": "Services divers",
+      "es": "Servicios Generales",
+      "it": "Servizi Generali",
+      "pt": "Serviços Gerais",
+      "ru": "Общие Услуги",
+      "uk": "Загальні Послуги",
+      "pl": "Usługi Ogólne",
+      "nl": "Algemene Diensten",
+      "sv": "Allmänna Tjänster",
+      "no": "Generelle Tjenester",
+      "fi": "Yleiset Palvelut",
+      "da": "Generelle Tjenester",
+      "tr": "Genel Hizmetler",
+      "th": "บริการทั่วไป",
+      "vi": "Dịch vụ tổng hợp",
+      "id": "Layanan Umum",
+      "ms": "Perkhidmatan Umum",
+      "ar": "الخدمات العامة",
+      "he": "שירותים כלליים",
+      "hi": "सामान्य सेवाएं"
+    }
+  }
+}
