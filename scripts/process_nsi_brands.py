@@ -255,7 +255,10 @@ def generate_store_manifest():
     """动态编译生成 100% 自动计算真实数字的商店配置文件 store_manifest.json"""
     store_config = load_json_config('store_config.json', {})
     store_config['type'] = 'store_manifest'
-    sources = store_config.get('official_sources', [])
+    sources = store_config.get('sources', store_config.get('official_sources', []))
+    store_config['sources'] = sources
+    if 'official_sources' in store_config:
+        del store_config['official_sources']
 
     for item in sources:
         rel_url = item.get('url', '')
