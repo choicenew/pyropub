@@ -81,7 +81,6 @@ def count_items_in_json(rel_path):
                 if 'identity_rules' in data and isinstance(data['identity_rules'], list):
                     return len(data['identity_rules'])
                 if 'manifest_files' in data and isinstance(data['manifest_files'], list):
-                    # 统计分国别目录下的全量品牌总数
                     country_dir = os.path.dirname(abs_path)
                     total_c = 0
                     for m_file in data['manifest_files']:
@@ -225,7 +224,7 @@ def process_brands():
             out_file = os.path.join(country_dir, f"{cat}.json")
 
             out_json = {
-                "type": "brand",
+                "type": "brand_catalog",
                 "version": 6,
                 "source": "nsi_auto_generated",
                 "country": country,
@@ -240,7 +239,7 @@ def process_brands():
         index_file = os.path.join(country_dir, "index.json")
         c_info = get_country_info(country)
         index_data = {
-            "type": "brand_index",
+            "type": "brand_catalog_index",
             "country": country,
             "country_name": c_info.get('display_name', country),
             "total_categories": len(cats),
@@ -255,11 +254,11 @@ def process_brands():
 def generate_store_manifest():
     """动态编译生成 100% 自动计算真实数字的商店配置文件 store_manifest.json"""
     store_config = load_json_config('store_config.json', {})
+    store_config['type'] = 'store_manifest'
     sources = store_config.get('official_sources', [])
 
     for item in sources:
         rel_url = item.get('url', '')
-        # 从相对文件路径中自动计算真正的规则/品牌数字
         rel_path = ''
         if 'veherego_assets/' in rel_url:
             rel_path = rel_url.split('veherego_assets/')[1]
