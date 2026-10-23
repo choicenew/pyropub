@@ -1,4 +1,4 @@
-name: Generate Brands from NSI
+name: Generate Brands & Store Catalog
 
 on:
   workflow_dispatch: # 允许手动触发
@@ -7,7 +7,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'scripts/process_nsi_brands.py'
+      - 'scripts/**'
       - 'veherego_assets/configs/**'
       - '.github/workflows/generate_brands.yml'
 
@@ -32,13 +32,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run Brands Processing Script
+      - name: Run NSI Brands Processing Script
         run: python scripts/process_nsi_brands.py
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+
+      - name: Run Store Catalog Manifest Generator
+        run: python scripts/generate_store_manifest.py
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(data): auto-generate brand dictionaries by country and category from NSI"
+          commit_message: "chore(data): auto-generate brand dictionaries and store manifest catalog"
           file_pattern: "veherego_assets/**/*.json"
