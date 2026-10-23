@@ -8,7 +8,7 @@ on:
     branches: [ main ]
     paths:
       - 'scripts/**'
-      - 'veherego_assets/configs/**'
+      - 'veherego_assets/**'
       - '.github/workflows/generate_brands.yml'
 
 permissions:
