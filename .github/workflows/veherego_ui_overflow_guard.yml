@@ -66,6 +66,7 @@ jobs:
       - name: Install Project Dependencies & Generate L10n
         working-directory: ${{ env.VEHEREGO_DIR }}
         run: |
+          python pyro_magma/tools/sync_workspace.py
           flutter pub get
           flutter gen-l10n
 

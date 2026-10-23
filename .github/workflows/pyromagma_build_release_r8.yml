@@ -75,6 +75,15 @@ jobs:
           channel: 'stable'
           cache: true
 
+            - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Auto-Sync Workspace Entries
+        run: |
+          python pyro_magma/tools/sync_workspace.py
+
       - name: Get Dependencies
         run: |
           flutter pub get
