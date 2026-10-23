@@ -133,9 +133,9 @@ workspace:
   - packages/stats/pyro_achievement_protocol
   - packages/stats/pyro_achievement_hub
   - packages/stats/pyro_achievement_ui
-  - packages/tools/pyro_note_export_protocol
-  - packages/tools/pyro_note_export_hub
-  - packages/tools/pyro_note_export_ui
+  - packages/notes/pyro_note_export_protocol
+  - packages/notes/pyro_note_export_hub
+  - packages/notes/pyro_note_export_ui
   - packages/source/pyro_calibre_driver
   - packages/viewers/pyro_audiobook_protocol
   - packages/viewers/pyro_audiobook_engine
