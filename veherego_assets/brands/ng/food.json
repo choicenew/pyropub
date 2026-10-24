@@ -1,27 +1,132 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 9,
+  "country": "ng",
+  "category": "food",
+  "total_brands": 18,
   "brand_aliases": {
+    "oldmutual_q289704": {
+      "slug": "oldmutual_q289704",
+      "title": "Old Mutual",
+      "title_en": "Old Mutual",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutual-ff45b4.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutual-ff45b4",
+        "wikidata": "Q289704"
+      }
+    },
+    "accessbank_q4672418": {
+      "slug": "accessbank_q4672418",
+      "title": "Access Bank",
+      "title_en": "Access Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessbank-155277.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "accessbank-155277",
+        "wikidata": "Q4672418"
+      }
+    },
+    "fidelitybanknigeria_q5446777": {
+      "slug": "fidelitybanknigeria_q5446777",
+      "title": "Fidelity Bank",
+      "title_en": "Fidelity Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fidelitybank-db0de1.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fidelitybank-db0de1",
+        "wikidata": "Q5446777"
+      }
+    },
+    "gtbank_q579747": {
+      "slug": "gtbank_q579747",
+      "title": "GT Bank",
+      "title_en": "GT Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gtbank-b3c39a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gtbank-b3c39a",
+        "wikidata": "Q579747"
+      }
+    },
+    "heritagebanknigeria_q17022606": {
+      "slug": "heritagebanknigeria_q17022606",
+      "title": "Heritage Bank",
+      "title_en": "Heritage Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/heritagebank-db0de1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "heritagebank-db0de1",
+        "wikidata": "Q17022606"
+      }
+    },
+    "kudabank_q108919305": {
+      "slug": "kudabank_q108919305",
+      "title": "Kuda Microfinance Bank",
+      "title_en": "Kuda Microfinance Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kudamicrofinancebank-db0de1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kudamicrofinancebank-db0de1",
+        "wikidata": "Q108919305"
+      }
+    },
+    "uba_q513457": {
+      "slug": "uba_q513457",
+      "title": "UBA",
+      "title_en": "UBA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uba-95540f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uba-95540f",
+        "wikidata": "Q513457"
+      }
+    },
+    "zenithbank_q5978240": {
+      "slug": "zenithbank_q5978240",
+      "title": "Zenith Bank",
+      "title_en": "Zenith Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zenithbank-603eac.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zenithbank-603eac",
+        "wikidata": "Q5978240"
+      }
+    },
     "chickenrepublic_q23461416": {
       "slug": "chickenrepublic_q23461416",
       "title": "Chicken Republic",
-      "short_name": "Chicken Re",
-      "badge_text": "C",
+      "title_en": "Chicken Republic",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Chicken Republic"
-      ],
-      "keywords": [
-        "Chicken Republic"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chickenrepublic-3eb11d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chickenrepublic-3eb11d",
         "wikidata": "Q23461416"
@@ -30,21 +135,12 @@
     "debonairspizza_q65079407": {
       "slug": "debonairspizza_q65079407",
       "title": "Debonairs Pizza",
-      "short_name": "Debonairs ",
-      "badge_text": "D",
+      "title_en": "Debonairs Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Debonairs Pizza"
-      ],
-      "keywords": [
-        "Debonairs Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debonairspizza-10dad6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "debonairspizza-10dad6",
         "wikidata": "Q65079407"
@@ -53,21 +149,12 @@
     "kilimanjaro_q28453128": {
       "slug": "kilimanjaro_q28453128",
       "title": "Kilimanjaro",
-      "short_name": "Kilimanjar",
-      "badge_text": "K",
+      "title_en": "Kilimanjaro",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Kilimanjaro"
-      ],
-      "keywords": [
-        "Kilimanjaro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kilimanjaro-3eb11d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kilimanjaro-3eb11d",
         "wikidata": "Q28453128"
@@ -76,21 +163,12 @@
     "mrbiggs_q955488": {
       "slug": "mrbiggs_q955488",
       "title": "Mr Bigg's",
-      "short_name": "Mr Bigg's",
-      "badge_text": "M",
+      "title_en": "Mr Bigg's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Mr Bigg's"
-      ],
-      "keywords": [
-        "Mr Bigg's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrbiggs-282078.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mrbiggs-282078",
         "wikidata": "Q955488"
@@ -99,21 +177,12 @@
     "tantalizers_q7683795": {
       "slug": "tantalizers_q7683795",
       "title": "Tantalizers",
-      "short_name": "Tantalizer",
-      "badge_text": "T",
+      "title_en": "Tantalizers",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Tantalizers"
-      ],
-      "keywords": [
-        "Tantalizers"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tantalizers-3eb11d",
         "wikidata": "Q7683795"
@@ -122,21 +191,12 @@
     "tasteefriedchicken_q7687722": {
       "slug": "tasteefriedchicken_q7687722",
       "title": "Tastee Fried Chicken",
-      "short_name": "Tastee Fri",
-      "badge_text": "T",
+      "title_en": "Tastee Fried Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Tastee Fried Chicken"
-      ],
-      "keywords": [
-        "Tastee Fried Chicken"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tasteefriedchicken-3eb11d",
         "wikidata": "Q7687722"
@@ -145,21 +205,12 @@
     "oceanbasket_q62075311": {
       "slug": "oceanbasket_q62075311",
       "title": "Ocean Basket",
-      "short_name": "Ocean Bask",
-      "badge_text": "O",
+      "title_en": "Ocean Basket",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Ocean Basket"
-      ],
-      "keywords": [
-        "Ocean Basket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oceanbasket-5d9698.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oceanbasket-5d9698",
         "wikidata": "Q62075311"
@@ -168,21 +219,12 @@
     "panarottis_q130220087": {
       "slug": "panarottis_q130220087",
       "title": "Panarottis",
-      "short_name": "Panarottis",
-      "badge_text": "P",
+      "title_en": "Panarottis",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Panarottis"
-      ],
-      "keywords": [
-        "Panarottis"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panarottis-0539cf.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "panarottis-0539cf",
         "wikidata": "Q130220087"
@@ -191,24 +233,29 @@
     "spur_q7581546": {
       "slug": "spur_q7581546",
       "title": "Spur",
-      "short_name": "Spur",
-      "badge_text": "S",
+      "title_en": "Spur",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Spur"
-      ],
-      "keywords": [
-        "Spur"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spur-efd5c1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spur-efd5c1",
         "wikidata": "Q7581546"
+      }
+    },
+    "mrs_q56274919": {
+      "slug": "mrs_q56274919",
+      "title": "MRS",
+      "title_en": "MRS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrs-0edd09",
+        "wikidata": "Q56274919"
       }
     }
   }

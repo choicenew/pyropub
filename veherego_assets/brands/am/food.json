@@ -1,52 +1,384 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "am",
+  "category": "food",
+  "total_brands": 36,
   "brand_aliases": {
+    "acba_q55602923": {
+      "slug": "acba_q55602923",
+      "title": "ԱԿԲԱ",
+      "title_en": "ACBA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acba-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "acba-9c44ae",
+        "wikidata": "Q55602923"
+      }
+    },
+    "ameriabank_q4742492": {
+      "slug": "ameriabank_q4742492",
+      "title": "Ամերիաբանկ",
+      "title_en": "Ameriabank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ameriabank-9c44ae.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ameriabank-9c44ae",
+        "wikidata": "Q4742492"
+      }
+    },
+    "amiobank_q111109064": {
+      "slug": "amiobank_q111109064",
+      "title": "Amio Bank",
+      "title_en": "Amio Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amiobank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amiobank-9c44ae",
+        "wikidata": "Q111109064"
+      }
+    },
+    "araratbank_q56000968": {
+      "slug": "araratbank_q56000968",
+      "title": "Արարատբանկ",
+      "title_en": "Araratbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/araratbank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "araratbank-9c44ae",
+        "wikidata": "Q56000968"
+      }
+    },
+    "ardshinbank_q4787755": {
+      "slug": "ardshinbank_q4787755",
+      "title": "Արդշինբանկ",
+      "title_en": "Ardshinbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ardshinbank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ardshinbank-9c44ae",
+        "wikidata": "Q4787755"
+      }
+    },
+    "armeconombank_q60609529": {
+      "slug": "armeconombank_q60609529",
+      "title": "Հայէկոնոմբանկ",
+      "title_en": "Armeconombank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/armeconombank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "armeconombank-9c44ae",
+        "wikidata": "Q60609529"
+      }
+    },
+    "armswissbank_q4792453": {
+      "slug": "armswissbank_q4792453",
+      "title": "Արմսվիսբանկ",
+      "title_en": "ArmSwissBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/armswissbank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "armswissbank-9c44ae",
+        "wikidata": "Q4792453"
+      }
+    },
+    "artsakhbank_q4070920": {
+      "slug": "artsakhbank_q4070920",
+      "title": "Արցախբանկ",
+      "title_en": "Artsakhbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/artsakhbank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "artsakhbank-9c44ae",
+        "wikidata": "Q4070920"
+      }
+    },
+    "byblosbankarmenia_q117622807": {
+      "slug": "byblosbankarmenia_q117622807",
+      "title": "Բիբլոս Բանկ Արմենիա",
+      "title_en": "Byblos Bank Armenia",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/byblosbankarmenia-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "byblosbankarmenia-9c44ae",
+        "wikidata": "Q117622807"
+      }
+    },
+    "conversebank_q116032580": {
+      "slug": "conversebank_q116032580",
+      "title": "Կոնվերս Բանկ",
+      "title_en": "Converse Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conversebank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "conversebank-9c44ae",
+        "wikidata": "Q116032580"
+      }
+    },
+    "evocabank_q17765349": {
+      "slug": "evocabank_q17765349",
+      "title": "Էվոկաբանկ",
+      "title_en": "Evocabank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evocabank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "evocabank-9c44ae",
+        "wikidata": "Q17765349"
+      }
+    },
+    "fastbank_q117804528": {
+      "slug": "fastbank_q117804528",
+      "title": "Ֆասթ Բանկ",
+      "title_en": "Fast Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastbank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fastbank-9c44ae",
+        "wikidata": "Q117804528"
+      }
+    },
+    "idbank_q19604320": {
+      "slug": "idbank_q19604320",
+      "title": "ԱյԴի Բանկ",
+      "title_en": "ID Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/idbank-9c44ae.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "idbank-9c44ae",
+        "wikidata": "Q19604320"
+      }
+    },
+    "inecobank_q55614443": {
+      "slug": "inecobank_q55614443",
+      "title": "Ինեկոբանկ",
+      "title_en": "Inecobank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inecobank-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "inecobank-9c44ae",
+        "wikidata": "Q55614443"
+      }
+    },
+    "mellatbank_q116224526": {
+      "slug": "mellatbank_q116224526",
+      "title": "Մելլաթ Բանկ",
+      "title_en": "Mellat Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mellatbank-9c44ae",
+        "wikidata": "Q116224526"
+      }
+    },
+    "unibank_q116033349": {
+      "slug": "unibank_q116033349",
+      "title": "Յունիբանկ",
+      "title_en": "Unibank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unibank-9c44ae",
+        "wikidata": "Q116033349"
+      }
+    },
+    "vtbarmenia_q85983660": {
+      "slug": "vtbarmenia_q85983660",
+      "title": "ՎՏԲ",
+      "title_en": "VTB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vtb-9c44ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vtb-9c44ae",
+        "wikidata": "Q85983660"
+      }
+    },
+    "colizeum_q139567421": {
+      "slug": "colizeum_q139567421",
+      "title": "Colizeum",
+      "title_en": "Colizeum",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "colizeum-2ed04c",
+        "wikidata": "Q139567421"
+      }
+    },
+    "teamenergy_q137431258": {
+      "slug": "teamenergy_q137431258",
+      "title": "Թիմ էներջի",
+      "title_en": "Team Energy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "teamenergy-117e9d",
+        "wikidata": "Q137431258"
+      }
+    },
     "artlunch_q138317516": {
       "slug": "artlunch_q138317516",
       "title": "Art Lunch",
-      "short_name": "Art Lunch",
-      "badge_text": "A",
+      "title_en": "Art Lunch",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Art Lunch"
-      ],
-      "keywords": [
-        "Art Lunch"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/artlunch-58d77e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "artlunch-58d77e",
         "wikidata": "Q138317516"
       }
     },
+    "alfapharmarmenia_q118323909": {
+      "slug": "alfapharmarmenia_q118323909",
+      "title": "Ալֆա Ֆարմ",
+      "title_en": "Alfa Pharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alfapharm-447e41.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alfapharm-447e41",
+        "wikidata": "Q118323909"
+      }
+    },
+    "gedeonrichterarmenia_q138454503": {
+      "slug": "gedeonrichterarmenia_q138454503",
+      "title": "Գեդեոն Ռիխտեր",
+      "title_en": "Gedeon Richter",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gedeonrichter-447e41.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gedeonrichter-447e41",
+        "wikidata": "Q138454503"
+      }
+    },
+    "natalipharm_q118323556": {
+      "slug": "natalipharm_q118323556",
+      "title": "Նատալի ֆարմ",
+      "title_en": "Natali Pharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natalipharm-447e41.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "natalipharm-447e41",
+        "wikidata": "Q118323556"
+      }
+    },
+    "theopharma_q138436683": {
+      "slug": "theopharma_q138436683",
+      "title": "Theopharma",
+      "title_en": "Theopharma",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theopharma-447e41.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "theopharma-447e41",
+        "wikidata": "Q138436683"
+      }
+    },
+    "tonuspharm_q118727363": {
+      "slug": "tonuspharm_q118727363",
+      "title": "Tonus Pharm",
+      "title_en": "Tonus Pharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tonuspharm-447e41.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tonuspharm-447e41",
+        "wikidata": "Q118727363"
+      }
+    },
+    "vagapharm_q123378075": {
+      "slug": "vagapharm_q123378075",
+      "title": "Վագա Ֆարմ",
+      "title_en": "Vaga Pharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vagapharm-447e41.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vagapharm-447e41",
+        "wikidata": "Q123378075"
+      }
+    },
     "karas_q118347445": {
       "slug": "karas_q118347445",
-      "title": "Karas",
-      "short_name": "Karas",
-      "badge_text": "K",
+      "title": "Կարաս",
+      "title_en": "Karas",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Karas",
-        "Կարաս"
-      ],
-      "keywords": [
-        "Karas",
-        "Կարաս"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karas-86098b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "karas-86098b",
         "wikidata": "Q118347445"
@@ -55,21 +387,12 @@
     "taquierialoscomales_q120985955": {
       "slug": "taquierialoscomales_q120985955",
       "title": "Taquieria Los Comales",
-      "short_name": "Taquieria ",
-      "badge_text": "T",
+      "title_en": "Taquieria Los Comales",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Taquieria Los Comales"
-      ],
-      "keywords": [
-        "Taquieria Los Comales"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taquierialoscomales-86098b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "taquierialoscomales-86098b",
         "wikidata": "Q120985955"
@@ -77,27 +400,114 @@
     },
     "tashirpizza_q118347431": {
       "slug": "tashirpizza_q118347431",
-      "title": "Tashir Pizza",
-      "short_name": "Tashir Piz",
-      "badge_text": "T",
+      "title": "Տաշիր պիցցա",
+      "title_en": "Tashir Pizza",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Tashir Pizza",
-        "Տաշիր պիցցա"
-      ],
-      "keywords": [
-        "Tashir Pizza",
-        "Տաշիր պիցցա"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tashirpizza-86098b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tashirpizza-86098b",
         "wikidata": "Q118347431"
+      }
+    },
+    "cps": {
+      "slug": "cps",
+      "title": "CPS",
+      "title_en": "CPS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cps-f3a579",
+        "wikidata": ""
+      }
+    },
+    "flash": {
+      "slug": "flash",
+      "title": "Flash",
+      "title_en": "Flash",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flash-9021ca",
+        "wikidata": ""
+      }
+    },
+    "7a81d4f3a579": {
+      "slug": "7a81d4f3a579",
+      "title": "Ֆլեշ",
+      "title_en": "Ֆլեշ",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "7a81d4-f3a579",
+        "wikidata": ""
+      }
+    },
+    "easypayarmenia_q117840019": {
+      "slug": "easypayarmenia_q117840019",
+      "title": "Իզի Փեյ",
+      "title_en": "Easy Pay",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easypay-15d44b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "easypay-15d44b",
+        "wikidata": "Q117840019"
+      }
+    },
+    "fastshift_q118289125": {
+      "slug": "fastshift_q118289125",
+      "title": "Ֆասթ Շիֆթ",
+      "title_en": "Fast Shift",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastshift-15d44b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fastshift-15d44b",
+        "wikidata": "Q118289125"
+      }
+    },
+    "idram_q13052991": {
+      "slug": "idram_q13052991",
+      "title": "Իդրամ",
+      "title_en": "Idram",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/idram-15d44b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "idram-15d44b",
+        "wikidata": "Q13052991"
+      }
+    },
+    "telcellarmenia_q117840236": {
+      "slug": "telcellarmenia_q117840236",
+      "title": "ԹելՍել",
+      "title_en": "Telcell",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telcell-15d44b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "telcell-15d44b",
+        "wikidata": "Q117840236"
       }
     }
   }

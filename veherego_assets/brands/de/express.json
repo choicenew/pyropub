@@ -1,27 +1,1532 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 11,
+  "country": "de",
+  "category": "express",
+  "total_brands": 119,
   "brand_aliases": {
+    "deutschevermgensberatung_q320111": {
+      "slug": "deutschevermgensberatung_q320111",
+      "title": "Deutsche Vermögensberatung",
+      "title_en": "Deutsche Vermögensberatung",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschevermogensberatung-04d559.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "deutschevermogensberatung-04d559",
+        "wikidata": "Q320111"
+      }
+    },
+    "mlp_q516061": {
+      "slug": "mlp_q516061",
+      "title": "MLP",
+      "title_en": "MLP",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mlp-04d559.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mlp-04d559",
+        "wikidata": "Q516061"
+      }
+    },
+    "ovbholding_q318670": {
+      "slug": "ovbholding_q318670",
+      "title": "OVB Holding",
+      "title_en": "OVB Holding",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ovbholding-04d559.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ovbholding-04d559",
+        "wikidata": "Q318670"
+      }
+    },
+    "swisslifeselect_q300213": {
+      "slug": "swisslifeselect_q300213",
+      "title": "Swiss Life Select",
+      "title_en": "Swiss Life Select",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslifeselect-1e9d61.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisslifeselect-1e9d61",
+        "wikidata": "Q300213"
+      }
+    },
+    "dgb_q586581": {
+      "slug": "dgb_q586581",
+      "title": "DGB",
+      "title_en": "DGB",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dgb-321fbc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dgb-321fbc",
+        "wikidata": "Q586581"
+      }
+    },
+    "evg_q1311386": {
+      "slug": "evg_q1311386",
+      "title": "EVG",
+      "title_en": "EVG",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evg-321fbc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "evg-321fbc",
+        "wikidata": "Q1311386"
+      }
+    },
+    "gdp_q314080": {
+      "slug": "gdp_q314080",
+      "title": "GdP",
+      "title_en": "GdP",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gdp-321fbc.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gdp-321fbc",
+        "wikidata": "Q314080"
+      }
+    },
+    "gew_q325778": {
+      "slug": "gew_q325778",
+      "title": "GEW",
+      "title_en": "GEW",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gew-321fbc.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gew-321fbc",
+        "wikidata": "Q325778"
+      }
+    },
+    "igbau_q896472": {
+      "slug": "igbau_q896472",
+      "title": "IG BAU",
+      "title_en": "IG BAU",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igbau-321fbc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "igbau-321fbc",
+        "wikidata": "Q896472"
+      }
+    },
+    "igbce_q871045": {
+      "slug": "igbce_q871045",
+      "title": "IG BCE",
+      "title_en": "IG BCE",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igbce-321fbc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "igbce-321fbc",
+        "wikidata": "Q871045"
+      }
+    },
+    "igmetall_q694821": {
+      "slug": "igmetall_q694821",
+      "title": "IG Metall",
+      "title_en": "IG Metall",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igmetall-321fbc.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "igmetall-321fbc",
+        "wikidata": "Q694821"
+      }
+    },
+    "ngg_q896313": {
+      "slug": "ngg_q896313",
+      "title": "NGG",
+      "title_en": "NGG",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ngg-321fbc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ngg-321fbc",
+        "wikidata": "Q896313"
+      }
+    },
+    "verdi_q547951": {
+      "slug": "verdi_q547951",
+      "title": "ver.di",
+      "title_en": "ver.di",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/verdi-321fbc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "verdi-321fbc",
+        "wikidata": "Q547951"
+      }
+    },
+    "agenturfrarbeit_q1478016": {
+      "slug": "agenturfrarbeit_q1478016",
+      "title": "Agentur für Arbeit",
+      "title_en": "Agentur für Arbeit",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agenturfurarbeit-d474df.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "agenturfurarbeit-d474df",
+        "wikidata": "Q1478016"
+      }
+    },
+    "jobcenter_q56292847": {
+      "slug": "jobcenter_q56292847",
+      "title": "Jobcenter",
+      "title_en": "Jobcenter",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jobcenter-d474df.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jobcenter-d474df",
+        "wikidata": "Q56292847"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "tempoteam_q1996250": {
+      "slug": "tempoteam_q1996250",
+      "title": "Tempo-Team",
+      "title_en": "Tempo-Team",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempoteam-a6688c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tempoteam-a6688c",
+        "wikidata": "Q1996250"
+      }
+    },
+    "falcimmobilien_q107983152": {
+      "slug": "falcimmobilien_q107983152",
+      "title": "FALC Immobilien",
+      "title_en": "FALC Immobilien",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/falcimmobilien-2b2e07.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "falcimmobilien-2b2e07",
+        "wikidata": "Q107983152"
+      }
+    },
+    "mcmakler_q102068517": {
+      "slug": "mcmakler_q102068517",
+      "title": "McMakler",
+      "title_en": "McMakler",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcmakler-2b2e07.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mcmakler-2b2e07",
+        "wikidata": "Q102068517"
+      }
+    },
+    "vonpollimmobilien_q96026696": {
+      "slug": "vonpollimmobilien_q96026696",
+      "title": "Von Poll Immobilien",
+      "title_en": "Von Poll Immobilien",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vonpollimmobilien-0fbcd3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vonpollimmobilien-0fbcd3",
+        "wikidata": "Q96026696"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "aokbadenwrttemberg_q295933": {
+      "slug": "aokbadenwrttemberg_q295933",
+      "title": "AOK Baden-Württemberg",
+      "title_en": "AOK Baden-Württemberg",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aokbadenwurttemberg-acef14.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aokbadenwurttemberg-acef14",
+        "wikidata": "Q295933"
+      }
+    },
+    "aokbayern_q295937": {
+      "slug": "aokbayern_q295937",
+      "title": "AOK Bayern",
+      "title_en": "AOK Bayern",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aokbayern-de4e1c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aokbayern-de4e1c",
+        "wikidata": "Q295937"
+      }
+    },
+    "aokbremenbremerhaven_q2632327": {
+      "slug": "aokbremenbremerhaven_q2632327",
+      "title": "AOK Bremen/Bremerhaven",
+      "title_en": "AOK Bremen/Bremerhaven",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aokbremenbremerhaven-b4fc7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aokbremenbremerhaven-b4fc7f",
+        "wikidata": "Q2632327"
+      }
+    },
+    "aokhessen_q295942": {
+      "slug": "aokhessen_q295942",
+      "title": "AOK Hessen",
+      "title_en": "AOK Hessen",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aokhessen-0f1fff.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aokhessen-0f1fff",
+        "wikidata": "Q295942"
+      }
+    },
+    "aokniedersachsen_q295946": {
+      "slug": "aokniedersachsen_q295946",
+      "title": "AOK Niedersachsen",
+      "title_en": "AOK Niedersachsen",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aokniedersachsen-4afeed.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aokniedersachsen-4afeed",
+        "wikidata": "Q295946"
+      }
+    },
+    "aoknordost_q295947": {
+      "slug": "aoknordost_q295947",
+      "title": "AOK Nordost",
+      "title_en": "AOK Nordost",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aoknordost-b4a1fb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aoknordost-b4a1fb",
+        "wikidata": "Q295947"
+      }
+    },
+    "aoknordwest_q295953": {
+      "slug": "aoknordwest_q295953",
+      "title": "AOK Nordwest",
+      "title_en": "AOK Nordwest",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aoknordwest-e1ae53.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aoknordwest-e1ae53",
+        "wikidata": "Q295953"
+      }
+    },
+    "aokplus_q295954": {
+      "slug": "aokplus_q295954",
+      "title": "AOK Plus",
+      "title_en": "AOK Plus",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aokplus-6e8fbd.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aokplus-6e8fbd",
+        "wikidata": "Q295954"
+      }
+    },
+    "aokrheinlandpfalzsaarland_q2632331": {
+      "slug": "aokrheinlandpfalzsaarland_q2632331",
+      "title": "AOK Rheinland-Pfalz/Saarland",
+      "title_en": "AOK Rheinland-Pfalz/Saarland",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aokrheinlandpfalzsaarland-a99a7b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aokrheinlandpfalzsaarland-a99a7b",
+        "wikidata": "Q2632331"
+      }
+    },
+    "aokrheinlandhamburg_q1000317": {
+      "slug": "aokrheinlandhamburg_q1000317",
+      "title": "AOK Rheinland/Hamburg",
+      "title_en": "AOK Rheinland/Hamburg",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aokrheinlandhamburg-2c6953.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aokrheinlandhamburg-2c6953",
+        "wikidata": "Q1000317"
+      }
+    },
+    "aoksachsenanhalt_q295961": {
+      "slug": "aoksachsenanhalt_q295961",
+      "title": "AOK Sachsen-Anhalt",
+      "title_en": "AOK Sachsen-Anhalt",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aoksachsenanhalt-dc3c84.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aoksachsenanhalt-dc3c84",
+        "wikidata": "Q295961"
+      }
+    },
+    "arag_q296380": {
+      "slug": "arag_q296380",
+      "title": "ARAG",
+      "title_en": "ARAG",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arag-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "arag-422e71",
+        "wikidata": "Q296380"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "bahnbkk_q800256": {
+      "slug": "bahnbkk_q800256",
+      "title": "Bahn-BKK",
+      "title_en": "Bahn-BKK",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bahnbkk-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bahnbkk-422e71",
+        "wikidata": "Q800256"
+      }
+    },
+    "bloise_q457912": {
+      "slug": "bloise_q457912",
+      "title": "Bâloise",
+      "title_en": "Bâloise",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baloise-d9a3dd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baloise-d9a3dd",
+        "wikidata": "Q457912"
+      }
+    },
+    "barmenia_q808353": {
+      "slug": "barmenia_q808353",
+      "title": "Barmenia",
+      "title_en": "Barmenia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barmenia-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "barmenia-422e71",
+        "wikidata": "Q808353"
+      }
+    },
+    "barmer_q808361": {
+      "slug": "barmer_q808361",
+      "title": "Barmer",
+      "title_en": "Barmer",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barmer-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "barmer-422e71",
+        "wikidata": "Q808361"
+      }
+    },
+    "bgv_q795911": {
+      "slug": "bgv_q795911",
+      "title": "BGV",
+      "title_en": "BGV",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bgv-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bgv-422e71",
+        "wikidata": "Q795911"
+      }
+    },
+    "biggesundheit_q1006208": {
+      "slug": "biggesundheit_q1006208",
+      "title": "BIG Gesundheit",
+      "title_en": "BIG Gesundheit",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biggesundheit-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "biggesundheit-422e71",
+        "wikidata": "Q1006208"
+      }
+    },
+    "bkkvbu_q796109": {
+      "slug": "bkkvbu_q796109",
+      "title": "BKK-VBU",
+      "title_en": "BKK-VBU",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bkkvbu-422e71",
+        "wikidata": "Q796109"
+      }
+    },
+    "concordia_q126478569": {
+      "slug": "concordia_q126478569",
+      "title": "Concordia",
+      "title_en": "Concordia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/concordia-788bac.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "concordia-788bac",
+        "wikidata": "Q126478569"
+      }
+    },
+    "continentale_q1128861": {
+      "slug": "continentale_q1128861",
+      "title": "Continentale",
+      "title_en": "Continentale",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/continentale-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "continentale-422e71",
+        "wikidata": "Q1128861"
+      }
+    },
+    "dakgesundheit_q1151671": {
+      "slug": "dakgesundheit_q1151671",
+      "title": "DAK Gesundheit",
+      "title_en": "DAK Gesundheit",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dakgesundheit-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dakgesundheit-422e71",
+        "wikidata": "Q1151671"
+      }
+    },
+    "debeka_q1181452": {
+      "slug": "debeka_q1181452",
+      "title": "Debeka",
+      "title_en": "Debeka",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debeka-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "debeka-422e71",
+        "wikidata": "Q1181452"
+      }
+    },
+    "devk_q1153049": {
+      "slug": "devk_q1153049",
+      "title": "DEVK",
+      "title_en": "DEVK",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/devk-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "devk-422e71",
+        "wikidata": "Q1153049"
+      }
+    },
+    "dkv_q14552531": {
+      "slug": "dkv_q14552531",
+      "title": "DKV",
+      "title_en": "DKV",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dkv-422e71",
+        "wikidata": "Q14552531"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "gothaer_q28154519": {
+      "slug": "gothaer_q28154519",
+      "title": "Gothaer",
+      "title_en": "Gothaer",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gothaer-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gothaer-422e71",
+        "wikidata": "Q28154519"
+      }
+    },
+    "hansemerkur_q1273099": {
+      "slug": "hansemerkur_q1273099",
+      "title": "HanseMerkur",
+      "title_en": "HanseMerkur",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hansemerkur-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hansemerkur-422e71",
+        "wikidata": "Q1273099"
+      }
+    },
+    "hdi_q17322068": {
+      "slug": "hdi_q17322068",
+      "title": "HDI",
+      "title_en": "HDI",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hdi-422e71.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hdi-422e71",
+        "wikidata": "Q17322068"
+      }
+    },
+    "helvetia_q933766": {
+      "slug": "helvetia_q933766",
+      "title": "Helvetia",
+      "title_en": "Helvetia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/helvetia-f9490e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "helvetia-f9490e",
+        "wikidata": "Q933766"
+      }
+    },
+    "hkkkrankenkasse_q1621379": {
+      "slug": "hkkkrankenkasse_q1621379",
+      "title": "hkk Krankenkasse",
+      "title_en": "hkk Krankenkasse",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hkkkrankenkasse-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hkkkrankenkasse-422e71",
+        "wikidata": "Q1621379"
+      }
+    },
+    "hukcoburg_q1566111": {
+      "slug": "hukcoburg_q1566111",
+      "title": "HUK-Coburg",
+      "title_en": "HUK-Coburg",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hukcoburg-422e71",
+        "wikidata": "Q1566111"
+      }
+    },
+    "ikkdieinnovationskasse_q1664259": {
+      "slug": "ikkdieinnovationskasse_q1664259",
+      "title": "IKK - Die Innovationskasse",
+      "title_en": "IKK - Die Innovationskasse",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikkdieinnovationskasse-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikkdieinnovationskasse-422e71",
+        "wikidata": "Q1664259"
+      }
+    },
+    "ikkbrandenburgundberlin_q1664257": {
+      "slug": "ikkbrandenburgundberlin_q1664257",
+      "title": "IKK Brandenburg und Berlin",
+      "title_en": "IKK Brandenburg und Berlin",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikkbrandenburgundberlin-89228e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikkbrandenburgundberlin-89228e",
+        "wikidata": "Q1664257"
+      }
+    },
+    "ikkclassic_q1653993": {
+      "slug": "ikkclassic_q1653993",
+      "title": "IKK classic",
+      "title_en": "IKK classic",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikkclassic-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikkclassic-422e71",
+        "wikidata": "Q1653993"
+      }
+    },
+    "ikkgesundplus_q1637739": {
+      "slug": "ikkgesundplus_q1637739",
+      "title": "IKK gesund plus",
+      "title_en": "IKK gesund plus",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikkgesundplus-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikkgesundplus-422e71",
+        "wikidata": "Q1637739"
+      }
+    },
+    "ikksdwest_q1321418": {
+      "slug": "ikksdwest_q1321418",
+      "title": "IKK Südwest",
+      "title_en": "IKK Südwest",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikksudwest-20a36d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikksudwest-20a36d",
+        "wikidata": "Q1321418"
+      }
+    },
+    "kkh_q2740121": {
+      "slug": "kkh_q2740121",
+      "title": "KKH",
+      "title_en": "KKH",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kkh-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kkh-422e71",
+        "wikidata": "Q2740121"
+      }
+    },
+    "knappschaft_q1313465": {
+      "slug": "knappschaft_q1313465",
+      "title": "Knappschaft",
+      "title_en": "Knappschaft",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/knappschaft-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "knappschaft-422e71",
+        "wikidata": "Q1313465"
+      }
+    },
+    "lvm_q1798429": {
+      "slug": "lvm_q1798429",
+      "title": "LVM",
+      "title_en": "LVM",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lvm-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lvm-422e71",
+        "wikidata": "Q1798429"
+      }
+    },
+    "mecklenburgische_q1915735": {
+      "slug": "mecklenburgische_q1915735",
+      "title": "Mecklenburgische",
+      "title_en": "Mecklenburgische",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mecklenburgische-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mecklenburgische-422e71",
+        "wikidata": "Q1915735"
+      }
+    },
+    "nrnbergerversicherung_q1792071": {
+      "slug": "nrnbergerversicherung_q1792071",
+      "title": "Nürnberger",
+      "title_en": "Nürnberger",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nurnberger-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nurnberger-422e71",
+        "wikidata": "Q1792071"
+      }
+    },
+    "vb_q294253": {
+      "slug": "vb_q294253",
+      "title": "ÖVB",
+      "title_en": "ÖVB",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ovb-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ovb-422e71",
+        "wikidata": "Q294253"
+      }
+    },
+    "provinzial_q2114066": {
+      "slug": "provinzial_q2114066",
+      "title": "Provinzial",
+      "title_en": "Provinzial",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/provinzial-422e71.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "provinzial-422e71",
+        "wikidata": "Q2114066"
+      }
+    },
+    "rvversicherung_q2123778": {
+      "slug": "rvversicherung_q2123778",
+      "title": "R+V Versicherung",
+      "title_en": "R+V Versicherung",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rvversicherung-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rvversicherung-422e71",
+        "wikidata": "Q2123778"
+      }
+    },
+    "signaliduna_q2285066": {
+      "slug": "signaliduna_q2285066",
+      "title": "Signal Iduna",
+      "title_en": "Signal Iduna",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/signaliduna-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "signaliduna-422e71",
+        "wikidata": "Q2285066"
+      }
+    },
+    "svsparkassenversicherung_q2208645": {
+      "slug": "svsparkassenversicherung_q2208645",
+      "title": "SV SparkassenVersicherung",
+      "title_en": "SV SparkassenVersicherung",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/svsparkassenversicherung-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "svsparkassenversicherung-422e71",
+        "wikidata": "Q2208645"
+      }
+    },
+    "swisslife_q667350": {
+      "slug": "swisslife_q667350",
+      "title": "Swiss Life",
+      "title_en": "Swiss Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslife-aab9d2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisslife-aab9d2",
+        "wikidata": "Q667350"
+      }
+    },
+    "technikerkrankenkasse_q607531": {
+      "slug": "technikerkrankenkasse_q607531",
+      "title": "Techniker Krankenkasse",
+      "title_en": "Techniker Krankenkasse",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/technikerkrankenkasse-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "technikerkrankenkasse-422e71",
+        "wikidata": "Q607531"
+      }
+    },
+    "universa_q1353907": {
+      "slug": "universa_q1353907",
+      "title": "Universa",
+      "title_en": "Universa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/universa-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "universa-422e71",
+        "wikidata": "Q1353907"
+      }
+    },
+    "vgh_q2505942": {
+      "slug": "vgh_q2505942",
+      "title": "VGH",
+      "title_en": "VGH",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vgh-422e71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vgh-422e71",
+        "wikidata": "Q2505942"
+      }
+    },
+    "wrttembergische_q1412465": {
+      "slug": "wrttembergische_q1412465",
+      "title": "Württembergische",
+      "title_en": "Württembergische",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wurttembergische-422e71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wurttembergische-422e71",
+        "wikidata": "Q1412465"
+      }
+    },
+    "wstenrot_q2597123": {
+      "slug": "wstenrot_q2597123",
+      "title": "Wüstenrot",
+      "title_en": "Wüstenrot",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wustenrot-4e7038.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wustenrot-4e7038",
+        "wikidata": "Q2597123"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "designoffices_q107987553": {
+      "slug": "designoffices_q107987553",
+      "title": "Design Offices",
+      "title_en": "Design Offices",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/designoffices-abbc19.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "designoffices-abbc19",
+        "wikidata": "Q107987553"
+      }
+    },
+    "techspace_q118610639": {
+      "slug": "techspace_q118610639",
+      "title": "Techspace",
+      "title_en": "Techspace",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/techspace-8a2e48.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "techspace-8a2e48",
+        "wikidata": "Q118610639"
+      }
+    },
+    "tuesdaycoworking_q44159166": {
+      "slug": "tuesdaycoworking_q44159166",
+      "title": "tuesday coworking",
+      "title_en": "tuesday coworking",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuesdaycoworking-03a422.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tuesdaycoworking-03a422",
+        "wikidata": "Q44159166"
+      }
+    },
+    "synaxon_q2375651": {
+      "slug": "synaxon_q2375651",
+      "title": "Synaxon",
+      "title_en": "Synaxon",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synaxon-e9ad7a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "synaxon-e9ad7a",
+        "wikidata": "Q2375651"
+      }
+    },
+    "bndnis90diegrnen_q49766": {
+      "slug": "bndnis90diegrnen_q49766",
+      "title": "Bündnis 90/Die Grünen",
+      "title_en": "Bündnis 90/Die Grünen",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bundnis90diegrunen-212c6d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bundnis90diegrunen-212c6d",
+        "wikidata": "Q49766"
+      }
+    },
+    "cdu_q49762": {
+      "slug": "cdu_q49762",
+      "title": "CDU",
+      "title_en": "CDU",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cdu-212c6d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cdu-212c6d",
+        "wikidata": "Q49762"
+      }
+    },
+    "csu_q49763": {
+      "slug": "csu_q49763",
+      "title": "CSU",
+      "title_en": "CSU",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/csu-212c6d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "csu-212c6d",
+        "wikidata": "Q49763"
+      }
+    },
+    "dielinke_q49764": {
+      "slug": "dielinke_q49764",
+      "title": "Die Linke",
+      "title_en": "Die Linke",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dielinke-212c6d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dielinke-212c6d",
+        "wikidata": "Q49764"
+      }
+    },
+    "fdp_q13124": {
+      "slug": "fdp_q13124",
+      "title": "FDP",
+      "title_en": "FDP",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fdp-212c6d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fdp-212c6d",
+        "wikidata": "Q13124"
+      }
+    },
+    "spd_q49768": {
+      "slug": "spd_q49768",
+      "title": "SPD",
+      "title_en": "SPD",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "spd-212c6d",
+        "wikidata": "Q49768"
+      }
+    },
+    "lohnsteuerhilfebadenwrttemberg_q76215293": {
+      "slug": "lohnsteuerhilfebadenwrttemberg_q76215293",
+      "title": "Lohnsteuerhilfe Baden-Württemberg",
+      "title_en": "Lohnsteuerhilfe Baden-Württemberg",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lohnsteuerhilfebadenwurttemberg-7fe1b3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lohnsteuerhilfebadenwurttemberg-7fe1b3",
+        "wikidata": "Q76215293"
+      }
+    },
+    "lohnsteuerhilfebayern_q1868258": {
+      "slug": "lohnsteuerhilfebayern_q1868258",
+      "title": "Lohnsteuerhilfe Bayern",
+      "title_en": "Lohnsteuerhilfe Bayern",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lohnsteuerhilfebayern-8e1f0d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lohnsteuerhilfebayern-8e1f0d",
+        "wikidata": "Q1868258"
+      }
+    },
+    "steuerring_q1868230": {
+      "slug": "steuerring_q1868230",
+      "title": "Steuerring",
+      "title_en": "Steuerring",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steuerring-02f00c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "steuerring-02f00c",
+        "wikidata": "Q1868230"
+      }
+    },
+    "vereinigtelohnsteuerhilfe_q15852617": {
+      "slug": "vereinigtelohnsteuerhilfe_q15852617",
+      "title": "Vereinigte Lohnsteuerhilfe",
+      "title_en": "Vereinigte Lohnsteuerhilfe",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vereinigtelohnsteuerhilfe-02f00c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vereinigtelohnsteuerhilfe-02f00c",
+        "wikidata": "Q15852617"
+      }
+    },
+    "ace_q784865": {
+      "slug": "ace_q784865",
+      "title": "ACE",
+      "title_en": "ACE",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ace-496920.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ace-496920",
+        "wikidata": "Q784865"
+      }
+    },
+    "acv_q288866": {
+      "slug": "acv_q288866",
+      "title": "ACV",
+      "title_en": "ACV",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acv-496920.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "acv-496920",
+        "wikidata": "Q288866"
+      }
+    },
+    "adac_q289953": {
+      "slug": "adac_q289953",
+      "title": "ADAC",
+      "title_en": "ADAC",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adac-496920.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "adac-496920",
+        "wikidata": "Q289953"
+      }
+    },
+    "adfc_q24349": {
+      "slug": "adfc_q24349",
+      "title": "ADFC",
+      "title_en": "ADFC",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adfc-496920.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "adfc-496920",
+        "wikidata": "Q24349"
+      }
+    },
+    "arbeitersamariterbund_q627071": {
+      "slug": "arbeitersamariterbund_q627071",
+      "title": "Arbeiter-Samariter-Bund",
+      "title_en": "Arbeiter-Samariter-Bund",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitersamariterbund-496920.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "arbeitersamariterbund-496920",
+        "wikidata": "Q627071"
+      }
+    },
+    "arbeiterwohlfahrt_q627256": {
+      "slug": "arbeiterwohlfahrt_q627256",
+      "title": "Arbeiterwohlfahrt",
+      "title_en": "Arbeiterwohlfahrt",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "arbeiterwohlfahrt-496920",
+        "wikidata": "Q627256"
+      }
+    },
+    "bund_q897009": {
+      "slug": "bund_q897009",
+      "title": "BUND",
+      "title_en": "BUND",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bund-496920.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bund-496920",
+        "wikidata": "Q897009"
+      }
+    },
+    "deutschesroteskreuz_q694104": {
+      "slug": "deutschesroteskreuz_q694104",
+      "title": "Deutsches Rotes Kreuz",
+      "title_en": "Deutsches Rotes Kreuz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschesroteskreuz-496920.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "deutschesroteskreuz-496920",
+        "wikidata": "Q694104"
+      }
+    },
+    "diakonie_q126501": {
+      "slug": "diakonie_q126501",
+      "title": "Diakonie",
+      "title_en": "Diakonie",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/diakonie-496920.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "diakonie-496920",
+        "wikidata": "Q126501"
+      }
+    },
+    "dlrg_q871679": {
+      "slug": "dlrg_q871679",
+      "title": "DLRG",
+      "title_en": "DLRG",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dlrg-496920.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dlrg-496920",
+        "wikidata": "Q871679"
+      }
+    },
+    "johanniterunfallhilfe_q14751117": {
+      "slug": "johanniterunfallhilfe_q14751117",
+      "title": "Johanniter-Unfall-Hilfe",
+      "title_en": "Johanniter-Unfall-Hilfe",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johanniterunfallhilfe-496920.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "johanniterunfallhilfe-496920",
+        "wikidata": "Q14751117"
+      }
+    },
+    "malteserhilfsdienst_q1318397": {
+      "slug": "malteserhilfsdienst_q1318397",
+      "title": "Malteser Hilfsdienst",
+      "title_en": "Malteser Hilfsdienst",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malteserhilfsdienst-496920.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "malteserhilfsdienst-496920",
+        "wikidata": "Q1318397"
+      }
+    },
+    "nabu_q516755": {
+      "slug": "nabu_q516755",
+      "title": "NABU",
+      "title_en": "NABU",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nabu-496920.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nabu-496920",
+        "wikidata": "Q516755"
+      }
+    },
+    "vcd_q2516162": {
+      "slug": "vcd_q2516162",
+      "title": "VCD",
+      "title_en": "VCD",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vcd-496920.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vcd-496920",
+        "wikidata": "Q2516162"
+      }
+    },
+    "beckerbttnerheld_q22910047": {
+      "slug": "beckerbttnerheld_q22910047",
+      "title": "Becker Büttner Held",
+      "title_en": "Becker Büttner Held",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beckerbuttnerheld-8a02aa.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "beckerbuttnerheld-8a02aa",
+        "wikidata": "Q22910047"
+      }
+    },
+    "grg_q105094171": {
+      "slug": "grg_q105094171",
+      "title": "Görg",
+      "title_en": "Görg",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gorg-8a02aa.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gorg-8a02aa",
+        "wikidata": "Q105094171"
+      }
+    },
+    "gskstockmann_q1486954": {
+      "slug": "gskstockmann_q1486954",
+      "title": "GSK Stockmann",
+      "title_en": "GSK Stockmann",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gskstockmann-8a02aa.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gskstockmann-8a02aa",
+        "wikidata": "Q1486954"
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -30,21 +1535,12 @@
     "nacex_q126366376": {
       "slug": "nacex_q126366376",
       "title": "Nacex",
-      "short_name": "Nacex",
-      "badge_text": "N",
+      "title_en": "Nacex",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Nacex"
-      ],
-      "keywords": [
-        "Nacex"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nacex-10ef8b",
         "wikidata": "Q126366376"
@@ -53,21 +1549,12 @@
     "deinfach_q134622119": {
       "slug": "deinfach_q134622119",
       "title": "DeinFach",
-      "short_name": "DeinFach",
-      "badge_text": "D",
+      "title_en": "DeinFach",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DeinFach"
-      ],
-      "keywords": [
-        "DeinFach"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deinfach-83cc4d.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "deinfach-83cc4d",
         "wikidata": "Q134622119"
@@ -76,21 +1563,12 @@
     "deutschepost_q157645": {
       "slug": "deutschepost_q157645",
       "title": "Deutsche Post",
-      "short_name": "Deutsche P",
-      "badge_text": "D",
+      "title_en": "Deutsche Post",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Deutsche Post"
-      ],
-      "keywords": [
-        "Deutsche Post"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deutschepost-83cc4d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "deutschepost-83cc4d",
         "wikidata": "Q157645"
@@ -99,21 +1577,12 @@
     "dhlpackstation_q1766703": {
       "slug": "dhlpackstation_q1766703",
       "title": "DHL Packstation",
-      "short_name": "DHL Packst",
-      "badge_text": "D",
+      "title_en": "DHL Packstation",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DHL Packstation"
-      ],
-      "keywords": [
-        "DHL Packstation"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dhlpackstation-83cc4d",
         "wikidata": "Q1766703"
@@ -122,23 +1591,12 @@
     "dhlpaketbox_q2046604": {
       "slug": "dhlpaketbox_q2046604",
       "title": "DHL Paketbox",
-      "short_name": "DHL Paketb",
-      "badge_text": "D",
+      "title_en": "DHL Paketbox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Paketbox",
-        "DHL Paketbox"
-      ],
-      "keywords": [
-        "Paketbox",
-        "DHL Paketbox"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dhlpaketbox-83cc4d",
         "wikidata": "Q2046604"
@@ -147,21 +1605,12 @@
     "dhlpoststation_q123120984": {
       "slug": "dhlpoststation_q123120984",
       "title": "DHL Poststation",
-      "short_name": "DHL Postst",
-      "badge_text": "D",
+      "title_en": "DHL Poststation",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DHL Poststation"
-      ],
-      "keywords": [
-        "DHL Poststation"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhlpoststation-83cc4d.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dhlpoststation-83cc4d",
         "wikidata": "Q123120984"
@@ -170,21 +1619,12 @@
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -193,21 +1633,12 @@
     "inboxx_q141392107": {
       "slug": "inboxx_q141392107",
       "title": "Inboxx",
-      "short_name": "Inboxx",
-      "badge_text": "I",
+      "title_en": "Inboxx",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Inboxx"
-      ],
-      "keywords": [
-        "Inboxx"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inboxx-83cc4d",
         "wikidata": "Q141392107"
@@ -216,21 +1647,12 @@
     "instabox_q109923726": {
       "slug": "instabox_q109923726",
       "title": "Instabox",
-      "short_name": "Instabox",
-      "badge_text": "I",
+      "title_en": "Instabox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Instabox"
-      ],
-      "keywords": [
-        "Instabox"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "instabox-f97fed",
         "wikidata": "Q109923726"
@@ -239,21 +1661,12 @@
     "myflexbox_q117313525": {
       "slug": "myflexbox_q117313525",
       "title": "myflexbox",
-      "short_name": "myflexbox",
-      "badge_text": "M",
+      "title_en": "myflexbox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "myflexbox"
-      ],
-      "keywords": [
-        "myflexbox"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "myflexbox-4d2310",
         "wikidata": "Q117313525"

@@ -1,5 +1,5 @@
 {
-  "type": "identity",
+  "type": "identity_rules",
   "version": "1.0.0",
   "region": "GLOBAL",
   "identity_cards": [
@@ -15,9 +15,17 @@
         "logo": "brand_cainiao"
       },
       "triggers": {
-        "package_hints": ["com.cainiao.wireless"],
-        "text_triggers": ["菜鸟", "驿站", "取件码"],
-        "regex_patterns": ["([0-9]+-[0-9]+-[0-9]+)"]
+        "package_hints": [
+          "com.cainiao.wireless"
+        ],
+        "text_triggers": [
+          "菜鸟",
+          "驿站",
+          "取件码"
+        ],
+        "regex_patterns": [
+          "([0-9]+-[0-9]+-[0-9]+)"
+        ]
       }
     },
     {
@@ -32,8 +40,14 @@
         "logo": "brand_amazon"
       },
       "triggers": {
-        "package_hints": ["com.amazon.shopping"],
-        "text_triggers": ["Amazon", "Delivery", "Arriving"],
+        "package_hints": [
+          "com.amazon.shopping"
+        ],
+        "text_triggers": [
+          "Amazon",
+          "Delivery",
+          "Arriving"
+        ],
         "regex_patterns": []
       }
     },
@@ -49,8 +63,16 @@
         "logo": "brand_starbucks"
       },
       "triggers": {
-        "package_hints": ["com.starbucks.cn", "com.starbucks.mobilecard"],
-        "text_triggers": ["Starbucks", "星巴克", "啡快", "您的订单已准备就绪"],
+        "package_hints": [
+          "com.starbucks.cn",
+          "com.starbucks.mobilecard"
+        ],
+        "text_triggers": [
+          "Starbucks",
+          "星巴克",
+          "啡快",
+          "您的订单已准备就绪"
+        ],
         "regex_patterns": []
       }
     }

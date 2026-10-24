@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "bo",
+  "category": "supermarket",
+  "total_brands": 8,
   "brand_aliases": {
+    "marathonsportsecuador_q3027516": {
+      "slug": "marathonsportsecuador_q3027516",
+      "title": "Marathon Sports",
+      "title_en": "Marathon Sports",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marathonsports-ce6e12.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "marathonsports-ce6e12",
+        "wikidata": "Q3027516"
+      }
+    },
+    "manaco_q81964197": {
+      "slug": "manaco_q81964197",
+      "title": "Manaco",
+      "title_en": "Manaco",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manaco-c1b94b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "manaco-c1b94b",
+        "wikidata": "Q81964197"
+      }
+    },
+    "totto_q132745694": {
+      "slug": "totto_q132745694",
+      "title": "Totto",
+      "title_en": "Totto",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totto-b66712.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "totto-b66712",
+        "wikidata": "Q132745694"
+      }
+    },
+    "lupo_q48855225": {
+      "slug": "lupo_q48855225",
+      "title": "Lupo",
+      "title_en": "Lupo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lupo-a63afb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lupo-a63afb",
+        "wikidata": "Q48855225"
+      }
+    },
     "hipermaxi_q81968262": {
       "slug": "hipermaxi_q81968262",
       "title": "Hipermaxi",
-      "short_name": "Hipermaxi",
-      "badge_text": "H",
+      "title_en": "Hipermaxi",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Hipermaxi"
-      ],
-      "keywords": [
-        "Hipermaxi"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hipermaxi-cbfbb4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hipermaxi-cbfbb4",
         "wikidata": "Q81968262"
@@ -30,21 +79,12 @@
     "icnorte_q81967653": {
       "slug": "icnorte_q81967653",
       "title": "IC Norte",
-      "short_name": "IC Norte",
-      "badge_text": "I",
+      "title_en": "IC Norte",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "IC Norte"
-      ],
-      "keywords": [
-        "IC Norte"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/icnorte-cbfbb4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "icnorte-cbfbb4",
         "wikidata": "Q81967653"
@@ -53,24 +93,29 @@
     "ketal_q81967299": {
       "slug": "ketal_q81967299",
       "title": "Ketal",
-      "short_name": "Ketal",
-      "badge_text": "K",
+      "title_en": "Ketal",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Ketal"
-      ],
-      "keywords": [
-        "Ketal"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ketal-cbfbb4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ketal-cbfbb4",
         "wikidata": "Q81967299"
+      }
+    },
+    "tigobolivia_q10952410": {
+      "slug": "tigobolivia_q10952410",
+      "title": "Tigo",
+      "title_en": "Tigo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tigo-90790a.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tigo-90790a",
+        "wikidata": "Q10952410"
       }
     }
   }

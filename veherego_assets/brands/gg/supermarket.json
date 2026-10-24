@@ -1,27 +1,188 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "gg",
+  "category": "supermarket",
+  "total_brands": 16,
   "brand_aliases": {
+    "britishredcross_q4970966": {
+      "slug": "britishredcross_q4970966",
+      "title": "British Red Cross",
+      "title_en": "British Red Cross",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/britishredcross-8c30a6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "britishredcross-8c30a6",
+        "wikidata": "Q4970966"
+      }
+    },
+    "cancerresearchuk_q326079": {
+      "slug": "cancerresearchuk_q326079",
+      "title": "Cancer Research UK",
+      "title_en": "Cancer Research UK",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cancerresearchuk-afd1d8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cancerresearchuk-afd1d8",
+        "wikidata": "Q326079"
+      }
+    },
+    "schuh_q7432952": {
+      "slug": "schuh_q7432952",
+      "title": "Schuh",
+      "title_en": "Schuh",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schuh-a4f363.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "schuh-a4f363",
+        "wikidata": "Q7432952"
+      }
+    },
+    "bluediamondgardencentres_q81097207": {
+      "slug": "bluediamondgardencentres_q81097207",
+      "title": "Blue Diamond Garden Centres",
+      "title_en": "Blue Diamond Garden Centres",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluediamondgardencentres-02ecdf.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bluediamondgardencentres-02ecdf",
+        "wikidata": "Q81097207"
+      }
+    },
+    "cook_q113457474": {
+      "slug": "cook_q113457474",
+      "title": "Cook",
+      "title_en": "Cook",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cook-d47c9b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cook-d47c9b",
+        "wikidata": "Q113457474"
+      }
+    },
+    "dorothyperkins_q5298588": {
+      "slug": "dorothyperkins_q5298588",
+      "title": "Dorothy Perkins",
+      "title_en": "Dorothy Perkins",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dorothyperkins-907b92.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dorothyperkins-907b92",
+        "wikidata": "Q5298588"
+      }
+    },
+    "fatface_q5437186": {
+      "slug": "fatface_q5437186",
+      "title": "Fat Face",
+      "title_en": "Fat Face",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fatface-5e4c8e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fatface-5e4c8e",
+        "wikidata": "Q5437186"
+      }
+    },
+    "joules_q25351738": {
+      "slug": "joules_q25351738",
+      "title": "Joules",
+      "title_en": "Joules",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joules-5e4c8e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "joules-5e4c8e",
+        "wikidata": "Q25351738"
+      }
+    },
+    "monsoon_q65007501": {
+      "slug": "monsoon_q65007501",
+      "title": "Monsoon",
+      "title_en": "Monsoon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monsoon-5e4c8e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "monsoon-5e4c8e",
+        "wikidata": "Q65007501"
+      }
+    },
+    "moss_q6916538": {
+      "slug": "moss_q6916538",
+      "title": "Moss",
+      "title_en": "Moss",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moss-b36645.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "moss-b36645",
+        "wikidata": "Q6916538"
+      }
+    },
+    "whitestuff_q7995442": {
+      "slug": "whitestuff_q7995442",
+      "title": "White Stuff",
+      "title_en": "White Stuff",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/whitestuff-98a4ed.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "whitestuff-98a4ed",
+        "wikidata": "Q7995442"
+      }
+    },
+    "yoursclothing_q84163322": {
+      "slug": "yoursclothing_q84163322",
+      "title": "Yours Clothing",
+      "title_en": "Yours Clothing",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yoursclothing-811b8c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yoursclothing-811b8c",
+        "wikidata": "Q84163322"
+      }
+    },
     "cooperativegrandmarch_q107594917": {
       "slug": "cooperativegrandmarch_q107594917",
       "title": "Co-operative Grand Marché",
-      "short_name": "Co-operati",
-      "badge_text": "C",
+      "title_en": "Co-operative Grand Marché",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Co-operative Grand Marché"
-      ],
-      "keywords": [
-        "Co-operative Grand Marché"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperativegrandmarche-a048a6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooperativegrandmarche-a048a6",
         "wikidata": "Q107594917"
@@ -30,21 +191,12 @@
     "cooperativeenroute_q108129104": {
       "slug": "cooperativeenroute_q108129104",
       "title": "Co-operative En Route",
-      "short_name": "Co-operati",
-      "badge_text": "C",
+      "title_en": "Co-operative En Route",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Co-operative En Route"
-      ],
-      "keywords": [
-        "Co-operative En Route"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperativeenroute-d9d9cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooperativeenroute-d9d9cb",
         "wikidata": "Q108129104"
@@ -53,21 +205,12 @@
     "cooperativelocale_q107594899": {
       "slug": "cooperativelocale_q107594899",
       "title": "Co-operative Locale",
-      "short_name": "Co-operati",
-      "badge_text": "C",
+      "title_en": "Co-operative Locale",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Co-operative Locale"
-      ],
-      "keywords": [
-        "Co-operative Locale"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperativelocale-d9d9cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooperativelocale-d9d9cb",
         "wikidata": "Q107594899"
@@ -75,22 +218,13 @@
     },
     "morrisonsdailychannelislands_q99752411": {
       "slug": "morrisonsdailychannelislands_q99752411",
-      "title": "Morrisons Daily (Channel Islands)",
-      "short_name": "Morrisons ",
-      "badge_text": "M",
+      "title": "Morrisons Daily",
+      "title_en": "Morrisons Daily",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Morrisons Daily"
-      ],
-      "keywords": [
-        "Morrisons Daily"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morrisonsdaily-d9d9cb.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "morrisonsdaily-d9d9cb",
         "wikidata": "Q99752411"

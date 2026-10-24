@@ -1,27 +1,104 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "ro",
+  "category": "express",
+  "total_brands": 11,
   "brand_aliases": {
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "grawe_q877006": {
+      "slug": "grawe_q877006",
+      "title": "Grawe",
+      "title_en": "Grawe",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grawe-49851b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "grawe-49851b",
+        "wikidata": "Q877006"
+      }
+    },
+    "groupama_q3083531": {
+      "slug": "groupama_q3083531",
+      "title": "Groupama",
+      "title_en": "Groupama",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/groupama-ad965a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "groupama-ad965a",
+        "wikidata": "Q3083531"
+      }
+    },
+    "uniqa_q1022419": {
+      "slug": "uniqa_q1022419",
+      "title": "Uniqa",
+      "title_en": "Uniqa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uniqa-39b262.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uniqa-39b262",
+        "wikidata": "Q1022419"
+      }
+    },
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -30,21 +107,12 @@
     "easybox_q114496224": {
       "slug": "easybox_q114496224",
       "title": "easybox",
-      "short_name": "easybox",
-      "badge_text": "E",
+      "title_en": "easybox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "easybox"
-      ],
-      "keywords": [
-        "easybox"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easybox-cd92a3.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "easybox-cd92a3",
         "wikidata": "Q114496224"
@@ -53,21 +121,12 @@
     "fanbox_q115351090": {
       "slug": "fanbox_q115351090",
       "title": "FANbox",
-      "short_name": "FANbox",
-      "badge_text": "F",
+      "title_en": "FANbox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "FANbox"
-      ],
-      "keywords": [
-        "FANbox"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fanbox-ba4d23.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fanbox-ba4d23",
         "wikidata": "Q115351090"
@@ -75,24 +134,13 @@
     },
     "shipgo_q117327750": {
       "slug": "shipgo_q117327750",
-      "title": "Ship & Go",
-      "short_name": "Ship & Go",
-      "badge_text": "S",
+      "title": "Cargus Ship & Go",
+      "title_en": "Cargus Ship & Go",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Cargus Ship & Go",
-        "Ship & Go"
-      ],
-      "keywords": [
-        "Cargus Ship & Go",
-        "Ship & Go"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cargusshipandgo-ba4d23.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cargusshipandgo-ba4d23",
         "wikidata": "Q117327750"
@@ -100,22 +148,13 @@
     },
     "zboxpacketa_q121537464": {
       "slug": "zboxpacketa_q121537464",
-      "title": "Z-Box (Packeta)",
-      "short_name": "Z-Box (Pac",
-      "badge_text": "Z",
+      "title": "Z-Box",
+      "title_en": "Z-Box",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Z-Box"
-      ],
-      "keywords": [
-        "Z-Box"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zbox-e32bf4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "zbox-e32bf4",
         "wikidata": "Q121537464"

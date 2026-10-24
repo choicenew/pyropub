@@ -1,27 +1,104 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 7,
+  "country": "eg",
+  "category": "supermarket",
+  "total_brands": 18,
   "brand_aliases": {
-    "gant_q1380537": {
-      "slug": "gant_q1380537",
-      "title": "Géant",
-      "short_name": "Géant",
-      "badge_text": "G",
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "3bb7974e0e50": {
+      "slug": "3bb7974e0e50",
+      "title": "محمصة الرفاعي",
+      "title_en": "محمصة الرفاعي",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "3bb797-4e0e50",
+        "wikidata": ""
+      }
+    },
+    "proton_q827306": {
+      "slug": "proton_q827306",
+      "title": "Proton",
+      "title_en": "Proton",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/proton-576082.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "proton-576082",
+        "wikidata": "Q827306"
+      }
+    },
+    "hamleys_q60299": {
+      "slug": "hamleys_q60299",
+      "title": "Hamleys",
+      "title_en": "Hamleys",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hamleys-3e293e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hamleys-3e293e",
+        "wikidata": "Q60299"
+      }
+    },
+    "omareffendi_q6818793": {
+      "slug": "omareffendi_q6818793",
+      "title": "Omar Effendi",
+      "title_en": "Omar Effendi",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Géant"
-      ],
-      "keywords": [
-        "Géant"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omareffendi-6a6e97.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "omareffendi-6a6e97",
+        "wikidata": "Q6818793"
+      }
+    },
+    "bsbfashion_q12721399": {
+      "slug": "bsbfashion_q12721399",
+      "title": "BSB Fashion",
+      "title_en": "BSB Fashion",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bsbfashion-3443a7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bsbfashion-3443a7",
+        "wikidata": "Q12721399"
+      }
+    },
+    "gant_q1380537": {
+      "slug": "gant_q1380537",
+      "title": "Géant",
+      "title_en": "Géant",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "geant-a2a643",
         "wikidata": "Q1380537"
@@ -30,21 +107,12 @@
     "luluhypermarket_q6702930": {
       "slug": "luluhypermarket_q6702930",
       "title": "Lulu Hypermarket",
-      "short_name": "Lulu Hyper",
-      "badge_text": "L",
+      "title_en": "Lulu Hypermarket",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Lulu Hypermarket"
-      ],
-      "keywords": [
-        "Lulu Hypermarket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luluhypermarket-7e55ed.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "luluhypermarket-7e55ed",
         "wikidata": "Q6702930"
@@ -53,21 +121,12 @@
     "spinneys_q2890701": {
       "slug": "spinneys_q2890701",
       "title": "Spinneys",
-      "short_name": "Spinneys",
-      "badge_text": "S",
+      "title_en": "Spinneys",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Spinneys"
-      ],
-      "keywords": [
-        "Spinneys"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spinneys-37e51a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spinneys-37e51a",
         "wikidata": "Q2890701"
@@ -76,23 +135,12 @@
     "_q12218555": {
       "slug": "_q12218555",
       "title": "أسواق عبد الله العثيم",
-      "short_name": "أسواق عبد ",
-      "badge_text": "أ",
+      "title_en": "Abdullah AlOthaim Markets",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "أسواق عبد الله العثيم",
-        "Abdullah AlOthaim Markets"
-      ],
-      "keywords": [
-        "أسواق عبد الله العثيم",
-        "Abdullah AlOthaim Markets"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abdullahalothaimmarkets-6c5d99.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "abdullahalothaimmarkets-6c5d99",
         "wikidata": "Q12218555"
@@ -101,44 +149,54 @@
     "5ae0566efd78": {
       "slug": "5ae0566efd78",
       "title": "كارفور",
-      "short_name": "كارفور",
-      "badge_text": "ك",
+      "title_en": "كارفور",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "كارفور"
-      ],
-      "keywords": [
-        "كارفور"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "5ae056-6efd78",
         "wikidata": ""
       }
     },
+    "orange_q1431486": {
+      "slug": "orange_q1431486",
+      "title": "Orange",
+      "title_en": "Orange",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-87fd86.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orange-87fd86",
+        "wikidata": "Q1431486"
+      }
+    },
+    "vodafone_q122141": {
+      "slug": "vodafone_q122141",
+      "title": "Vodafone",
+      "title_en": "Vodafone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodafone-187d7d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vodafone-187d7d",
+        "wikidata": "Q122141"
+      }
+    },
     "bim_q1022075": {
       "slug": "bim_q1022075",
       "title": "BİM",
-      "short_name": "BİM",
-      "badge_text": "B",
+      "title_en": "BİM",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "BİM"
-      ],
-      "keywords": [
-        "BİM"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bim-6cb8de.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bim-6cb8de",
         "wikidata": "Q1022075"
@@ -147,24 +205,57 @@
     "gantexpress_q137579657": {
       "slug": "gantexpress_q137579657",
       "title": "Géant Express",
-      "short_name": "Géant Expr",
-      "badge_text": "G",
+      "title_en": "Géant Express",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Géant Express"
-      ],
-      "keywords": [
-        "Géant Express"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "geantexpress-a35511",
         "wikidata": "Q137579657"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "IKEA",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-ac4ccb",
+        "wikidata": "Q54078"
+      }
+    },
+    "e_q543449": {
+      "slug": "e_q543449",
+      "title": "e&",
+      "title_en": "e&",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eand-5dfe5c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eand-5dfe5c",
+        "wikidata": "Q543449"
+      }
+    },
+    "telecomegypt_q1583794": {
+      "slug": "telecomegypt_q1583794",
+      "title": "المصرية للاتصالات",
+      "title_en": "Telecom Egypt",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telecomegypt-eeb498.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "telecomegypt-eeb498",
+        "wikidata": "Q1583794"
       }
     }
   }

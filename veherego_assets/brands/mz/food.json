@@ -1,53 +1,121 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "mz",
+  "category": "food",
+  "total_brands": 8,
   "brand_aliases": {
+    "accessbank_q4672418": {
+      "slug": "accessbank_q4672418",
+      "title": "Access Bank",
+      "title_en": "Access Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessbank-155277.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "accessbank-155277",
+        "wikidata": "Q4672418"
+      }
+    },
+    "bcimozambique_q9645132": {
+      "slug": "bcimozambique_q9645132",
+      "title": "BCI",
+      "title_en": "BCI",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bci-1f1dae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bci-1f1dae",
+        "wikidata": "Q9645132"
+      }
+    },
+    "fnbsouthafrica_q3072956": {
+      "slug": "fnbsouthafrica_q3072956",
+      "title": "FNB",
+      "title_en": "FNB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fnb-154feb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fnb-154feb",
+        "wikidata": "Q3072956"
+      }
+    },
+    "uba_q513457": {
+      "slug": "uba_q513457",
+      "title": "UBA",
+      "title_en": "UBA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uba-95540f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uba-95540f",
+        "wikidata": "Q513457"
+      }
+    },
     "debonairspizza_q65079407": {
       "slug": "debonairspizza_q65079407",
       "title": "Debonairs Pizza",
-      "short_name": "Debonairs ",
-      "badge_text": "D",
+      "title_en": "Debonairs Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Debonairs Pizza"
-      ],
-      "keywords": [
-        "Debonairs Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debonairspizza-10dad6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "debonairspizza-10dad6",
         "wikidata": "Q65079407"
       }
     },
+    "numetrocinemas_q7067740": {
+      "slug": "numetrocinemas_q7067740",
+      "title": "Nu Metro",
+      "title_en": "Nu Metro",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/numetro-06ed22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "numetro-06ed22",
+        "wikidata": "Q7067740"
+      }
+    },
     "maxis_q116619188": {
       "slug": "maxis_q116619188",
       "title": "Maxi's",
-      "short_name": "Maxi's",
-      "badge_text": "M",
+      "title_en": "Maxi's",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Maxi's"
-      ],
-      "keywords": [
-        "Maxi's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxis-2bd789.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "maxis-2bd789",
         "wikidata": "Q116619188"
+      }
+    },
+    "petromoc_q136375693": {
+      "slug": "petromoc_q136375693",
+      "title": "Petromoc",
+      "title_en": "Petromoc",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petromoc-f5ed64.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petromoc-f5ed64",
+        "wikidata": "Q136375693"
       }
     }
   }

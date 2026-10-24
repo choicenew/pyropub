@@ -1,30 +1,65 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "cd",
+  "category": "supermarket",
+  "total_brands": 4,
   "brand_aliases": {
+    "cavavin_q36017956": {
+      "slug": "cavavin_q36017956",
+      "title": "Cavavin",
+      "title_en": "Cavavin",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cavavin-fb34ab",
+        "wikidata": "Q36017956"
+      }
+    },
     "shopriteafrica_q1857639": {
       "slug": "shopriteafrica_q1857639",
-      "title": "Shoprite (Africa)",
-      "short_name": "Shoprite (",
-      "badge_text": "S",
+      "title": "Shoprite",
+      "title_en": "Shoprite",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Shoprite"
-      ],
-      "keywords": [
-        "Shoprite"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shoprite-502f12.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shoprite-502f12",
         "wikidata": "Q1857639"
+      }
+    },
+    "orange_q1431486": {
+      "slug": "orange_q1431486",
+      "title": "Orange",
+      "title_en": "Orange",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-87fd86.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orange-87fd86",
+        "wikidata": "Q1431486"
+      }
+    },
+    "vodacomdrcongo_q130477507": {
+      "slug": "vodacomdrcongo_q130477507",
+      "title": "Vodacom",
+      "title_en": "Vodacom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodacom-dd47b4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vodacom-dd47b4",
+        "wikidata": "Q130477507"
       }
     }
   }

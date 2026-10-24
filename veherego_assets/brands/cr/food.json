@@ -1,50 +1,118 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 6,
+  "country": "cr",
+  "category": "food",
+  "total_brands": 17,
   "brand_aliases": {
     "musmanni_q19382082": {
       "slug": "musmanni_q19382082",
       "title": "Musmanni",
-      "short_name": "Musmanni",
-      "badge_text": "M",
+      "title_en": "Musmanni",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Musmanni"
-      ],
-      "keywords": [
-        "Musmanni"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/musmanni-8b7146.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "musmanni-8b7146",
         "wikidata": "Q19382082"
       }
     },
+    "baccredomatic_q5715556": {
+      "slug": "baccredomatic_q5715556",
+      "title": "BAC Credomatic",
+      "title_en": "BAC Credomatic",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baccredomatic-a7c666.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baccredomatic-a7c666",
+        "wikidata": "Q5715556"
+      }
+    },
+    "bancogeneral_q27618271": {
+      "slug": "bancogeneral_q27618271",
+      "title": "Banco General",
+      "title_en": "Banco General",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancogeneral-865fd1.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancogeneral-865fd1",
+        "wikidata": "Q27618271"
+      }
+    },
+    "banconacional_q2917708": {
+      "slug": "banconacional_q2917708",
+      "title": "Banco Nacional",
+      "title_en": "Banco Nacional",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banconacional-865fd1",
+        "wikidata": "Q2917708"
+      }
+    },
+    "bcrcostarica_q6951632": {
+      "slug": "bcrcostarica_q6951632",
+      "title": "BCR",
+      "title_en": "BCR",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bcr-8702f4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bcr-8702f4",
+        "wikidata": "Q6951632"
+      }
+    },
+    "davivienda_q5242054": {
+      "slug": "davivienda_q5242054",
+      "title": "Davivienda",
+      "title_en": "Davivienda",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/davivienda-0357a0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "davivienda-0357a0",
+        "wikidata": "Q5242054"
+      }
+    },
+    "promerica": {
+      "slug": "promerica",
+      "title": "Promerica",
+      "title_en": "Promerica",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "promerica-983876",
+        "wikidata": ""
+      }
+    },
     "cosechas_q128305751": {
       "slug": "cosechas_q128305751",
       "title": "Cosechas",
-      "short_name": "Cosechas",
-      "badge_text": "C",
+      "title_en": "Cosechas",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Cosechas"
-      ],
-      "keywords": [
-        "Cosechas"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cosechas-a14b1c",
         "wikidata": "Q128305751"
@@ -52,22 +120,13 @@
     },
     "pollogranjerocostarica_q62273665": {
       "slug": "pollogranjerocostarica_q62273665",
-      "title": "Pollo Granjero (Costa Rica)",
-      "short_name": "Pollo Gran",
-      "badge_text": "P",
+      "title": "Pollo Granjero",
+      "title_en": "Pollo Granjero",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Pollo Granjero"
-      ],
-      "keywords": [
-        "Pollo Granjero"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pollogranjero-916d19.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pollogranjero-916d19",
         "wikidata": "Q62273665"
@@ -76,21 +135,12 @@
     "pollolandia_q134611065": {
       "slug": "pollolandia_q134611065",
       "title": "Pollolandia",
-      "short_name": "Pollolandi",
-      "badge_text": "P",
+      "title_en": "Pollolandia",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Pollolandia"
-      ],
-      "keywords": [
-        "Pollolandia"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pollolandia-5bda58.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pollolandia-5bda58",
         "wikidata": "Q134611065"
@@ -99,47 +149,99 @@
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
       }
     },
+    "pops_q119104181": {
+      "slug": "pops_q119104181",
+      "title": "Pops",
+      "title_en": "Pops",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pops-74244e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pops-74244e",
+        "wikidata": "Q119104181"
+      }
+    },
     "readypizza": {
       "slug": "readypizza",
       "title": "Ready Pizza",
-      "short_name": "Ready Pizz",
-      "badge_text": "R",
+      "title_en": "Ready Pizza",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Ready Pizza"
-      ],
-      "keywords": [
-        "Ready Pizza"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "readypizza-201887",
         "wikidata": ""
+      }
+    },
+    "usave_q123005345": {
+      "slug": "usave_q123005345",
+      "title": "U-Save",
+      "title_en": "U-Save",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usave-c212fd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "usave-c212fd",
+        "wikidata": "Q123005345"
+      }
+    },
+    "cencinai": {
+      "slug": "cencinai",
+      "title": "CEN-CINAI",
+      "title_en": "CEN-CINAI",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cencinai-299b2d",
+        "wikidata": ""
+      }
+    },
+    "deltacostaricapanama_q62274638": {
+      "slug": "deltacostaricapanama_q62274638",
+      "title": "Delta",
+      "title_en": "Delta",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/delta-1fbae0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "delta-1fbae0",
+        "wikidata": "Q62274638"
+      }
+    },
+    "uno_q62535574": {
+      "slug": "uno_q62535574",
+      "title": "Uno",
+      "title_en": "Uno",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uno-24faf9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uno-24faf9",
+        "wikidata": "Q62535574"
       }
     }
   }

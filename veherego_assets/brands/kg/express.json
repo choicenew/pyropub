@@ -1,50 +1,90 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "kg",
+  "category": "express",
+  "total_brands": 6,
   "brand_aliases": {
     "e9820961c0ff": {
       "slug": "e9820961c0ff",
       "title": "ПЭК",
-      "short_name": "ПЭК",
-      "badge_text": "П",
+      "title_en": "ПЭК",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "ПЭК"
-      ],
-      "keywords": [
-        "ПЭК"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "e98209-61c0ff",
         "wikidata": ""
       }
     },
+    "2f25d386623e": {
+      "slug": "2f25d386623e",
+      "title": "Абакус центр",
+      "title_en": "Абакус центр",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "2f25d3-86623e",
+        "wikidata": ""
+      }
+    },
+    "mega": {
+      "slug": "mega",
+      "title": "Mega",
+      "title_en": "Mega",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mega-a496d9",
+        "wikidata": ""
+      }
+    },
+    "ostore": {
+      "slug": "ostore",
+      "title": "O!Store",
+      "title_en": "O!Store",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ostore-a496d9",
+        "wikidata": ""
+      }
+    },
+    "_q402880": {
+      "slug": "_q402880",
+      "title": "Билайн",
+      "title_en": "Beeline",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beeline-f03186.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "beeline-f03186",
+        "wikidata": "Q402880"
+      }
+    },
     "_q28665980": {
       "slug": "_q28665980",
       "title": "СДЭК",
-      "short_name": "СДЭК",
-      "badge_text": "С",
+      "title_en": "СДЭК",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "СДЭК"
-      ],
-      "keywords": [
-        "СДЭК"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5ac048-c762cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "5ac048-c762cb",
         "wikidata": "Q28665980"

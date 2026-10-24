@@ -1,27 +1,48 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "lv",
+  "category": "express",
+  "total_brands": 7,
   "brand_aliases": {
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
     "dpd_q541030": {
       "slug": "dpd_q541030",
       "title": "DPD",
-      "short_name": "DPD",
-      "badge_text": "D",
+      "title_en": "DPD",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD"
-      ],
-      "keywords": [
-        "DPD"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpd-e45cee.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpd-e45cee",
         "wikidata": "Q541030"
@@ -30,21 +51,12 @@
     "latvijaspasts_q1807088": {
       "slug": "latvijaspasts_q1807088",
       "title": "Latvijas Pasts",
-      "short_name": "Latvijas P",
-      "badge_text": "L",
+      "title_en": "Latvijas Pasts",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Latvijas Pasts"
-      ],
-      "keywords": [
-        "Latvijas Pasts"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "latvijaspasts-e45cee",
         "wikidata": "Q1807088"
@@ -53,21 +65,12 @@
     "omniva_q282457": {
       "slug": "omniva_q282457",
       "title": "Omniva",
-      "short_name": "Omniva",
-      "badge_text": "O",
+      "title_en": "Omniva",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Omniva"
-      ],
-      "keywords": [
-        "Omniva"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/omniva-b4a3f3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "omniva-b4a3f3",
         "wikidata": "Q282457"
@@ -76,21 +79,12 @@
     "smartposti_q132157239": {
       "slug": "smartposti_q132157239",
       "title": "SmartPosti",
-      "short_name": "SmartPosti",
-      "badge_text": "S",
+      "title_en": "SmartPosti",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "SmartPosti"
-      ],
-      "keywords": [
-        "SmartPosti"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "smartposti-b4a3f3",
         "wikidata": "Q132157239"
@@ -99,21 +93,12 @@
     "venipak_q124379827": {
       "slug": "venipak_q124379827",
       "title": "Venipak",
-      "short_name": "Venipak",
-      "badge_text": "V",
+      "title_en": "Venipak",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Venipak"
-      ],
-      "keywords": [
-        "Venipak"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/venipak-b4a3f3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "venipak-b4a3f3",
         "wikidata": "Q124379827"

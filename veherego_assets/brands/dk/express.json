@@ -1,27 +1,104 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "dk",
+  "category": "express",
+  "total_brands": 9,
   "brand_aliases": {
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "nybolig_q12329403": {
+      "slug": "nybolig_q12329403",
+      "title": "Nybolig",
+      "title_en": "Nybolig",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nybolig-4e81a9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nybolig-4e81a9",
+        "wikidata": "Q12329403"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "spacesscandinavia_q87629680": {
+      "slug": "spacesscandinavia_q87629680",
+      "title": "Spaces",
+      "title_en": "Spaces",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spaces-ffd6f1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "spaces-ffd6f1",
+        "wikidata": "Q87629680"
+      }
+    },
     "budbee_q123582538": {
       "slug": "budbee_q123582538",
       "title": "Budbee",
-      "short_name": "Budbee",
-      "badge_text": "B",
+      "title_en": "Budbee",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Budbee"
-      ],
-      "keywords": [
-        "Budbee"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budbee-8c9d85.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "budbee-8c9d85",
         "wikidata": "Q123582538"
@@ -30,21 +107,12 @@
     "instabox_q109923726": {
       "slug": "instabox_q109923726",
       "title": "Instabox",
-      "short_name": "Instabox",
-      "badge_text": "I",
+      "title_en": "Instabox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Instabox"
-      ],
-      "keywords": [
-        "Instabox"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "instabox-f97fed",
         "wikidata": "Q109923726"
@@ -53,21 +121,12 @@
     "pakkeboksen_q12309164": {
       "slug": "pakkeboksen_q12309164",
       "title": "Pakkeboksen",
-      "short_name": "Pakkebokse",
-      "badge_text": "P",
+      "title_en": "Pakkeboksen",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Pakkeboksen"
-      ],
-      "keywords": [
-        "Pakkeboksen"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pakkeboksen-484cac.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pakkeboksen-484cac",
         "wikidata": "Q12309164"

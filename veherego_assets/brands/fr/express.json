@@ -1,27 +1,440 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "fr",
+  "category": "express",
+  "total_brands": 34,
   "brand_aliases": {
+    "swisslifeselect_q300213": {
+      "slug": "swisslifeselect_q300213",
+      "title": "Swiss Life Select",
+      "title_en": "Swiss Life Select",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslifeselect-1e9d61.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisslifeselect-1e9d61",
+        "wikidata": "Q300213"
+      }
+    },
+    "proman_q24189171": {
+      "slug": "proman_q24189171",
+      "title": "Proman",
+      "title_en": "Proman",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/proman-9e0ae6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "proman-9e0ae6",
+        "wikidata": "Q24189171"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "startpeople_q2646530": {
+      "slug": "startpeople_q2646530",
+      "title": "Start People",
+      "title_en": "Start People",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/startpeople-45a424.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "startpeople-45a424",
+        "wikidata": "Q2646530"
+      }
+    },
+    "guyhoquet_q25383970": {
+      "slug": "guyhoquet_q25383970",
+      "title": "Guy Hoquet",
+      "title_en": "Guy Hoquet",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guyhoquet-ea3ef3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "guyhoquet-ea3ef3",
+        "wikidata": "Q25383970"
+      }
+    },
+    "lafort_q56310946": {
+      "slug": "lafort_q56310946",
+      "title": "Laforêt",
+      "title_en": "Laforêt",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laforet-ea3ef3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "laforet-ea3ef3",
+        "wikidata": "Q56310946"
+      }
+    },
+    "orpi_q3356080": {
+      "slug": "orpi_q3356080",
+      "title": "Orpi",
+      "title_en": "Orpi",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orpi-ea3ef3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orpi-ea3ef3",
+        "wikidata": "Q3356080"
+      }
+    },
+    "siximeavenue_q140619852": {
+      "slug": "siximeavenue_q140619852",
+      "title": "Sixième Avenue",
+      "title_en": "Sixième Avenue",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sixiemeavenue-ea3ef3",
+        "wikidata": "Q140619852"
+      }
+    },
+    "cofidis_q1106920": {
+      "slug": "cofidis_q1106920",
+      "title": "Cofidis",
+      "title_en": "Cofidis",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cofidis-8d8ca3.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cofidis-8d8ca3",
+        "wikidata": "Q1106920"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "arasassurances_q126901086": {
+      "slug": "arasassurances_q126901086",
+      "title": "Aréas Assurances",
+      "title_en": "Aréas Assurances",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/areasassurances-6ae572.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "areasassurances-6ae572",
+        "wikidata": "Q126901086"
+      }
+    },
+    "aviva_q791179": {
+      "slug": "aviva_q791179",
+      "title": "Aviva",
+      "title_en": "Aviva",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aviva-851fcf.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aviva-851fcf",
+        "wikidata": "Q791179"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "csf_q120753050": {
+      "slug": "csf_q120753050",
+      "title": "CSF",
+      "title_en": "CSF",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "csf-a25e41",
+        "wikidata": "Q120753050"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "gan_q3095058": {
+      "slug": "gan_q3095058",
+      "title": "Gan",
+      "title_en": "Gan",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gan-6ae572.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gan-6ae572",
+        "wikidata": "Q3095058"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "gmf_q3095296": {
+      "slug": "gmf_q3095296",
+      "title": "GMF",
+      "title_en": "GMF",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gmf-6ae572.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gmf-6ae572",
+        "wikidata": "Q3095296"
+      }
+    },
+    "groupama_q3083531": {
+      "slug": "groupama_q3083531",
+      "title": "Groupama",
+      "title_en": "Groupama",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/groupama-ad965a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "groupama-ad965a",
+        "wikidata": "Q3083531"
+      }
+    },
+    "helvetia_q933766": {
+      "slug": "helvetia_q933766",
+      "title": "Helvetia",
+      "title_en": "Helvetia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/helvetia-f9490e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "helvetia-f9490e",
+        "wikidata": "Q933766"
+      }
+    },
+    "maaf_q3331028": {
+      "slug": "maaf_q3331028",
+      "title": "MAAF",
+      "title_en": "MAAF",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maaf-6ae572.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maaf-6ae572",
+        "wikidata": "Q3331028"
+      }
+    },
+    "maif_q3331029": {
+      "slug": "maif_q3331029",
+      "title": "Maif",
+      "title_en": "Maif",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maif-6ae572.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maif-6ae572",
+        "wikidata": "Q3331029"
+      }
+    },
+    "mgen_q3331039": {
+      "slug": "mgen_q3331039",
+      "title": "MGEN",
+      "title_en": "MGEN",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mgen-6ae572",
+        "wikidata": "Q3331039"
+      }
+    },
+    "swisslife_q667350": {
+      "slug": "swisslife_q667350",
+      "title": "Swiss Life",
+      "title_en": "Swiss Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslife-aab9d2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisslife-aab9d2",
+        "wikidata": "Q667350"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "centredesfinancespubliques": {
+      "slug": "centredesfinancespubliques",
+      "title": "Centre des Finances Publiques",
+      "title_en": "Centre des Finances Publiques",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "centredesfinancespubliques-f941ae",
+        "wikidata": ""
+      }
+    },
+    "francetravail_q8901192": {
+      "slug": "francetravail_q8901192",
+      "title": "France Travail",
+      "title_en": "France Travail",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/francetravail-f941ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "francetravail-f941ae",
+        "wikidata": "Q8901192"
+      }
+    },
+    "trsorpublic": {
+      "slug": "trsorpublic",
+      "title": "Trésor Public",
+      "title_en": "Trésor Public",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tresorpublic-f941ae",
+        "wikidata": ""
+      }
+    },
+    "kangouroukids": {
+      "slug": "kangouroukids",
+      "title": "Kangourou kids",
+      "title_en": "Kangourou kids",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kangouroukids-1d1994",
+        "wikidata": ""
+      }
+    },
+    "agnavocats_q141355112": {
+      "slug": "agnavocats_q141355112",
+      "title": "AGN Avocats",
+      "title_en": "AGN Avocats",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agnavocats-0624be.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "agnavocats-0624be",
+        "wikidata": "Q141355112"
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -30,21 +443,12 @@
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -53,21 +457,12 @@
     "inpost_q3182097": {
       "slug": "inpost_q3182097",
       "title": "InPost",
-      "short_name": "InPost",
-      "badge_text": "I",
+      "title_en": "InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "InPost"
-      ],
-      "keywords": [
-        "InPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inpost-6b37ec",
         "wikidata": "Q3182097"
@@ -76,21 +471,12 @@
     "mondialrelay_q3320547": {
       "slug": "mondialrelay_q3320547",
       "title": "Mondial Relay",
-      "short_name": "Mondial Re",
-      "badge_text": "M",
+      "title_en": "Mondial Relay",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Mondial Relay"
-      ],
-      "keywords": [
-        "Mondial Relay"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondialrelay-318f10.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mondialrelay-318f10",
         "wikidata": "Q3320547"

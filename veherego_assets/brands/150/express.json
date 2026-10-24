@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "150",
+  "category": "express",
+  "total_brands": 5,
   "brand_aliases": {
     "dbschenker_q552912": {
       "slug": "dbschenker_q552912",
       "title": "DB Schenker",
-      "short_name": "DB Schenke",
-      "badge_text": "D",
+      "title_en": "DB Schenker",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "DB Schenker"
-      ],
-      "keywords": [
-        "DB Schenker"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dbschenker-a9699d",
         "wikidata": "Q552912"
@@ -30,24 +23,57 @@
     "gebrderweiss_q1497233": {
       "slug": "gebrderweiss_q1497233",
       "title": "Gebrüder Weiss",
-      "short_name": "Gebrüder W",
-      "badge_text": "G",
+      "title_en": "Gebrüder Weiss",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Gebrüder Weiss"
-      ],
-      "keywords": [
-        "Gebrüder Weiss"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gebruderweiss-3fef46.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gebruderweiss-3fef46",
         "wikidata": "Q1497233"
+      }
+    },
+    "vonpollrealestate_q96026696": {
+      "slug": "vonpollrealestate_q96026696",
+      "title": "von Poll Real Estate",
+      "title_en": "von Poll Real Estate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vonpollrealestate-c99072.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vonpollrealestate-c99072",
+        "wikidata": "Q96026696"
+      }
+    },
+    "nn_q1834291": {
+      "slug": "nn_q1834291",
+      "title": "NN",
+      "title_en": "NN",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nn-336e34.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nn-336e34",
+        "wikidata": "Q1834291"
+      }
+    },
+    "ecovisinternational_q65509562": {
+      "slug": "ecovisinternational_q65509562",
+      "title": "Ecovis",
+      "title_en": "Ecovis",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecovis-10b2fd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ecovis-10b2fd",
+        "wikidata": "Q65509562"
       }
     }
   }

@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "ir",
+  "category": "food",
+  "total_brands": 34,
   "brand_aliases": {
     "68abe85b889e": {
       "slug": "68abe85b889e",
       "title": "بربری",
-      "short_name": "بربری",
-      "badge_text": "ب",
+      "title_en": "بربری",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "بربری"
-      ],
-      "keywords": [
-        "بربری"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "68abe8-5b889e",
         "wikidata": ""
@@ -30,21 +23,12 @@
     "26eff65b889e": {
       "slug": "26eff65b889e",
       "title": "سنگک",
-      "short_name": "سنگک",
-      "badge_text": "س",
+      "title_en": "سنگک",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "سنگک"
-      ],
-      "keywords": [
-        "سنگک"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "26eff6-5b889e",
         "wikidata": ""
@@ -53,21 +37,12 @@
     "e0bc2e5b889e": {
       "slug": "e0bc2e5b889e",
       "title": "سنگکی",
-      "short_name": "سنگکی",
-      "badge_text": "س",
+      "title_en": "سنگکی",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "سنگکی"
-      ],
-      "keywords": [
-        "سنگکی"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "e0bc2e-5b889e",
         "wikidata": ""
@@ -76,21 +51,12 @@
     "7485cc5b889e": {
       "slug": "7485cc5b889e",
       "title": "لواشی",
-      "short_name": "لواشی",
-      "badge_text": "ل",
+      "title_en": "لواشی",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "لواشی"
-      ],
-      "keywords": [
-        "لواشی"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "7485cc-5b889e",
         "wikidata": ""
@@ -99,24 +65,421 @@
     "7efbcd5b889e": {
       "slug": "7efbcd5b889e",
       "title": "نانوایی تافتون",
-      "short_name": "نانوایی تا",
-      "badge_text": "ن",
+      "title_en": "نانوایی تافتون",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "نانوایی تافتون"
-      ],
-      "keywords": [
-        "نانوایی تافتون"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "7efbcd-5b889e",
         "wikidata": ""
+      }
+    },
+    "abudhabiislamicbank_q4670141": {
+      "slug": "abudhabiislamicbank_q4670141",
+      "title": "Abu Dhabi Islamic Bank",
+      "title_en": "Abu Dhabi Islamic Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abudhabiislamicbank-92591a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "abudhabiislamicbank-92591a",
+        "wikidata": "Q4670141"
+      }
+    },
+    "iranzaminbank_q5934423": {
+      "slug": "iranzaminbank_q5934423",
+      "title": "بانک ایران زمین",
+      "title_en": "Iran Zamin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iranzaminbank-cdfa72.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "iranzaminbank-cdfa72",
+        "wikidata": "Q5934423"
+      }
+    },
+    "karafarinbank_q6367875": {
+      "slug": "karafarinbank_q6367875",
+      "title": "بانک کارآفرین",
+      "title_en": "Karafarin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karafarinbank-cdfa72.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karafarinbank-cdfa72",
+        "wikidata": "Q6367875"
+      }
+    },
+    "_q5938144": {
+      "slug": "_q5938144",
+      "title": "بانک آینده",
+      "title_en": "Ayandeh Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ayandehbank-cdfa72.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ayandehbank-cdfa72",
+        "wikidata": "Q5938144"
+      }
+    },
+    "_q5323768": {
+      "slug": "_q5323768",
+      "title": "بانک اقتصاد نوین",
+      "title_en": "EN Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enbank-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "enbank-cdfa72",
+        "wikidata": "Q5323768"
+      }
+    },
+    "_q5862675": {
+      "slug": "_q5862675",
+      "title": "بانک انصار",
+      "title_en": "Ansar Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ansarbank-cdfa72",
+        "wikidata": "Q5862675"
+      }
+    },
+    "_q5934423": {
+      "slug": "_q5934423",
+      "title": "بانک ایران زمین",
+      "title_en": "بانک ایران زمین",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1bf094-cdfa72.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "1bf094-cdfa72",
+        "wikidata": "Q5934423"
+      }
+    },
+    "_q2410404": {
+      "slug": "_q2410404",
+      "title": "بانک پارسیان",
+      "title_en": "Parsian Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "parsianbank-cdfa72",
+        "wikidata": "Q2410404"
+      }
+    },
+    "_q4855962": {
+      "slug": "_q4855962",
+      "title": "بانک پاسارگاد",
+      "title_en": "Bank Pasargad",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankpasargad-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankpasargad-cdfa72",
+        "wikidata": "Q4855962"
+      }
+    },
+    "_q7695198": {
+      "slug": "_q7695198",
+      "title": "بانک تجارت",
+      "title_en": "بانک تجارت",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/667eb5-cdfa72.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "667eb5-cdfa72",
+        "wikidata": "Q7695198"
+      }
+    },
+    "_q5684450": {
+      "slug": "_q5684450",
+      "title": "بانک توسعه تعاون",
+      "title_en": "بانک توسعه تعاون",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/9d24d1-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "9d24d1-cdfa72",
+        "wikidata": "Q5684450"
+      }
+    },
+    "_q5942230": {
+      "slug": "_q5942230",
+      "title": "بانک دی",
+      "title_en": "Bank Day",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankday-cdfa72",
+        "wikidata": "Q5942230"
+      }
+    },
+    "_q7307083": {
+      "slug": "_q7307083",
+      "title": "بانک رفاه",
+      "title_en": "Refah Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/refahbank-cdfa72.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "refahbank-cdfa72",
+        "wikidata": "Q7307083"
+      }
+    },
+    "_q4117676": {
+      "slug": "_q4117676",
+      "title": "بانک سامان",
+      "title_en": "Saman Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/samanbank-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "samanbank-cdfa72",
+        "wikidata": "Q4117676"
+      }
+    },
+    "_q2882624": {
+      "slug": "_q2882624",
+      "title": "بانک سپه",
+      "title_en": "Bank Sepah",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banksepah-cdfa72",
+        "wikidata": "Q2882624"
+      }
+    },
+    "_q7424291": {
+      "slug": "_q7424291",
+      "title": "بانک سرمایه",
+      "title_en": "Sarmayeh Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sarmayehbank-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sarmayehbank-cdfa72",
+        "wikidata": "Q7424291"
+      }
+    },
+    "_q10860246": {
+      "slug": "_q10860246",
+      "title": "بانک سینا",
+      "title_en": "Sina Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sinabank-cdfa72",
+        "wikidata": "Q10860246"
+      }
+    },
+    "_q5941033": {
+      "slug": "_q5941033",
+      "title": "بانک شهر",
+      "title_en": "Shahr Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shahrbank-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shahrbank-cdfa72",
+        "wikidata": "Q5941033"
+      }
+    },
+    "_q2882608": {
+      "slug": "_q2882608",
+      "title": "بانک صادرات",
+      "title_en": "Bank Saderat Iran",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banksaderatiran-cdfa72",
+        "wikidata": "Q2882608"
+      }
+    },
+    "_q18327813": {
+      "slug": "_q18327813",
+      "title": "بانک قرض الحسنه مهر ایران",
+      "title_en": "Qarz Al-Hasaneh Mehr Iran Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "qarzalhasanehmehriranbank-cdfa72",
+        "wikidata": "Q18327813"
+      }
+    },
+    "_q10860253": {
+      "slug": "_q10860253",
+      "title": "بانک قوامین",
+      "title_en": "Ghavamin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ghavaminbank-cdfa72",
+        "wikidata": "Q10860253"
+      }
+    },
+    "_q6395007": {
+      "slug": "_q6395007",
+      "title": "بانک کشاورزی",
+      "title_en": "Bank Keshavarzi Iran",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankkeshavarziiran-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankkeshavarziiran-cdfa72",
+        "wikidata": "Q6395007"
+      }
+    },
+    "e8042ccdfa72": {
+      "slug": "e8042ccdfa72",
+      "title": "بانک گردشگری",
+      "title_en": "بانک گردشگری",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "e8042c-cdfa72",
+        "wikidata": ""
+      }
+    },
+    "_q4855942": {
+      "slug": "_q4855942",
+      "title": "بانک مسکن",
+      "title_en": "Bank Maskan",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankmaskan-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankmaskan-cdfa72",
+        "wikidata": "Q4855942"
+      }
+    },
+    "_q4855944": {
+      "slug": "_q4855944",
+      "title": "بانک ملت",
+      "title_en": "Bank Mellat",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankmellat-cdfa72",
+        "wikidata": "Q4855944"
+      }
+    },
+    "_q806640": {
+      "slug": "_q806640",
+      "title": "بانک ملی",
+      "title_en": "Bank Melli Iran",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankmelliiran-cdfa72",
+        "wikidata": "Q806640"
+      }
+    },
+    "_q5942921": {
+      "slug": "_q5942921",
+      "title": "بانک مهر اقتصاد",
+      "title_en": "Mehr Eqtesad Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mehreqtesadbank-cdfa72",
+        "wikidata": "Q5942921"
+      }
+    },
+    "_q7233625": {
+      "slug": "_q7233625",
+      "title": "پست بانک",
+      "title_en": "Post Bank of Iran",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postbankofiran-cdfa72.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "postbankofiran-cdfa72",
+        "wikidata": "Q7233625"
+      }
+    },
+    "_q85746093": {
+      "slug": "_q85746093",
+      "title": "بیدود",
+      "title_en": "Bdood",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bdood-41691c",
+        "wikidata": "Q85746093"
       }
     }
   }

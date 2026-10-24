@@ -1,27 +1,286 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "zm",
+  "category": "supermarket",
+  "total_brands": 26,
   "brand_aliases": {
-    "choppies_q5104860": {
-      "slug": "choppies_q5104860",
-      "title": "Choppies",
-      "short_name": "Choppies",
-      "badge_text": "C",
+    "ctm_q127378361": {
+      "slug": "ctm_q127378361",
+      "title": "CTM",
+      "title_en": "CTM",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctm-d2290b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ctm-d2290b",
+        "wikidata": "Q127378361"
+      }
+    },
+    "mrpricehome_q129561270": {
+      "slug": "mrpricehome_q129561270",
+      "title": "Mr Price Home",
+      "title_en": "Mr Price Home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrpricehome-764653.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricehome-764653",
+        "wikidata": "Q129561270"
+      }
+    },
+    "americanswiss_q116430764": {
+      "slug": "americanswiss_q116430764",
+      "title": "American Swiss",
+      "title_en": "American Swiss",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanswiss-45575e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "americanswiss-45575e",
+        "wikidata": "Q116430764"
+      }
+    },
+    "babiesrussouthernafrica_q130461555": {
+      "slug": "babiesrussouthernafrica_q130461555",
+      "title": "Babies R Us",
+      "title_en": "Babies R Us",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babiesrus-005aaa.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "babiesrus-005aaa",
+        "wikidata": "Q130461555"
+      }
+    },
+    "liquorshopshoprite_q1857639": {
+      "slug": "liquorshopshoprite_q1857639",
+      "title": "LiquorShop Shoprite",
+      "title_en": "LiquorShop Shoprite",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/liquorshopshoprite-847735.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "liquorshopshoprite-847735",
+        "wikidata": "Q1857639"
+      }
+    },
+    "picknpayliquor_q122764458": {
+      "slug": "picknpayliquor_q122764458",
+      "title": "Pick n Pay Liquor",
+      "title_en": "Pick n Pay Liquor",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/picknpayliquor-fa6f87.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "picknpayliquor-fa6f87",
+        "wikidata": "Q122764458"
+      }
+    },
+    "topsatspar_q116377563": {
+      "slug": "topsatspar_q116377563",
+      "title": "Tops at Spar",
+      "title_en": "Tops at Spar",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "topsatspar-67025f",
+        "wikidata": "Q116377563"
+      }
+    },
+    "builderstradedepot_q116819137": {
+      "slug": "builderstradedepot_q116819137",
+      "title": "Builders Trade Depot",
+      "title_en": "Builders Trade Depot",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/builderstradedepot-c685bf.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "builderstradedepot-c685bf",
+        "wikidata": "Q116819137"
+      }
+    },
+    "buildersexpress_q116819137": {
+      "slug": "buildersexpress_q116819137",
+      "title": "Builders Express",
+      "title_en": "Builders Express",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buildersexpress-a9941a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "buildersexpress-a9941a",
+        "wikidata": "Q116819137"
+      }
+    },
+    "builderssuperstore_q116819137": {
+      "slug": "builderssuperstore_q116819137",
+      "title": "Builders Superstore",
+      "title_en": "Builders Superstore",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/builderssuperstore-a9941a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "builderssuperstore-a9941a",
+        "wikidata": "Q116819137"
+      }
+    },
+    "builderswarehouse_q116819137": {
+      "slug": "builderswarehouse_q116819137",
+      "title": "Builders Warehouse",
+      "title_en": "Builders Warehouse",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/builderswarehouse-a9941a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "builderswarehouse-a9941a",
+        "wikidata": "Q116819137"
+      }
+    },
+    "toysrussouthernafrica_q130461516": {
+      "slug": "toysrussouthernafrica_q130461516",
+      "title": "Toys R Us",
+      "title_en": "Toys R Us",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toysrus-4c6a3d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "toysrus-4c6a3d",
+        "wikidata": "Q130461516"
+      }
+    },
+    "edgars_q97276073": {
+      "slug": "edgars_q97276073",
+      "title": "Edgars",
+      "title_en": "Edgars",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Choppies"
-      ],
-      "keywords": [
-        "Choppies"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edgars-34fd38.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "edgars-34fd38",
+        "wikidata": "Q97276073"
+      }
+    },
+    "foschini_q116391780": {
+      "slug": "foschini_q116391780",
+      "title": "Foschini",
+      "title_en": "Foschini",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foschini-560ac2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foschini-560ac2",
+        "wikidata": "Q116391780"
+      }
+    },
+    "markham_q116378583": {
+      "slug": "markham_q116378583",
+      "title": "Markham",
+      "title_en": "Markham",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/markham-b23c0b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "markham-b23c0b",
+        "wikidata": "Q116378583"
+      }
+    },
+    "mrprice_q129561257": {
+      "slug": "mrprice_q129561257",
+      "title": "Mr Price",
+      "title_en": "Mr Price",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrprice-445d46.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrprice-445d46",
+        "wikidata": "Q129561257"
+      }
+    },
+    "mrpricesport_q129561262": {
+      "slug": "mrpricesport_q129561262",
+      "title": "Mr Price Sport",
+      "title_en": "Mr Price Sport",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricesport-445d46",
+        "wikidata": "Q129561262"
+      }
+    },
+    "pep_q7166182": {
+      "slug": "pep_q7166182",
+      "title": "PEP",
+      "title_en": "PEP",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pep-f0ab19.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pep-f0ab19",
+        "wikidata": "Q7166182"
+      }
+    },
+    "studio88_q116498145": {
+      "slug": "studio88_q116498145",
+      "title": "Studio 88",
+      "title_en": "Studio 88",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/studio88-40af4d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "studio88-40af4d",
+        "wikidata": "Q116498145"
+      }
+    },
+    "choppies_q5104860": {
+      "slug": "choppies_q5104860",
+      "title": "Choppies",
+      "title_en": "Choppies",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/choppies-8c44d4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "choppies-8c44d4",
         "wikidata": "Q5104860"
@@ -30,21 +289,12 @@
     "picknpay_q7190735": {
       "slug": "picknpay_q7190735",
       "title": "Pick n Pay",
-      "short_name": "Pick n Pay",
-      "badge_text": "P",
+      "title_en": "Pick n Pay",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Pick n Pay"
-      ],
-      "keywords": [
-        "Pick n Pay"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/picknpay-978c99.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "picknpay-978c99",
         "wikidata": "Q7190735"
@@ -52,48 +302,72 @@
     },
     "shopriteafrica_q1857639": {
       "slug": "shopriteafrica_q1857639",
-      "title": "Shoprite (Africa)",
-      "short_name": "Shoprite (",
-      "badge_text": "S",
+      "title": "Shoprite",
+      "title_en": "Shoprite",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Shoprite"
-      ],
-      "keywords": [
-        "Shoprite"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shoprite-502f12.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shoprite-502f12",
         "wikidata": "Q1857639"
       }
     },
+    "mrpricecellular_q6929120": {
+      "slug": "mrpricecellular_q6929120",
+      "title": "Mr Price Cellular",
+      "title_en": "Mr Price Cellular",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricecellular-16619e",
+        "wikidata": "Q6929120"
+      }
+    },
+    "mtn_q1813361": {
+      "slug": "mtn_q1813361",
+      "title": "MTN",
+      "title_en": "MTN",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mtn-fe03c5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mtn-fe03c5",
+        "wikidata": "Q1813361"
+      }
+    },
     "shopritemini_q1857639": {
       "slug": "shopritemini_q1857639",
       "title": "Shoprite Mini",
-      "short_name": "Shoprite M",
-      "badge_text": "S",
+      "title_en": "Shoprite Mini",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Shoprite Mini"
-      ],
-      "keywords": [
-        "Shoprite Mini"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shopritemini-65248a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shopritemini-65248a",
         "wikidata": "Q1857639"
+      }
+    },
+    "okfurniture_q116474866": {
+      "slug": "okfurniture_q116474866",
+      "title": "OK Furniture",
+      "title_en": "OK Furniture",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/okfurniture-e98456.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "okfurniture-e98456",
+        "wikidata": "Q116474866"
       }
     }
   }

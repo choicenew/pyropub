@@ -1,50 +1,286 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 12,
+  "country": "ma",
+  "category": "food",
+  "total_brands": 42,
   "brand_aliases": {
     "paul_q3370417": {
       "slug": "paul_q3370417",
       "title": "Paul",
-      "short_name": "Paul",
-      "badge_text": "P",
+      "title_en": "Paul",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paul"
-      ],
-      "keywords": [
-        "Paul"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paul-652955",
         "wikidata": "Q3370417"
       }
     },
+    "alakhdarbank_q137373145": {
+      "slug": "alakhdarbank_q137373145",
+      "title": "Al Akhdar Bank الأخضر بنك",
+      "title_en": "Al Akhdar Bank الأخضر بنك",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alakhdarbank-11534a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alakhdarbank-11534a",
+        "wikidata": "Q137373145"
+      }
+    },
+    "albaridbank_q2829300": {
+      "slug": "albaridbank_q2829300",
+      "title": "Al Barid Bank البريد بنك",
+      "title_en": "Al Barid Bank البريد بنك",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/albaridbank-11534a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "albaridbank-11534a",
+        "wikidata": "Q2829300"
+      }
+    },
+    "attijariwafabank_q758052": {
+      "slug": "attijariwafabank_q758052",
+      "title": "Attijariwafa bank التجاري وفا بنك",
+      "title_en": "Attijariwafa bank التجاري وفا بنك",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/attijariwafabank-11534a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "attijariwafabank-11534a",
+        "wikidata": "Q758052"
+      }
+    },
+    "bankalyousr_q134955190": {
+      "slug": "bankalyousr_q134955190",
+      "title": "Bank Al Yousr بنك اليسر",
+      "title_en": "Bank Al Yousr بنك اليسر",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankalyousr-11534a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankalyousr-11534a",
+        "wikidata": "Q134955190"
+      }
+    },
+    "bankalmaghrib_q328198": {
+      "slug": "bankalmaghrib_q328198",
+      "title": "Bank Al-Maghrib بنك المغرب",
+      "title_en": "Bank Al-Maghrib بنك المغرب",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankalmaghrib-11534a",
+        "wikidata": "Q328198"
+      }
+    },
+    "bankassafa_q39075231": {
+      "slug": "bankassafa_q39075231",
+      "title": "Bank Assafa بنك الصفاء",
+      "title_en": "Bank Assafa بنك الصفاء",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankassafa-11534a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankassafa-11534a",
+        "wikidata": "Q39075231"
+      }
+    },
+    "bankofafrica_q2300433": {
+      "slug": "bankofafrica_q2300433",
+      "title": "Bank of Africa ⵍⴱⴰⵏⴽ ⵏ ⴰⴼⵔⵉⵇⵢⴰ بنك أفريقيا",
+      "title_en": "Bank of Africa ⵍⴱⴰⵏⴽ ⵏ ⴰⴼⵔⵉⵇⵢⴰ بنك أفريقيا",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankofafrica-11534a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankofafrica-11534a",
+        "wikidata": "Q2300433"
+      }
+    },
+    "banquepopulaire_q2883441": {
+      "slug": "banquepopulaire_q2883441",
+      "title": "Banque Populaire البنك الشعبي",
+      "title_en": "Banque Populaire البنك الشعبي",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banquepopulaire-11534a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banquepopulaire-11534a",
+        "wikidata": "Q2883441"
+      }
+    },
+    "bmci_q2883409": {
+      "slug": "bmci_q2883409",
+      "title": "BMCI",
+      "title_en": "BMCI",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bmci-11534a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bmci-11534a",
+        "wikidata": "Q2883409"
+      }
+    },
+    "bnpparibas_q499707": {
+      "slug": "bnpparibas_q499707",
+      "title": "BNP Paribas",
+      "title_en": "BNP Paribas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bnpparibas-a4be3f",
+        "wikidata": "Q499707"
+      }
+    },
+    "cihbank_q3006220": {
+      "slug": "cihbank_q3006220",
+      "title": "CIH Bank",
+      "title_en": "CIH Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cihbank-11534a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cihbank-11534a",
+        "wikidata": "Q3006220"
+      }
+    },
+    "crditagricoledumaroc_q3006193": {
+      "slug": "crditagricoledumaroc_q3006193",
+      "title": "Crédit Agricole du Maroc القرض الفلاحي للمغرب",
+      "title_en": "Crédit Agricole du Maroc القرض الفلاحي للمغرب",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/creditagricoledumaroc-11534a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "creditagricoledumaroc-11534a",
+        "wikidata": "Q3006193"
+      }
+    },
+    "crditdumaroc_q3006205": {
+      "slug": "crditdumaroc_q3006205",
+      "title": "Crédit du Maroc مصرف المغرب",
+      "title_en": "Crédit du Maroc مصرف المغرب",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/creditdumaroc-11534a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "creditdumaroc-11534a",
+        "wikidata": "Q3006205"
+      }
+    },
+    "sahambank_q3488352": {
+      "slug": "sahambank_q3488352",
+      "title": "Saham Bank سهام بنك",
+      "title_en": "Saham Bank سهام بنك",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sahambank-11534a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sahambank-11534a",
+        "wikidata": "Q3488352"
+      }
+    },
+    "umniabank_q56304865": {
+      "slug": "umniabank_q56304865",
+      "title": "Umnia Bank أمنية بنك",
+      "title_en": "Umnia Bank أمنية بنك",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/umniabank-11534a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "umniabank-11534a",
+        "wikidata": "Q56304865"
+      }
+    },
+    "cashplus_q100258885": {
+      "slug": "cashplus_q100258885",
+      "title": "Cash Plus",
+      "title_en": "Cash Plus",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashplus-de9c03.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cashplus-de9c03",
+        "wikidata": "Q100258885"
+      }
+    },
+    "wafacash_q100258887": {
+      "slug": "wafacash_q100258887",
+      "title": "Wafacash وفاكاش",
+      "title_en": "Wafacash وفاكاش",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wafacash-de9c03.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wafacash-de9c03",
+        "wikidata": "Q100258887"
+      }
+    },
+    "maplebear_q10324823": {
+      "slug": "maplebear_q10324823",
+      "title": "Maple Bear",
+      "title_en": "Maple Bear",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maplebear-101006.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maplebear-101006",
+        "wikidata": "Q10324823"
+      }
+    },
     "chickenstreet_q124669862": {
       "slug": "chickenstreet_q124669862",
       "title": "Chicken Street",
-      "short_name": "Chicken St",
-      "badge_text": "C",
+      "title_en": "Chicken Street",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Chicken Street"
-      ],
-      "keywords": [
-        "Chicken Street"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chickenstreet-f60ed0.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chickenstreet-f60ed0",
         "wikidata": "Q124669862"
@@ -53,21 +289,12 @@
     "enjoytacos_q141242529": {
       "slug": "enjoytacos_q141242529",
       "title": "Enjoy Tacos",
-      "short_name": "Enjoy Taco",
-      "badge_text": "E",
+      "title_en": "Enjoy Tacos",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Enjoy Tacos"
-      ],
-      "keywords": [
-        "Enjoy Tacos"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enjoytacos-fc5c6c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "enjoytacos-fc5c6c",
         "wikidata": "Q141242529"
@@ -76,23 +303,12 @@
     "ikeabistro_q54078": {
       "slug": "ikeabistro_q54078",
       "title": "IKEA Bistro",
-      "short_name": "IKEA Bistr",
-      "badge_text": "I",
+      "title_en": "IKEA Bistro",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "keywords": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeabistro-e746e6",
         "wikidata": "Q54078"
@@ -101,23 +317,12 @@
     "ikearestaurant_q54078": {
       "slug": "ikearestaurant_q54078",
       "title": "IKEA Restaurant",
-      "short_name": "IKEA Resta",
-      "badge_text": "I",
+      "title_en": "IKEA Restaurant",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikearestaurant-15fdc5",
         "wikidata": "Q54078"
@@ -126,21 +331,12 @@
     "newschooltacos_q127412152": {
       "slug": "newschooltacos_q127412152",
       "title": "New School Tacos",
-      "short_name": "New School",
-      "badge_text": "N",
+      "title_en": "New School Tacos",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "New School Tacos"
-      ],
-      "keywords": [
-        "New School Tacos"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "newschooltacos-4ecab6",
         "wikidata": "Q127412152"
@@ -149,21 +345,12 @@
     "otacos_q28494040": {
       "slug": "otacos_q28494040",
       "title": "O'Tacos",
-      "short_name": "O'Tacos",
-      "badge_text": "O",
+      "title_en": "O'Tacos",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "O'Tacos"
-      ],
-      "keywords": [
-        "O'Tacos"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/otacos-33c697.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "otacos-33c697",
         "wikidata": "Q28494040"
@@ -172,21 +359,12 @@
     "tastycrousty_q135185035": {
       "slug": "tastycrousty_q135185035",
       "title": "Tasty Crousty",
-      "short_name": "Tasty Crou",
-      "badge_text": "T",
+      "title_en": "Tasty Crousty",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Tasty Crousty"
-      ],
-      "keywords": [
-        "Tasty Crousty"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tastycrousty-301a36.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tastycrousty-301a36",
         "wikidata": "Q135185035"
@@ -195,21 +373,12 @@
     "wafflefactory_q105426923": {
       "slug": "wafflefactory_q105426923",
       "title": "Waffle Factory",
-      "short_name": "Waffle Fac",
-      "badge_text": "W",
+      "title_en": "Waffle Factory",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Waffle Factory"
-      ],
-      "keywords": [
-        "Waffle Factory"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wafflefactory-d89bff.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "wafflefactory-d89bff",
         "wikidata": "Q105426923"
@@ -218,21 +387,12 @@
     "woktowalk_q4020634": {
       "slug": "woktowalk_q4020634",
       "title": "Wok to Walk",
-      "short_name": "Wok to Wal",
-      "badge_text": "W",
+      "title_en": "Wok to Walk",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wok to Walk"
-      ],
-      "keywords": [
-        "Wok to Walk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woktowalk-f5ada9",
         "wikidata": "Q4020634"
@@ -241,23 +401,12 @@
     "_q524757": {
       "slug": "_q524757",
       "title": "دجاج كنتاكي",
-      "short_name": "دجاج كنتاك",
-      "badge_text": "د",
+      "title_en": "KFC",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "KFC",
-        "دجاج كنتاكي"
-      ],
-      "keywords": [
-        "KFC",
-        "دجاج كنتاكي"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kfc-15a250.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kfc-15a250",
         "wikidata": "Q524757"
@@ -266,26 +415,183 @@
     "_q38076": {
       "slug": "_q38076",
       "title": "ماكدونالدز",
-      "short_name": "ماكدونالدز",
-      "badge_text": "م",
+      "title_en": "McDonald's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "ماكدونالدز",
-        "McDonald's"
-      ],
-      "keywords": [
-        "ماكدونالدز",
-        "McDonald's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcdonalds-19c993.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mcdonalds-19c993",
         "wikidata": "Q38076"
+      }
+    },
+    "megarama_q96707027": {
+      "slug": "megarama_q96707027",
+      "title": "Megarama",
+      "title_en": "Megarama",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/megarama-2d2421.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "megarama-2d2421",
+        "wikidata": "Q96707027"
+      }
+    },
+    "path_q3060526": {
+      "slug": "path_q3060526",
+      "title": "Pathé",
+      "title_en": "Pathé",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pathe-dedd66.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pathe-dedd66",
+        "wikidata": "Q3060526"
+      }
+    },
+    "amorino_q2843884": {
+      "slug": "amorino_q2843884",
+      "title": "Amorino",
+      "title_en": "Amorino",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amorino-d14110.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amorino-d14110",
+        "wikidata": "Q2843884"
+      }
+    },
+    "llaollao_q12163048": {
+      "slug": "llaollao_q12163048",
+      "title": "Llaollao",
+      "title_en": "Llaollao",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "llaollao-dd9462",
+        "wikidata": "Q12163048"
+      }
+    },
+    "smoy_q21573945": {
+      "slug": "smoy_q21573945",
+      "title": "smöoy",
+      "title_en": "smöoy",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smooy-ae897d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smooy-ae897d",
+        "wikidata": "Q21573945"
+      }
+    },
+    "madscience_q17009137": {
+      "slug": "madscience_q17009137",
+      "title": "Mad Science",
+      "title_en": "Mad Science",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madscience-0435a3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "madscience-0435a3",
+        "wikidata": "Q17009137"
+      }
+    },
+    "afriquia_q56300032": {
+      "slug": "afriquia_q56300032",
+      "title": "Afriquia افريقيا",
+      "title_en": "Afriquia افريقيا",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/afriquia-144a57.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "afriquia-144a57",
+        "wikidata": "Q56300032"
+      }
+    },
+    "greenoil_q88393926": {
+      "slug": "greenoil_q88393926",
+      "title": "Green Oil",
+      "title_en": "Green Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "greenoil-144a57",
+        "wikidata": "Q88393926"
+      }
+    },
+    "petrommaroc_q110028558": {
+      "slug": "petrommaroc_q110028558",
+      "title": "Petrom",
+      "title_en": "Petrom",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrom-144a57.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petrom-144a57",
+        "wikidata": "Q110028558"
+      }
+    },
+    "winxo_q88389320": {
+      "slug": "winxo_q88389320",
+      "title": "Winxo",
+      "title_en": "Winxo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winxo-144a57.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "winxo-144a57",
+        "wikidata": "Q88389320"
+      }
+    },
+    "ziz_q88393228": {
+      "slug": "ziz_q88393228",
+      "title": "Ziz",
+      "title_en": "Ziz",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ziz-144a57.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ziz-144a57",
+        "wikidata": "Q88393228"
+      }
+    },
+    "_q110716465": {
+      "slug": "_q110716465",
+      "title": "شل",
+      "title_en": "Shell",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shell-7a1cc2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shell-7a1cc2",
+        "wikidata": "Q110716465"
       }
     }
   }

@@ -1,27 +1,286 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 10,
+  "country": "pl",
+  "category": "express",
+  "total_brands": 29,
   "brand_aliases": {
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "tecnocasa_q2399658": {
+      "slug": "tecnocasa_q2399658",
+      "title": "Tecnocasa",
+      "title_en": "Tecnocasa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tecnocasa-ed2199.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tecnocasa-ed2199",
+        "wikidata": "Q2399658"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "aviva_q791179": {
+      "slug": "aviva_q791179",
+      "title": "Aviva",
+      "title_en": "Aviva",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aviva-851fcf.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aviva-851fcf",
+        "wikidata": "Q791179"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "cukubezpieczenia_q113230028": {
+      "slug": "cukubezpieczenia_q113230028",
+      "title": "CUK Ubezpieczenia",
+      "title_en": "CUK Ubezpieczenia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cukubezpieczenia-313da8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cukubezpieczenia-313da8",
+        "wikidata": "Q113230028"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "ergohestia_q9254522": {
+      "slug": "ergohestia_q9254522",
+      "title": "Ergo Hestia",
+      "title_en": "Ergo Hestia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergohestia-313da8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergohestia-313da8",
+        "wikidata": "Q9254522"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "pzu_q1807170": {
+      "slug": "pzu_q1807170",
+      "title": "PZU",
+      "title_en": "PZU",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pzu-33d2fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pzu-33d2fe",
+        "wikidata": "Q1807170"
+      }
+    },
+    "unilink_q128033528": {
+      "slug": "unilink_q128033528",
+      "title": "Unilink",
+      "title_en": "Unilink",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unilink-313da8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unilink-313da8",
+        "wikidata": "Q128033528"
+      }
+    },
+    "uniqa_q1022419": {
+      "slug": "uniqa_q1022419",
+      "title": "Uniqa",
+      "title_en": "Uniqa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uniqa-39b262.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uniqa-39b262",
+        "wikidata": "Q1022419"
+      }
+    },
+    "warta_q9353838": {
+      "slug": "warta_q9353838",
+      "title": "Warta",
+      "title_en": "Warta",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warta-313da8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "warta-313da8",
+        "wikidata": "Q9353838"
+      }
+    },
+    "komendapowiatowapastwowejstraypoarnej": {
+      "slug": "komendapowiatowapastwowejstraypoarnej",
+      "title": "Komenda Powiatowa Państwowej Straży Pożarnej",
+      "title_en": "Komenda Powiatowa Państwowej Straży Pożarnej",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "komendapowiatowapanstwowejstrazypozarnej-16cbc6",
+        "wikidata": ""
+      }
+    },
+    "powiatowastacjasanitarnoepidemiologiczna": {
+      "slug": "powiatowastacjasanitarnoepidemiologiczna",
+      "title": "Powiatowa Stacja Sanitarno-Epidemiologiczna",
+      "title_en": "Powiatowa Stacja Sanitarno-Epidemiologiczna",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "powiatowastacjasanitarnoepidemiologiczna-16cbc6",
+        "wikidata": ""
+      }
+    },
+    "powiatowyinspektoratnadzorubudowlanego": {
+      "slug": "powiatowyinspektoratnadzorubudowlanego",
+      "title": "Powiatowy Inspektorat Nadzoru Budowlanego",
+      "title_en": "Powiatowy Inspektorat Nadzoru Budowlanego",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "powiatowyinspektoratnadzorubudowlanego-16cbc6",
+        "wikidata": ""
+      }
+    },
+    "powiatowyinspektoratweterynarii": {
+      "slug": "powiatowyinspektoratweterynarii",
+      "title": "Powiatowy Inspektorat Weterynarii",
+      "title_en": "Powiatowy Inspektorat Weterynarii",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "powiatowyinspektoratweterynarii-16cbc6",
+        "wikidata": ""
+      }
+    },
+    "powiatowyurzdpracy": {
+      "slug": "powiatowyurzdpracy",
+      "title": "Powiatowy Urząd Pracy",
+      "title_en": "Powiatowy Urząd Pracy",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "powiatowyurzadpracy-16cbc6",
+        "wikidata": ""
+      }
+    },
+    "zakadubezpieczespoecznych_q144881": {
+      "slug": "zakadubezpieczespoecznych_q144881",
+      "title": "Zakład Ubezpieczeń Społecznych",
+      "title_en": "Zakład Ubezpieczeń Społecznych",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zakladubezpieczenspolecznych-16cbc6.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zakladubezpieczenspolecznych-16cbc6",
+        "wikidata": "Q144881"
+      }
+    },
     "allegroonebox_q110738715": {
       "slug": "allegroonebox_q110738715",
       "title": "Allegro One Box",
-      "short_name": "Allegro On",
-      "badge_text": "A",
+      "title_en": "Allegro One Box",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Allegro One Box"
-      ],
-      "keywords": [
-        "Allegro One Box"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allegroonebox-ce4e28.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "allegroonebox-ce4e28",
         "wikidata": "Q110738715"
@@ -30,21 +289,12 @@
     "appkomatinpost_q130375314": {
       "slug": "appkomatinpost_q130375314",
       "title": "Appkomat InPost",
-      "short_name": "Appkomat I",
-      "badge_text": "A",
+      "title_en": "Appkomat InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Appkomat InPost"
-      ],
-      "keywords": [
-        "Appkomat InPost"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/appkomatinpost-ce4e28.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "appkomatinpost-ce4e28",
         "wikidata": "Q130375314"
@@ -52,22 +302,13 @@
     },
     "automatprzesykowyaliexpress_q29904317": {
       "slug": "automatprzesykowyaliexpress_q29904317",
-      "title": "automat przesyłkowy AliExpress",
-      "short_name": "automat pr",
-      "badge_text": "A",
+      "title": "AliExpress",
+      "title_en": "AliExpress",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "AliExpress"
-      ],
-      "keywords": [
-        "AliExpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aliexpress-ce4e28.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "aliexpress-ce4e28",
         "wikidata": "Q29904317"
@@ -76,21 +317,12 @@
     "dhlbox247_q115568785": {
       "slug": "dhlbox247_q115568785",
       "title": "DHL BOX 24/7",
-      "short_name": "DHL BOX 24",
-      "badge_text": "D",
+      "title_en": "DHL BOX 24/7",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DHL BOX 24/7"
-      ],
-      "keywords": [
-        "DHL BOX 24/7"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhlbox247-ce4e28.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dhlbox247-ce4e28",
         "wikidata": "Q115568785"
@@ -99,21 +331,12 @@
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -122,21 +345,12 @@
     "lodwkomatinpost_q126284966": {
       "slug": "lodwkomatinpost_q126284966",
       "title": "Lodówkomat InPost",
-      "short_name": "Lodówkomat",
-      "badge_text": "L",
+      "title_en": "Lodówkomat InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Lodówkomat InPost"
-      ],
-      "keywords": [
-        "Lodówkomat InPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lodowkomatinpost-ce4e28",
         "wikidata": "Q126284966"
@@ -145,21 +359,12 @@
     "orlenpaczka_q110457879": {
       "slug": "orlenpaczka_q110457879",
       "title": "Orlen Paczka",
-      "short_name": "Orlen Pacz",
-      "badge_text": "O",
+      "title_en": "Orlen Paczka",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Orlen Paczka"
-      ],
-      "keywords": [
-        "Orlen Paczka"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orlenpaczka-4d399f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "orlenpaczka-4d399f",
         "wikidata": "Q110457879"
@@ -168,21 +373,12 @@
     "paczkomatinpost_q110970254": {
       "slug": "paczkomatinpost_q110970254",
       "title": "Paczkomat InPost",
-      "short_name": "Paczkomat ",
-      "badge_text": "P",
+      "title_en": "Paczkomat InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Paczkomat InPost"
-      ],
-      "keywords": [
-        "Paczkomat InPost"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paczkomatinpost-ce4e28.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paczkomatinpost-ce4e28",
         "wikidata": "Q110970254"
@@ -191,21 +387,12 @@
     "pocztex_q127106701": {
       "slug": "pocztex_q127106701",
       "title": "Pocztex",
-      "short_name": "Pocztex",
-      "badge_text": "P",
+      "title_en": "Pocztex",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Pocztex"
-      ],
-      "keywords": [
-        "Pocztex"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pocztex-ce4e28.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pocztex-ce4e28",
         "wikidata": "Q127106701"
@@ -214,21 +401,12 @@
     "pocztapolska_q168833": {
       "slug": "pocztapolska_q168833",
       "title": "Poczta Polska",
-      "short_name": "Poczta Pol",
-      "badge_text": "P",
+      "title_en": "Poczta Polska",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Poczta Polska"
-      ],
-      "keywords": [
-        "Poczta Polska"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pocztapolska-4d399f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pocztapolska-4d399f",
         "wikidata": "Q168833"

@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "uy",
+  "category": "supermarket",
+  "total_brands": 11,
   "brand_aliases": {
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "teashop_q111730818": {
+      "slug": "teashop_q111730818",
+      "title": "Tea Shop",
+      "title_en": "Tea Shop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teashop-d87694.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "teashop-d87694",
+        "wikidata": "Q111730818"
+      }
+    },
+    "sodimac_q7553274": {
+      "slug": "sodimac_q7553274",
+      "title": "Sodimac",
+      "title_en": "Sodimac",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sodimac-0b4811",
+        "wikidata": "Q7553274"
+      }
+    },
+    "renner_q3064071": {
+      "slug": "renner_q3064071",
+      "title": "Renner",
+      "title_en": "Renner",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renner-41b5c2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "renner-41b5c2",
+        "wikidata": "Q3064071"
+      }
+    },
     "discouruguay_q16636819": {
       "slug": "discouruguay_q16636819",
-      "title": "Disco (Uruguay)",
-      "short_name": "Disco (Uru",
-      "badge_text": "D",
+      "title": "Disco",
+      "title_en": "Disco",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Disco"
-      ],
-      "keywords": [
-        "Disco"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/disco-f37fd6.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "disco-f37fd6",
         "wikidata": "Q16636819"
@@ -30,47 +79,85 @@
     "gant_q1380537": {
       "slug": "gant_q1380537",
       "title": "Géant",
-      "short_name": "Géant",
-      "badge_text": "G",
+      "title_en": "Géant",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Géant"
-      ],
-      "keywords": [
-        "Géant"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "geant-a2a643",
         "wikidata": "Q1380537"
       }
     },
+    "claro_q1770208": {
+      "slug": "claro_q1770208",
+      "title": "Claro",
+      "title_en": "Claro",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/claro-1c9651.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "claro-1c9651",
+        "wikidata": "Q1770208"
+      }
+    },
+    "iplace_q110417768": {
+      "slug": "iplace_q110417768",
+      "title": "iPlace",
+      "title_en": "iPlace",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "iplace-1b1a0a",
+        "wikidata": "Q110417768"
+      }
+    },
+    "movistar_q967735": {
+      "slug": "movistar_q967735",
+      "title": "Movistar",
+      "title_en": "Movistar",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movistar-acd455.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "movistar-acd455",
+        "wikidata": "Q967735"
+      }
+    },
     "maxikiosco": {
       "slug": "maxikiosco",
       "title": "Maxikiosco",
-      "short_name": "Maxikiosco",
-      "badge_text": "M",
+      "title_en": "Maxikiosco",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Maxikiosco"
-      ],
-      "keywords": [
-        "Maxikiosco"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "maxikiosco-478c1f",
         "wikidata": ""
+      }
+    },
+    "viajeselcorteingls_q115268048": {
+      "slug": "viajeselcorteingls_q115268048",
+      "title": "Viajes El Corte Inglés",
+      "title_en": "Viajes El Corte Inglés",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viajeselcorteingles-d900b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "viajeselcorteingles-d900b5",
+        "wikidata": "Q115268048"
       }
     }
   }

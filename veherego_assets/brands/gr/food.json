@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 11,
+  "country": "gr",
+  "category": "food",
+  "total_brands": 40,
   "brand_aliases": {
     "paul_q3370417": {
       "slug": "paul_q3370417",
       "title": "Paul",
-      "short_name": "Paul",
-      "badge_text": "P",
+      "title_en": "Paul",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paul"
-      ],
-      "keywords": [
-        "Paul"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paul-652955",
         "wikidata": "Q3370417"
@@ -30,23 +23,12 @@
     "_q106776278": {
       "slug": "_q106776278",
       "title": "Βενέτη",
-      "short_name": "Βενέτη",
-      "badge_text": "Β",
+      "title_en": "Veneti",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Veneti",
-        "Βενέτη"
-      ],
-      "keywords": [
-        "Veneti",
-        "Βενέτη"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/veneti-ec42d9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "veneti-ec42d9",
         "wikidata": "Q106776278"
@@ -55,46 +37,208 @@
     "_q16956985": {
       "slug": "_q16956985",
       "title": "Τερκενλής",
-      "short_name": "Τερκενλής",
-      "badge_text": "Τ",
+      "title_en": "Terkenlis",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Terkenlis",
-        "Τερκενλής"
-      ],
-      "keywords": [
-        "Terkenlis",
-        "Τερκενλής"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/terkenlis-e9ca96.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "terkenlis-e9ca96",
         "wikidata": "Q16956985"
       }
     },
+    "cashflex_q137564505": {
+      "slug": "cashflex_q137564505",
+      "title": "Cashflex",
+      "title_en": "Cashflex",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cashflex-650be4",
+        "wikidata": "Q137564505"
+      }
+    },
+    "alphabank_q747394": {
+      "slug": "alphabank_q747394",
+      "title": "Alpha Bank",
+      "title_en": "Alpha Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alphabank-438bef.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alphabank-438bef",
+        "wikidata": "Q747394"
+      }
+    },
+    "eurobankergasias_q951850": {
+      "slug": "eurobankergasias_q951850",
+      "title": "Eurobank",
+      "title_en": "Eurobank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurobank-158d7a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eurobank-158d7a",
+        "wikidata": "Q951850"
+      }
+    },
+    "piraeus_q3312": {
+      "slug": "piraeus_q3312",
+      "title": "Piraeus",
+      "title_en": "Piraeus",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/piraeus-e738ec.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "piraeus-e738ec",
+        "wikidata": "Q3312"
+      }
+    },
+    "procreditbank_q567304": {
+      "slug": "procreditbank_q567304",
+      "title": "ProCredit Bank",
+      "title_en": "ProCredit Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/procreditbank-f3fcbc.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "procreditbank-f3fcbc",
+        "wikidata": "Q567304"
+      }
+    },
+    "_q1816028": {
+      "slug": "_q1816028",
+      "title": "Εθνική Τράπεζα",
+      "title_en": "National Bank of Greece",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalbankofgreece-f14c4e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nationalbankofgreece-f14c4e",
+        "wikidata": "Q1816028"
+      }
+    },
+    "saeinstitute_q201438": {
+      "slug": "saeinstitute_q201438",
+      "title": "SAE Institute",
+      "title_en": "SAE Institute",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saeinstitute-7a11fb.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "saeinstitute-7a11fb",
+        "wikidata": "Q201438"
+      }
+    },
+    "ekochargego_q140818770": {
+      "slug": "ekochargego_q140818770",
+      "title": "EKO Charge&Go",
+      "title_en": "EKO Charge&Go",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ekochargeandgo-5f334c",
+        "wikidata": "Q140818770"
+      }
+    },
+    "electrip_q133980622": {
+      "slug": "electrip_q133980622",
+      "title": "electrip",
+      "title_en": "electrip",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrip-7d70e9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "electrip-7d70e9",
+        "wikidata": "Q133980622"
+      }
+    },
+    "nrgincharge_q140817704": {
+      "slug": "nrgincharge_q140817704",
+      "title": "nrg incharge",
+      "title_en": "nrg incharge",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nrgincharge-5f334c",
+        "wikidata": "Q140817704"
+      }
+    },
+    "plugq_q140818570": {
+      "slug": "plugq_q140818570",
+      "title": "PlugQ",
+      "title_en": "PlugQ",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "plugq-5f334c",
+        "wikidata": "Q140818570"
+      }
+    },
+    "witty_q140818696": {
+      "slug": "witty_q140818696",
+      "title": "Witty",
+      "title_en": "Witty",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "witty-5f334c",
+        "wikidata": "Q140818696"
+      }
+    },
+    "blue_q140818654": {
+      "slug": "blue_q140818654",
+      "title": "ΔΕΗ blue",
+      "title_en": "ΔΕΗ blue",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "3ef695-5f334c",
+        "wikidata": "Q140818654"
+      }
+    },
     "everest_q62273299": {
       "slug": "everest_q62273299",
       "title": "Everest",
-      "short_name": "Everest",
-      "badge_text": "E",
+      "title_en": "Everest",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Everest"
-      ],
-      "keywords": [
-        "Everest"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/everest-6b115c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "everest-6b115c",
         "wikidata": "Q62273299"
@@ -103,21 +247,12 @@
     "gourmetburgerkitchen_q5588445": {
       "slug": "gourmetburgerkitchen_q5588445",
       "title": "Gourmet Burger Kitchen",
-      "short_name": "Gourmet Bu",
-      "badge_text": "G",
+      "title_en": "Gourmet Burger Kitchen",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Gourmet Burger Kitchen"
-      ],
-      "keywords": [
-        "Gourmet Burger Kitchen"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gourmetburgerkitchen-2db3d2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gourmetburgerkitchen-2db3d2",
         "wikidata": "Q5588445"
@@ -126,21 +261,12 @@
     "lartigiano_q115145931": {
       "slug": "lartigiano_q115145931",
       "title": "l'artigiano",
-      "short_name": "l'artigian",
-      "badge_text": "L",
+      "title_en": "l'artigiano",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "l'artigiano"
-      ],
-      "keywords": [
-        "l'artigiano"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lartigiano-6b115c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lartigiano-6b115c",
         "wikidata": "Q115145931"
@@ -149,21 +275,12 @@
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
@@ -172,21 +289,12 @@
     "spizzico_q1419041": {
       "slug": "spizzico_q1419041",
       "title": "Spizzico",
-      "short_name": "Spizzico",
-      "badge_text": "S",
+      "title_en": "Spizzico",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Spizzico"
-      ],
-      "keywords": [
-        "Spizzico"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spizzico-7eb3e4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spizzico-7eb3e4",
         "wikidata": "Q1419041"
@@ -195,21 +303,12 @@
     "_q114830599": {
       "slug": "_q114830599",
       "title": "ΒΕΑΤ",
-      "short_name": "ΒΕΑΤ",
-      "badge_text": "Β",
+      "title_en": "ΒΕΑΤ",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "ΒΕΑΤ"
-      ],
-      "keywords": [
-        "ΒΕΑΤ"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/57e3ef-6b115c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "57e3ef-6b115c",
         "wikidata": "Q114830599"
@@ -218,49 +317,253 @@
     "_q62273834": {
       "slug": "_q62273834",
       "title": "Γρηγόρης",
-      "short_name": "Γρηγόρης",
-      "badge_text": "Γ",
+      "title_en": "Gregory's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Gregory's",
-        "Γρηγόρης"
-      ],
-      "keywords": [
-        "Gregory's",
-        "Γρηγόρης"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gregorys-2c3287.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gregorys-2c3287",
         "wikidata": "Q62273834"
       }
     },
+    "cineplexx_q873340": {
+      "slug": "cineplexx_q873340",
+      "title": "Cineplexx",
+      "title_en": "Cineplexx",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cineplexx-8f1bb5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cineplexx-8f1bb5",
+        "wikidata": "Q873340"
+      }
+    },
+    "odeon_q6127470": {
+      "slug": "odeon_q6127470",
+      "title": "Odeon",
+      "title_en": "Odeon",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/odeon-031144.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "odeon-031144",
+        "wikidata": "Q6127470"
+      }
+    },
+    "amorino_q2843884": {
+      "slug": "amorino_q2843884",
+      "title": "Amorino",
+      "title_en": "Amorino",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amorino-d14110.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amorino-d14110",
+        "wikidata": "Q2843884"
+      }
+    },
     "francomanca_q28404417": {
       "slug": "francomanca_q28404417",
       "title": "Franco Manca",
-      "short_name": "Franco Man",
-      "badge_text": "F",
+      "title_en": "Franco Manca",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Franco Manca"
-      ],
-      "keywords": [
-        "Franco Manca"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/francomanca-6f1a9d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "francomanca-6f1a9d",
         "wikidata": "Q28404417"
+      }
+    },
+    "aegean_q28146598": {
+      "slug": "aegean_q28146598",
+      "title": "Aegean",
+      "title_en": "Aegean",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aegean-c67f2c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aegean-c67f2c",
+        "wikidata": "Q28146598"
+      }
+    },
+    "as24_q2819394": {
+      "slug": "as24_q2819394",
+      "title": "AS 24",
+      "title_en": "AS 24",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/as24-a160b3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "as24-a160b3",
+        "wikidata": "Q2819394"
+      }
+    },
+    "avin_q22979634": {
+      "slug": "avin_q22979634",
+      "title": "Avin",
+      "title_en": "Avin",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avin-c67f2c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "avin-c67f2c",
+        "wikidata": "Q22979634"
+      }
+    },
+    "cyclon": {
+      "slug": "cyclon",
+      "title": "CYCLON",
+      "title_en": "CYCLON",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cyclon-c67f2c",
+        "wikidata": ""
+      }
+    },
+    "eko_q31283948": {
+      "slug": "eko_q31283948",
+      "title": "EKO",
+      "title_en": "EKO",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eko-c67f2c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eko-c67f2c",
+        "wikidata": "Q31283948"
+      }
+    },
+    "jetoil": {
+      "slug": "jetoil",
+      "title": "JETOIL",
+      "title_en": "JETOIL",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jetoil-b47e96",
+        "wikidata": ""
+      }
+    },
+    "kaoil": {
+      "slug": "kaoil",
+      "title": "KAOIL",
+      "title_en": "KAOIL",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kaoil-c67f2c",
+        "wikidata": ""
+      }
+    },
+    "revoil_q62530755": {
+      "slug": "revoil_q62530755",
+      "title": "Revoil",
+      "title_en": "Revoil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/revoil-c67f2c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "revoil-c67f2c",
+        "wikidata": "Q62530755"
+      }
+    },
+    "silkoil": {
+      "slug": "silkoil",
+      "title": "SILKOIL",
+      "title_en": "SILKOIL",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "silkoil-c67f2c",
+        "wikidata": ""
+      }
+    },
+    "441ec5c67f2c": {
+      "slug": "441ec5c67f2c",
+      "title": "ΑΠ",
+      "title_en": "ΑΠ",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "441ec5-c67f2c",
+        "wikidata": ""
+      }
+    },
+    "7c5f98c67f2c": {
+      "slug": "7c5f98c67f2c",
+      "title": "ΑΡΓΩ",
+      "title_en": "ΑΡΓΩ",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "7c5f98-c67f2c",
+        "wikidata": ""
+      }
+    },
+    "_q12876543": {
+      "slug": "_q12876543",
+      "title": "ΕΛΙΝΟΙΛ",
+      "title_en": "ΕΛΙΝΟΙΛ",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a9320e-c67f2c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "a9320e-c67f2c",
+        "wikidata": "Q12876543"
+      }
+    },
+    "_q31283952": {
+      "slug": "_q31283952",
+      "title": "ΕΤΕΚΑ",
+      "title_en": "ΕΤΕΚΑ",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1b5559-c67f2c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "1b5559-c67f2c",
+        "wikidata": "Q31283952"
       }
     }
   }

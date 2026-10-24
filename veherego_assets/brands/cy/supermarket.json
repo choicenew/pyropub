@@ -1,27 +1,202 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 6,
+  "country": "cy",
+  "category": "supermarket",
+  "total_brands": 25,
   "brand_aliases": {
-    "mas_q122957534": {
-      "slug": "mas_q122957534",
-      "title": "Mas",
-      "short_name": "Mas",
-      "badge_text": "M",
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "oldboy": {
+      "slug": "oldboy",
+      "title": "OldBoy",
+      "title_en": "OldBoy",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldboy-1e82c2",
+        "wikidata": ""
+      }
+    },
+    "kotsovolos_q17050427": {
+      "slug": "kotsovolos_q17050427",
+      "title": "Kotsovolos",
+      "title_en": "Kotsovolos",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kotsovolos-f48fcd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kotsovolos-f48fcd",
+        "wikidata": "Q17050427"
+      }
+    },
+    "public_q12871976": {
+      "slug": "public_q12871976",
+      "title": "Public",
+      "title_en": "Public",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/public-f48fcd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "public-f48fcd",
+        "wikidata": "Q12871976"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "skuba_q15847758": {
+      "slug": "skuba_q15847758",
+      "title": "Skuba",
+      "title_en": "Skuba",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skuba-c1f68a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "skuba-c1f68a",
+        "wikidata": "Q15847758"
+      }
+    },
+    "flyingtigercopenhagen_q2786319": {
+      "slug": "flyingtigercopenhagen_q2786319",
+      "title": "Flying Tiger Copenhagen",
+      "title_en": "Flying Tiger Copenhagen",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingtigercopenhagen-55ef00.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flyingtigercopenhagen-55ef00",
+        "wikidata": "Q2786319"
+      }
+    },
+    "jumbo_q3562323": {
+      "slug": "jumbo_q3562323",
+      "title": "Jumbo",
+      "title_en": "Jumbo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jumbo-f2bb45.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jumbo-f2bb45",
+        "wikidata": "Q3562323"
+      }
+    },
+    "marksspencer_q714491": {
+      "slug": "marksspencer_q714491",
+      "title": "Marks & Spencer",
+      "title_en": "Marks & Spencer",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Mas"
-      ],
-      "keywords": [
-        "Mas"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marksandspencer-3de0e9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "marksandspencer-3de0e9",
+        "wikidata": "Q714491"
+      }
+    },
+    "bsbfashion_q12721399": {
+      "slug": "bsbfashion_q12721399",
+      "title": "BSB Fashion",
+      "title_en": "BSB Fashion",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bsbfashion-3443a7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bsbfashion-3443a7",
+        "wikidata": "Q12721399"
+      }
+    },
+    "camelactive_q20057140": {
+      "slug": "camelactive_q20057140",
+      "title": "Camel Active",
+      "title_en": "Camel Active",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "camelactive-1cce02",
+        "wikidata": "Q20057140"
+      }
+    },
+    "celestino_q135155982": {
+      "slug": "celestino_q135155982",
+      "title": "Celestino",
+      "title_en": "Celestino",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/celestino-7f5f10.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "celestino-7f5f10",
+        "wikidata": "Q135155982"
+      }
+    },
+    "peacocks_q7157762": {
+      "slug": "peacocks_q7157762",
+      "title": "Peacocks",
+      "title_en": "Peacocks",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peacocks-c6ef05.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "peacocks-c6ef05",
+        "wikidata": "Q7157762"
+      }
+    },
+    "mas_q122957534": {
+      "slug": "mas_q122957534",
+      "title": "Mas",
+      "title_en": "Mas",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mas-42dc97.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mas-42dc97",
         "wikidata": "Q122957534"
@@ -29,22 +204,13 @@
     },
     "metrocyprus_q6715491": {
       "slug": "metrocyprus_q6715491",
-      "title": "Metro (Cyprus)",
-      "short_name": "Metro (Cyp",
-      "badge_text": "M",
+      "title": "Metro",
+      "title_en": "Metro",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Metro"
-      ],
-      "keywords": [
-        "Metro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-42dc97.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "metro-42dc97",
         "wikidata": "Q6715491"
@@ -53,21 +219,12 @@
     "mixmarkt_q327854": {
       "slug": "mixmarkt_q327854",
       "title": "Mix Markt",
-      "short_name": "Mix Markt",
-      "badge_text": "M",
+      "title_en": "Mix Markt",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Mix Markt"
-      ],
-      "keywords": [
-        "Mix Markt"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mixmarkt-4aeb54.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mixmarkt-4aeb54",
         "wikidata": "Q327854"
@@ -76,46 +233,54 @@
     "_q7536037": {
       "slug": "_q7536037",
       "title": "Σκλαβενίτης",
-      "short_name": "Σκλαβενίτη",
-      "badge_text": "Σ",
+      "title_en": "Sklavenitis",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Σκλαβενίτης",
-        "Sklavenitis"
-      ],
-      "keywords": [
-        "Σκλαβενίτης",
-        "Sklavenitis"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sklavenitis-40667a.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sklavenitis-40667a",
         "wikidata": "Q7536037"
       }
     },
+    "ticketmaster_q2609162": {
+      "slug": "ticketmaster_q2609162",
+      "title": "Ticketmaster",
+      "title_en": "Ticketmaster",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ticketmaster-9f0b74.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ticketmaster-9f0b74",
+        "wikidata": "Q2609162"
+      }
+    },
+    "_q9267542": {
+      "slug": "_q9267542",
+      "title": "Γερμανός",
+      "title_en": "Germanos",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/germanos-602a3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "germanos-602a3b",
+        "wikidata": "Q9267542"
+      }
+    },
     "enishop_q565594": {
       "slug": "enishop_q565594",
       "title": "Eni Shop",
-      "short_name": "Eni Shop",
-      "badge_text": "E",
+      "title_en": "Eni Shop",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Eni Shop"
-      ],
-      "keywords": [
-        "Eni Shop"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enishop-a98884.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "enishop-a98884",
         "wikidata": "Q565594"
@@ -124,24 +289,71 @@
     "minimix_q327854": {
       "slug": "minimix_q327854",
       "title": "Mini Mix",
-      "short_name": "Mini Mix",
-      "badge_text": "M",
+      "title_en": "Mini Mix",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Mini Mix"
-      ],
-      "keywords": [
-        "Mini Mix"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/minimix-ba18ab.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "minimix-ba18ab",
         "wikidata": "Q327854"
+      }
+    },
+    "poltronesof_q80833069": {
+      "slug": "poltronesof_q80833069",
+      "title": "Poltronesofà",
+      "title_en": "Poltronesofà",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poltronesofa-488b55.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "poltronesofa-488b55",
+        "wikidata": "Q80833069"
+      }
+    },
+    "cyta_q3565273": {
+      "slug": "cyta_q3565273",
+      "title": "CYTA",
+      "title_en": "CYTA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cyta-e85adc",
+        "wikidata": "Q3565273"
+      }
+    },
+    "epic_q106823386": {
+      "slug": "epic_q106823386",
+      "title": "Epic",
+      "title_en": "Epic",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "epic-099b82",
+        "wikidata": "Q106823386"
+      }
+    },
+    "_q2007823": {
+      "slug": "_q2007823",
+      "title": "ΟΠΑΠ",
+      "title_en": "ΟΠΑΠ",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/942bba-caf969.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "942bba-caf969",
+        "wikidata": "Q2007823"
       }
     }
   }

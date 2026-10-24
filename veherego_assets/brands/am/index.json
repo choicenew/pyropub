@@ -1,11 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "am",
+  "country_name": "AM",
   "total_categories": 4,
   "manifest_files": [
     "supermarket.json",
-    "drink.json",
     "express.json",
-    "food.json"
-  ]
+    "food.json",
+    "drink.json"
+  ],
+  "version": 1
 }

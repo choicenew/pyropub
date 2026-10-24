@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "iq",
+  "category": "food",
+  "total_brands": 7,
   "brand_aliases": {
     "burgerfuel_q4998537": {
       "slug": "burgerfuel_q4998537",
       "title": "BurgerFuel",
-      "short_name": "BurgerFuel",
-      "badge_text": "B",
+      "title_en": "BurgerFuel",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "BurgerFuel"
-      ],
-      "keywords": [
-        "BurgerFuel"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burgerfuel-ba88db.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "burgerfuel-ba88db",
         "wikidata": "Q4998537"
@@ -30,21 +23,12 @@
     "shakeaway_q108443709": {
       "slug": "shakeaway_q108443709",
       "title": "ShakeAway",
-      "short_name": "ShakeAway",
-      "badge_text": "S",
+      "title_en": "ShakeAway",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "ShakeAway"
-      ],
-      "keywords": [
-        "ShakeAway"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shakeaway-3bfa70.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shakeaway-3bfa70",
         "wikidata": "Q108443709"
@@ -53,21 +37,12 @@
     "texaschicken_q1089932": {
       "slug": "texaschicken_q1089932",
       "title": "Texas Chicken",
-      "short_name": "Texas Chic",
-      "badge_text": "T",
+      "title_en": "Texas Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Texas Chicken"
-      ],
-      "keywords": [
-        "Texas Chicken"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/texaschicken-a57bb7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "texaschicken-a57bb7",
         "wikidata": "Q1089932"
@@ -76,23 +51,12 @@
     "_q524757": {
       "slug": "_q524757",
       "title": "دجاج كنتاكي",
-      "short_name": "دجاج كنتاك",
-      "badge_text": "د",
+      "title_en": "KFC",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "KFC",
-        "دجاج كنتاكي"
-      ],
-      "keywords": [
-        "KFC",
-        "دجاج كنتاكي"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kfc-15a250.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kfc-15a250",
         "wikidata": "Q524757"
@@ -101,26 +65,43 @@
     "_q38076": {
       "slug": "_q38076",
       "title": "ماكدونالدز",
-      "short_name": "ماكدونالدز",
-      "badge_text": "م",
+      "title_en": "McDonald's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "ماكدونالدز",
-        "McDonald's"
-      ],
-      "keywords": [
-        "ماكدونالدز",
-        "McDonald's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcdonalds-19c993.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mcdonalds-19c993",
         "wikidata": "Q38076"
+      }
+    },
+    "llaollao_q12163048": {
+      "slug": "llaollao_q12163048",
+      "title": "Llaollao",
+      "title_en": "Llaollao",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "llaollao-dd9462",
+        "wikidata": "Q12163048"
+      }
+    },
+    "5a6383bbe87b": {
+      "slug": "5a6383bbe87b",
+      "title": "كشك",
+      "title_en": "كشك",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "5a6383-bbe87b",
+        "wikidata": ""
       }
     }
   }

@@ -1,27 +1,342 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "es",
+  "category": "express",
+  "total_brands": 26,
   "brand_aliases": {
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "tecnocasa_q2399658": {
+      "slug": "tecnocasa_q2399658",
+      "title": "Tecnocasa",
+      "title_en": "Tecnocasa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tecnocasa-ed2199.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tecnocasa-ed2199",
+        "wikidata": "Q2399658"
+      }
+    },
+    "cofidis_q1106920": {
+      "slug": "cofidis_q1106920",
+      "title": "Cofidis",
+      "title_en": "Cofidis",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cofidis-8d8ca3.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cofidis-8d8ca3",
+        "wikidata": "Q1106920"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "asepeyo_q11906879": {
+      "slug": "asepeyo_q11906879",
+      "title": "Asepeyo",
+      "title_en": "Asepeyo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/asepeyo-38d127.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "asepeyo-38d127",
+        "wikidata": "Q11906879"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "caser_q5756057": {
+      "slug": "caser_q5756057",
+      "title": "Caser",
+      "title_en": "Caser",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caser-38d127.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "caser-38d127",
+        "wikidata": "Q5756057"
+      }
+    },
+    "cesce_q5737049": {
+      "slug": "cesce_q5737049",
+      "title": "CESCE",
+      "title_en": "CESCE",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cesce-38d127.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cesce-38d127",
+        "wikidata": "Q5737049"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "fremap_q5869232": {
+      "slug": "fremap_q5869232",
+      "title": "Fremap",
+      "title_en": "Fremap",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fremap-38d127.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fremap-38d127",
+        "wikidata": "Q5869232"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "helvetia_q933766": {
+      "slug": "helvetia_q933766",
+      "title": "Helvetia",
+      "title_en": "Helvetia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/helvetia-f9490e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "helvetia-f9490e",
+        "wikidata": "Q933766"
+      }
+    },
+    "libertyseguros_q3178929": {
+      "slug": "libertyseguros_q3178929",
+      "title": "Liberty Seguros",
+      "title_en": "Liberty Seguros",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "libertyseguros-38d127",
+        "wikidata": "Q3178929"
+      }
+    },
+    "lneadirecta_q325156": {
+      "slug": "lneadirecta_q325156",
+      "title": "Línea Directa",
+      "title_en": "Línea Directa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lineadirecta-38d127.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lineadirecta-38d127",
+        "wikidata": "Q325156"
+      }
+    },
+    "mutuamadrilea_q4888750": {
+      "slug": "mutuamadrilea_q4888750",
+      "title": "Mutua Madrileña",
+      "title_en": "Mutua Madrileña",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mutuamadrilena-38d127.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mutuamadrilena-38d127",
+        "wikidata": "Q4888750"
+      }
+    },
+    "ocaso_q6123955": {
+      "slug": "ocaso_q6123955",
+      "title": "Ocaso",
+      "title_en": "Ocaso",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ocaso-ff07dc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ocaso-ff07dc",
+        "wikidata": "Q6123955"
+      }
+    },
+    "occident_q124218333": {
+      "slug": "occident_q124218333",
+      "title": "Occident",
+      "title_en": "Occident",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/occident-38d127.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "occident-38d127",
+        "wikidata": "Q124218333"
+      }
+    },
+    "pelayo_q16617805": {
+      "slug": "pelayo_q16617805",
+      "title": "Pelayo",
+      "title_en": "Pelayo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pelayo-38d127.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pelayo-38d127",
+        "wikidata": "Q16617805"
+      }
+    },
+    "reale_q3931092": {
+      "slug": "reale_q3931092",
+      "title": "Reale",
+      "title_en": "Reale",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reale-fe9c1d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reale-fe9c1d",
+        "wikidata": "Q3931092"
+      }
+    },
+    "santaluca_q6120481": {
+      "slug": "santaluca_q6120481",
+      "title": "Santa Lucía",
+      "title_en": "Santa Lucía",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/santalucia-38d127.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "santalucia-38d127",
+        "wikidata": "Q6120481"
+      }
+    },
+    "vidacaixa_q11705079": {
+      "slug": "vidacaixa_q11705079",
+      "title": "VidaCaixa",
+      "title_en": "VidaCaixa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vidacaixa-38d127.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vidacaixa-38d127",
+        "wikidata": "Q11705079"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "alianacatalana_q100407262": {
+      "slug": "alianacatalana_q100407262",
+      "title": "Aliança Catalana",
+      "title_en": "Aliança Catalana",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aliancacatalana-c36994.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aliancacatalana-c36994",
+        "wikidata": "Q100407262"
+      }
+    },
     "nacex_q126366376": {
       "slug": "nacex_q126366376",
       "title": "Nacex",
-      "short_name": "Nacex",
-      "badge_text": "N",
+      "title_en": "Nacex",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Nacex"
-      ],
-      "keywords": [
-        "Nacex"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nacex-10ef8b",
         "wikidata": "Q126366376"
@@ -30,21 +345,12 @@
     "citypaq_q110748819": {
       "slug": "citypaq_q110748819",
       "title": "CityPaq",
-      "short_name": "CityPaq",
-      "badge_text": "C",
+      "title_en": "CityPaq",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "CityPaq"
-      ],
-      "keywords": [
-        "CityPaq"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citypaq-0d29dc.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "citypaq-0d29dc",
         "wikidata": "Q110748819"
@@ -53,21 +359,12 @@
     "inpost_q3182097": {
       "slug": "inpost_q3182097",
       "title": "InPost",
-      "short_name": "InPost",
-      "badge_text": "I",
+      "title_en": "InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "InPost"
-      ],
-      "keywords": [
-        "InPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inpost-6b37ec",
         "wikidata": "Q3182097"

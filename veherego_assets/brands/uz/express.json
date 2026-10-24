@@ -1,50 +1,118 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "uz",
+  "category": "express",
+  "total_brands": 9,
   "brand_aliases": {
     "e9820961c0ff": {
       "slug": "e9820961c0ff",
       "title": "ПЭК",
-      "short_name": "ПЭК",
-      "badge_text": "П",
+      "title_en": "ПЭК",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "ПЭК"
-      ],
-      "keywords": [
-        "ПЭК"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "e98209-61c0ff",
+        "wikidata": ""
+      }
+    },
+    "gross": {
+      "slug": "gross",
+      "title": "Gross",
+      "title_en": "Gross",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gross-e25ae6",
+        "wikidata": ""
+      }
+    },
+    "ozbekistonrespublikasiprezidentiningxalqqabulxonalari": {
+      "slug": "ozbekistonrespublikasiprezidentiningxalqqabulxonalari",
+      "title": "Oʻzbekiston Respublikasi Prezidentining Xalq qabulxonalari",
+      "title_en": "Oʻzbekiston Respublikasi Prezidentining Xalq qabulxonalari",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "3179d5-1ddd6b",
+        "wikidata": ""
+      }
+    },
+    "f075b4ee18db": {
+      "slug": "f075b4ee18db",
+      "title": "БТИ",
+      "title_en": "БТИ",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "f075b4-ee18db",
+        "wikidata": ""
+      }
+    },
+    "1a8386ee18db": {
+      "slug": "1a8386ee18db",
+      "title": "Военкомат",
+      "title_en": "Военкомат",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "1a8386-ee18db",
+        "wikidata": ""
+      }
+    },
+    "humans": {
+      "slug": "humans",
+      "title": "Humans",
+      "title_en": "Humans",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "humans-92de76",
+        "wikidata": ""
+      }
+    },
+    "ucell": {
+      "slug": "ucell",
+      "title": "Ucell",
+      "title_en": "Ucell",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ucell-92de76",
         "wikidata": ""
       }
     },
     "lockerpost": {
       "slug": "lockerpost",
       "title": "LockerPost",
-      "short_name": "LockerPost",
-      "badge_text": "L",
+      "title_en": "LockerPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "LockerPost"
-      ],
-      "keywords": [
-        "LockerPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lockerpost-48b7ca",
         "wikidata": ""
@@ -53,21 +121,12 @@
     "_q28665980": {
       "slug": "_q28665980",
       "title": "СДЭК",
-      "short_name": "СДЭК",
-      "badge_text": "С",
+      "title_en": "СДЭК",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "СДЭК"
-      ],
-      "keywords": [
-        "СДЭК"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5ac048-c762cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "5ac048-c762cb",
         "wikidata": "Q28665980"

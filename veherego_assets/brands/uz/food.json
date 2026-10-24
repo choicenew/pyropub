@@ -1,50 +1,132 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "uz",
+  "category": "food",
+  "total_brands": 20,
   "brand_aliases": {
     "paul_q3370417": {
       "slug": "paul_q3370417",
       "title": "Paul",
-      "short_name": "Paul",
-      "badge_text": "P",
+      "title_en": "Paul",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paul"
-      ],
-      "keywords": [
-        "Paul"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paul-652955",
         "wikidata": "Q3370417"
       }
     },
+    "halykbank_q1046186": {
+      "slug": "halykbank_q1046186",
+      "title": "Halyk Bank",
+      "title_en": "Halyk Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/halykbank-c4165a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "halykbank-c4165a",
+        "wikidata": "Q1046186"
+      }
+    },
+    "hamkorbank_q12166841": {
+      "slug": "hamkorbank_q12166841",
+      "title": "Hamkorbank",
+      "title_en": "Hamkorbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hamkorbank-99790d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hamkorbank-99790d",
+        "wikidata": "Q12166841"
+      }
+    },
+    "ipakyolibanki_q25534044": {
+      "slug": "ipakyolibanki_q25534044",
+      "title": "Ipak Yoʻli banki",
+      "title_en": "Ipak Yoʻli banki",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/db7b15-99790d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "db7b15-99790d",
+        "wikidata": "Q25534044"
+      }
+    },
+    "nbu_q4314979": {
+      "slug": "nbu_q4314979",
+      "title": "NBU",
+      "title_en": "NBU",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nbu-99790d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nbu-99790d",
+        "wikidata": "Q4314979"
+      }
+    },
+    "ozsanoatqurilishbank_q125490175": {
+      "slug": "ozsanoatqurilishbank_q125490175",
+      "title": "Oʻzsanoatqurilishbank",
+      "title_en": "Oʻzsanoatqurilishbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/7e41fb-99790d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "7e41fb-99790d",
+        "wikidata": "Q125490175"
+      }
+    },
+    "xalqbanki_q25524065": {
+      "slug": "xalqbanki_q25524065",
+      "title": "Xalq banki",
+      "title_en": "Xalq bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "xalqbanki-99790d",
+        "wikidata": "Q25524065"
+      }
+    },
+    "colizeum_q139567421": {
+      "slug": "colizeum_q139567421",
+      "title": "Colizeum",
+      "title_en": "Colizeum",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "colizeum-2ed04c",
+        "wikidata": "Q139567421"
+      }
+    },
     "evos": {
       "slug": "evos",
       "title": "EVOS",
-      "short_name": "EVOS",
-      "badge_text": "E",
+      "title_en": "EVOS",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "EVOS"
-      ],
-      "keywords": [
-        "EVOS"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "evos-d0294b",
         "wikidata": ""
@@ -53,21 +135,12 @@
     "farsh": {
       "slug": "farsh",
       "title": "Farsh",
-      "short_name": "Farsh",
-      "badge_text": "F",
+      "title_en": "Farsh",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Farsh"
-      ],
-      "keywords": [
-        "Farsh"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "farsh-26312c",
         "wikidata": ""
@@ -76,47 +149,141 @@
     "oqtepalavash": {
       "slug": "oqtepalavash",
       "title": "Oqtepa Lavash",
-      "short_name": "Oqtepa Lav",
-      "badge_text": "O",
+      "title_en": "Oqtepa Lavash",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oqtepa Lavash"
-      ],
-      "keywords": [
-        "Oqtepa Lavash"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oqtepalavash-d0294b",
         "wikidata": ""
       }
     },
+    "darixana": {
+      "slug": "darixana",
+      "title": "Da'rixana",
+      "title_en": "Da'rixana",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "darixana-b4bb31",
+        "wikidata": ""
+      }
+    },
+    "oxymed": {
+      "slug": "oxymed",
+      "title": "OXY med",
+      "title_en": "OXY med",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oxymed-b4bb31",
+        "wikidata": ""
+      }
+    },
+    "38db8c4b9132": {
+      "slug": "38db8c4b9132",
+      "title": "Центральная аптека",
+      "title_en": "Центральная аптека",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "38db8c-4b9132",
+        "wikidata": ""
+      }
+    },
+    "33_q110147993": {
+      "slug": "33_q110147993",
+      "title": "33 пингвина",
+      "title_en": "33 пингвина",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fd1d7e-3c9560.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fd1d7e-3c9560",
+        "wikidata": "Q110147993"
+      }
+    },
     "bigchefs_q97832915": {
       "slug": "bigchefs_q97832915",
       "title": "BigChefs",
-      "short_name": "BigChefs",
-      "badge_text": "B",
+      "title_en": "BigChefs",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "BigChefs"
-      ],
-      "keywords": [
-        "BigChefs"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigchefs-697df7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bigchefs-697df7",
         "wikidata": "Q97832915"
+      }
+    },
+    "metan": {
+      "slug": "metan",
+      "title": "Metan",
+      "title_en": "Metan",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "metan-2161be",
+        "wikidata": ""
+      }
+    },
+    "8aea6ec4e665": {
+      "slug": "8aea6ec4e665",
+      "title": "Мой сам",
+      "title_en": "Мой сам",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "8aea6e-c4e665",
+        "wikidata": ""
+      }
+    },
+    "ds": {
+      "slug": "ds",
+      "title": "Мой-ка! DS",
+      "title_en": "Мой-ка! DS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cf497f-a80d1f",
+        "wikidata": ""
+      }
+    },
+    "paynet_q65284105": {
+      "slug": "paynet_q65284105",
+      "title": "Paynet",
+      "title_en": "Paynet",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "paynet-a0f381",
+        "wikidata": "Q65284105"
       }
     }
   }

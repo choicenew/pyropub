@@ -1,8 +1,11 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "145",
-  "total_categories": 1,
+  "country_name": "145",
+  "total_categories": 2,
   "manifest_files": [
+    "supermarket.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

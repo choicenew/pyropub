@@ -1,9 +1,12 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "tt",
-  "total_categories": 2,
+  "country_name": "TT",
+  "total_categories": 3,
   "manifest_files": [
-    "express.json",
-    "food.json"
-  ]
+    "supermarket.json",
+    "food.json",
+    "express.json"
+  ],
+  "version": 1
 }

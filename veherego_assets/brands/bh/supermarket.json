@@ -1,27 +1,132 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "bh",
+  "category": "supermarket",
+  "total_brands": 12,
   "brand_aliases": {
+    "joyalukkas_q6297357": {
+      "slug": "joyalukkas_q6297357",
+      "title": "Joyalukkas",
+      "title_en": "Joyalukkas",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joyalukkas-534941.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "joyalukkas-534941",
+        "wikidata": "Q6297357"
+      }
+    },
+    "malabargoldanddiamonds_q60748883": {
+      "slug": "malabargoldanddiamonds_q60748883",
+      "title": "Malabar Gold and Diamonds",
+      "title_en": "Malabar Gold and Diamonds",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malabargoldanddiamonds-9fa2ef.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "malabargoldanddiamonds-9fa2ef",
+        "wikidata": "Q60748883"
+      }
+    },
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "eyewa_q141129902": {
+      "slug": "eyewa_q141129902",
+      "title": "eyewa",
+      "title_en": "eyewa",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eyewa-e7f237.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eyewa-e7f237",
+        "wikidata": "Q141129902"
+      }
+    },
+    "loxam_q3264407": {
+      "slug": "loxam_q3264407",
+      "title": "Loxam",
+      "title_en": "Loxam",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loxam-a4cd21.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "loxam-a4cd21",
+        "wikidata": "Q3264407"
+      }
+    },
+    "tyreplus_q110959120": {
+      "slug": "tyreplus_q110959120",
+      "title": "Tyreplus",
+      "title_en": "Tyreplus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tyreplus-99cc81.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tyreplus-99cc81",
+        "wikidata": "Q110959120"
+      }
+    },
+    "merlenormancosmetics_q104844059": {
+      "slug": "merlenormancosmetics_q104844059",
+      "title": "Merle Norman",
+      "title_en": "Merle Norman",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merlenorman-f96c07.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "merlenorman-f96c07",
+        "wikidata": "Q104844059"
+      }
+    },
+    "95270fc3d0a3": {
+      "slug": "95270fc3d0a3",
+      "title": "ردتاغ",
+      "title_en": "ردتاغ",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "95270f-c3d0a3",
+        "wikidata": ""
+      }
+    },
     "luluhypermarket_q6702930": {
       "slug": "luluhypermarket_q6702930",
       "title": "Lulu Hypermarket",
-      "short_name": "Lulu Hyper",
-      "badge_text": "L",
+      "title_en": "Lulu Hypermarket",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Lulu Hypermarket"
-      ],
-      "keywords": [
-        "Lulu Hypermarket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luluhypermarket-7e55ed.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "luluhypermarket-7e55ed",
         "wikidata": "Q6702930"
@@ -30,23 +135,12 @@
     "_q4832749": {
       "slug": "_q4832749",
       "title": "بنده",
-      "short_name": "بنده",
-      "badge_text": "ب",
+      "title_en": "Panda",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Panda",
-        "بنده"
-      ],
-      "keywords": [
-        "Panda",
-        "بنده"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panda-709c58.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "panda-709c58",
         "wikidata": "Q4832749"
@@ -55,25 +149,28 @@
     "ikeaswedishfoodmarket_q54078": {
       "slug": "ikeaswedishfoodmarket_q54078",
       "title": "IKEA Swedish Food Market",
-      "short_name": "IKEA Swedi",
-      "badge_text": "I",
+      "title_en": "IKEA Swedish Food Market",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeaswedishfoodmarket-e66215.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeaswedishfoodmarket-e66215",
+        "wikidata": "Q54078"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "IKEA",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-ac4ccb",
         "wikidata": "Q54078"
       }
     }

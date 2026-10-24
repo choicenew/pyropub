@@ -1,27 +1,146 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 6,
+  "country": "hk",
+  "category": "express",
+  "total_brands": 15,
   "brand_aliases": {
+    "brightsmartsecurities_q19855063": {
+      "slug": "brightsmartsecurities_q19855063",
+      "title": "耀才證券",
+      "title_en": "Bright Smart Securities",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brightsmartsecurities-a6a387.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "brightsmartsecurities-a6a387",
+        "wikidata": "Q19855063"
+      }
+    },
+    "harcourts_q5655056": {
+      "slug": "harcourts_q5655056",
+      "title": "Harcourts",
+      "title_en": "Harcourts",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harcourts-e2b091.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "harcourts-e2b091",
+        "wikidata": "Q5655056"
+      }
+    },
+    "21century21_q1054480": {
+      "slug": "21century21_q1054480",
+      "title": "世紀21",
+      "title_en": "Century 21",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-295f7a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "century21-295f7a",
+        "wikidata": "Q1054480"
+      }
+    },
+    "centalineproperty_q5058993": {
+      "slug": "centalineproperty_q5058993",
+      "title": "中原地產",
+      "title_en": "Centaline Property",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centalineproperty-295f7a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "centalineproperty-295f7a",
+        "wikidata": "Q5058993"
+      }
+    },
+    "ricacorpproperties_q7322502": {
+      "slug": "ricacorpproperties_q7322502",
+      "title": "利嘉閣",
+      "title_en": "Ricacorp Properties",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ricacorpproperties-d2db80.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ricacorpproperties-d2db80",
+        "wikidata": "Q7322502"
+      }
+    },
+    "midlandrealty_q6842356": {
+      "slug": "midlandrealty_q6842356",
+      "title": "美聯物業",
+      "title_en": "Midland Realty",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/midlandrealty-295f7a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "midlandrealty-295f7a",
+        "wikidata": "Q6842356"
+      }
+    },
+    "hongkongproperty_q5894954": {
+      "slug": "hongkongproperty_q5894954",
+      "title": "香港置業",
+      "title_en": "Hong Kong Property",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hongkongproperty-d2db80.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hongkongproperty-d2db80",
+        "wikidata": "Q5894954"
+      }
+    },
+    "chinalifeinsuranceoverseas_q118136762": {
+      "slug": "chinalifeinsuranceoverseas_q118136762",
+      "title": "中國人壽（海外）",
+      "title_en": "China Life Insurance (Overseas)",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinalifeinsuranceoverseas-6b61cd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chinalifeinsuranceoverseas-6b61cd",
+        "wikidata": "Q118136762"
+      }
+    },
+    "ucommunehongkong_q60785187": {
+      "slug": "ucommunehongkong_q60785187",
+      "title": "優客工場",
+      "title_en": "Ucommune",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ucommune-a8f329.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ucommune-a8f329",
+        "wikidata": "Q60785187"
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -29,32 +148,13 @@
     },
     "ipostalkiosk_q196631": {
       "slug": "ipostalkiosk_q196631",
-      "title": "智郵寄 iPostal Kiosk",
-      "short_name": "智郵寄 iPosta",
-      "badge_text": "智",
+      "title": "智郵寄",
+      "title_en": "iPostal Kiosk",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "iPostal Kiosk",
-        "香港郵政",
-        "智郵寄",
-        "智郵寄 iPostal Kiosk",
-        "Hongkong Post",
-        "香港郵政 Hongkong Post"
-      ],
-      "keywords": [
-        "iPostal Kiosk",
-        "香港郵政",
-        "智郵寄",
-        "智郵寄 iPostal Kiosk",
-        "Hongkong Post",
-        "香港郵政 Hongkong Post"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ipostalkiosk-a94f22.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ipostalkiosk-a94f22",
         "wikidata": "Q196631"
@@ -62,32 +162,13 @@
     },
     "ipostalstation_q196631": {
       "slug": "ipostalstation_q196631",
-      "title": "智郵站 iPostal Station",
-      "short_name": "智郵站 iPosta",
-      "badge_text": "智",
+      "title": "智郵站",
+      "title_en": "iPostal Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "香港郵政",
-        "iPostal Station",
-        "智郵站 iPostal Station",
-        "智郵站",
-        "Hongkong Post",
-        "香港郵政 Hongkong Post"
-      ],
-      "keywords": [
-        "香港郵政",
-        "iPostal Station",
-        "智郵站 iPostal Station",
-        "智郵站",
-        "Hongkong Post",
-        "香港郵政 Hongkong Post"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ipostalstation-a94f22.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ipostalstation-a94f22",
         "wikidata": "Q196631"
@@ -95,32 +176,13 @@
     },
     "sflocker_q7390019": {
       "slug": "sflocker_q7390019",
-      "title": "順豐自助櫃 SF Locker",
-      "short_name": "順豐自助櫃 SF L",
-      "badge_text": "順",
+      "title": "順豐自助櫃",
+      "title_en": "SF Locker",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "順豐自助櫃 SF Locker",
-        "SF Express",
-        "順豐速運 SF Express",
-        "順豐速運",
-        "SF Locker",
-        "順豐自助櫃"
-      ],
-      "keywords": [
-        "順豐自助櫃 SF Locker",
-        "SF Express",
-        "順豐速運 SF Express",
-        "順豐速運",
-        "SF Locker",
-        "順豐自助櫃"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sflocker-482a52.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sflocker-482a52",
         "wikidata": "Q7390019"
@@ -128,26 +190,13 @@
     },
     "jdlogistics_q67936681": {
       "slug": "jdlogistics_q67936681",
-      "title": "京東物流 JD Logistics",
-      "short_name": "京東物流 JD Lo",
-      "badge_text": "京",
+      "title": "京東物流",
+      "title_en": "JD Logistics",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "JD Logistics",
-        "京東物流",
-        "京東物流 JD Logistics"
-      ],
-      "keywords": [
-        "JD Logistics",
-        "京東物流",
-        "京東物流 JD Logistics"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jdlogistics-d26828.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "jdlogistics-d26828",
         "wikidata": "Q67936681"
@@ -155,26 +204,13 @@
     },
     "sfexpress_q7390019": {
       "slug": "sfexpress_q7390019",
-      "title": "順豐速運 SF Express",
-      "short_name": "順豐速運 SF Ex",
-      "badge_text": "順",
+      "title": "順豐速運",
+      "title_en": "SF Express",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "順豐速運",
-        "SF Express",
-        "順豐速運 SF Express"
-      ],
-      "keywords": [
-        "順豐速運",
-        "SF Express",
-        "順豐速運 SF Express"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sfexpress-5291fc.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sfexpress-5291fc",
         "wikidata": "Q7390019"

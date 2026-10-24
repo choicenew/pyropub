@@ -1,27 +1,118 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "ec",
+  "category": "supermarket",
+  "total_brands": 12,
   "brand_aliases": {
+    "marathonsportsecuador_q3027516": {
+      "slug": "marathonsportsecuador_q3027516",
+      "title": "Marathon Sports",
+      "title_en": "Marathon Sports",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marathonsports-ce6e12.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "marathonsports-ce6e12",
+        "wikidata": "Q3027516"
+      }
+    },
+    "gmo": {
+      "slug": "gmo",
+      "title": "GMO",
+      "title_en": "GMO",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gmo-963ac3",
+        "wikidata": ""
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "gaes_q98492565": {
+      "slug": "gaes_q98492565",
+      "title": "GAES",
+      "title_en": "GAES",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gaes-681898.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gaes-681898",
+        "wikidata": "Q98492565"
+      }
+    },
+    "karma_q22671741": {
+      "slug": "karma_q22671741",
+      "title": "Karma",
+      "title_en": "Karma",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karma-40d0fc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karma-40d0fc",
+        "wikidata": "Q22671741"
+      }
+    },
+    "tsn": {
+      "slug": "tsn",
+      "title": "T. SN",
+      "title_en": "T. SN",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tsn-80468a",
+        "wikidata": ""
+      }
+    },
+    "totto_q132745694": {
+      "slug": "totto_q132745694",
+      "title": "Totto",
+      "title_en": "Totto",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totto-b66712.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "totto-b66712",
+        "wikidata": "Q132745694"
+      }
+    },
     "ta_q3546997": {
       "slug": "ta_q3546997",
       "title": "Tía",
-      "short_name": "Tía",
-      "badge_text": "T",
+      "title_en": "Tía",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Tía"
-      ],
-      "keywords": [
-        "Tía"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tia-22f8ac",
         "wikidata": "Q3546997"
@@ -30,47 +121,57 @@
     "tuti_q138861435": {
       "slug": "tuti_q138861435",
       "title": "TuTi",
-      "short_name": "TuTi",
-      "badge_text": "T",
+      "title_en": "TuTi",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "TuTi"
-      ],
-      "keywords": [
-        "TuTi"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tuti-22f8ac.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tuti-22f8ac",
         "wikidata": "Q138861435"
       }
     },
-    "tsn": {
-      "slug": "tsn",
-      "title": "T. SN",
-      "short_name": "T. SN",
-      "badge_text": "T",
+    "claro_q1770208": {
+      "slug": "claro_q1770208",
+      "title": "Claro",
+      "title_en": "Claro",
       "category": "supermarket",
-      "sub_category": "convenience",
+      "sub_category": "general",
       "color": "#16A34A",
-      "aliases": [
-        "T. SN"
-      ],
-      "keywords": [
-        "T. SN"
-      ],
-      "package_hints": [],
-      "icon_url": null,
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/claro-1c9651.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
-        "nsi_id": "tsn-80468a",
-        "wikidata": ""
+        "nsi_id": "claro-1c9651",
+        "wikidata": "Q1770208"
+      }
+    },
+    "movistar_q967735": {
+      "slug": "movistar_q967735",
+      "title": "Movistar",
+      "title_en": "Movistar",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movistar-acd455.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "movistar-acd455",
+        "wikidata": "Q967735"
+      }
+    },
+    "viajeselcorteingls_q115268048": {
+      "slug": "viajeselcorteingls_q115268048",
+      "title": "Viajes El Corte Inglés",
+      "title_en": "Viajes El Corte Inglés",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viajeselcorteingles-d900b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "viajeselcorteingles-d900b5",
+        "wikidata": "Q115268048"
       }
     }
   }

@@ -1,30 +1,93 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "hn",
+  "category": "supermarket",
+  "total_brands": 6,
   "brand_aliases": {
-    "despensafamiliar_q61994849": {
-      "slug": "despensafamiliar_q61994849",
-      "title": "Despensa Familiar",
-      "short_name": "Despensa F",
-      "badge_text": "D",
+    "marcoaldany_q112095114": {
+      "slug": "marcoaldany_q112095114",
+      "title": "Marco Aldany",
+      "title_en": "Marco Aldany",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marcoaldany-d15f75.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "marcoaldany-d15f75",
+        "wikidata": "Q112095114"
+      }
+    },
+    "elektra_q1142753": {
+      "slug": "elektra_q1142753",
+      "title": "Elektra",
+      "title_en": "Elektra",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Despensa Familiar"
-      ],
-      "keywords": [
-        "Despensa Familiar"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elektra-95a469.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "elektra-95a469",
+        "wikidata": "Q1142753"
+      }
+    },
+    "comex_q5151654": {
+      "slug": "comex_q5151654",
+      "title": "Comex",
+      "title_en": "Comex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comex-d8e74b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "comex-d8e74b",
+        "wikidata": "Q5151654"
+      }
+    },
+    "totto_q132745694": {
+      "slug": "totto_q132745694",
+      "title": "Totto",
+      "title_en": "Totto",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/totto-b66712.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "totto-b66712",
+        "wikidata": "Q132745694"
+      }
+    },
+    "despensafamiliar_q61994849": {
+      "slug": "despensafamiliar_q61994849",
+      "title": "Despensa Familiar",
+      "title_en": "Despensa Familiar",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "despensafamiliar-4ef027",
         "wikidata": "Q61994849"
+      }
+    },
+    "claro_q1770208": {
+      "slug": "claro_q1770208",
+      "title": "Claro",
+      "title_en": "Claro",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/claro-1c9651.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "claro-1c9651",
+        "wikidata": "Q1770208"
       }
     }
   }

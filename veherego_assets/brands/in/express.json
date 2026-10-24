@@ -1,27 +1,342 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "in",
+  "category": "express",
+  "total_brands": 25,
   "brand_aliases": {
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "keralafinancialcorporation_q17064561": {
+      "slug": "keralafinancialcorporation_q17064561",
+      "title": "Kerala Financial Corporation",
+      "title_en": "Kerala Financial Corporation",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keralafinancialcorporation-8505f7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "keralafinancialcorporation-8505f7",
+        "wikidata": "Q17064561"
+      }
+    },
+    "keralastatefinancialenterprises_q6393471": {
+      "slug": "keralastatefinancialenterprises_q6393471",
+      "title": "KSFE",
+      "title_en": "KSFE",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ksfe-8505f7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ksfe-8505f7",
+        "wikidata": "Q6393471"
+      }
+    },
+    "manappuramgeneralfinanceandleasing_q6746938": {
+      "slug": "manappuramgeneralfinanceandleasing_q6746938",
+      "title": "Manappuram General Finance and Leasing",
+      "title_en": "Manappuram General Finance and Leasing",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manappuramgeneralfinanceandleasing-8505f7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "manappuramgeneralfinanceandleasing-8505f7",
+        "wikidata": "Q6746938"
+      }
+    },
+    "muthootfinance_q6943861": {
+      "slug": "muthootfinance_q6943861",
+      "title": "Muthoot Finance",
+      "title_en": "Muthoot Finance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muthootfinance-47d4e7.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "muthootfinance-47d4e7",
+        "wikidata": "Q6943861"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "hdfclife_q5629189": {
+      "slug": "hdfclife_q5629189",
+      "title": "HDFC Life",
+      "title_en": "HDFC Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hdfclife-9d27b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hdfclife-9d27b9",
+        "wikidata": "Q5629189"
+      }
+    },
+    "lifeinsurancecorporation_q2767170": {
+      "slug": "lifeinsurancecorporation_q2767170",
+      "title": "Life Insurance Corporation",
+      "title_en": "Life Insurance Corporation",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifeinsurancecorporation-9d27b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lifeinsurancecorporation-9d27b9",
+        "wikidata": "Q2767170"
+      }
+    },
+    "maxlifeinsurance_q6794973": {
+      "slug": "maxlifeinsurance_q6794973",
+      "title": "Max Life Insurance",
+      "title_en": "Max Life Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxlifeinsurance-9d27b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maxlifeinsurance-9d27b9",
+        "wikidata": "Q6794973"
+      }
+    },
+    "nationalinsurancecompany_q6973776": {
+      "slug": "nationalinsurancecompany_q6973776",
+      "title": "National Insurance Company",
+      "title_en": "National Insurance Company",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalinsurancecompany-9d27b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nationalinsurancecompany-9d27b9",
+        "wikidata": "Q6973776"
+      }
+    },
+    "newindiaassurance_q13118486": {
+      "slug": "newindiaassurance_q13118486",
+      "title": "New India Assurance",
+      "title_en": "New India Assurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/newindiaassurance-9d27b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "newindiaassurance-9d27b9",
+        "wikidata": "Q13118486"
+      }
+    },
+    "sbigeneralinsurance_q85798326": {
+      "slug": "sbigeneralinsurance_q85798326",
+      "title": "SBI General Insurance",
+      "title_en": "SBI General Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sbigeneralinsurance-9d27b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sbigeneralinsurance-9d27b9",
+        "wikidata": "Q85798326"
+      }
+    },
+    "theorientalinsurancecompany_q20707811": {
+      "slug": "theorientalinsurancecompany_q20707811",
+      "title": "The Oriental Insurance Company",
+      "title_en": "The Oriental Insurance Company",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theorientalinsurancecompany-9d27b9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "theorientalinsurancecompany-9d27b9",
+        "wikidata": "Q20707811"
+      }
+    },
+    "unitedindiainsurancecompany_q24952429": {
+      "slug": "unitedindiainsurancecompany_q24952429",
+      "title": "United India Insurance Company",
+      "title_en": "United India Insurance Company",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unitedindiainsurancecompany-9d27b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unitedindiainsurancecompany-9d27b9",
+        "wikidata": "Q24952429"
+      }
+    },
+    "awfis_q60747757": {
+      "slug": "awfis_q60747757",
+      "title": "Awfis",
+      "title_en": "Awfis",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/awfis-2107c0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "awfis-2107c0",
+        "wikidata": "Q60747757"
+      }
+    },
+    "aap_q129844": {
+      "slug": "aap_q129844",
+      "title": "Aam Aadmi Party",
+      "title_en": "Aam Aadmi Party",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aamaadmiparty-88c6e5.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aamaadmiparty-88c6e5",
+        "wikidata": "Q129844"
+      }
+    },
+    "bjp_q10230": {
+      "slug": "bjp_q10230",
+      "title": "Bhartiya Janta Party",
+      "title_en": "Bhartiya Janta Party",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bhartiyajantaparty-88c6e5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bhartiyajantaparty-88c6e5",
+        "wikidata": "Q10230"
+      }
+    },
+    "inc_q10225": {
+      "slug": "inc_q10225",
+      "title": "Indian National Congress",
+      "title_en": "Indian National Congress",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indiannationalcongress-88c6e5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "indiannationalcongress-88c6e5",
+        "wikidata": "Q10225"
+      }
+    },
+    "hrblock_q5627799": {
+      "slug": "hrblock_q5627799",
+      "title": "H&R Block",
+      "title_en": "H&R Block",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handrblock-c966c8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "handrblock-c966c8",
+        "wikidata": "Q5627799"
+      }
+    },
+    "krishibhavan": {
+      "slug": "krishibhavan",
+      "title": "Krishi Bhavan",
+      "title_en": "Krishi Bhavan",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "krishibhavan-e0bfec",
+        "wikidata": ""
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -30,21 +345,12 @@
     "bestexpress_q22099540": {
       "slug": "bestexpress_q22099540",
       "title": "Best Express",
-      "short_name": "Best Expre",
-      "badge_text": "B",
+      "title_en": "Best Express",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Best Express"
-      ],
-      "keywords": [
-        "Best Express"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bestexpress-4c54ab.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bestexpress-4c54ab",
         "wikidata": "Q22099540"

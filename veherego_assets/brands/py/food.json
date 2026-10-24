@@ -1,30 +1,149 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "py",
+  "category": "food",
+  "total_brands": 10,
   "brand_aliases": {
+    "schoolofrock_q7756376": {
+      "slug": "schoolofrock_q7756376",
+      "title": "School of Rock",
+      "title_en": "School of Rock",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schoolofrock-6dbeaf.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "schoolofrock-6dbeaf",
+        "wikidata": "Q7756376"
+      }
+    },
+    "bancocontinentalparaguay_q62054564": {
+      "slug": "bancocontinentalparaguay_q62054564",
+      "title": "Banco Continental",
+      "title_en": "Banco Continental",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancocontinental-82a931.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancocontinental-82a931",
+        "wikidata": "Q62054564"
+      }
+    },
+    "ita_q1424293": {
+      "slug": "ita_q1424293",
+      "title": "Itaú",
+      "title_en": "Itaú",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/itau-4f6526.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "itau-4f6526",
+        "wikidata": "Q1424293"
+      }
+    },
+    "maplebear_q10324823": {
+      "slug": "maplebear_q10324823",
+      "title": "Maple Bear",
+      "title_en": "Maple Bear",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maplebear-101006.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maplebear-101006",
+        "wikidata": "Q10324823"
+      }
+    },
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
+      }
+    },
+    "farmacenterparaguay_q62563868": {
+      "slug": "farmacenterparaguay_q62563868",
+      "title": "Farmacenter",
+      "title_en": "Farmacenter",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmacenter-0e462a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmacenter-0e462a",
+        "wikidata": "Q62563868"
+      }
+    },
+    "puntofarmaparaguay_q62595220": {
+      "slug": "puntofarmaparaguay_q62595220",
+      "title": "Punto Farma",
+      "title_en": "Punto Farma",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puntofarma-0e462a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "puntofarma-0e462a",
+        "wikidata": "Q62595220"
+      }
+    },
+    "axion_q62131749": {
+      "slug": "axion_q62131749",
+      "title": "Axion",
+      "title_en": "Axion",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axion-b21aa1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axion-b21aa1",
+        "wikidata": "Q62131749"
+      }
+    },
+    "copetrol_q62274431": {
+      "slug": "copetrol_q62274431",
+      "title": "Copetrol",
+      "title_en": "Copetrol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/copetrol-c4a95f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "copetrol-c4a95f",
+        "wikidata": "Q62274431"
+      }
+    },
+    "petropar_q7179249": {
+      "slug": "petropar_q7179249",
+      "title": "Petropar",
+      "title_en": "Petropar",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petropar-c4a95f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petropar-c4a95f",
+        "wikidata": "Q7179249"
       }
     }
   }

@@ -1,27 +1,146 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "ke",
+  "category": "supermarket",
+  "total_brands": 14,
   "brand_aliases": {
+    "mrpricehome_q129561270": {
+      "slug": "mrpricehome_q129561270",
+      "title": "Mr Price Home",
+      "title_en": "Mr Price Home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrpricehome-764653.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricehome-764653",
+        "wikidata": "Q129561270"
+      }
+    },
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "builderstradedepot_q116819137": {
+      "slug": "builderstradedepot_q116819137",
+      "title": "Builders Trade Depot",
+      "title_en": "Builders Trade Depot",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/builderstradedepot-c685bf.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "builderstradedepot-c685bf",
+        "wikidata": "Q116819137"
+      }
+    },
+    "buildersexpress_q116819137": {
+      "slug": "buildersexpress_q116819137",
+      "title": "Builders Express",
+      "title_en": "Builders Express",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buildersexpress-a9941a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "buildersexpress-a9941a",
+        "wikidata": "Q116819137"
+      }
+    },
+    "builderssuperstore_q116819137": {
+      "slug": "builderssuperstore_q116819137",
+      "title": "Builders Superstore",
+      "title_en": "Builders Superstore",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/builderssuperstore-a9941a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "builderssuperstore-a9941a",
+        "wikidata": "Q116819137"
+      }
+    },
+    "builderswarehouse_q116819137": {
+      "slug": "builderswarehouse_q116819137",
+      "title": "Builders Warehouse",
+      "title_en": "Builders Warehouse",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/builderswarehouse-a9941a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "builderswarehouse-a9941a",
+        "wikidata": "Q116819137"
+      }
+    },
+    "foschini_q116391780": {
+      "slug": "foschini_q116391780",
+      "title": "Foschini",
+      "title_en": "Foschini",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foschini-560ac2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foschini-560ac2",
+        "wikidata": "Q116391780"
+      }
+    },
+    "mrprice_q129561257": {
+      "slug": "mrprice_q129561257",
+      "title": "Mr Price",
+      "title_en": "Mr Price",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrprice-445d46.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrprice-445d46",
+        "wikidata": "Q129561257"
+      }
+    },
+    "mrpricesport_q129561262": {
+      "slug": "mrpricesport_q129561262",
+      "title": "Mr Price Sport",
+      "title_en": "Mr Price Sport",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricesport-445d46",
+        "wikidata": "Q129561262"
+      }
+    },
     "naivas_q18379067": {
       "slug": "naivas_q18379067",
       "title": "Naivas",
-      "short_name": "Naivas",
-      "badge_text": "N",
+      "title_en": "Naivas",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Naivas"
-      ],
-      "keywords": [
-        "Naivas"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naivas-d512c0.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "naivas-d512c0",
         "wikidata": "Q18379067"
@@ -30,24 +149,57 @@
     "quickmart_q113012659": {
       "slug": "quickmart_q113012659",
       "title": "QuickMart",
-      "short_name": "QuickMart",
-      "badge_text": "Q",
+      "title_en": "QuickMart",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "QuickMart"
-      ],
-      "keywords": [
-        "QuickMart"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/quickmart-d512c0.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "quickmart-d512c0",
         "wikidata": "Q113012659"
+      }
+    },
+    "mrpricecellular_q6929120": {
+      "slug": "mrpricecellular_q6929120",
+      "title": "Mr Price Cellular",
+      "title_en": "Mr Price Cellular",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricecellular-16619e",
+        "wikidata": "Q6929120"
+      }
+    },
+    "safaricomkenya_q7398410": {
+      "slug": "safaricomkenya_q7398410",
+      "title": "Safaricom",
+      "title_en": "Safaricom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safaricom-46e307.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "safaricom-46e307",
+        "wikidata": "Q7398410"
+      }
+    },
+    "safaricom_q7398410": {
+      "slug": "safaricom_q7398410",
+      "title": "Safaricom",
+      "title_en": "Safaricom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/safaricom-b9b2c1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "safaricom-b9b2c1",
+        "wikidata": "Q7398410"
       }
     }
   }

@@ -1,30 +1,51 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "tz",
+  "category": "supermarket",
+  "total_brands": 3,
   "brand_aliases": {
+    "vodacomtanzania_q7939274": {
+      "slug": "vodacomtanzania_q7939274",
+      "title": "Vodacom",
+      "title_en": "Vodacom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodacom-6656e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vodacom-6656e3",
+        "wikidata": "Q7939274"
+      }
+    },
     "duka": {
       "slug": "duka",
       "title": "Duka",
-      "short_name": "Duka",
-      "badge_text": "D",
+      "title_en": "Duka",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Duka"
-      ],
-      "keywords": [
-        "Duka"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "duka-1ca326",
         "wikidata": ""
+      }
+    },
+    "meridianbettanzania_q97669809": {
+      "slug": "meridianbettanzania_q97669809",
+      "title": "Meridianbet",
+      "title_en": "Meridianbet",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "meridianbet-7983f2",
+        "wikidata": "Q97669809"
       }
     }
   }

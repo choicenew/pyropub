@@ -1,29 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
+  "country": "mo",
+  "category": "drink",
   "total_brands": 10,
   "brand_aliases": {
     "85c85cbakerycafe_q4644852": {
       "slug": "85c85cbakerycafe_q4644852",
-      "title": "85度C 85°C Bakery Cafe",
-      "short_name": "85度C 85°C ",
-      "badge_text": "8",
+      "title": "85度C",
+      "title_en": "85°C Bakery Cafe",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "85度C 85°C Bakery Cafe",
-        "85°C Bakery Cafe"
-      ],
-      "keywords": [
-        "85度C 85°C Bakery Cafe",
-        "85°C Bakery Cafe"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/947985-b3d618.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "947985-b3d618",
         "wikidata": "Q4644852"
@@ -31,22 +22,13 @@
     },
     "thealley_q126456355": {
       "slug": "thealley_q126456355",
-      "title": "The Alley",
-      "short_name": "The Alley",
-      "badge_text": "T",
+      "title": "鹿角巷",
+      "title_en": "The Alley",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "The Alley"
-      ],
-      "keywords": [
-        "The Alley"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "thealley-c6a8af",
         "wikidata": "Q126456355"
@@ -55,21 +37,12 @@
     "tomntoms_q18142418": {
       "slug": "tomntoms_q18142418",
       "title": "Tom N Toms",
-      "short_name": "Tom N Toms",
-      "badge_text": "T",
+      "title_en": "Tom N Toms",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "Tom N Toms"
-      ],
-      "keywords": [
-        "Tom N Toms"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomntoms-16c022.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tomntoms-16c022",
         "wikidata": "Q18142418"
@@ -78,23 +51,12 @@
     "_q111537052": {
       "slug": "_q111537052",
       "title": "丸作食茶",
-      "short_name": "丸作食茶",
-      "badge_text": "丸",
+      "title_en": "OneZo Tapioca",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "OneZo Tapioca",
-        "丸作食茶"
-      ],
-      "keywords": [
-        "OneZo Tapioca",
-        "丸作食茶"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onezotapioca-783c92.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "onezotapioca-783c92",
         "wikidata": "Q111537052"
@@ -102,24 +64,13 @@
     },
     "heytea_q60875376": {
       "slug": "heytea_q60875376",
-      "title": "喜茶 Heytea",
-      "short_name": "喜茶 Heytea",
-      "badge_text": "喜",
+      "title": "喜茶",
+      "title_en": "Heytea",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "Heytea",
-        "喜茶 Heytea"
-      ],
-      "keywords": [
-        "Heytea",
-        "喜茶 Heytea"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "heytea-b3d618",
         "wikidata": "Q60875376"
@@ -127,24 +78,13 @@
     },
     "nuttea_q111313216": {
       "slug": "nuttea_q111313216",
-      "title": "堅果奶茶 NUTTEA",
-      "short_name": "堅果奶茶 NUTTE",
-      "badge_text": "堅",
+      "title": "堅果奶茶",
+      "title_en": "NUTTEA",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "NUTTEA",
-        "堅果奶茶 NUTTEA"
-      ],
-      "keywords": [
-        "NUTTEA",
-        "堅果奶茶 NUTTEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nuttea-b3d618.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nuttea-b3d618",
         "wikidata": "Q111313216"
@@ -152,24 +92,13 @@
     },
     "pacificcoffee_q7122398": {
       "slug": "pacificcoffee_q7122398",
-      "title": "太平洋咖啡 Pacific Coffee",
-      "short_name": "太平洋咖啡 Paci",
-      "badge_text": "太",
+      "title": "太平洋咖啡",
+      "title_en": "Pacific Coffee",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "太平洋咖啡 Pacific Coffee",
-        "Pacific Coffee"
-      ],
-      "keywords": [
-        "太平洋咖啡 Pacific Coffee",
-        "Pacific Coffee"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pacificcoffee-b3d618.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pacificcoffee-b3d618",
         "wikidata": "Q7122398"
@@ -177,24 +106,13 @@
     },
     "starbucks_q37158": {
       "slug": "starbucks_q37158",
-      "title": "星巴克 Starbucks",
-      "short_name": "星巴克 Starbu",
-      "badge_text": "星",
+      "title": "星巴克",
+      "title_en": "Starbucks",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "Starbucks",
-        "星巴克 Starbucks"
-      ],
-      "keywords": [
-        "Starbucks",
-        "星巴克 Starbucks"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/starbucks-b3d618.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "starbucks-b3d618",
         "wikidata": "Q37158"
@@ -202,24 +120,13 @@
     },
     "huilaushan_q5934913": {
       "slug": "huilaushan_q5934913",
-      "title": "許留山 Hui Lau Shan",
-      "short_name": "許留山 Hui La",
-      "badge_text": "許",
+      "title": "許留山",
+      "title_en": "Hui Lau Shan",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "Hui Lau Shan",
-        "許留山 Hui Lau Shan"
-      ],
-      "keywords": [
-        "Hui Lau Shan",
-        "許留山 Hui Lau Shan"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "huilaushan-b3d618",
         "wikidata": "Q5934913"
@@ -227,24 +134,13 @@
     },
     "gongcha_q5581670": {
       "slug": "gongcha_q5581670",
-      "title": "貢茶 Gong Cha",
-      "short_name": "貢茶 Gong Ch",
-      "badge_text": "貢",
+      "title": "貢茶",
+      "title_en": "Gong Cha",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "Gong Cha",
-        "貢茶 Gong Cha"
-      ],
-      "keywords": [
-        "Gong Cha",
-        "貢茶 Gong Cha"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gongcha-b3d618.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gongcha-b3d618",
         "wikidata": "Q5581670"

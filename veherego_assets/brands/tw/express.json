@@ -1,29 +1,286 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "tw",
+  "category": "express",
+  "total_brands": 21,
   "brand_aliases": {
+    "21_q1054480": {
+      "slug": "21_q1054480",
+      "title": "21世紀不動產",
+      "title_en": "Century 21",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-dccb44.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "century21-dccb44",
+        "wikidata": "Q1054480"
+      }
+    },
+    "_q10871742": {
+      "slug": "_q10871742",
+      "title": "中信房屋",
+      "title_en": "CTBC Real Estate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ctbcrealestate-dccb44.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ctbcrealestate-dccb44",
+        "wikidata": "Q10871742"
+      }
+    },
+    "_q105079491": {
+      "slug": "_q105079491",
+      "title": "住商不動產",
+      "title_en": "H&B Housing",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handbhousing-dccb44.webp",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "handbhousing-dccb44",
+        "wikidata": "Q105079491"
+      }
+    },
+    "_q10888034": {
+      "slug": "_q10888034",
+      "title": "信義房屋",
+      "title_en": "Sinyi Realty",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sinyirealty-dccb44.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sinyirealty-dccb44",
+        "wikidata": "Q10888034"
+      }
+    },
+    "_q15934189": {
+      "slug": "_q15934189",
+      "title": "台灣房屋",
+      "title_en": "Taiwan Realty Estate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taiwanrealtyestate-dccb44.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "taiwanrealtyestate-dccb44",
+        "wikidata": "Q15934189"
+      }
+    },
+    "_q131300581": {
+      "slug": "_q131300581",
+      "title": "有巢氏房屋",
+      "title_en": "u-trust",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "utrust-dccb44",
+        "wikidata": "Q131300581"
+      }
+    },
+    "_q97487263": {
+      "slug": "_q97487263",
+      "title": "東森房屋",
+      "title_en": "EASTERN REALTY",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easternrealty-dccb44.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "easternrealty-dccb44",
+        "wikidata": "Q97487263"
+      }
+    },
+    "_q11132113": {
+      "slug": "_q11132113",
+      "title": "永慶房屋",
+      "title_en": "Yung Ching",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yungching-dccb44.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yungching-dccb44",
+        "wikidata": "Q11132113"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "cathaycenturyinsurance_q24840480": {
+      "slug": "cathaycenturyinsurance_q24840480",
+      "title": "国泰世纪保险",
+      "title_en": "Cathay Century Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cathaycenturyinsurance-6809cb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cathaycenturyinsurance-6809cb",
+        "wikidata": "Q24840480"
+      }
+    },
+    "_q5099767": {
+      "slug": "_q5099767",
+      "title": "中國人壽",
+      "title_en": "China Life Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinalifeinsurance-6809cb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chinalifeinsurance-6809cb",
+        "wikidata": "Q5099767"
+      }
+    },
+    "_q107183588": {
+      "slug": "_q107183588",
+      "title": "兆豐保險",
+      "title_en": "Chung Kuo Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chungkuoinsurance-6809cb.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chungkuoinsurance-6809cb",
+        "wikidata": "Q107183588"
+      }
+    },
+    "_q19850057": {
+      "slug": "_q19850057",
+      "title": "全球人壽",
+      "title_en": "TransGlobe Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/transglobelife-6809cb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "transglobelife-6809cb",
+        "wikidata": "Q19850057"
+      }
+    },
+    "_q10874424": {
+      "slug": "_q10874424",
+      "title": "台灣人壽",
+      "title_en": "Taiwan Life Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taiwanlifeinsurance-6809cb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "taiwanlifeinsurance-6809cb",
+        "wikidata": "Q10874424"
+      }
+    },
+    "_q20688715": {
+      "slug": "_q20688715",
+      "title": "泰安產物保險",
+      "title_en": "Taian Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taianinsurance-6809cb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "taianinsurance-6809cb",
+        "wikidata": "Q20688715"
+      }
+    },
+    "_q19853556": {
+      "slug": "_q19853556",
+      "title": "臺灣產物保險",
+      "title_en": "Taiwan Fire & Marine Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "taiwanfireandmarineinsurance-6809cb",
+        "wikidata": "Q19853556"
+      }
+    },
+    "_q16510360": {
+      "slug": "_q16510360",
+      "title": "華南保險",
+      "title_en": "South China Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southchinainsurance-6809cb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "southchinainsurance-6809cb",
+        "wikidata": "Q16510360"
+      }
+    },
+    "ucommune_q60785187": {
+      "slug": "ucommune_q60785187",
+      "title": "優客工場",
+      "title_en": "Ucommune",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ucommune-4d61d2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ucommune-4d61d2",
+        "wikidata": "Q60785187"
+      }
+    },
     "i_q4375439": {
       "slug": "i_q4375439",
       "title": "i郵箱",
-      "short_name": "i郵箱",
-      "badge_text": "I",
+      "title_en": "iBox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "i郵箱",
-        "iBox"
-      ],
-      "keywords": [
-        "i郵箱",
-        "iBox"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ibox-89f0e2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ibox-89f0e2",
         "wikidata": "Q4375439"
@@ -32,23 +289,12 @@
     "_q109676747": {
       "slug": "_q109676747",
       "title": "蝦皮店到店",
-      "short_name": "蝦皮店到店",
-      "badge_text": "蝦",
+      "title_en": "SPX Express",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "SPX Express",
-        "蝦皮店到店"
-      ],
-      "keywords": [
-        "SPX Express",
-        "蝦皮店到店"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spxexpress-89f0e2",
         "wikidata": "Q109676747"

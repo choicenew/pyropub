@@ -1,11 +1,15 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ma",
-  "total_categories": 4,
+  "country_name": "MA",
+  "total_categories": 6,
   "manifest_files": [
+    "other.json",
     "food.json",
     "supermarket.json",
-    "drink.json",
-    "express.json"
-  ]
+    "express.json",
+    "travel.json",
+    "drink.json"
+  ],
+  "version": 1
 }

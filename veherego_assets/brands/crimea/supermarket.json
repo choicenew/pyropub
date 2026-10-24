@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
+  "country": "crimea",
+  "category": "supermarket",
   "total_brands": 2,
   "brand_aliases": {
     "1ee30595f58a": {
       "slug": "1ee30595f58a",
       "title": "ПУД",
-      "short_name": "ПУД",
-      "badge_text": "П",
+      "title_en": "ПУД",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "ПУД"
-      ],
-      "keywords": [
-        "ПУД"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "1ee305-95f58a",
         "wikidata": ""
@@ -29,24 +22,13 @@
     },
     "sosedi95f58a": {
       "slug": "sosedi95f58a",
-      "title": "Соседи",
-      "short_name": "Соседи",
-      "badge_text": "С",
+      "title": "Sosedi",
+      "title_en": "Sosedi",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Sosedi",
-        "Соседи"
-      ],
-      "keywords": [
-        "Sosedi",
-        "Соседи"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sosedi-95f58a",
         "wikidata": ""

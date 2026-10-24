@@ -1,27 +1,160 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 10,
+  "country": "vn",
+  "category": "supermarket",
+  "total_brands": 22,
   "brand_aliases": {
-    "bigc_q858665": {
-      "slug": "bigc_q858665",
-      "title": "Big C",
-      "short_name": "Big C",
-      "badge_text": "B",
+    "pnj_q61129183": {
+      "slug": "pnj_q61129183",
+      "title": "PNJ",
+      "title_en": "PNJ",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pnj-a9c8da.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pnj-a9c8da",
+        "wikidata": "Q61129183"
+      }
+    },
+    "johnsonfitnesswellness_q120785852": {
+      "slug": "johnsonfitnesswellness_q120785852",
+      "title": "Johnson Fitness & Wellness",
+      "title_en": "Johnson Fitness & Wellness",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnsonfitnessandwellness-f410ff.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "johnsonfitnessandwellness-f410ff",
+        "wikidata": "Q120785852"
+      }
+    },
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "mrdiy_q105044323": {
+      "slug": "mrdiy_q105044323",
+      "title": "MR.DIY",
+      "title_en": "MR.DIY",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrdiy-984c79.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrdiy-984c79",
+        "wikidata": "Q105044323"
+      }
+    },
+    "lottedepartmentstore_q489905": {
+      "slug": "lottedepartmentstore_q489905",
+      "title": "Lotte Department Store",
+      "title_en": "Lotte Department Store",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Big C"
-      ],
-      "keywords": [
-        "Big C"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedepartmentstore-96d9bf.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lottedepartmentstore-96d9bf",
+        "wikidata": "Q489905"
+      }
+    },
+    "lottedutyfree_q12594196": {
+      "slug": "lottedutyfree_q12594196",
+      "title": "Lotte Duty Free",
+      "title_en": "Lotte Duty Free",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedutyfree-8352b8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lottedutyfree-8352b8",
+        "wikidata": "Q12594196"
+      }
+    },
+    "parkson_q835145": {
+      "slug": "parkson_q835145",
+      "title": "Parkson",
+      "title_en": "Parkson",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "parkson-6dcedc",
+        "wikidata": "Q835145"
+      }
+    },
+    "anphc": {
+      "slug": "anphc",
+      "title": "An Phước",
+      "title_en": "An Phước",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "anphuoc-099fcb",
+        "wikidata": ""
+      }
+    },
+    "cahngthitranganphc": {
+      "slug": "cahngthitranganphc",
+      "title": "Cửa Hàng Thời Trang An Phước",
+      "title_en": "Cửa Hàng Thời Trang An Phước",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cuahangthoitranganphuoc-099fcb",
+        "wikidata": ""
+      }
+    },
+    "bigc_q858665": {
+      "slug": "bigc_q858665",
+      "title": "Big C",
+      "title_en": "Big C",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigc-a1bbd8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bigc-a1bbd8",
         "wikidata": "Q858665"
@@ -30,21 +163,12 @@
     "gianthypermarket_q4217013": {
       "slug": "gianthypermarket_q4217013",
       "title": "Giant Hypermarket",
-      "short_name": "Giant Hype",
-      "badge_text": "G",
+      "title_en": "Giant Hypermarket",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Giant Hypermarket"
-      ],
-      "keywords": [
-        "Giant Hypermarket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gianthypermarket-e1160b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gianthypermarket-e1160b",
         "wikidata": "Q4217013"
@@ -53,44 +177,40 @@
     "winmart_q60245505": {
       "slug": "winmart_q60245505",
       "title": "WinMart",
-      "short_name": "WinMart",
-      "badge_text": "W",
+      "title_en": "WinMart",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "WinMart"
-      ],
-      "keywords": [
-        "WinMart"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "winmart-45db57",
         "wikidata": "Q60245505"
       }
     },
+    "viettelstore_q123493815": {
+      "slug": "viettelstore_q123493815",
+      "title": "Viettel Store",
+      "title_en": "Viettel Store",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viettelstore-4fc1f0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "viettelstore-4fc1f0",
+        "wikidata": "Q123493815"
+      }
+    },
     "bchhaxanh_q115327101": {
       "slug": "bchhaxanh_q115327101",
       "title": "Bách Hóa XANH",
-      "short_name": "Bách Hóa X",
-      "badge_text": "B",
+      "title_en": "Bách Hóa XANH",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Bách Hóa XANH"
-      ],
-      "keywords": [
-        "Bách Hóa XANH"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bachhoaxanh-61b913.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bachhoaxanh-61b913",
         "wikidata": "Q115327101"
@@ -99,21 +219,12 @@
     "cheers_q64154066": {
       "slug": "cheers_q64154066",
       "title": "Cheers",
-      "short_name": "Cheers",
-      "badge_text": "C",
+      "title_en": "Cheers",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Cheers"
-      ],
-      "keywords": [
-        "Cheers"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cheers-a4ab31.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cheers-a4ab31",
         "wikidata": "Q64154066"
@@ -122,21 +233,12 @@
     "familymart_q11247682": {
       "slug": "familymart_q11247682",
       "title": "FamilyMart",
-      "short_name": "FamilyMart",
-      "badge_text": "F",
+      "title_en": "FamilyMart",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "FamilyMart"
-      ],
-      "keywords": [
-        "FamilyMart"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/familymart-095323.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "familymart-095323",
         "wikidata": "Q11247682"
@@ -145,21 +247,12 @@
     "gs25_q624041": {
       "slug": "gs25_q624041",
       "title": "GS25",
-      "short_name": "GS25",
-      "badge_text": "G",
+      "title_en": "GS25",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "GS25"
-      ],
-      "keywords": [
-        "GS25"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gs25-20a8b5.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gs25-20a8b5",
         "wikidata": "Q624041"
@@ -168,21 +261,12 @@
     "ministop_q1038929": {
       "slug": "ministop_q1038929",
       "title": "Ministop",
-      "short_name": "Ministop",
-      "badge_text": "M",
+      "title_en": "Ministop",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Ministop"
-      ],
-      "keywords": [
-        "Ministop"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ministop-365d07.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ministop-365d07",
         "wikidata": "Q1038929"
@@ -191,21 +275,12 @@
     "tpho": {
       "slug": "tpho",
       "title": "tạp hoá",
-      "short_name": "tạp hoá",
-      "badge_text": "T",
+      "title_en": "tạp hoá",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "tạp hoá"
-      ],
-      "keywords": [
-        "tạp hoá"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "taphoa-61b913",
         "wikidata": ""
@@ -214,24 +289,29 @@
     "winmart_q113236478": {
       "slug": "winmart_q113236478",
       "title": "WinMart+",
-      "short_name": "WinMart+",
-      "badge_text": "W",
+      "title_en": "WinMart+",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "WinMart+"
-      ],
-      "keywords": [
-        "WinMart+"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winmart-61b913.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "winmart-61b913",
         "wikidata": "Q113236478"
+      }
+    },
+    "chateaudax_q100249791": {
+      "slug": "chateaudax_q100249791",
+      "title": "Chateau d'Ax",
+      "title_en": "Chateau d'Ax",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateaudax-dd1a0d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chateaudax-dd1a0d",
+        "wikidata": "Q100249791"
       }
     }
   }

@@ -1,27 +1,90 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 6,
+  "country": "je",
+  "category": "supermarket",
+  "total_brands": 11,
   "brand_aliases": {
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "waterstones_q151779": {
+      "slug": "waterstones_q151779",
+      "title": "Waterstones",
+      "title_en": "Waterstones",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/waterstones-3a34ca.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "waterstones-3a34ca",
+        "wikidata": "Q151779"
+      }
+    },
+    "bluediamondgardencentres_q81097207": {
+      "slug": "bluediamondgardencentres_q81097207",
+      "title": "Blue Diamond Garden Centres",
+      "title_en": "Blue Diamond Garden Centres",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluediamondgardencentres-02ecdf.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bluediamondgardencentres-02ecdf",
+        "wikidata": "Q81097207"
+      }
+    },
+    "theentertainer_q7732289": {
+      "slug": "theentertainer_q7732289",
+      "title": "The Entertainer",
+      "title_en": "The Entertainer",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theentertainer-6f40da.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "theentertainer-6f40da",
+        "wikidata": "Q7732289"
+      }
+    },
+    "moss_q6916538": {
+      "slug": "moss_q6916538",
+      "title": "Moss",
+      "title_en": "Moss",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moss-b36645.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "moss-b36645",
+        "wikidata": "Q6916538"
+      }
+    },
     "cooperativegrandmarch_q107594917": {
       "slug": "cooperativegrandmarch_q107594917",
       "title": "Co-operative Grand Marché",
-      "short_name": "Co-operati",
-      "badge_text": "C",
+      "title_en": "Co-operative Grand Marché",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Co-operative Grand Marché"
-      ],
-      "keywords": [
-        "Co-operative Grand Marché"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperativegrandmarche-a048a6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooperativegrandmarche-a048a6",
         "wikidata": "Q107594917"
@@ -30,21 +93,12 @@
     "waitrose_q771734": {
       "slug": "waitrose_q771734",
       "title": "Waitrose",
-      "short_name": "Waitrose",
-      "badge_text": "W",
+      "title_en": "Waitrose",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Waitrose"
-      ],
-      "keywords": [
-        "Waitrose"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/waitrose-126aa8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "waitrose-126aa8",
         "wikidata": "Q771734"
@@ -53,21 +107,12 @@
     "cooperativeenroute_q108129104": {
       "slug": "cooperativeenroute_q108129104",
       "title": "Co-operative En Route",
-      "short_name": "Co-operati",
-      "badge_text": "C",
+      "title_en": "Co-operative En Route",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Co-operative En Route"
-      ],
-      "keywords": [
-        "Co-operative En Route"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperativeenroute-d9d9cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooperativeenroute-d9d9cb",
         "wikidata": "Q108129104"
@@ -76,21 +121,12 @@
     "cooperativelocale_q107594899": {
       "slug": "cooperativelocale_q107594899",
       "title": "Co-operative Locale",
-      "short_name": "Co-operati",
-      "badge_text": "C",
+      "title_en": "Co-operative Locale",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Co-operative Locale"
-      ],
-      "keywords": [
-        "Co-operative Locale"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperativelocale-d9d9cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooperativelocale-d9d9cb",
         "wikidata": "Q107594899"
@@ -99,21 +135,12 @@
     "littlewaitrose_q771734": {
       "slug": "littlewaitrose_q771734",
       "title": "Little Waitrose",
-      "short_name": "Little Wai",
-      "badge_text": "L",
+      "title_en": "Little Waitrose",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Little Waitrose"
-      ],
-      "keywords": [
-        "Little Waitrose"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/littlewaitrose-126aa8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "littlewaitrose-126aa8",
         "wikidata": "Q771734"
@@ -121,22 +148,13 @@
     },
     "morrisonsdailychannelislands_q99752411": {
       "slug": "morrisonsdailychannelislands_q99752411",
-      "title": "Morrisons Daily (Channel Islands)",
-      "short_name": "Morrisons ",
-      "badge_text": "M",
+      "title": "Morrisons Daily",
+      "title_en": "Morrisons Daily",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Morrisons Daily"
-      ],
-      "keywords": [
-        "Morrisons Daily"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morrisonsdaily-d9d9cb.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "morrisonsdaily-d9d9cb",
         "wikidata": "Q99752411"

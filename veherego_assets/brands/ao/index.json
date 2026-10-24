@@ -1,9 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ao",
-  "total_categories": 2,
+  "country_name": "AO",
+  "total_categories": 4,
   "manifest_files": [
     "supermarket.json",
+    "other.json",
+    "express.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

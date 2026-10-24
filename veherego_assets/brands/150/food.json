@@ -1,50 +1,146 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "150",
+  "category": "food",
+  "total_brands": 20,
   "brand_aliases": {
     "pekara": {
       "slug": "pekara",
       "title": "Pekara",
-      "short_name": "Pekara",
-      "badge_text": "P",
+      "title_en": "Pekara",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Pekara"
-      ],
-      "keywords": [
-        "Pekara"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pekara-1ddcc2",
         "wikidata": ""
       }
     },
+    "intesasanpaolo_q1343118": {
+      "slug": "intesasanpaolo_q1343118",
+      "title": "Intesa Sanpaolo",
+      "title_en": "Intesa Sanpaolo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/intesasanpaolo-28f235.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "intesasanpaolo-28f235",
+        "wikidata": "Q1343118"
+      }
+    },
+    "continental_q64739247": {
+      "slug": "continental_q64739247",
+      "title": "Continental",
+      "title_en": "Continental",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/continental-123edb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "continental-123edb",
+        "wikidata": "Q64739247"
+      }
+    },
+    "schwalbe_q1312213": {
+      "slug": "schwalbe_q1312213",
+      "title": "Schwalbe",
+      "title_en": "Schwalbe",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schwalbe-123edb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "schwalbe-123edb",
+        "wikidata": "Q1312213"
+      }
+    },
+    "ahepahall_q4743973": {
+      "slug": "ahepahall_q4743973",
+      "title": "AHEPA Hall",
+      "title_en": "AHEPA Hall",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ahepahall-30ca27.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ahepahall-30ca27",
+        "wikidata": "Q4743973"
+      }
+    },
+    "boschebikesystems_q234021": {
+      "slug": "boschebikesystems_q234021",
+      "title": "Bosch eBike Systems",
+      "title_en": "Bosch eBike Systems",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boschebikesystems-220b8a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "boschebikesystems-220b8a",
+        "wikidata": "Q234021"
+      }
+    },
+    "eondrive_q126650419": {
+      "slug": "eondrive_q126650419",
+      "title": "E.ON Drive",
+      "title_en": "E.ON Drive",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eondrive-bf116e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eondrive-bf116e",
+        "wikidata": "Q126650419"
+      }
+    },
+    "engievianeo_q136271934": {
+      "slug": "engievianeo_q136271934",
+      "title": "ENGIE Vianeo",
+      "title_en": "ENGIE Vianeo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/engievianeo-b625d6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "engievianeo-b625d6",
+        "wikidata": "Q136271934"
+      }
+    },
+    "ionity_q42717773": {
+      "slug": "ionity_q42717773",
+      "title": "Ionity",
+      "title_en": "Ionity",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ionity-b625d6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ionity-b625d6",
+        "wikidata": "Q42717773"
+      }
+    },
     "kingkebab": {
       "slug": "kingkebab",
       "title": "King Kebab",
-      "short_name": "King Kebab",
-      "badge_text": "K",
+      "title_en": "King Kebab",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "King Kebab"
-      ],
-      "keywords": [
-        "King Kebab"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kingkebab-5ca460",
         "wikidata": ""
@@ -53,21 +149,12 @@
     "ladonuteria_q136734522": {
       "slug": "ladonuteria_q136734522",
       "title": "La Donuteria",
-      "short_name": "La Donuter",
-      "badge_text": "L",
+      "title_en": "La Donuteria",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "La Donuteria"
-      ],
-      "keywords": [
-        "La Donuteria"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ladonuteria-369100.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ladonuteria-369100",
         "wikidata": "Q136734522"
@@ -76,47 +163,127 @@
     "royalkebab": {
       "slug": "royalkebab",
       "title": "Royal Kebab",
-      "short_name": "Royal Keba",
-      "badge_text": "R",
+      "title_en": "Royal Kebab",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Royal Kebab"
-      ],
-      "keywords": [
-        "Royal Kebab"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "royalkebab-5ca460",
         "wikidata": ""
       }
     },
+    "ibombo_q127945083": {
+      "slug": "ibombo_q127945083",
+      "title": "ibombo",
+      "title_en": "ibombo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ibombo-c84b0b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ibombo-c84b0b",
+        "wikidata": "Q127945083"
+      }
+    },
     "mealtimemalatang_q119856954": {
       "slug": "mealtimemalatang_q119856954",
       "title": "MealTime Malatang",
-      "short_name": "MealTime M",
-      "badge_text": "M",
+      "title_en": "MealTime Malatang",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "MealTime Malatang"
-      ],
-      "keywords": [
-        "MealTime Malatang"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mealtimemalatang-a2b219",
         "wikidata": "Q119856954"
+      }
+    },
+    "eurooil": {
+      "slug": "eurooil",
+      "title": "EuroOil",
+      "title_en": "EuroOil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eurooil-7e979f",
+        "wikidata": ""
+      }
+    },
+    "tankpool24_q126895471": {
+      "slug": "tankpool24_q126895471",
+      "title": "tankpool24",
+      "title_en": "tankpool24",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tankpool24-0c8e6e",
+        "wikidata": "Q126895471"
+      }
+    },
+    "donkeyrepublic_q63753939": {
+      "slug": "donkeyrepublic_q63753939",
+      "title": "Donkey Republic",
+      "title_en": "Donkey Republic",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/donkeyrepublic-c32b83.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "donkeyrepublic-c32b83",
+        "wikidata": "Q63753939"
+      }
+    },
+    "lime_q39086685": {
+      "slug": "lime_q39086685",
+      "title": "Lime",
+      "title_en": "Lime",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lime-ac52f5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lime-ac52f5",
+        "wikidata": "Q39086685"
+      }
+    },
+    "bkf_q132174871": {
+      "slug": "bkf_q132174871",
+      "title": "BKF",
+      "title_en": "BKF",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bkf-316c1a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bkf-316c1a",
+        "wikidata": "Q132174871"
+      }
+    },
+    "ehrle_q131412400": {
+      "slug": "ehrle_q131412400",
+      "title": "Ehrle",
+      "title_en": "Ehrle",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ehrle-316c1a",
+        "wikidata": "Q131412400"
       }
     }
   }

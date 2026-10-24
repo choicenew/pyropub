@@ -1,53 +1,289 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "lv",
+  "category": "food",
+  "total_brands": 20,
   "brand_aliases": {
+    "citadele_q14239556": {
+      "slug": "citadele_q14239556",
+      "title": "Citadele banka",
+      "title_en": "Citadele bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citadele-3ce14c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "citadele-3ce14c",
+        "wikidata": "Q14239556"
+      }
+    },
+    "luminorbank_q28966957": {
+      "slug": "luminorbank_q28966957",
+      "title": "Luminor Bank",
+      "title_en": "Luminor Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luminorbank-3ce14c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "luminorbank-3ce14c",
+        "wikidata": "Q28966957"
+      }
+    },
+    "seb_q975655": {
+      "slug": "seb_q975655",
+      "title": "SEB",
+      "title_en": "SEB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seb-e3cf16.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "seb-e3cf16",
+        "wikidata": "Q975655"
+      }
+    },
+    "swedbank_q1145493": {
+      "slug": "swedbank_q1145493",
+      "title": "Swedbank",
+      "title_en": "Swedbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swedbank-2cd0b2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swedbank-2cd0b2",
+        "wikidata": "Q1145493"
+      }
+    },
+    "depoztapunkts_q110979381": {
+      "slug": "depoztapunkts_q110979381",
+      "title": "Depozīta punkts",
+      "title_en": "Depozīta punkts",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/depozitapunkts-831330.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "depozitapunkts-831330",
+        "wikidata": "Q110979381"
+      }
+    },
+    "pianavyshnia_q120651326": {
+      "slug": "pianavyshnia_q120651326",
+      "title": "Piana Vyshnia",
+      "title_en": "Piana Vyshnia",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pianavyshnia-1dc747.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pianavyshnia-1dc747",
+        "wikidata": "Q120651326"
+      }
+    },
+    "eztismigl": {
+      "slug": "eztismigl",
+      "title": "Ezītis miglā",
+      "title_en": "Ezītis miglā",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ezitismigla-f4b906",
+        "wikidata": ""
+      }
+    },
     "woktowalk_q4020634": {
       "slug": "woktowalk_q4020634",
       "title": "Wok to Walk",
-      "short_name": "Wok to Wal",
-      "badge_text": "W",
+      "title_en": "Wok to Walk",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wok to Walk"
-      ],
-      "keywords": [
-        "Wok to Walk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woktowalk-f5ada9",
         "wikidata": "Q4020634"
       }
     },
+    "apotheka": {
+      "slug": "apotheka",
+      "title": "Apotheka",
+      "title_en": "Apotheka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "apotheka-ab5e8f",
+        "wikidata": ""
+      }
+    },
+    "benu_q62562792": {
+      "slug": "benu_q62562792",
+      "title": "Benu",
+      "title_en": "Benu",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benu-c1f9dd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "benu-c1f9dd",
+        "wikidata": "Q62562792"
+      }
+    },
+    "euroaptieka_q124713990": {
+      "slug": "euroaptieka_q124713990",
+      "title": "Euroaptieka",
+      "title_en": "Euroaptieka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "euroaptieka-0eac7e",
+        "wikidata": "Q124713990"
+      }
+    },
+    "mnessaptieka_q57583051": {
+      "slug": "mnessaptieka_q57583051",
+      "title": "Mēness aptieka",
+      "title_en": "Mēness aptieka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/menessaptieka-0eac7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "menessaptieka-0eac7e",
+        "wikidata": "Q57583051"
+      }
+    },
     "olearys_q10605590": {
       "slug": "olearys_q10605590",
       "title": "O'Learys",
-      "short_name": "O'Learys",
-      "badge_text": "O",
+      "title_en": "O'Learys",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "O'Learys"
-      ],
-      "keywords": [
-        "O'Learys"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olearys-d05cca.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "olearys-d05cca",
         "wikidata": "Q10605590"
+      }
+    },
+    "olympiccasino_q11150186": {
+      "slug": "olympiccasino_q11150186",
+      "title": "Olympic Casino",
+      "title_en": "Olympic Casino",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olympiccasino-7eadd8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "olympiccasino-7eadd8",
+        "wikidata": "Q11150186"
+      }
+    },
+    "amic_q96047373": {
+      "slug": "amic_q96047373",
+      "title": "Amic",
+      "title_en": "Amic",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amic-4797a1.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amic-4797a1",
+        "wikidata": "Q96047373"
+      }
+    },
+    "latvijasnafta_q104429461": {
+      "slug": "latvijasnafta_q104429461",
+      "title": "Latvijas Nafta",
+      "title_en": "Latvijas Nafta",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/latvijasnafta-a63b5f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "latvijasnafta-a63b5f",
+        "wikidata": "Q104429461"
+      }
+    },
+    "latvijaspropnagze_q104427357": {
+      "slug": "latvijaspropnagze_q104427357",
+      "title": "Latvijas Propāna Gāze",
+      "title_en": "Latvijas Propāna Gāze",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "latvijaspropanagaze-a63b5f",
+        "wikidata": "Q104427357"
+      }
+    },
+    "viada_q12663942": {
+      "slug": "viada_q12663942",
+      "title": "Viada",
+      "title_en": "Viada",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viada-86cad0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "viada-86cad0",
+        "wikidata": "Q12663942"
+      }
+    },
+    "viri_q50378789": {
+      "slug": "viri_q50378789",
+      "title": "Virši",
+      "title_en": "Virši",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/virsi-a63b5f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "virsi-a63b5f",
+        "wikidata": "Q50378789"
+      }
+    },
+    "balticbike": {
+      "slug": "balticbike",
+      "title": "BalticBike",
+      "title_en": "BalticBike",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "balticbike-2d72c6",
+        "wikidata": ""
       }
     }
   }

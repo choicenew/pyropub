@@ -1,8 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "do",
-  "total_categories": 1,
+  "country_name": "DO",
+  "total_categories": 4,
   "manifest_files": [
+    "other.json",
+    "supermarket.json",
+    "travel.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

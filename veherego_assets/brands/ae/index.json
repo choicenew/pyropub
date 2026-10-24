@@ -1,10 +1,15 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ae",
-  "total_categories": 3,
+  "country_name": "الإمارات العربية المتحدة",
+  "total_categories": 6,
   "manifest_files": [
+    "other.json",
     "food.json",
     "supermarket.json",
+    "express.json",
+    "travel.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

@@ -1,27 +1,118 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "bd",
+  "category": "food",
+  "total_brands": 12,
   "brand_aliases": {
+    "bankalfalah_q4855895": {
+      "slug": "bankalfalah_q4855895",
+      "title": "Bank Alfalah",
+      "title_en": "Bank Alfalah",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankalfalah-a78d37.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankalfalah-a78d37",
+        "wikidata": "Q4855895"
+      }
+    },
+    "_q517050": {
+      "slug": "_q517050",
+      "title": "অগ্রণী ব্যাংক",
+      "title_en": "Agrani Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agranibank-240b09.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "agranibank-240b09",
+        "wikidata": "Q517050"
+      }
+    },
+    "_q188567": {
+      "slug": "_q188567",
+      "title": "গ্রামীণ ব্যাংক",
+      "title_en": "Grameen Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grameenbank-240b09.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "grameenbank-240b09",
+        "wikidata": "Q188567"
+      }
+    },
+    "_q3347028": {
+      "slug": "_q3347028",
+      "title": "জনতা ব্যাংক লিমিটেড",
+      "title_en": "Janata Bank Limited",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "janatabanklimited-240b09",
+        "wikidata": "Q3347028"
+      }
+    },
+    "_q16345932": {
+      "slug": "_q16345932",
+      "title": "বাংলাদেশ কৃষি ব্যাংক",
+      "title_en": "Bangladesh Krishi Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bangladeshkrishibank-240b09.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bangladeshkrishibank-240b09",
+        "wikidata": "Q16345932"
+      }
+    },
+    "_q3350382": {
+      "slug": "_q3350382",
+      "title": "সোনালী ব্যাংক লিমিটেড",
+      "title_en": "Sonali Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sonalibank-240b09",
+        "wikidata": "Q3350382"
+      }
+    },
+    "maplebear_q10324823": {
+      "slug": "maplebear_q10324823",
+      "title": "Maple Bear",
+      "title_en": "Maple Bear",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maplebear-101006.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maplebear-101006",
+        "wikidata": "Q10324823"
+      }
+    },
     "secretrecipe_q7444079": {
       "slug": "secretrecipe_q7444079",
       "title": "Secret Recipe",
-      "short_name": "Secret Rec",
-      "badge_text": "S",
+      "title_en": "Secret Recipe",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Secret Recipe"
-      ],
-      "keywords": [
-        "Secret Recipe"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/secretrecipe-541408.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "secretrecipe-541408",
         "wikidata": "Q7444079"
@@ -30,49 +121,57 @@
     "_q5738371": {
       "slug": "_q5738371",
       "title": "هرفي",
-      "short_name": "هرفي",
-      "badge_text": "ه",
+      "title_en": "Herfy",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Herfy",
-        "هرفي"
-      ],
-      "keywords": [
-        "Herfy",
-        "هرفي"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/herfy-5a6b9f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "herfy-5a6b9f",
         "wikidata": "Q5738371"
       }
     },
+    "gelatissimo_q105270111": {
+      "slug": "gelatissimo_q105270111",
+      "title": "Gelatissimo",
+      "title_en": "Gelatissimo",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelatissimo-17af97.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gelatissimo-17af97",
+        "wikidata": "Q105270111"
+      }
+    },
     "nandos_q3472954": {
       "slug": "nandos_q3472954",
       "title": "Nando's",
-      "short_name": "Nando's",
-      "badge_text": "N",
+      "title_en": "Nando's",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Nando's"
-      ],
-      "keywords": [
-        "Nando's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nandos-32ebee.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nandos-32ebee",
         "wikidata": "Q3472954"
+      }
+    },
+    "oilibya_q7081491": {
+      "slug": "oilibya_q7081491",
+      "title": "Oilibya",
+      "title_en": "Oilibya",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oilibya-5288c9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oilibya-5288c9",
+        "wikidata": "Q7081491"
       }
     }
   }

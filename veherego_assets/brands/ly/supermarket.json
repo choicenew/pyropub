@@ -1,27 +1,34 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "ly",
+  "category": "supermarket",
+  "total_brands": 3,
   "brand_aliases": {
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
     "gant_q1380537": {
       "slug": "gant_q1380537",
       "title": "Géant",
-      "short_name": "Géant",
-      "badge_text": "G",
+      "title_en": "Géant",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Géant"
-      ],
-      "keywords": [
-        "Géant"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "geant-a2a643",
         "wikidata": "Q1380537"
@@ -30,21 +37,12 @@
     "gantexpress_q137579657": {
       "slug": "gantexpress_q137579657",
       "title": "Géant Express",
-      "short_name": "Géant Expr",
-      "badge_text": "G",
+      "title_en": "Géant Express",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Géant Express"
-      ],
-      "keywords": [
-        "Géant Express"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "geantexpress-a35511",
         "wikidata": "Q137579657"

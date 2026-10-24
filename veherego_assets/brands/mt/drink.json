@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
+  "country": "mt",
+  "category": "drink",
   "total_brands": 1,
   "brand_aliases": {
     "boostjuice_q4943789": {
       "slug": "boostjuice_q4943789",
       "title": "Boost Juice",
-      "short_name": "Boost Juic",
-      "badge_text": "B",
+      "title_en": "Boost Juice",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "Boost Juice"
-      ],
-      "keywords": [
-        "Boost Juice"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boostjuice-2ad454.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "boostjuice-2ad454",
         "wikidata": "Q4943789"

@@ -1,9 +1,11 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "bd",
+  "country_name": "BD",
   "total_categories": 2,
   "manifest_files": [
     "supermarket.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

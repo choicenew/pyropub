@@ -1,27 +1,1014 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 10,
+  "country": "gb",
+  "category": "express",
+  "total_brands": 81,
   "brand_aliases": {
+    "embracefinancialservices_q121290606": {
+      "slug": "embracefinancialservices_q121290606",
+      "title": "Embrace Financial Services",
+      "title_en": "Embrace Financial Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/embracefinancialservices-3afe40.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "embracefinancialservices-3afe40",
+        "wikidata": "Q121290606"
+      }
+    },
+    "nmmoney_q86529747": {
+      "slug": "nmmoney_q86529747",
+      "title": "NM Money",
+      "title_en": "NM Money",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nmmoney-ce19a6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nmmoney-ce19a6",
+        "wikidata": "Q86529747"
+      }
+    },
+    "swisslifeselect_q300213": {
+      "slug": "swisslifeselect_q300213",
+      "title": "Swiss Life Select",
+      "title_en": "Swiss Life Select",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslifeselect-1e9d61.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisslifeselect-1e9d61",
+        "wikidata": "Q300213"
+      }
+    },
+    "driverhire_q89404688": {
+      "slug": "driverhire_q89404688",
+      "title": "Driver Hire",
+      "title_en": "Driver Hire",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/driverhire-e4b4b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "driverhire-e4b4b7",
+        "wikidata": "Q89404688"
+      }
+    },
+    "jobcentreplus_q6206793": {
+      "slug": "jobcentreplus_q6206793",
+      "title": "Jobcentre Plus",
+      "title_en": "Jobcentre Plus",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jobcentreplus-e4b4b7.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jobcentreplus-e4b4b7",
+        "wikidata": "Q6206793"
+      }
+    },
+    "officeangels_q89403503": {
+      "slug": "officeangels_q89403503",
+      "title": "Office Angels",
+      "title_en": "Office Angels",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officeangels-e4b4b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "officeangels-e4b4b7",
+        "wikidata": "Q89403503"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "therecruitmentco_q85311605": {
+      "slug": "therecruitmentco_q85311605",
+      "title": "The Recruitment Co",
+      "title_en": "The Recruitment Co",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "therecruitmentco-e4b4b7",
+        "wikidata": "Q85311605"
+      }
+    },
+    "allenharris_q81856601": {
+      "slug": "allenharris_q81856601",
+      "title": "Allen & Harris",
+      "title_en": "Allen & Harris",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allenandharris-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allenandharris-aa448d",
+        "wikidata": "Q81856601"
+      }
+    },
+    "bagshawsresidential_q81859084": {
+      "slug": "bagshawsresidential_q81859084",
+      "title": "Bagshaws Residential",
+      "title_en": "Bagshaws Residential",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bagshawsresidential-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bagshawsresidential-aa448d",
+        "wikidata": "Q81859084"
+      }
+    },
+    "bairstoweves_q81074787": {
+      "slug": "bairstoweves_q81074787",
+      "title": "Bairstow Eves",
+      "title_en": "Bairstow Eves",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bairstoweves-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bairstoweves-aa448d",
+        "wikidata": "Q81074787"
+      }
+    },
+    "barnardmarcus_q81860444": {
+      "slug": "barnardmarcus_q81860444",
+      "title": "Barnard Marcus",
+      "title_en": "Barnard Marcus",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnardmarcus-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "barnardmarcus-aa448d",
+        "wikidata": "Q81860444"
+      }
+    },
+    "belvoir_q111463571": {
+      "slug": "belvoir_q111463571",
+      "title": "Belvoir",
+      "title_en": "Belvoir",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "belvoir-aa448d",
+        "wikidata": "Q111463571"
+      }
+    },
+    "bradleys_q83738286": {
+      "slug": "bradleys_q83738286",
+      "title": "Bradleys",
+      "title_en": "Bradleys",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bradleys-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bradleys-aa448d",
+        "wikidata": "Q83738286"
+      }
+    },
+    "bridgfords_q113565627": {
+      "slug": "bridgfords_q113565627",
+      "title": "Bridgfords",
+      "title_en": "Bridgfords",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bridgfords-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bridgfords-aa448d",
+        "wikidata": "Q113565627"
+      }
+    },
+    "brownmerry_q81859714": {
+      "slug": "brownmerry_q81859714",
+      "title": "Brown & Merry",
+      "title_en": "Brown & Merry",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brownandmerry-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "brownandmerry-aa448d",
+        "wikidata": "Q81859714"
+      }
+    },
+    "chestertons_q24298789": {
+      "slug": "chestertons_q24298789",
+      "title": "Chestertons",
+      "title_en": "Chestertons",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chestertons-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chestertons-aa448d",
+        "wikidata": "Q24298789"
+      }
+    },
+    "connells_q5161738": {
+      "slug": "connells_q5161738",
+      "title": "Connells",
+      "title_en": "Connells",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/connells-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "connells-aa448d",
+        "wikidata": "Q5161738"
+      }
+    },
+    "coopertanner_q122387475": {
+      "slug": "coopertanner_q122387475",
+      "title": "Cooper & Tanner",
+      "title_en": "Cooper & Tanner",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperandtanner-02d235.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cooperandtanner-02d235",
+        "wikidata": "Q122387475"
+      }
+    },
+    "dexters_q113950230": {
+      "slug": "dexters_q113950230",
+      "title": "Dexters",
+      "title_en": "Dexters",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dexters-b6a2f8",
+        "wikidata": "Q113950230"
+      }
+    },
+    "felicityjlord_q113556375": {
+      "slug": "felicityjlord_q113556375",
+      "title": "Felicity J Lord",
+      "title_en": "Felicity J Lord",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/felicityjlord-b6a2f8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "felicityjlord-b6a2f8",
+        "wikidata": "Q113556375"
+      }
+    },
+    "finecountry_q99528796": {
+      "slug": "finecountry_q99528796",
+      "title": "Fine & Country",
+      "title_en": "Fine & Country",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fineandcountry-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fineandcountry-aa448d",
+        "wikidata": "Q99528796"
+      }
+    },
+    "foxsons_q81855298": {
+      "slug": "foxsons_q81855298",
+      "title": "Fox & Sons",
+      "title_en": "Fox & Sons",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxandsons-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foxandsons-aa448d",
+        "wikidata": "Q81855298"
+      }
+    },
+    "foxtons_q5477251": {
+      "slug": "foxtons_q5477251",
+      "title": "Foxtons",
+      "title_en": "Foxtons",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foxtons-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foxtons-aa448d",
+        "wikidata": "Q5477251"
+      }
+    },
+    "greensladetaylorhunt_q81052826": {
+      "slug": "greensladetaylorhunt_q81052826",
+      "title": "Greenslade Taylor Hunt",
+      "title_en": "Greenslade Taylor Hunt",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greensladetaylorhunt-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "greensladetaylorhunt-aa448d",
+        "wikidata": "Q81052826"
+      }
+    },
+    "haart_q75006731": {
+      "slug": "haart_q75006731",
+      "title": "Haart",
+      "title_en": "Haart",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/haart-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "haart-aa448d",
+        "wikidata": "Q75006731"
+      }
+    },
+    "hamptonsinternational_q5646350": {
+      "slug": "hamptonsinternational_q5646350",
+      "title": "Hamptons International",
+      "title_en": "Hamptons International",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hamptonsinternational-aa448d",
+        "wikidata": "Q5646350"
+      }
+    },
+    "hunters_q110476092": {
+      "slug": "hunters_q110476092",
+      "title": "Hunters",
+      "title_en": "Hunters",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hunters-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hunters-aa448d",
+        "wikidata": "Q110476092"
+      }
+    },
+    "joneschapman_q81858007": {
+      "slug": "joneschapman_q81858007",
+      "title": "Jones & Chapman",
+      "title_en": "Jones & Chapman",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jonesandchapman-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jonesandchapman-aa448d",
+        "wikidata": "Q81858007"
+      }
+    },
+    "keatons_q113529463": {
+      "slug": "keatons_q113529463",
+      "title": "Keatons",
+      "title_en": "Keatons",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keatons-b6a2f8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "keatons-b6a2f8",
+        "wikidata": "Q113529463"
+      }
+    },
+    "leaders_q111522674": {
+      "slug": "leaders_q111522674",
+      "title": "Leaders",
+      "title_en": "Leaders",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leaders-02d235.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "leaders-02d235",
+        "wikidata": "Q111522674"
+      }
+    },
+    "mannersharrison_q81857241": {
+      "slug": "mannersharrison_q81857241",
+      "title": "Manners & Harrison",
+      "title_en": "Manners & Harrison",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mannersandharrison-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mannersandharrison-aa448d",
+        "wikidata": "Q81857241"
+      }
+    },
+    "martinco_q81066918": {
+      "slug": "martinco_q81066918",
+      "title": "Martin & Co",
+      "title_en": "Martin & Co",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/martinandco-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "martinandco-aa448d",
+        "wikidata": "Q81066918"
+      }
+    },
+    "mayfairtowncountry_q90269289": {
+      "slug": "mayfairtowncountry_q90269289",
+      "title": "Mayfair Town & Country",
+      "title_en": "Mayfair Town & Country",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mayfairtownandcountry-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mayfairtownandcountry-aa448d",
+        "wikidata": "Q90269289"
+      }
+    },
+    "palmersnell_q81068923": {
+      "slug": "palmersnell_q81068923",
+      "title": "Palmer Snell",
+      "title_en": "Palmer Snell",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palmersnell-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "palmersnell-aa448d",
+        "wikidata": "Q81068923"
+      }
+    },
+    "parkers_q110478780": {
+      "slug": "parkers_q110478780",
+      "title": "Parkers",
+      "title_en": "Parkers",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parkers-02d235.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "parkers-02d235",
+        "wikidata": "Q110478780"
+      }
+    },
+    "reedsrains_q120751970": {
+      "slug": "reedsrains_q120751970",
+      "title": "Reeds Rains",
+      "title_en": "Reeds Rains",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reedsrains-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reedsrains-aa448d",
+        "wikidata": "Q120751970"
+      }
+    },
+    "rogerplatt_q81859999": {
+      "slug": "rogerplatt_q81859999",
+      "title": "Roger Platt",
+      "title_en": "Roger Platt",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rogerplatt-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rogerplatt-aa448d",
+        "wikidata": "Q81859999"
+      }
+    },
+    "romans_q113562519": {
+      "slug": "romans_q113562519",
+      "title": "Romans",
+      "title_en": "Romans",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/romans-02d235.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "romans-02d235",
+        "wikidata": "Q113562519"
+      }
+    },
+    "shipways_q81859397": {
+      "slug": "shipways_q81859397",
+      "title": "Shipways",
+      "title_en": "Shipways",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shipways-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shipways-aa448d",
+        "wikidata": "Q81859397"
+      }
+    },
+    "stags_q91028631": {
+      "slug": "stags_q91028631",
+      "title": "Stags",
+      "title_en": "Stags",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stags-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "stags-aa448d",
+        "wikidata": "Q91028631"
+      }
+    },
+    "stirlingackroyd_q81062228": {
+      "slug": "stirlingackroyd_q81062228",
+      "title": "Stirling Ackroyd",
+      "title_en": "Stirling Ackroyd",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stirlingackroyd-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "stirlingackroyd-aa448d",
+        "wikidata": "Q81062228"
+      }
+    },
+    "struttparker_q7625458": {
+      "slug": "struttparker_q7625458",
+      "title": "Strutt & Parker",
+      "title_en": "Strutt & Parker",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/struttandparker-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "struttandparker-aa448d",
+        "wikidata": "Q7625458"
+      }
+    },
+    "swetenhams_q81858340": {
+      "slug": "swetenhams_q81858340",
+      "title": "Swetenhams",
+      "title_en": "Swetenhams",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swetenhams-aa448d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swetenhams-aa448d",
+        "wikidata": "Q81858340"
+      }
+    },
+    "symondssampson_q90262955": {
+      "slug": "symondssampson_q90262955",
+      "title": "Symonds & Sampson",
+      "title_en": "Symonds & Sampson",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/symondsandsampson-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "symondsandsampson-aa448d",
+        "wikidata": "Q90262955"
+      }
+    },
+    "taylors_q94579182": {
+      "slug": "taylors_q94579182",
+      "title": "Taylors",
+      "title_en": "Taylors",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taylors-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "taylors-aa448d",
+        "wikidata": "Q94579182"
+      }
+    },
+    "townends_q81061275": {
+      "slug": "townends_q81061275",
+      "title": "Townends",
+      "title_en": "Townends",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "townends-aa448d",
+        "wikidata": "Q81061275"
+      }
+    },
+    "webbers_q81068176": {
+      "slug": "webbers_q81068176",
+      "title": "Webbers",
+      "title_en": "Webbers",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/webbers-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "webbers-aa448d",
+        "wikidata": "Q81068176"
+      }
+    },
+    "williamhbrown_q81787271": {
+      "slug": "williamhbrown_q81787271",
+      "title": "William H. Brown",
+      "title_en": "William H. Brown",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/williamhbrown-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "williamhbrown-aa448d",
+        "wikidata": "Q81787271"
+      }
+    },
+    "windermererealestate_q8024125": {
+      "slug": "windermererealestate_q8024125",
+      "title": "Windermere Real Estate",
+      "title_en": "Windermere Real Estate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/windermererealestate-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "windermererealestate-aa448d",
+        "wikidata": "Q8024125"
+      }
+    },
+    "yourmove_q81078416": {
+      "slug": "yourmove_q81078416",
+      "title": "Your Move",
+      "title_en": "Your Move",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yourmove-aa448d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yourmove-aa448d",
+        "wikidata": "Q81078416"
+      }
+    },
+    "muthootfinance_q6943861": {
+      "slug": "muthootfinance_q6943861",
+      "title": "Muthoot Finance",
+      "title_en": "Muthoot Finance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muthootfinance-47d4e7.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "muthootfinance-47d4e7",
+        "wikidata": "Q6943861"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "assuredpartners_q6983958": {
+      "slug": "assuredpartners_q6983958",
+      "title": "AssuredPartners",
+      "title_en": "AssuredPartners",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "assuredpartners-a47c9c",
+        "wikidata": "Q6983958"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "howden_q87070013": {
+      "slug": "howden_q87070013",
+      "title": "Howden",
+      "title_en": "Howden",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howden-23333b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "howden-23333b",
+        "wikidata": "Q87070013"
+      }
+    },
+    "nfumutual_q6953815": {
+      "slug": "nfumutual_q6953815",
+      "title": "NFU Mutual",
+      "title_en": "NFU Mutual",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nfumutual-23333b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nfumutual-23333b",
+        "wikidata": "Q6953815"
+      }
+    },
+    "ocaso_q6123955": {
+      "slug": "ocaso_q6123955",
+      "title": "Ocaso",
+      "title_en": "Ocaso",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ocaso-ff07dc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ocaso-ff07dc",
+        "wikidata": "Q6123955"
+      }
+    },
+    "swinton_q7658785": {
+      "slug": "swinton_q7658785",
+      "title": "Swinton",
+      "title_en": "Swinton",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swinton-23333b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swinton-23333b",
+        "wikidata": "Q7658785"
+      }
+    },
+    "swisslife_q667350": {
+      "slug": "swisslife_q667350",
+      "title": "Swiss Life",
+      "title_en": "Swiss Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslife-aab9d2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisslife-aab9d2",
+        "wikidata": "Q667350"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "arcclub_q118719781": {
+      "slug": "arcclub_q118719781",
+      "title": "ARC Club",
+      "title_en": "ARC Club",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "arcclub-5c713b",
+        "wikidata": "Q118719781"
+      }
+    },
+    "dropin_q125134235": {
+      "slug": "dropin_q125134235",
+      "title": "Drop-in",
+      "title_en": "Drop-in",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dropin-80a88a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dropin-80a88a",
+        "wikidata": "Q125134235"
+      }
+    },
+    "fora_q140266756": {
+      "slug": "fora_q140266756",
+      "title": "Fora",
+      "title_en": "Fora",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fora-5c713b",
+        "wikidata": "Q140266756"
+      }
+    },
+    "mainyardstudios_q127515162": {
+      "slug": "mainyardstudios_q127515162",
+      "title": "Mainyard Studios",
+      "title_en": "Mainyard Studios",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mainyardstudios-80a88a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mainyardstudios-80a88a",
+        "wikidata": "Q127515162"
+      }
+    },
+    "secondhome_q111387268": {
+      "slug": "secondhome_q111387268",
+      "title": "Second Home",
+      "title_en": "Second Home",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/secondhome-b3460a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "secondhome-b3460a",
+        "wikidata": "Q111387268"
+      }
+    },
+    "techspace_q118610639": {
+      "slug": "techspace_q118610639",
+      "title": "Techspace",
+      "title_en": "Techspace",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/techspace-8a2e48.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "techspace-8a2e48",
+        "wikidata": "Q118610639"
+      }
+    },
+    "worklife_q122813129": {
+      "slug": "worklife_q122813129",
+      "title": "Work.Life",
+      "title_en": "Work.Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/worklife-5c713b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "worklife-5c713b",
+        "wikidata": "Q122813129"
+      }
+    },
+    "taxassistaccountants_q122459380": {
+      "slug": "taxassistaccountants_q122459380",
+      "title": "TaxAssist Accountants",
+      "title_en": "TaxAssist Accountants",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taxassistaccountants-6972d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "taxassistaccountants-6972d1",
+        "wikidata": "Q122459380"
+      }
+    },
+    "allieduniversal_q4732537": {
+      "slug": "allieduniversal_q4732537",
+      "title": "Allied Universal",
+      "title_en": "Allied Universal",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allieduniversal-8dcc43.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allieduniversal-8dcc43",
+        "wikidata": "Q4732537"
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -30,21 +1017,12 @@
     "yodel_q17020712": {
       "slug": "yodel_q17020712",
       "title": "Yodel",
-      "short_name": "Yodel",
-      "badge_text": "Y",
+      "title_en": "Yodel",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Yodel"
-      ],
-      "keywords": [
-        "Yodel"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yodel-d5dfdd.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "yodel-d5dfdd",
         "wikidata": "Q17020712"
@@ -53,21 +1031,12 @@
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -76,21 +1045,12 @@
     "evri_q115200168": {
       "slug": "evri_q115200168",
       "title": "Evri",
-      "short_name": "Evri",
-      "badge_text": "E",
+      "title_en": "Evri",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Evri"
-      ],
-      "keywords": [
-        "Evri"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/evri-ad77d0.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "evri-ad77d0",
         "wikidata": "Q115200168"
@@ -99,21 +1059,12 @@
     "growingcommunities_q109768523": {
       "slug": "growingcommunities_q109768523",
       "title": "Growing Communities",
-      "short_name": "Growing Co",
-      "badge_text": "G",
+      "title_en": "Growing Communities",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Growing Communities"
-      ],
-      "keywords": [
-        "Growing Communities"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/growingcommunities-6089a2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "growingcommunities-6089a2",
         "wikidata": "Q109768523"
@@ -122,21 +1073,12 @@
     "inpost_q3182097": {
       "slug": "inpost_q3182097",
       "title": "InPost",
-      "short_name": "InPost",
-      "badge_text": "I",
+      "title_en": "InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "InPost"
-      ],
-      "keywords": [
-        "InPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inpost-6b37ec",
         "wikidata": "Q3182097"
@@ -145,21 +1087,12 @@
     "royalmail_q638098": {
       "slug": "royalmail_q638098",
       "title": "Royal Mail",
-      "short_name": "Royal Mail",
-      "badge_text": "R",
+      "title_en": "Royal Mail",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Royal Mail"
-      ],
-      "keywords": [
-        "Royal Mail"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/royalmail-ad77d0.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "royalmail-ad77d0",
         "wikidata": "Q638098"
@@ -168,21 +1101,12 @@
     "yeep_q123421114": {
       "slug": "yeep_q123421114",
       "title": "Yeep",
-      "short_name": "Yeep",
-      "badge_text": "Y",
+      "title_en": "Yeep",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Yeep"
-      ],
-      "keywords": [
-        "Yeep"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yeep-ad77d0.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "yeep-ad77d0",
         "wikidata": "Q123421114"
@@ -190,22 +1114,13 @@
     },
     "mailboxesetcirelanduk_q92922921": {
       "slug": "mailboxesetcirelanduk_q92922921",
-      "title": "Mail Boxes Etc. (Ireland/UK)",
-      "short_name": "Mail Boxes",
-      "badge_text": "M",
+      "title": "Mail Boxes Etc.",
+      "title_en": "Mail Boxes Etc.",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Mail Boxes Etc."
-      ],
-      "keywords": [
-        "Mail Boxes Etc."
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mailboxesetc-a028f7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mailboxesetc-a028f7",
         "wikidata": "Q92922921"
@@ -213,22 +1128,13 @@
     },
     "postofficeuk_q1783168": {
       "slug": "postofficeuk_q1783168",
-      "title": "Post Office (UK)",
-      "short_name": "Post Offic",
-      "badge_text": "P",
+      "title": "Post Office",
+      "title_en": "Post Office",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Post Office"
-      ],
-      "keywords": [
-        "Post Office"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postoffice-a028f7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "postoffice-a028f7",
         "wikidata": "Q1783168"

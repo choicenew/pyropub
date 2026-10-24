@@ -1,27 +1,62 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 10,
+  "country": "na",
+  "category": "food",
+  "total_brands": 17,
   "brand_aliases": {
+    "oldmutual_q289704": {
+      "slug": "oldmutual_q289704",
+      "title": "Old Mutual",
+      "title_en": "Old Mutual",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutual-ff45b4.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutual-ff45b4",
+        "wikidata": "Q289704"
+      }
+    },
+    "fnbsouthafrica_q3072956": {
+      "slug": "fnbsouthafrica_q3072956",
+      "title": "FNB",
+      "title_en": "FNB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fnb-154feb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fnb-154feb",
+        "wikidata": "Q3072956"
+      }
+    },
+    "interchange_q136716284": {
+      "slug": "interchange_q136716284",
+      "title": "Interchange",
+      "title_en": "Interchange",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "interchange-cfef29",
+        "wikidata": "Q136716284"
+      }
+    },
     "debonairspizza_q65079407": {
       "slug": "debonairspizza_q65079407",
       "title": "Debonairs Pizza",
-      "short_name": "Debonairs ",
-      "badge_text": "D",
+      "title_en": "Debonairs Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Debonairs Pizza"
-      ],
-      "keywords": [
-        "Debonairs Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debonairspizza-10dad6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "debonairspizza-10dad6",
         "wikidata": "Q65079407"
@@ -30,21 +65,12 @@
     "hungrylion_q115636930": {
       "slug": "hungrylion_q115636930",
       "title": "Hungry Lion",
-      "short_name": "Hungry Lio",
-      "badge_text": "H",
+      "title_en": "Hungry Lion",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Hungry Lion"
-      ],
-      "keywords": [
-        "Hungry Lion"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hungrylion-f0dc80",
         "wikidata": "Q115636930"
@@ -53,21 +79,12 @@
     "rocogo_q123034964": {
       "slug": "rocogo_q123034964",
       "title": "RocoGo",
-      "short_name": "RocoGo",
-      "badge_text": "R",
+      "title_en": "RocoGo",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "RocoGo"
-      ],
-      "keywords": [
-        "RocoGo"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocogo-0f34ca.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rocogo-0f34ca",
         "wikidata": "Q123034964"
@@ -76,44 +93,54 @@
     "sausagesaloon_q116619342": {
       "slug": "sausagesaloon_q116619342",
       "title": "Sausage Saloon",
-      "short_name": "Sausage Sa",
-      "badge_text": "S",
+      "title_en": "Sausage Saloon",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Sausage Saloon"
-      ],
-      "keywords": [
-        "Sausage Saloon"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sausagesaloon-080667.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sausagesaloon-080667",
         "wikidata": "Q116619342"
       }
     },
+    "clicks_q62563622": {
+      "slug": "clicks_q62563622",
+      "title": "Clicks",
+      "title_en": "Clicks",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/clicks-9c61f8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "clicks-9c61f8",
+        "wikidata": "Q62563622"
+      }
+    },
+    "dischem_q97274558": {
+      "slug": "dischem_q97274558",
+      "title": "Dis-Chem",
+      "title_en": "Dis-Chem",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dischem-172f09.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dischem-172f09",
+        "wikidata": "Q97274558"
+      }
+    },
     "colcacchiopizzeria_q25613087": {
       "slug": "colcacchiopizzeria_q25613087",
       "title": "Col'Cacchio Pizzeria",
-      "short_name": "Col'Cacchi",
-      "badge_text": "C",
+      "title_en": "Col'Cacchio Pizzeria",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Col'Cacchio Pizzeria"
-      ],
-      "keywords": [
-        "Col'Cacchio Pizzeria"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/colcacchiopizzeria-13b08d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "colcacchiopizzeria-13b08d",
         "wikidata": "Q25613087"
@@ -122,21 +149,12 @@
     "kauai_q116498799": {
       "slug": "kauai_q116498799",
       "title": "Kauai",
-      "short_name": "Kauai",
-      "badge_text": "K",
+      "title_en": "Kauai",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Kauai"
-      ],
-      "keywords": [
-        "Kauai"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kauai-14572f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kauai-14572f",
         "wikidata": "Q116498799"
@@ -145,21 +163,12 @@
     "oceanbasket_q62075311": {
       "slug": "oceanbasket_q62075311",
       "title": "Ocean Basket",
-      "short_name": "Ocean Bask",
-      "badge_text": "O",
+      "title_en": "Ocean Basket",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Ocean Basket"
-      ],
-      "keywords": [
-        "Ocean Basket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oceanbasket-5d9698.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oceanbasket-5d9698",
         "wikidata": "Q62075311"
@@ -168,21 +177,12 @@
     "panarottis_q130220087": {
       "slug": "panarottis_q130220087",
       "title": "Panarottis",
-      "short_name": "Panarottis",
-      "badge_text": "P",
+      "title_en": "Panarottis",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Panarottis"
-      ],
-      "keywords": [
-        "Panarottis"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panarottis-0539cf.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "panarottis-0539cf",
         "wikidata": "Q130220087"
@@ -191,21 +191,12 @@
     "rocomamas_q123034964": {
       "slug": "rocomamas_q123034964",
       "title": "RocoMamas",
-      "short_name": "RocoMamas",
-      "badge_text": "R",
+      "title_en": "RocoMamas",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "RocoMamas"
-      ],
-      "keywords": [
-        "RocoMamas"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocomamas-a7acfa.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rocomamas-a7acfa",
         "wikidata": "Q123034964"
@@ -214,24 +205,43 @@
     "spur_q7581546": {
       "slug": "spur_q7581546",
       "title": "Spur",
-      "short_name": "Spur",
-      "badge_text": "S",
+      "title_en": "Spur",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Spur"
-      ],
-      "keywords": [
-        "Spur"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spur-efd5c1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spur-efd5c1",
         "wikidata": "Q7581546"
+      }
+    },
+    "engen_q3054251": {
+      "slug": "engen_q3054251",
+      "title": "Engen",
+      "title_en": "Engen",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/engen-506e13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "engen-506e13",
+        "wikidata": "Q3054251"
+      }
+    },
+    "engentruckstop_q3054251": {
+      "slug": "engentruckstop_q3054251",
+      "title": "Truck Stop",
+      "title_en": "Truck Stop",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/truckstop-506e13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "truckstop-506e13",
+        "wikidata": "Q3054251"
       }
     }
   }

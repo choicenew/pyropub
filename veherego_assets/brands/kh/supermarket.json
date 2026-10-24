@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "kh",
+  "category": "supermarket",
+  "total_brands": 5,
   "brand_aliases": {
+    "_q10893397": {
+      "slug": "_q10893397",
+      "title": "六福珠宝",
+      "title_en": "Lukfook Jewellery",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukfookjewellery-7fe408.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lukfookjewellery-7fe408",
+        "wikidata": "Q10893397"
+      }
+    },
+    "kinokuniya_q703227": {
+      "slug": "kinokuniya_q703227",
+      "title": "Kinokuniya",
+      "title_en": "Kinokuniya",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kinokuniya-3c069b",
+        "wikidata": "Q703227"
+      }
+    },
+    "tyreplus_q110959120": {
+      "slug": "tyreplus_q110959120",
+      "title": "Tyreplus",
+      "title_en": "Tyreplus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tyreplus-99cc81.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tyreplus-99cc81",
+        "wikidata": "Q110959120"
+      }
+    },
+    "mrdiy_q105044323": {
+      "slug": "mrdiy_q105044323",
+      "title": "MR.DIY",
+      "title_en": "MR.DIY",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrdiy-984c79.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrdiy-984c79",
+        "wikidata": "Q105044323"
+      }
+    },
     "jiffy_q16770436": {
       "slug": "jiffy_q16770436",
       "title": "Jiffy",
-      "short_name": "Jiffy",
-      "badge_text": "J",
+      "title_en": "Jiffy",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Jiffy"
-      ],
-      "keywords": [
-        "Jiffy"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jiffy-c8e053.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "jiffy-c8e053",
         "wikidata": "Q16770436"

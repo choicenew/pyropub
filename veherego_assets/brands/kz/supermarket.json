@@ -1,27 +1,832 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 32,
+  "country": "kz",
+  "category": "supermarket",
+  "total_brands": 98,
   "brand_aliases": {
+    "238cde2de669": {
+      "slug": "238cde2de669",
+      "title": "Мясной двор",
+      "title_en": "Мясной двор",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "238cde-2de669",
+        "wikidata": ""
+      }
+    },
+    "kmf": {
+      "slug": "kmf",
+      "title": "Kmf",
+      "title_en": "Kmf",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kmf-046e62",
+        "wikidata": ""
+      }
+    },
+    "31fa77046e62": {
+      "slug": "31fa77046e62",
+      "title": "Займер",
+      "title_en": "Займер",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "31fa77-046e62",
+        "wikidata": ""
+      }
+    },
+    "keramamarazzi": {
+      "slug": "keramamarazzi",
+      "title": "Kerama Marazzi",
+      "title_en": "Kerama Marazzi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "keramamarazzi-d679d8",
+        "wikidata": ""
+      }
+    },
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "_q4438176": {
+      "slug": "_q4438176",
+      "title": "Спортмастер",
+      "title_en": "Sportmaster",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportmaster-1e138a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sportmaster-1e138a",
+        "wikidata": "Q4438176"
+      }
+    },
+    "metro_q13610282": {
+      "slug": "metro_q13610282",
+      "title": "Metro",
+      "title_en": "Metro",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-09b7b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "metro-09b7b7",
+        "wikidata": "Q13610282"
+      }
+    },
+    "topgun": {
+      "slug": "topgun",
+      "title": "TOPGUN",
+      "title_en": "TOPGUN",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "topgun-634538",
+        "wikidata": ""
+      }
+    },
+    "531658347366": {
+      "slug": "531658347366",
+      "title": "Елена",
+      "title_en": "Елена",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "531658-347366",
+        "wikidata": ""
+      }
+    },
+    "image9b9e42": {
+      "slug": "image9b9e42",
+      "title": "Имидж",
+      "title_en": "Image",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "image-9b9e42",
+        "wikidata": ""
+      }
+    },
+    "6ca89e230c63": {
+      "slug": "6ca89e230c63",
+      "title": "Престиж",
+      "title_en": "Престиж",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "6ca89e-230c63",
+        "wikidata": ""
+      }
+    },
+    "e18b4b347366": {
+      "slug": "e18b4b347366",
+      "title": "Светлана",
+      "title_en": "Светлана",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "e18b4b-347366",
+        "wikidata": ""
+      }
+    },
+    "super": {
+      "slug": "super",
+      "title": "Super",
+      "title_en": "Super",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "super-f8f7da",
+        "wikidata": ""
+      }
+    },
+    "82da93f8f7da": {
+      "slug": "82da93f8f7da",
+      "title": "Сейф",
+      "title_en": "Сейф",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "82da93-f8f7da",
+        "wikidata": ""
+      }
+    },
+    "intertop_q71027149": {
+      "slug": "intertop_q71027149",
+      "title": "Intertop",
+      "title_en": "Intertop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/intertop-5eaca4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "intertop-5eaca4",
+        "wikidata": "Q71027149"
+      }
+    },
+    "kari_q47155680": {
+      "slug": "kari_q47155680",
+      "title": "Kari",
+      "title_en": "Kari",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kari-ff965c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kari-ff965c",
+        "wikidata": "Q47155680"
+      }
+    },
+    "shagovita": {
+      "slug": "shagovita",
+      "title": "Shagovita",
+      "title_en": "Shagovita",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shagovita-18cb77",
+        "wikidata": ""
+      }
+    },
+    "_q110246884": {
+      "slug": "_q110246884",
+      "title": "Эконика",
+      "title_en": "Эконика",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b94bbd-2bb834.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "b94bbd-2bb834",
+        "wikidata": "Q110246884"
+      }
+    },
+    "_q62390569": {
+      "slug": "_q62390569",
+      "title": "Юничел",
+      "title_en": "Юничел",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fa8d5a-2bb834.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fa8d5a-2bb834",
+        "wikidata": "Q62390569"
+      }
+    },
+    "alserkz": {
+      "slug": "alserkz",
+      "title": "Alser.kz",
+      "title_en": "Alser.kz",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alserkz-d3529a",
+        "wikidata": ""
+      }
+    },
+    "bork_q4035327": {
+      "slug": "bork_q4035327",
+      "title": "Bork",
+      "title_en": "Bork",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bork-138e7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bork-138e7e",
+        "wikidata": "Q4035327"
+      }
+    },
+    "mechtakz": {
+      "slug": "mechtakz",
+      "title": "Mechta.kz",
+      "title_en": "Mechta.kz",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mechtakz-d3529a",
+        "wikidata": ""
+      }
+    },
+    "technodom": {
+      "slug": "technodom",
+      "title": "Technodom",
+      "title_en": "Technodom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "technodom-d3529a",
+        "wikidata": ""
+      }
+    },
+    "_q16643324": {
+      "slug": "_q16643324",
+      "title": "Детский мир",
+      "title_en": "Detskiy Mir",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/detskiymir-7b1c28.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "detskiymir-7b1c28",
+        "wikidata": "Q16643324"
+      }
+    },
+    "ozon_q2365235": {
+      "slug": "ozon_q2365235",
+      "title": "Ozon",
+      "title_en": "Ozon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozon-e8ee33.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ozon-e8ee33",
+        "wikidata": "Q2365235"
+      }
+    },
+    "wildberries_q24933714": {
+      "slug": "wildberries_q24933714",
+      "title": "Wildberries",
+      "title_en": "Wildberries",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wildberries-c79976.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wildberries-c79976",
+        "wikidata": "Q24933714"
+      }
+    },
+    "4e980ac64acd": {
+      "slug": "4e980ac64acd",
+      "title": "Сибирское здоровье",
+      "title_en": "Сибирское здоровье",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "4e980a-c64acd",
+        "wikidata": ""
+      }
+    },
+    "d19aa5c61d09": {
+      "slug": "d19aa5c61d09",
+      "title": "Глобус",
+      "title_en": "Глобус",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "d19aa5-c61d09",
+        "wikidata": ""
+      }
+    },
+    "41fbf0048ffe": {
+      "slug": "41fbf0048ffe",
+      "title": "Карандаш",
+      "title_en": "Карандаш",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "41fbf0-048ffe",
+        "wikidata": ""
+      }
+    },
+    "starline": {
+      "slug": "starline",
+      "title": "StarLine",
+      "title_en": "StarLine",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "starline-672e72",
+        "wikidata": ""
+      }
+    },
+    "91bc864d2c56": {
+      "slug": "91bc864d2c56",
+      "title": "Автомаркет",
+      "title_en": "Автомаркет",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "91bc86-4d2c56",
+        "wikidata": ""
+      }
+    },
+    "armtekd9332c": {
+      "slug": "armtekd9332c",
+      "title": "Армтек",
+      "title_en": "Armtek",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "armtek-d9332c",
+        "wikidata": ""
+      }
+    },
+    "_q62390783": {
+      "slug": "_q62390783",
+      "title": "Четыре лапы",
+      "title_en": "Четыре лапы",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "42195e-8e284e",
+        "wikidata": "Q62390783"
+      }
+    },
+    "_q110138162": {
+      "slug": "_q110138162",
+      "title": "Леонардо",
+      "title_en": "Леонардо",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/f57608-3615c7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "f57608-3615c7",
+        "wikidata": "Q110138162"
+      }
+    },
+    "volna": {
+      "slug": "volna",
+      "title": "Volna",
+      "title_en": "Volna",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "volna-1b6876",
+        "wikidata": ""
+      }
+    },
+    "4b1e161b6876": {
+      "slug": "4b1e161b6876",
+      "title": "Алкомаркет",
+      "title_en": "Алкомаркет",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "4b1e16-1b6876",
+        "wikidata": ""
+      }
+    },
+    "acee201b6876": {
+      "slug": "acee201b6876",
+      "title": "Барик",
+      "title_en": "Барик",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "acee20-1b6876",
+        "wikidata": ""
+      }
+    },
+    "d11d60892b0a": {
+      "slug": "d11d60892b0a",
+      "title": "Бочка",
+      "title_en": "Бочка",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "d11d60-892b0a",
+        "wikidata": ""
+      }
+    },
+    "94e163892b0a": {
+      "slug": "94e163892b0a",
+      "title": "Горилка",
+      "title_en": "Горилка",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "94e163-892b0a",
+        "wikidata": ""
+      }
+    },
+    "_q135656172": {
+      "slug": "_q135656172",
+      "title": "Пив&ко",
+      "title_en": "Piv&Ko",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pivandko-892b0a",
+        "wikidata": "Q135656172"
+      }
+    },
+    "06d348b65c94": {
+      "slug": "06d348b65c94",
+      "title": "Азалия",
+      "title_en": "Азалия",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "06d348-b65c94",
+        "wikidata": ""
+      }
+    },
+    "fixprice_q4038791": {
+      "slug": "fixprice_q4038791",
+      "title": "Fix Price",
+      "title_en": "Fix Price",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fixprice-b3b517.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fixprice-b3b517",
+        "wikidata": "Q4038791"
+      }
+    },
+    "mixit_q110291123": {
+      "slug": "mixit_q110291123",
+      "title": "Mixit",
+      "title_en": "Mixit",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mixit-8126fc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mixit-8126fc",
+        "wikidata": "Q110291123"
+      }
+    },
+    "kulikov": {
+      "slug": "kulikov",
+      "title": "Kulikov",
+      "title_en": "Kulikov",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kulikov-3f21b0",
+        "wikidata": ""
+      }
+    },
+    "safia": {
+      "slug": "safia",
+      "title": "Safia",
+      "title_en": "Safia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "safia-eb269c",
+        "wikidata": ""
+      }
+    },
+    "cf9c6acaaf22": {
+      "slug": "cf9c6acaaf22",
+      "title": "Карамелька",
+      "title_en": "Карамелька",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cf9c6a-caaf22",
+        "wikidata": ""
+      }
+    },
+    "e10bbc1f3aa5": {
+      "slug": "e10bbc1f3aa5",
+      "title": "Тәп-Тәтті",
+      "title_en": "Тәп-Тәтті",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "e10bbc-1f3aa5",
+        "wikidata": ""
+      }
+    },
+    "charuel_q139816894": {
+      "slug": "charuel_q139816894",
+      "title": "Charuel",
+      "title_en": "Charuel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "charuel-99f5b9",
+        "wikidata": "Q139816894"
+      }
+    },
+    "cropp_q9196793": {
+      "slug": "cropp_q9196793",
+      "title": "Cropp",
+      "title_en": "Cropp",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cropp-049ecd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cropp-049ecd",
+        "wikidata": "Q9196793"
+      }
+    },
+    "house_q9294202": {
+      "slug": "house_q9294202",
+      "title": "House",
+      "title_en": "House",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "house-049ecd",
+        "wikidata": "Q9294202"
+      }
+    },
+    "kanzler_q139817047": {
+      "slug": "kanzler_q139817047",
+      "title": "Kanzler",
+      "title_en": "Kanzler",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kanzler-102c33",
+        "wikidata": "Q139817047"
+      }
+    },
+    "loverepublic_q103848331": {
+      "slug": "loverepublic_q103848331",
+      "title": "LOVE REPUBLIC",
+      "title_en": "LOVE REPUBLIC",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loverepublic-54fe8d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "loverepublic-54fe8d",
+        "wikidata": "Q103848331"
+      }
+    },
+    "markformelle_q25381083": {
+      "slug": "markformelle_q25381083",
+      "title": "Mark Formelle",
+      "title_en": "Mark Formelle",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/markformelle-1c3486.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "markformelle-1c3486",
+        "wikidata": "Q25381083"
+      }
+    },
+    "mohito_q107410616": {
+      "slug": "mohito_q107410616",
+      "title": "Mohito",
+      "title_en": "Mohito",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mohito-388bf6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mohito-388bf6",
+        "wikidata": "Q107410616"
+      }
+    },
+    "zarina_q103847517": {
+      "slug": "zarina_q103847517",
+      "title": "Zarina",
+      "title_en": "Zarina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zarina-54fe8d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zarina-54fe8d",
+        "wikidata": "Q103847517"
+      }
+    },
+    "77a693102c33": {
+      "slug": "77a693102c33",
+      "title": "Смешные цены",
+      "title_en": "Смешные цены",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "77a693-102c33",
+        "wikidata": ""
+      }
+    },
+    "_q4425512": {
+      "slug": "_q4425512",
+      "title": "Снежная королева",
+      "title_en": "Snezhnaya koroleva",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snezhnayakoroleva-102c33.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "snezhnayakoroleva-102c33",
+        "wikidata": "Q4425512"
+      }
+    },
+    "_q110034939": {
+      "slug": "_q110034939",
+      "title": "ТВОЕ",
+      "title_en": "TVOE",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tvoe-1c3486.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tvoe-1c3486",
+        "wikidata": "Q110034939"
+      }
+    },
     "magnum": {
       "slug": "magnum",
       "title": "Magnum",
-      "short_name": "Magnum",
-      "badge_text": "M",
+      "title_en": "Magnum",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Magnum"
-      ],
-      "keywords": [
-        "Magnum"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "magnum-7ad3ae",
         "wikidata": ""
@@ -30,21 +835,12 @@
     "small": {
       "slug": "small",
       "title": "Small",
-      "short_name": "Small",
-      "badge_text": "S",
+      "title_en": "Small",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Small"
-      ],
-      "keywords": [
-        "Small"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "small-8f26de",
         "wikidata": ""
@@ -53,21 +849,12 @@
     "d1ee01c9c3c5": {
       "slug": "d1ee01c9c3c5",
       "title": "Азия",
-      "short_name": "Азия",
-      "badge_text": "А",
+      "title_en": "Азия",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Азия"
-      ],
-      "keywords": [
-        "Азия"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "d1ee01-c9c3c5",
         "wikidata": ""
@@ -76,21 +863,12 @@
     "_q21638412": {
       "slug": "_q21638412",
       "title": "Гроздь",
-      "short_name": "Гроздь",
-      "badge_text": "Г",
+      "title_en": "Гроздь",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Гроздь"
-      ],
-      "keywords": [
-        "Гроздь"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/44aeb3-4736ec.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "44aeb3-4736ec",
         "wikidata": "Q21638412"
@@ -99,23 +877,12 @@
     "_q136697017": {
       "slug": "_q136697017",
       "title": "Доброцен",
-      "short_name": "Доброцен",
-      "badge_text": "Д",
+      "title_en": "Dobrotsen",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Dobrotsen",
-        "Доброцен"
-      ],
-      "keywords": [
-        "Dobrotsen",
-        "Доброцен"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dobrotsen-4736ec",
         "wikidata": "Q136697017"
@@ -124,46 +891,82 @@
     "_q940518": {
       "slug": "_q940518",
       "title": "Магнит",
-      "short_name": "Магнит",
-      "badge_text": "М",
+      "title_en": "Magnit",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Магнит",
-        "Magnit"
-      ],
-      "keywords": [
-        "Магнит",
-        "Magnit"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "magnit-4e470f",
         "wikidata": "Q940518"
       }
     },
+    "360f737d3a48": {
+      "slug": "360f737d3a48",
+      "title": "Авиакасса",
+      "title_en": "Авиакасса",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "360f73-7d3a48",
+        "wikidata": ""
+      }
+    },
+    "freedommobileworld": {
+      "slug": "freedommobileworld",
+      "title": "Freedom Mobile World",
+      "title_en": "Freedom Mobile World",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "freedommobileworld-4e531d",
+        "wikidata": ""
+      }
+    },
+    "_q402880": {
+      "slug": "_q402880",
+      "title": "Билайн",
+      "title_en": "Beeline",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beeline-3f097a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "beeline-3f097a",
+        "wikidata": "Q402880"
+      }
+    },
+    "_q65310": {
+      "slug": "_q65310",
+      "title": "Евросеть",
+      "title_en": "Euroset",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "euroset-62982a",
+        "wikidata": "Q65310"
+      }
+    },
     "ministop_q1038929": {
       "slug": "ministop_q1038929",
       "title": "Ministop",
-      "short_name": "Ministop",
-      "badge_text": "M",
+      "title_en": "Ministop",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Ministop"
-      ],
-      "keywords": [
-        "Ministop"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ministop-365d07.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ministop-365d07",
         "wikidata": "Q1038929"
@@ -172,21 +975,12 @@
     "qazaqoil_q115190155": {
       "slug": "qazaqoil_q115190155",
       "title": "Qazaq Oil",
-      "short_name": "Qazaq Oil",
-      "badge_text": "Q",
+      "title_en": "Qazaq Oil",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Qazaq Oil"
-      ],
-      "keywords": [
-        "Qazaq Oil"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qazaqoil-7ad3ae.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "qazaqoil-7ad3ae",
         "wikidata": "Q115190155"
@@ -195,21 +989,12 @@
     "6580f97f3189": {
       "slug": "6580f97f3189",
       "title": "Айсберг",
-      "short_name": "Айсберг",
-      "badge_text": "А",
+      "title_en": "Айсберг",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Айсберг"
-      ],
-      "keywords": [
-        "Айсберг"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "6580f9-7f3189",
         "wikidata": ""
@@ -218,21 +1003,12 @@
     "060bbfa39fe8": {
       "slug": "060bbfa39fe8",
       "title": "Береке",
-      "short_name": "Береке",
-      "badge_text": "Б",
+      "title_en": "Береке",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Береке"
-      ],
-      "keywords": [
-        "Береке"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "060bbf-a39fe8",
         "wikidata": ""
@@ -241,21 +1017,12 @@
     "34f9fe1656a9": {
       "slug": "34f9fe1656a9",
       "title": "Волна",
-      "short_name": "Волна",
-      "badge_text": "В",
+      "title_en": "Волна",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Волна"
-      ],
-      "keywords": [
-        "Волна"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "34f9fe-1656a9",
         "wikidata": ""
@@ -264,21 +1031,12 @@
     "e404bb7f3189": {
       "slug": "e404bb7f3189",
       "title": "Восток",
-      "short_name": "Восток",
-      "badge_text": "В",
+      "title_en": "Восток",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Восток"
-      ],
-      "keywords": [
-        "Восток"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "e404bb-7f3189",
         "wikidata": ""
@@ -287,21 +1045,12 @@
     "ab7c057ad3ae": {
       "slug": "ab7c057ad3ae",
       "title": "Дәулет",
-      "short_name": "Дәулет",
-      "badge_text": "Д",
+      "title_en": "Дәулет",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Дәулет"
-      ],
-      "keywords": [
-        "Дәулет"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ab7c05-7ad3ae",
         "wikidata": ""
@@ -310,21 +1059,12 @@
     "9020b8c281b4": {
       "slug": "9020b8c281b4",
       "title": "Заря",
-      "short_name": "Заря",
-      "badge_text": "З",
+      "title_en": "Заря",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Заря"
-      ],
-      "keywords": [
-        "Заря"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "9020b8-c281b4",
         "wikidata": ""
@@ -333,21 +1073,12 @@
     "8d46a2c281b4": {
       "slug": "8d46a2c281b4",
       "title": "Изюминка",
-      "short_name": "Изюминка",
-      "badge_text": "И",
+      "title_en": "Изюминка",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Изюминка"
-      ],
-      "keywords": [
-        "Изюминка"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "8d46a2-c281b4",
         "wikidata": ""
@@ -356,21 +1087,12 @@
     "a5ede8c281b4": {
       "slug": "a5ede8c281b4",
       "title": "Калина",
-      "short_name": "Калина",
-      "badge_text": "К",
+      "title_en": "Калина",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Калина"
-      ],
-      "keywords": [
-        "Калина"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "a5ede8-c281b4",
         "wikidata": ""
@@ -379,21 +1101,12 @@
     "60a976c281b4": {
       "slug": "60a976c281b4",
       "title": "Катюша",
-      "short_name": "Катюша",
-      "badge_text": "К",
+      "title_en": "Катюша",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Катюша"
-      ],
-      "keywords": [
-        "Катюша"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "60a976-c281b4",
         "wikidata": ""
@@ -402,21 +1115,12 @@
     "5f2eca685d2b": {
       "slug": "5f2eca685d2b",
       "title": "Кедр",
-      "short_name": "Кедр",
-      "badge_text": "К",
+      "title_en": "Кедр",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Кедр"
-      ],
-      "keywords": [
-        "Кедр"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "5f2eca-685d2b",
         "wikidata": ""
@@ -425,21 +1129,12 @@
     "_q1417227": {
       "slug": "_q1417227",
       "title": "ҚазМұнайГаз",
-      "short_name": "ҚазМұнайГа",
-      "badge_text": "Қ",
+      "title_en": "ҚазМұнайГаз",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "ҚазМұнайГаз"
-      ],
-      "keywords": [
-        "ҚазМұнайГаз"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ef63bd-7ad3ae.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ef63bd-7ad3ae",
         "wikidata": "Q1417227"
@@ -448,21 +1143,12 @@
     "baaf01c281b4": {
       "slug": "baaf01c281b4",
       "title": "Лилия",
-      "short_name": "Лилия",
-      "badge_text": "Л",
+      "title_en": "Лилия",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Лилия"
-      ],
-      "keywords": [
-        "Лилия"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "baaf01-c281b4",
         "wikidata": ""
@@ -471,23 +1157,12 @@
     "_q329347": {
       "slug": "_q329347",
       "title": "Лукойл",
-      "short_name": "Лукойл",
-      "badge_text": "Л",
+      "title_en": "Lukoil",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Lukoil",
-        "Лукойл"
-      ],
-      "keywords": [
-        "Lukoil",
-        "Лукойл"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukoil-5a849f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lukoil-5a849f",
         "wikidata": "Q329347"
@@ -496,21 +1171,12 @@
     "357655c281b4": {
       "slug": "357655c281b4",
       "title": "Народный",
-      "short_name": "Народный",
-      "badge_text": "Н",
+      "title_en": "Народный",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Народный"
-      ],
-      "keywords": [
-        "Народный"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "357655-c281b4",
         "wikidata": ""
@@ -519,21 +1185,12 @@
     "bd53d6c281b4": {
       "slug": "bd53d6c281b4",
       "title": "Наш",
-      "short_name": "Наш",
-      "badge_text": "Н",
+      "title_en": "Наш",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Наш"
-      ],
-      "keywords": [
-        "Наш"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bd53d6-c281b4",
         "wikidata": ""
@@ -542,21 +1199,12 @@
     "9f9c541656a9": {
       "slug": "9f9c541656a9",
       "title": "Огонёк",
-      "short_name": "Огонёк",
-      "badge_text": "О",
+      "title_en": "Огонёк",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Огонёк"
-      ],
-      "keywords": [
-        "Огонёк"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "9f9c54-1656a9",
         "wikidata": ""
@@ -565,21 +1213,12 @@
     "bfeaa1c281b4": {
       "slug": "bfeaa1c281b4",
       "title": "Пятачок",
-      "short_name": "Пятачок",
-      "badge_text": "П",
+      "title_en": "Пятачок",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Пятачок"
-      ],
-      "keywords": [
-        "Пятачок"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bfeaa1-c281b4",
         "wikidata": ""
@@ -588,21 +1227,12 @@
     "d3e941c281b4": {
       "slug": "d3e941c281b4",
       "title": "Садко",
-      "short_name": "Садко",
-      "badge_text": "С",
+      "title_en": "Садко",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Садко"
-      ],
-      "keywords": [
-        "Садко"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "d3e941-c281b4",
         "wikidata": ""
@@ -611,21 +1241,12 @@
     "384e40c281b4": {
       "slug": "384e40c281b4",
       "title": "Северный",
-      "short_name": "Северный",
-      "badge_text": "С",
+      "title_en": "Северный",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Северный"
-      ],
-      "keywords": [
-        "Северный"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "384e40-c281b4",
         "wikidata": ""
@@ -634,21 +1255,12 @@
     "8e7c7ac281b4": {
       "slug": "8e7c7ac281b4",
       "title": "У дома",
-      "short_name": "У дома",
-      "badge_text": "У",
+      "title_en": "У дома",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "У дома"
-      ],
-      "keywords": [
-        "У дома"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "8e7c7a-c281b4",
         "wikidata": ""
@@ -657,21 +1269,12 @@
     "516c18c281b4": {
       "slug": "516c18c281b4",
       "title": "Удачный",
-      "short_name": "Удачный",
-      "badge_text": "У",
+      "title_en": "Удачный",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Удачный"
-      ],
-      "keywords": [
-        "Удачный"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "516c18-c281b4",
         "wikidata": ""
@@ -680,21 +1283,12 @@
     "420f79c281b4": {
       "slug": "420f79c281b4",
       "title": "Удобный",
-      "short_name": "Удобный",
-      "badge_text": "У",
+      "title_en": "Удобный",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Удобный"
-      ],
-      "keywords": [
-        "Удобный"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "420f79-c281b4",
         "wikidata": ""
@@ -703,21 +1297,12 @@
     "b5ec71685d2b": {
       "slug": "b5ec71685d2b",
       "title": "Успех",
-      "short_name": "Успех",
-      "badge_text": "У",
+      "title_en": "Успех",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Успех"
-      ],
-      "keywords": [
-        "Успех"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "b5ec71-685d2b",
         "wikidata": ""
@@ -726,24 +1311,71 @@
     "4cacba162f8e": {
       "slug": "4cacba162f8e",
       "title": "Флагман",
-      "short_name": "Флагман",
-      "badge_text": "Ф",
+      "title_en": "Флагман",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Флагман"
-      ],
-      "keywords": [
-        "Флагман"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "4cacba-162f8e",
         "wikidata": ""
+      }
+    },
+    "23263cab2637": {
+      "slug": "23263cab2637",
+      "title": "Столплит",
+      "title_en": "Столплит",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "23263c-ab2637",
+        "wikidata": ""
+      }
+    },
+    "1ed809ab2637": {
+      "slug": "1ed809ab2637",
+      "title": "Уют",
+      "title_en": "Уют",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "1ed809-ab2637",
+        "wikidata": ""
+      }
+    },
+    "_q126596908": {
+      "slug": "_q126596908",
+      "title": "Шатура",
+      "title_en": "Shatura",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shatura-56eb69",
+        "wikidata": "Q126596908"
+      }
+    },
+    "sistersaroma_q110635099": {
+      "slug": "sistersaroma_q110635099",
+      "title": "Sister's Aroma",
+      "title_en": "Sister's Aroma",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sistersaroma-20926e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sistersaroma-20926e",
+        "wikidata": "Q110635099"
       }
     }
   }

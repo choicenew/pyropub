@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
+  "country": "yt",
+  "category": "supermarket",
   "total_brands": 1,
   "brand_aliases": {
     "douka": {
       "slug": "douka",
       "title": "Douka",
-      "short_name": "Douka",
-      "badge_text": "D",
+      "title_en": "Douka",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Douka"
-      ],
-      "keywords": [
-        "Douka"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "douka-1c33c5",
         "wikidata": ""

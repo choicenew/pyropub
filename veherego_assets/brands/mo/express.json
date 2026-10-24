@@ -1,33 +1,62 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "mo",
+  "category": "express",
+  "total_brands": 5,
   "brand_aliases": {
+    "21century21_q1054480": {
+      "slug": "21century21_q1054480",
+      "title": "世紀21",
+      "title_en": "Century 21",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-295f7a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "century21-295f7a",
+        "wikidata": "Q1054480"
+      }
+    },
+    "centalineproperty_q5058993": {
+      "slug": "centalineproperty_q5058993",
+      "title": "中原地產",
+      "title_en": "Centaline Property",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centalineproperty-295f7a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "centalineproperty-295f7a",
+        "wikidata": "Q5058993"
+      }
+    },
+    "midlandrealty_q6842356": {
+      "slug": "midlandrealty_q6842356",
+      "title": "美聯物業",
+      "title_en": "Midland Realty",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/midlandrealty-295f7a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "midlandrealty-295f7a",
+        "wikidata": "Q6842356"
+      }
+    },
     "sflocker_q7390019": {
       "slug": "sflocker_q7390019",
-      "title": "順豐自助櫃 SF Locker",
-      "short_name": "順豐自助櫃 SF L",
-      "badge_text": "順",
+      "title": "順豐自助櫃",
+      "title_en": "SF Locker",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "SF Locker",
-        "順豐自助櫃 SF Locker",
-        "SF Express",
-        "順豐速運 SF Express"
-      ],
-      "keywords": [
-        "SF Locker",
-        "順豐自助櫃 SF Locker",
-        "SF Express",
-        "順豐速運 SF Express"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sflocker-482a52.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sflocker-482a52",
         "wikidata": "Q7390019"
@@ -35,24 +64,13 @@
     },
     "jdlogistics_q67936681": {
       "slug": "jdlogistics_q67936681",
-      "title": "京東物流 JD Logistics",
-      "short_name": "京東物流 JD Lo",
-      "badge_text": "京",
+      "title": "京東物流",
+      "title_en": "JD Logistics",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "JD Logistics",
-        "京東物流 JD Logistics"
-      ],
-      "keywords": [
-        "JD Logistics",
-        "京東物流 JD Logistics"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jdlogistics-d26828.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "jdlogistics-d26828",
         "wikidata": "Q67936681"

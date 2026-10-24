@@ -1,27 +1,818 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 15,
+  "country": "hk",
+  "category": "supermarket",
+  "total_brands": 87,
   "brand_aliases": {
+    "jhc_q11507765": {
+      "slug": "jhc_q11507765",
+      "title": "日本城",
+      "title_en": "JHC",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jhc-067b48.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jhc-067b48",
+        "wikidata": "Q11507765"
+      }
+    },
+    "jewelcafe_q130525475": {
+      "slug": "jewelcafe_q130525475",
+      "title": "Jewel Cafe",
+      "title_en": "Jewel Cafe",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jewelcafe-b115a4",
+        "wikidata": "Q130525475"
+      }
+    },
+    "lukfookjewellery_q10893397": {
+      "slug": "lukfookjewellery_q10893397",
+      "title": "六福珠寶",
+      "title_en": "Lukfook Jewellery",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukfookjewellery-2f2ea0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lukfookjewellery-2f2ea0",
+        "wikidata": "Q10893397"
+      }
+    },
+    "chowtaifook_q48880993": {
+      "slug": "chowtaifook_q48880993",
+      "title": "周大福",
+      "title_en": "Chow Tai Fook",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowtaifook-2f2ea0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chowtaifook-2f2ea0",
+        "wikidata": "Q48880993"
+      }
+    },
+    "chowsangsang_q10920877": {
+      "slug": "chowsangsang_q10920877",
+      "title": "周生生",
+      "title_en": "Chow Sang Sang",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowsangsang-2f2ea0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chowsangsang-2f2ea0",
+        "wikidata": "Q10920877"
+      }
+    },
+    "laofengxiangjewellery_q15910313": {
+      "slug": "laofengxiangjewellery_q15910313",
+      "title": "老鳳祥銀樓",
+      "title_en": "Lao Feng Xiang",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laofengxiang-2f2ea0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "laofengxiang-2f2ea0",
+        "wikidata": "Q15910313"
+      }
+    },
+    "tsljewellery_q13164530": {
+      "slug": "tsljewellery_q13164530",
+      "title": "謝瑞麟珠寶",
+      "title_en": "TSL",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tsl-2f2ea0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tsl-2f2ea0",
+        "wikidata": "Q13164530"
+      }
+    },
+    "3dgjewellery_q15921454": {
+      "slug": "3dgjewellery_q15921454",
+      "title": "金至尊珠寶",
+      "title_en": "3DG Jewellery",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/3dgjewellery-f29a00.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "3dgjewellery-f29a00",
+        "wikidata": "Q15921454"
+      }
+    },
+    "gigasports_q111077434": {
+      "slug": "gigasports_q111077434",
+      "title": "GigaSports",
+      "title_en": "GigaSports",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gigasports-968672.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gigasports-968672",
+        "wikidata": "Q111077434"
+      }
+    },
+    "marathonsportshongkong_q106798056": {
+      "slug": "marathonsportshongkong_q106798056",
+      "title": "馬拉松",
+      "title_en": "Marathon Sports",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marathonsports-968672.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "marathonsports-968672",
+        "wikidata": "Q106798056"
+      }
+    },
+    "rapha_q131446199": {
+      "slug": "rapha_q131446199",
+      "title": "Rapha",
+      "title_en": "Rapha",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rapha-e13309",
+        "wikidata": "Q131446199"
+      }
+    },
+    "decathlon_q509349": {
+      "slug": "decathlon_q509349",
+      "title": "迪卡儂",
+      "title_en": "Decathlon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/decathlon-968672.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "decathlon-968672",
+        "wikidata": "Q509349"
+      }
+    },
+    "citychain_q11089260": {
+      "slug": "citychain_q11089260",
+      "title": "時間廊",
+      "title_en": "City Chain",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "citychain-301c40",
+        "wikidata": "Q11089260"
+      }
+    },
+    "watsons_q7974785": {
+      "slug": "watsons_q7974785",
+      "title": "屈臣氏",
+      "title_en": "Watsons",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/watsons-d89f96.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "watsons-d89f96",
+        "wikidata": "Q7974785"
+      }
+    },
+    "mannings_q13646560": {
+      "slug": "mannings_q13646560",
+      "title": "萬寧",
+      "title_en": "Mannings",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mannings-d89f96.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mannings-d89f96",
+        "wikidata": "Q13646560"
+      }
+    },
+    "jointpublishing_q17012917": {
+      "slug": "jointpublishing_q17012917",
+      "title": "三聯書店",
+      "title_en": "Joint Publishing",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jointpublishing-199399.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jointpublishing-199399",
+        "wikidata": "Q17012917"
+      }
+    },
+    "chunghwabookcompany_q10876287": {
+      "slug": "chunghwabookcompany_q10876287",
+      "title": "中華書局",
+      "title_en": "Chung Hwa Book Company",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chunghwabookcompany-199399.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chunghwabookcompany-199399",
+        "wikidata": "Q10876287"
+      }
+    },
+    "thecommercialpress_q10923130": {
+      "slug": "thecommercialpress_q10923130",
+      "title": "商務印書館",
+      "title_en": "The Commercial Press",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecommercialpress-199399.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thecommercialpress-199399",
+        "wikidata": "Q10923130"
+      }
+    },
+    "eslitebookstore_q391988": {
+      "slug": "eslitebookstore_q391988",
+      "title": "誠品書店",
+      "title_en": "Eslite Bookstore",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eslitebookstore-e5bda4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eslitebookstore-e5bda4",
+        "wikidata": "Q391988"
+      }
+    },
+    "finsbury_q141242163": {
+      "slug": "finsbury_q141242163",
+      "title": "Finsbury",
+      "title_en": "Finsbury",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finsbury-d5b2ff.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "finsbury-d5b2ff",
+        "wikidata": "Q141242163"
+      }
+    },
+    "chungyuenelectrical_q10872623": {
+      "slug": "chungyuenelectrical_q10872623",
+      "title": "中原電器",
+      "title_en": "Chung Yuen Electrical",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chungyuenelectrical-d4a36a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chungyuenelectrical-d4a36a",
+        "wikidata": "Q10872623"
+      }
+    },
+    "cmkelectricalstore_q67935756": {
+      "slug": "cmkelectricalstore_q67935756",
+      "title": "張毛記",
+      "title_en": "CMK Electrical Store",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cmkelectricalstore-d4a36a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cmkelectricalstore-d4a36a",
+        "wikidata": "Q67935756"
+      }
+    },
+    "broadway_q15899930": {
+      "slug": "broadway_q15899930",
+      "title": "百老滙",
+      "title_en": "Broadway",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/broadway-d4a36a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "broadway-d4a36a",
+        "wikidata": "Q15899930"
+      }
+    },
+    "suning_q54932254": {
+      "slug": "suning_q54932254",
+      "title": "蘇寧",
+      "title_en": "Suning",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suning-d4a36a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suning-d4a36a",
+        "wikidata": "Q54932254"
+      }
+    },
+    "fortress_q15904138": {
+      "slug": "fortress_q15904138",
+      "title": "豐澤",
+      "title_en": "Fortress",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fortress-803084.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fortress-803084",
+        "wikidata": "Q15904138"
+      }
+    },
+    "lenscrafters_q6523209": {
+      "slug": "lenscrafters_q6523209",
+      "title": "亮視點",
+      "title_en": "LensCrafters",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lenscrafters-a3f0f9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lenscrafters-a3f0f9",
+        "wikidata": "Q6523209"
+      }
+    },
+    "88optical88_q7098807": {
+      "slug": "88optical88_q7098807",
+      "title": "眼鏡88",
+      "title_en": "Optical 88",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/optical88-a3f0f9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "optical88-a3f0f9",
+        "wikidata": "Q7098807"
+      }
+    },
+    "smiggle_q7544536": {
+      "slug": "smiggle_q7544536",
+      "title": "Smiggle",
+      "title_en": "Smiggle",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smiggle-471bdb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smiggle-471bdb",
+        "wikidata": "Q7544536"
+      }
+    },
+    "healthworks_q10888880": {
+      "slug": "healthworks_q10888880",
+      "title": "健康工房",
+      "title_en": "HealthWorks",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/healthworks-e87965.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "healthworks-e87965",
+        "wikidata": "Q10888880"
+      }
+    },
+    "teawg_q16966589": {
+      "slug": "teawg_q16966589",
+      "title": "Tea WG",
+      "title_en": "Tea WG",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teawg-3ee78a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "teawg-3ee78a",
+        "wikidata": "Q16966589"
+      }
+    },
+    "qpets_q116986240": {
+      "slug": "qpets_q116986240",
+      "title": "Q-PETs",
+      "title_en": "Q-PETs",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qpets-f292b1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "qpets-f292b1",
+        "wikidata": "Q116986240"
+      }
+    },
+    "_q35919": {
+      "slug": "_q35919",
+      "title": "凌志",
+      "title_en": "Lexus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lexus-6e1bcc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lexus-6e1bcc",
+        "wikidata": "Q35919"
+      }
+    },
+    "_q53268": {
+      "slug": "_q53268",
+      "title": "豐田",
+      "title_en": "Toyota",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toyota-9d23cf.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "toyota-9d23cf",
+        "wikidata": "Q53268"
+      }
+    },
+    "dondondonki_q1185381": {
+      "slug": "dondondonki_q1185381",
+      "title": "Don Don Donki",
+      "title_en": "Don Don Donki",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dondondonki-717fd7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dondondonki-717fd7",
+        "wikidata": "Q1185381"
+      }
+    },
+    "prizemart_q117269648": {
+      "slug": "prizemart_q117269648",
+      "title": "價真棧",
+      "title_en": "PrizeMart",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prizemart-cab585.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "prizemart-cab585",
+        "wikidata": "Q117269648"
+      }
+    },
+    "miniso_q20732498": {
+      "slug": "miniso_q20732498",
+      "title": "名創優品",
+      "title_en": "Miniso",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "miniso-264ade",
+        "wikidata": "Q20732498"
+      }
+    },
+    "muji_q708789": {
+      "slug": "muji_q708789",
+      "title": "無印良品 Muji",
+      "title_en": "Muji",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-264ade.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "muji-264ade",
+        "wikidata": "Q708789"
+      }
+    },
+    "euyansang_q4207246": {
+      "slug": "euyansang_q4207246",
+      "title": "余仁生",
+      "title_en": "Eu Yan Sang",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/euyansang-ed4bac.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "euyansang-ed4bac",
+        "wikidata": "Q4207246"
+      }
+    },
+    "skinlaundry_q113513202": {
+      "slug": "skinlaundry_q113513202",
+      "title": "Skin Laundry",
+      "title_en": "Skin Laundry",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skinlaundry-85c569.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "skinlaundry-85c569",
+        "wikidata": "Q113513202"
+      }
+    },
+    "parsonsmusic_q11108147": {
+      "slug": "parsonsmusic_q11108147",
+      "title": "柏斯琴行",
+      "title_en": "Parsons Music",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parsonsmusic-77cd7c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "parsonsmusic-77cd7c",
+        "wikidata": "Q11108147"
+      }
+    },
+    "tomleemusic_q43487": {
+      "slug": "tomleemusic_q43487",
+      "title": "通利琴行",
+      "title_en": "Tom Lee Music",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomleemusic-77cd7c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tomleemusic-77cd7c",
+        "wikidata": "Q43487"
+      }
+    },
+    "merlenormancosmetics_q104844059": {
+      "slug": "merlenormancosmetics_q104844059",
+      "title": "Merle Norman",
+      "title_en": "Merle Norman",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merlenorman-f96c07.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "merlenorman-f96c07",
+        "wikidata": "Q104844059"
+      }
+    },
+    "bonjour_q10906081": {
+      "slug": "bonjour_q10906081",
+      "title": "卓悅",
+      "title_en": "Bonjour",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bonjour-03ac43.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bonjour-03ac43",
+        "wikidata": "Q10906081"
+      }
+    },
+    "colourmix_q111494580": {
+      "slug": "colourmix_q111494580",
+      "title": "卡萊美",
+      "title_en": "Colourmix",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/colourmix-03ac43.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "colourmix-03ac43",
+        "wikidata": "Q111494580"
+      }
+    },
+    "sasa_q15910675": {
+      "slug": "sasa_q15910675",
+      "title": "莎莎",
+      "title_en": "Sasa",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sasa-03ac43.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sasa-03ac43",
+        "wikidata": "Q15910675"
+      }
+    },
+    "yvesrocher_q1477321": {
+      "slug": "yvesrocher_q1477321",
+      "title": "葉露芝",
+      "title_en": "Yves Rocher",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yvesrocher-98a160.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yvesrocher-98a160",
+        "wikidata": "Q1477321"
+      }
+    },
+    "bearsfriends_q99510345": {
+      "slug": "bearsfriends_q99510345",
+      "title": "Bears & Friends",
+      "title_en": "Bears & Friends",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bearsandfriends-e5aed3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bearsandfriends-e5aed3",
+        "wikidata": "Q99510345"
+      }
+    },
+    "chterais_q11307696": {
+      "slug": "chterais_q11307696",
+      "title": "Châteraisé",
+      "title_en": "Châteraisé",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateraise-c520ad.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chateraise-c520ad",
+        "wikidata": "Q11307696"
+      }
+    },
+    "toysrus_q131521392": {
+      "slug": "toysrus_q131521392",
+      "title": "玩具反斗城",
+      "title_en": "Toys R Us",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toysrus-3ab846.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "toysrus-3ab846",
+        "wikidata": "Q131521392"
+      }
+    },
+    "6ixty8ight_q131463201": {
+      "slug": "6ixty8ight_q131463201",
+      "title": "6IXTY8IGHT",
+      "title_en": "6IXTY8IGHT",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/6ixty8ight-7905dc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "6ixty8ight-7905dc",
+        "wikidata": "Q131463201"
+      }
+    },
+    "adlib_q117014226": {
+      "slug": "adlib_q117014226",
+      "title": "ad-lib",
+      "title_en": "ad-lib",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adlib-33ce1a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "adlib-33ce1a",
+        "wikidata": "Q117014226"
+      }
+    },
+    "bossini_q4035334": {
+      "slug": "bossini_q4035334",
+      "title": "堡獅龍",
+      "title_en": "bossini",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bossini-f4691e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bossini-f4691e",
+        "wikidata": "Q4035334"
+      }
+    },
+    "jackwills_q6115814": {
+      "slug": "jackwills_q6115814",
+      "title": "Jack Wills",
+      "title_en": "Jack Wills",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jackwills-75e7ba.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jackwills-75e7ba",
+        "wikidata": "Q6115814"
+      }
+    },
+    "sweatybetty_q7654224": {
+      "slug": "sweatybetty_q7654224",
+      "title": "Sweaty Betty",
+      "title_en": "Sweaty Betty",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sweatybetty-81ce8b.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sweatybetty-81ce8b",
+        "wikidata": "Q7654224"
+      }
+    },
+    "giordano_q4115012": {
+      "slug": "giordano_q4115012",
+      "title": "佐丹奴",
+      "title_en": "Giordano",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/giordano-33ce1a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "giordano-33ce1a",
+        "wikidata": "Q4115012"
+      }
+    },
+    "_q1272525": {
+      "slug": "_q1272525",
+      "title": "李寧",
+      "title_en": "Li-Ning",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lining-33ce1a.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lining-33ce1a",
+        "wikidata": "Q1272525"
+      }
+    },
+    "baleno_q4850707": {
+      "slug": "baleno_q4850707",
+      "title": "班尼路",
+      "title_en": "Baleno",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baleno-12a111.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baleno-12a111",
+        "wikidata": "Q4850707"
+      }
+    },
     "3hreesixty_q7797310": {
       "slug": "3hreesixty_q7797310",
       "title": "3hreeSixty",
-      "short_name": "3hreeSixty",
-      "badge_text": "3",
+      "title_en": "3hreeSixty",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "3hreeSixty"
-      ],
-      "keywords": [
-        "3hreeSixty"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/3hreesixty-745f9c.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "3hreesixty-745f9c",
         "wikidata": "Q7797310"
@@ -30,21 +821,12 @@
     "fusion": {
       "slug": "fusion",
       "title": "fusion",
-      "short_name": "fusion",
-      "badge_text": "F",
+      "title_en": "fusion",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "fusion"
-      ],
-      "keywords": [
-        "fusion"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fusion-745f9c.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fusion-745f9c",
         "wikidata": ""
@@ -53,21 +835,12 @@
     "marketplace_q10851178": {
       "slug": "marketplace_q10851178",
       "title": "Market Place",
-      "short_name": "Market Pla",
-      "badge_text": "M",
+      "title_en": "Market Place",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Market Place"
-      ],
-      "keywords": [
-        "Market Place"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marketplace-745f9c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "marketplace-745f9c",
         "wikidata": "Q10851178"
@@ -76,21 +849,12 @@
     "taste_q7687667": {
       "slug": "taste_q7687667",
       "title": "Taste",
-      "short_name": "Taste",
-      "badge_text": "T",
+      "title_en": "Taste",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Taste"
-      ],
-      "keywords": [
-        "Taste"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taste-745f9c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "taste-745f9c",
         "wikidata": "Q7687667"
@@ -98,26 +862,13 @@
     },
     "uselectuselect_q22098822": {
       "slug": "uselectuselect_q22098822",
-      "title": "U購Select U Select",
-      "short_name": "U購Select U",
-      "badge_text": "U",
+      "title": "U購Select",
+      "title_en": "U Select",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "U購Select",
-        "U購Select U Select",
-        "U Select"
-      ],
-      "keywords": [
-        "U購Select",
-        "U購Select U Select",
-        "U Select"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uselect-745f9c.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "uselect-745f9c",
         "wikidata": "Q22098822"
@@ -125,26 +876,13 @@
     },
     "kaibofoodsupermarket_q10886987": {
       "slug": "kaibofoodsupermarket_q10886987",
-      "title": "佳宝食品超級市場 Kai Bo Food Supermarket",
-      "short_name": "佳宝食品超級市場 K",
-      "badge_text": "佳",
+      "title": "佳宝食品超級市場",
+      "title_en": "Kai Bo Food Supermarket",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Kai Bo Food Supermarket",
-        "佳宝食品超級市場",
-        "佳宝食品超級市場 Kai Bo Food Supermarket"
-      ],
-      "keywords": [
-        "Kai Bo Food Supermarket",
-        "佳宝食品超級市場",
-        "佳宝食品超級市場 Kai Bo Food Supermarket"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kaibofoodsupermarket-745f9c",
         "wikidata": "Q10886987"
@@ -152,26 +890,13 @@
     },
     "wellcome_q706247": {
       "slug": "wellcome_q706247",
-      "title": "惠康 Wellcome",
-      "short_name": "惠康 Wellcom",
-      "badge_text": "惠",
+      "title": "惠康",
+      "title_en": "Wellcome",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "惠康",
-        "Wellcome",
-        "惠康 Wellcome"
-      ],
-      "keywords": [
-        "惠康",
-        "Wellcome",
-        "惠康 Wellcome"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wellcome-745f9c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "wellcome-745f9c",
         "wikidata": "Q706247"
@@ -179,24 +904,13 @@
     },
     "aeon_q271413": {
       "slug": "aeon_q271413",
-      "title": "永旺 AEON",
-      "short_name": "永旺 AEON",
-      "badge_text": "永",
+      "title": "永旺",
+      "title_en": "AEON",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "永旺",
-        "AEON"
-      ],
-      "keywords": [
-        "永旺",
-        "AEON"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aeon-745f9c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "aeon-745f9c",
         "wikidata": "Q271413"
@@ -204,32 +918,13 @@
     },
     "parknshop_q7138619": {
       "slug": "parknshop_q7138619",
-      "title": "百佳超級市場 PARKnSHOP",
-      "short_name": "百佳超級市場 PAR",
-      "badge_text": "百",
+      "title": "百佳",
+      "title_en": "PARKnSHOP",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "百佳超級市場 PARKnSHOP",
-        "百佳超级市场",
-        "百佳",
-        "百佳超級市場",
-        "百佳 PARKnSHOP",
-        "PARKnSHOP"
-      ],
-      "keywords": [
-        "百佳超級市場 PARKnSHOP",
-        "百佳超级市场",
-        "百佳",
-        "百佳超級市場",
-        "百佳 PARKnSHOP",
-        "PARKnSHOP"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parknshop-3601ab.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "parknshop-3601ab",
         "wikidata": "Q7138619"
@@ -237,53 +932,83 @@
     },
     "vanguard_q5099892": {
       "slug": "vanguard_q5099892",
-      "title": "華潤萬家 Vanguard",
-      "short_name": "華潤萬家 Vangu",
-      "badge_text": "華",
+      "title": "華潤萬家",
+      "title_en": "Vanguard",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "華潤萬家 Vanguard",
-        "華潤萬家",
-        "Vanguard"
-      ],
-      "keywords": [
-        "華潤萬家 Vanguard",
-        "華潤萬家",
-        "Vanguard"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vanguard-745f9c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "vanguard-745f9c",
         "wikidata": "Q5099892"
       }
     },
+    "xiaomi_q1636958": {
+      "slug": "xiaomi_q1636958",
+      "title": "小米之家",
+      "title_en": "Mi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mi-5c8743.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mi-5c8743",
+        "wikidata": "Q1636958"
+      }
+    },
+    "wilson_q15904465": {
+      "slug": "wilson_q15904465",
+      "title": "衛訊",
+      "title_en": "Wilson",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wilson-55ee4b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wilson-55ee4b",
+        "wikidata": "Q15904465"
+      }
+    },
+    "citylink_q17030593": {
+      "slug": "citylink_q17030593",
+      "title": "領域",
+      "title_en": "CityLink",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citylink-55ee4b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "citylink-55ee4b",
+        "wikidata": "Q17030593"
+      }
+    },
+    "wellent_q111103504": {
+      "slug": "wellent_q111103504",
+      "title": "偉倫電腦",
+      "title_en": "Wellent",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wellent-e0237d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wellent-e0237d",
+        "wikidata": "Q111103504"
+      }
+    },
     "759759store_q10846179": {
       "slug": "759759store_q10846179",
-      "title": "759阿信屋 759 Store",
-      "short_name": "759阿信屋 759",
-      "badge_text": "7",
+      "title": "759阿信屋",
+      "title_en": "759 Store",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "759 Store",
-        "759阿信屋",
-        "759阿信屋 759 Store"
-      ],
-      "keywords": [
-        "759 Store",
-        "759阿信屋",
-        "759阿信屋 759 Store"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "759store-298a73",
         "wikidata": "Q10846179"
@@ -292,21 +1017,12 @@
     "bigc_q858665": {
       "slug": "bigc_q858665",
       "title": "Big C",
-      "short_name": "Big C",
-      "badge_text": "B",
+      "title_en": "Big C",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Big C"
-      ],
-      "keywords": [
-        "Big C"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigc-298a73.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bigc-298a73",
         "wikidata": "Q858665"
@@ -314,26 +1030,13 @@
     },
     "okcirclek_q3268010": {
       "slug": "okcirclek_q3268010",
-      "title": "OK便利店 Circle K",
-      "short_name": "OK便利店 Circ",
-      "badge_text": "O",
+      "title": "OK便利店",
+      "title_en": "Circle K",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Circle K",
-        "OK便利店 Circle K",
-        "OK便利店"
-      ],
-      "keywords": [
-        "Circle K",
-        "OK便利店 Circle K",
-        "OK便利店"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/circlek-132595.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "circlek-132595",
         "wikidata": "Q3268010"
@@ -342,21 +1045,12 @@
     "vango_q10853203": {
       "slug": "vango_q10853203",
       "title": "VanGO",
-      "short_name": "VanGO",
-      "badge_text": "V",
+      "title_en": "VanGO",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "VanGO"
-      ],
-      "keywords": [
-        "VanGO"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "vango-298a73",
         "wikidata": "Q10853203"
@@ -364,29 +1058,170 @@
     },
     "360bestmart360_q65117567": {
       "slug": "360bestmart360_q65117567",
-      "title": "優品360 Best Mart 360",
-      "short_name": "優品360 Best",
-      "badge_text": "優",
+      "title": "優品360",
+      "title_en": "Best Mart 360",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "優品360",
-        "優品360 Best Mart 360",
-        "Best Mart 360"
-      ],
-      "keywords": [
-        "優品360",
-        "優品360 Best Mart 360",
-        "Best Mart 360"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bestmart360-298a73.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bestmart360-298a73",
         "wikidata": "Q65117567"
+      }
+    },
+    "vomfass_q2533008": {
+      "slug": "vomfass_q2533008",
+      "title": "vomFASS",
+      "title_en": "vomFASS",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vomfass-a3c745.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vomfass-a3c745",
+        "wikidata": "Q2533008"
+      }
+    },
+    "2ndstreet_q11314186": {
+      "slug": "2ndstreet_q11314186",
+      "title": "2nd STREET",
+      "title_en": "2nd STREET",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/2ndstreet-167281.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "2ndstreet-167281",
+        "wikidata": "Q11314186"
+      }
+    },
+    "nitori_q10801453": {
+      "slug": "nitori_q10801453",
+      "title": "Nitori",
+      "title_en": "Nitori",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nitori-a040a8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nitori-a040a8",
+        "wikidata": "Q10801453"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "宜家家居",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-2365c1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-2365c1",
+        "wikidata": "Q54078"
+      }
+    },
+    "1o1o_q10843723": {
+      "slug": "1o1o_q10843723",
+      "title": "1O1O",
+      "title_en": "1O1O",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1o1o-d0af53.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "1o1o-d0af53",
+        "wikidata": "Q10843723"
+      }
+    },
+    "3_q407009": {
+      "slug": "3_q407009",
+      "title": "Three.",
+      "title_en": "Three.",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/three-063284.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "three-063284",
+        "wikidata": "Q407009"
+      }
+    },
+    "csl_q843967": {
+      "slug": "csl_q843967",
+      "title": "csl.",
+      "title_en": "csl.",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/csl-d0af53.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "csl-d0af53",
+        "wikidata": "Q843967"
+      }
+    },
+    "chinamobilehongkong_q5099786": {
+      "slug": "chinamobilehongkong_q5099786",
+      "title": "中國移動",
+      "title_en": "China Mobile",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinamobile-d0af53.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chinamobile-d0af53",
+        "wikidata": "Q5099786"
+      }
+    },
+    "chinaunicom_q75990567": {
+      "slug": "chinaunicom_q75990567",
+      "title": "中國聯通",
+      "title_en": "China Unicom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinaunicom-d0af53.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chinaunicom-d0af53",
+        "wikidata": "Q75990567"
+      }
+    },
+    "smartone_q11079498": {
+      "slug": "smartone_q11079498",
+      "title": "數碼通",
+      "title_en": "SmarTone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smartone-063284.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smartone-063284",
+        "wikidata": "Q11079498"
+      }
+    },
+    "sunmobile_q11080923": {
+      "slug": "sunmobile_q11080923",
+      "title": "新移動通訊",
+      "title_en": "SUN Mobile",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunmobile-d0af53.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sunmobile-d0af53",
+        "wikidata": "Q11080923"
       }
     }
   }

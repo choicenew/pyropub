@@ -1,8 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "sn",
-  "total_categories": 1,
+  "country_name": "SN",
+  "total_categories": 4,
   "manifest_files": [
-    "supermarket.json"
-  ]
+    "supermarket.json",
+    "express.json",
+    "travel.json",
+    "food.json"
+  ],
+  "version": 1
 }

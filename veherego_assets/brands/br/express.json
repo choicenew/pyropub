@@ -1,29 +1,146 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "br",
+  "category": "express",
+  "total_brands": 11,
   "brand_aliases": {
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "bancodobrasilseguridade_q18499520": {
+      "slug": "bancodobrasilseguridade_q18499520",
+      "title": "Banco do Brasil Seguridade",
+      "title_en": "Banco do Brasil Seguridade",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancodobrasilseguridade-af18ad.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancodobrasilseguridade-af18ad",
+        "wikidata": "Q18499520"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "cartorioeleitoral_q3656204": {
+      "slug": "cartorioeleitoral_q3656204",
+      "title": "Cartorio Eleitoral",
+      "title_en": "Cartorio Eleitoral",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cartorioeleitoral-efb6ac.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cartorioeleitoral-efb6ac",
+        "wikidata": "Q3656204"
+      }
+    },
+    "previdnciasocial": {
+      "slug": "previdnciasocial",
+      "title": "Previdência Social",
+      "title_en": "Previdência Social",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "previdenciasocial-efb6ac",
+        "wikidata": ""
+      }
+    },
+    "secretariamunicipaldeeducao": {
+      "slug": "secretariamunicipaldeeducao",
+      "title": "Secretaria Municipal de Educação",
+      "title_en": "Secretaria Municipal de Educação",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "secretariamunicipaldeeducacao-efb6ac",
+        "wikidata": ""
+      }
+    },
+    "secretariamunicipaldesade": {
+      "slug": "secretariamunicipaldesade",
+      "title": "Secretaria Municipal de Saúde",
+      "title_en": "Secretaria Municipal de Saúde",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "secretariamunicipaldesaude-efb6ac",
+        "wikidata": ""
+      }
+    },
     "agnciadoscorreios_q3375004": {
       "slug": "agnciadoscorreios_q3375004",
-      "title": "Agência dos Correios",
-      "short_name": "Agência do",
-      "badge_text": "A",
+      "title": "Correios",
+      "title_en": "Correios",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Correios",
-        "Empresa Brasileira de Correios e Telégrafos"
-      ],
-      "keywords": [
-        "Correios",
-        "Empresa Brasileira de Correios e Telégrafos"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "correios-6c9171",
         "wikidata": "Q3375004"
@@ -32,21 +149,12 @@
     "postnet_q7233611": {
       "slug": "postnet_q7233611",
       "title": "PostNet",
-      "short_name": "PostNet",
-      "badge_text": "P",
+      "title_en": "PostNet",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "PostNet"
-      ],
-      "keywords": [
-        "PostNet"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postnet-7f7712.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "postnet-7f7712",
         "wikidata": "Q7233611"

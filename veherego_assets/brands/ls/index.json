@@ -1,10 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ls",
-  "total_categories": 3,
+  "country_name": "LS",
+  "total_categories": 4,
   "manifest_files": [
     "drink.json",
     "supermarket.json",
+    "travel.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

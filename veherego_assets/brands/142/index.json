@@ -1,8 +1,12 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "142",
-  "total_categories": 1,
+  "country_name": "142",
+  "total_categories": 3,
   "manifest_files": [
-    "express.json"
-  ]
+    "other.json",
+    "express.json",
+    "food.json"
+  ],
+  "version": 1
 }

@@ -1,29 +1,300 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 6,
+  "country": "sa",
+  "category": "supermarket",
+  "total_brands": 30,
   "brand_aliases": {
-    "_q111042647": {
-      "slug": "_q111042647",
-      "title": "أسواق التميمي",
-      "short_name": "أسواق التم",
-      "badge_text": "أ",
+    "joyalukkas_q6297357": {
+      "slug": "joyalukkas_q6297357",
+      "title": "Joyalukkas",
+      "title_en": "Joyalukkas",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joyalukkas-534941.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "joyalukkas-534941",
+        "wikidata": "Q6297357"
+      }
+    },
+    "malabargoldanddiamonds_q60748883": {
+      "slug": "malabargoldanddiamonds_q60748883",
+      "title": "Malabar Gold and Diamonds",
+      "title_en": "Malabar Gold and Diamonds",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malabargoldanddiamonds-9fa2ef.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "malabargoldanddiamonds-9fa2ef",
+        "wikidata": "Q60748883"
+      }
+    },
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "_q12244784": {
+      "slug": "_q12244784",
+      "title": "مكتبة العبيكان",
+      "title_en": "ObeikanStores",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "obeikanstores-9ea300",
+        "wikidata": "Q12244784"
+      }
+    },
+    "_q6160243": {
+      "slug": "_q6160243",
+      "title": "مكتبة جرير",
+      "title_en": "Jarir Bookstore",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jarirbookstore-e19842.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jarirbookstore-e19842",
+        "wikidata": "Q6160243"
+      }
+    },
+    "eyewa_q141129902": {
+      "slug": "eyewa_q141129902",
+      "title": "أيوا",
+      "title_en": "eyewa",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eyewa-e7f237.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eyewa-e7f237",
+        "wikidata": "Q141129902"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "loxam_q3264407": {
+      "slug": "loxam_q3264407",
+      "title": "Loxam",
+      "title_en": "Loxam",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loxam-a4cd21.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "loxam-a4cd21",
+        "wikidata": "Q3264407"
+      }
+    },
+    "tyreplus_q110959120": {
+      "slug": "tyreplus_q110959120",
+      "title": "Tyreplus",
+      "title_en": "Tyreplus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tyreplus-99cc81.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tyreplus-99cc81",
+        "wikidata": "Q110959120"
+      }
+    },
+    "jeffdebruges_q3176626": {
+      "slug": "jeffdebruges_q3176626",
+      "title": "Jeff de Bruges",
+      "title_en": "Jeff de Bruges",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeffdebruges-bc7364.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jeffdebruges-bc7364",
+        "wikidata": "Q3176626"
+      }
+    },
+    "vperfumes_q135350225": {
+      "slug": "vperfumes_q135350225",
+      "title": "V Perfumes",
+      "title_en": "V Perfumes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vperfumes-a31737.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vperfumes-a31737",
+        "wikidata": "Q135350225"
+      }
+    },
+    "printemps_q1535260": {
+      "slug": "printemps_q1535260",
+      "title": "Printemps",
+      "title_en": "Printemps",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "أسواق التميمي",
-        "Tamimi Markets"
-      ],
-      "keywords": [
-        "أسواق التميمي",
-        "Tamimi Markets"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/printemps-b3d693.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "printemps-b3d693",
+        "wikidata": "Q1535260"
+      }
+    },
+    "abercrombiefitch_q319344": {
+      "slug": "abercrombiefitch_q319344",
+      "title": "Abercrombie & Fitch",
+      "title_en": "Abercrombie & Fitch",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abercrombieandfitch-c53b2f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "abercrombieandfitch-c53b2f",
+        "wikidata": "Q319344"
+      }
+    },
+    "brasnthings_q120669960": {
+      "slug": "brasnthings_q120669960",
+      "title": "Bras N Things",
+      "title_en": "Bras N Things",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brasnthings-24a002.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "brasnthings-24a002",
+        "wikidata": "Q120669960"
+      }
+    },
+    "dynamite_q3117385": {
+      "slug": "dynamite_q3117385",
+      "title": "Dynamite",
+      "title_en": "Dynamite",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dynamite-aecc8a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dynamite-aecc8a",
+        "wikidata": "Q3117385"
+      }
+    },
+    "garage_q5521860": {
+      "slug": "garage_q5521860",
+      "title": "Garage",
+      "title_en": "Garage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/garage-072c62.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "garage-072c62",
+        "wikidata": "Q5521860"
+      }
+    },
+    "lechteau_q6506731": {
+      "slug": "lechteau_q6506731",
+      "title": "Le Château",
+      "title_en": "Le Château",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lechateau-f2752c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lechateau-f2752c",
+        "wikidata": "Q6506731"
+      }
+    },
+    "lululemon_q6702957": {
+      "slug": "lululemon_q6702957",
+      "title": "Lululemon",
+      "title_en": "Lululemon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lululemon-4bc474.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lululemon-4bc474",
+        "wikidata": "Q6702957"
+      }
+    },
+    "undiz_q105306275": {
+      "slug": "undiz_q105306275",
+      "title": "Undiz",
+      "title_en": "Undiz",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/undiz-024578.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "undiz-024578",
+        "wikidata": "Q105306275"
+      }
+    },
+    "95270fc3d0a3": {
+      "slug": "95270fc3d0a3",
+      "title": "ردتاغ",
+      "title_en": "ردتاغ",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "95270f-c3d0a3",
+        "wikidata": ""
+      }
+    },
+    "_q111042647": {
+      "slug": "_q111042647",
+      "title": "أسواق التميمي",
+      "title_en": "Tamimi Markets",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tamimimarkets-22a530.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tamimimarkets-22a530",
         "wikidata": "Q111042647"
@@ -32,23 +303,12 @@
     "_q12218555": {
       "slug": "_q12218555",
       "title": "أسواق عبد الله العثيم",
-      "short_name": "أسواق عبد ",
-      "badge_text": "أ",
+      "title_en": "Abdullah AlOthaim Markets",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "أسواق عبد الله العثيم",
-        "Abdullah AlOthaim Markets"
-      ],
-      "keywords": [
-        "أسواق عبد الله العثيم",
-        "Abdullah AlOthaim Markets"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abdullahalothaimmarkets-6c5d99.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "abdullahalothaimmarkets-6c5d99",
         "wikidata": "Q12218555"
@@ -57,48 +317,54 @@
     "_q4832749": {
       "slug": "_q4832749",
       "title": "بنده",
-      "short_name": "بنده",
-      "badge_text": "ب",
+      "title_en": "Panda",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Panda",
-        "بنده"
-      ],
-      "keywords": [
-        "Panda",
-        "بنده"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panda-709c58.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "panda-709c58",
         "wikidata": "Q4832749"
       }
     },
+    "petromin_q7179006": {
+      "slug": "petromin_q7179006",
+      "title": "بترومين",
+      "title_en": "Petromin",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petromin-78a956",
+        "wikidata": "Q7179006"
+      }
+    },
+    "_q7179006": {
+      "slug": "_q7179006",
+      "title": "بترومين إكسبرس",
+      "title_en": "Petromin Express",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petrominexpress-78a956",
+        "wikidata": "Q7179006"
+      }
+    },
     "adnocoasis_q166729": {
       "slug": "adnocoasis_q166729",
-      "title": "ADNOC Oasis",
-      "short_name": "ADNOC Oasi",
-      "badge_text": "A",
+      "title": "واحة أدنوك",
+      "title_en": "ADNOC Oasis",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "واحة أدنوك",
-        "ADNOC Oasis"
-      ],
-      "keywords": [
-        "واحة أدنوك",
-        "ADNOC Oasis"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adnocoasis-d47493.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "adnocoasis-d47493",
         "wikidata": "Q166729"
@@ -107,23 +373,12 @@
     "ikeaswedishfoodmarket_q54078": {
       "slug": "ikeaswedishfoodmarket_q54078",
       "title": "IKEA Swedish Food Market",
-      "short_name": "IKEA Swedi",
-      "badge_text": "I",
+      "title_en": "IKEA Swedish Food Market",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeaswedishfoodmarket-e66215.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeaswedishfoodmarket-e66215",
         "wikidata": "Q54078"
@@ -132,30 +387,43 @@
     "_q105492269": {
       "slug": "_q105492269",
       "title": "ميد",
-      "short_name": "ميد",
-      "badge_text": "م",
+      "title_en": "MEED",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "MEED",
-        "MEED Trading Company",
-        "ميد",
-        "شركة ميد التجارية"
-      ],
-      "keywords": [
-        "MEED",
-        "MEED Trading Company",
-        "ميد",
-        "شركة ميد التجارية"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meed-cc9d9e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "meed-cc9d9e",
         "wikidata": "Q105492269"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "IKEA",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-ac4ccb",
+        "wikidata": "Q54078"
+      }
+    },
+    "oboticrio_q7073219": {
+      "slug": "oboticrio_q7073219",
+      "title": "O Boticário",
+      "title_en": "O Boticário",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oboticario-40d28a",
+        "wikidata": "Q7073219"
       }
     }
   }

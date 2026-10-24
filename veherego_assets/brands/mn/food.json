@@ -1,27 +1,104 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "mn",
+  "category": "food",
+  "total_brands": 9,
   "brand_aliases": {
+    "tdb_q7832017": {
+      "slug": "tdb_q7832017",
+      "title": "TDB",
+      "title_en": "TDB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tdb-031586.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tdb-031586",
+        "wikidata": "Q7832017"
+      }
+    },
+    "_q5580917": {
+      "slug": "_q5580917",
+      "title": "Голомт банк",
+      "title_en": "Golomt Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/golomtbank-031586.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "golomtbank-031586",
+        "wikidata": "Q5580917"
+      }
+    },
+    "_q7766381": {
+      "slug": "_q7766381",
+      "title": "Төрийн банк",
+      "title_en": "State Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/statebank-031586.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "statebank-031586",
+        "wikidata": "Q7766381"
+      }
+    },
+    "_q25632240": {
+      "slug": "_q25632240",
+      "title": "Хаан банк",
+      "title_en": "Khan Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/khanbank-031586.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "khanbank-031586",
+        "wikidata": "Q25632240"
+      }
+    },
+    "_q8042815": {
+      "slug": "_q8042815",
+      "title": "ХаcБанк",
+      "title_en": "XacBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xacbank-031586.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "xacbank-031586",
+        "wikidata": "Q8042815"
+      }
+    },
+    "colizeum_q139567421": {
+      "slug": "colizeum_q139567421",
+      "title": "Colizeum",
+      "title_en": "Colizeum",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "colizeum-2ed04c",
+        "wikidata": "Q139567421"
+      }
+    },
     "bdsmongoliangrill_q69890408": {
       "slug": "bdsmongoliangrill_q69890408",
       "title": "bd's Mongolian Grill",
-      "short_name": "bd's Mongo",
-      "badge_text": "B",
+      "title_en": "bd's Mongolian Grill",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "bd's Mongolian Grill"
-      ],
-      "keywords": [
-        "bd's Mongolian Grill"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bdsmongoliangrill-bcd08b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bdsmongoliangrill-bcd08b",
         "wikidata": "Q69890408"
@@ -30,24 +107,29 @@
     "littlesheep_q5976467": {
       "slug": "littlesheep_q5976467",
       "title": "LITTLE SHEEP",
-      "short_name": "LITTLE SHE",
-      "badge_text": "L",
+      "title_en": "LITTLE SHEEP",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "LITTLE SHEEP"
-      ],
-      "keywords": [
-        "LITTLE SHEEP"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/littlesheep-87010c.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "littlesheep-87010c",
         "wikidata": "Q5976467"
+      }
+    },
+    "87a0bd405a48": {
+      "slug": "87a0bd405a48",
+      "title": "ШТС",
+      "title_en": "ШТС",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "87a0bd-405a48",
+        "wikidata": ""
       }
     }
   }

@@ -1,8 +1,11 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "tm",
-  "total_categories": 1,
+  "country_name": "TM",
+  "total_categories": 2,
   "manifest_files": [
+    "supermarket.json",
     "express.json"
-  ]
+  ],
+  "version": 1
 }

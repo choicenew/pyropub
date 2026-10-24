@@ -1,27 +1,90 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 6,
+  "country": "sv",
+  "category": "food",
+  "total_brands": 16,
   "brand_aliases": {
+    "athenabitcoin_q135280046": {
+      "slug": "athenabitcoin_q135280046",
+      "title": "Athena Bitcoin",
+      "title_en": "Athena Bitcoin",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/athenabitcoin-5938ef.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "athenabitcoin-5938ef",
+        "wikidata": "Q135280046"
+      }
+    },
+    "baccredomatic_q5715556": {
+      "slug": "baccredomatic_q5715556",
+      "title": "BAC Credomatic",
+      "title_en": "BAC Credomatic",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baccredomatic-a7c666.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baccredomatic-a7c666",
+        "wikidata": "Q5715556"
+      }
+    },
+    "bancoazteca_q4854076": {
+      "slug": "bancoazteca_q4854076",
+      "title": "Banco Azteca",
+      "title_en": "Banco Azteca",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancoazteca-a695fe",
+        "wikidata": "Q4854076"
+      }
+    },
+    "bancogtcontinental_q5717949": {
+      "slug": "bancogtcontinental_q5717949",
+      "title": "Banco G&T Continental",
+      "title_en": "Banco G&T Continental",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancogandtcontinental-4ca2cd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancogandtcontinental-4ca2cd",
+        "wikidata": "Q5717949"
+      }
+    },
+    "davivienda_q5242054": {
+      "slug": "davivienda_q5242054",
+      "title": "Davivienda",
+      "title_en": "Davivienda",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/davivienda-0357a0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "davivienda-0357a0",
+        "wikidata": "Q5242054"
+      }
+    },
     "donpollo": {
       "slug": "donpollo",
       "title": "Don Pollo",
-      "short_name": "Don Pollo",
-      "badge_text": "D",
+      "title_en": "Don Pollo",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Don Pollo"
-      ],
-      "keywords": [
-        "Don Pollo"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "donpollo-64ebd7",
         "wikidata": ""
@@ -30,21 +93,12 @@
     "pollolandia_q134611065": {
       "slug": "pollolandia_q134611065",
       "title": "Pollolandia",
-      "short_name": "Pollolandi",
-      "badge_text": "P",
+      "title_en": "Pollolandia",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Pollolandia"
-      ],
-      "keywords": [
-        "Pollolandia"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pollolandia-5bda58.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pollolandia-5bda58",
         "wikidata": "Q134611065"
@@ -53,44 +107,82 @@
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
       }
     },
+    "farmaciaseconmicaselsalvador_q62108397": {
+      "slug": "farmaciaseconmicaselsalvador_q62108397",
+      "title": "Farmacias Económicas",
+      "title_en": "Farmacias Económicas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmaciaseconomicas-fa48f5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmaciaseconomicas-fa48f5",
+        "wikidata": "Q62108397"
+      }
+    },
+    "llaollao_q12163048": {
+      "slug": "llaollao_q12163048",
+      "title": "Llaollao",
+      "title_en": "Llaollao",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "llaollao-dd9462",
+        "wikidata": "Q12163048"
+      }
+    },
+    "redmango_q7304565": {
+      "slug": "redmango_q7304565",
+      "title": "Red Mango",
+      "title_en": "Red Mango",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/redmango-73fcc9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "redmango-73fcc9",
+        "wikidata": "Q7304565"
+      }
+    },
+    "sarita": {
+      "slug": "sarita",
+      "title": "Sarita",
+      "title_en": "Sarita",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sarita-ff2f38",
+        "wikidata": ""
+      }
+    },
     "benihana_q4887996": {
       "slug": "benihana_q4887996",
       "title": "Benihana",
-      "short_name": "Benihana",
-      "badge_text": "B",
+      "title_en": "Benihana",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Benihana"
-      ],
-      "keywords": [
-        "Benihana"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benihana-934c20.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "benihana-934c20",
         "wikidata": "Q4887996"
@@ -99,21 +191,12 @@
     "bennigans_q8246508": {
       "slug": "bennigans_q8246508",
       "title": "Bennigan's",
-      "short_name": "Bennigan's",
-      "badge_text": "B",
+      "title_en": "Bennigan's",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Bennigan's"
-      ],
-      "keywords": [
-        "Bennigan's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bennigans-2a32d0.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bennigans-2a32d0",
         "wikidata": "Q8246508"
@@ -122,24 +205,29 @@
     "chuckecheese_q2438391": {
       "slug": "chuckecheese_q2438391",
       "title": "Chuck E. Cheese",
-      "short_name": "Chuck E. C",
-      "badge_text": "C",
+      "title_en": "Chuck E. Cheese",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Chuck E. Cheese"
-      ],
-      "keywords": [
-        "Chuck E. Cheese"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chuckecheese-826402.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chuckecheese-826402",
         "wikidata": "Q2438391"
+      }
+    },
+    "uno_q62535574": {
+      "slug": "uno_q62535574",
+      "title": "Uno",
+      "title_en": "Uno",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uno-24faf9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uno-24faf9",
+        "wikidata": "Q62535574"
       }
     }
   }

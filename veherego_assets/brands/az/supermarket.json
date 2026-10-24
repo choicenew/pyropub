@@ -1,27 +1,62 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "az",
+  "category": "supermarket",
+  "total_brands": 6,
   "brand_aliases": {
+    "drkong_q116547631": {
+      "slug": "drkong_q116547631",
+      "title": "Dr. Kong",
+      "title_en": "Dr. Kong",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drkong-2bd793.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "drkong-2bd793",
+        "wikidata": "Q116547631"
+      }
+    },
+    "ozon_q2365235": {
+      "slug": "ozon_q2365235",
+      "title": "Ozon",
+      "title_en": "Ozon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozon-e8ee33.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ozon-e8ee33",
+        "wikidata": "Q2365235"
+      }
+    },
+    "charuel_q139816894": {
+      "slug": "charuel_q139816894",
+      "title": "Charuel",
+      "title_en": "Charuel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "charuel-99f5b9",
+        "wikidata": "Q139816894"
+      }
+    },
     "araz_q97224746": {
       "slug": "araz_q97224746",
       "title": "Araz",
-      "short_name": "Araz",
-      "badge_text": "A",
+      "title_en": "Araz",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Araz"
-      ],
-      "keywords": [
-        "Araz"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/araz-d4a1bc.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "araz-d4a1bc",
         "wikidata": "Q97224746"
@@ -30,21 +65,12 @@
     "marketxrdalan": {
       "slug": "marketxrdalan",
       "title": "Market \\ Xırdalan",
-      "short_name": "Market \\ X",
-      "badge_text": "M",
+      "title_en": "Market \\ Xırdalan",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Market \\ Xırdalan"
-      ],
-      "keywords": [
-        "Market \\ Xırdalan"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "marketxirdalan-ef7cdd",
         "wikidata": ""
@@ -53,21 +79,12 @@
     "obamarket_q106473053": {
       "slug": "obamarket_q106473053",
       "title": "Oba Market",
-      "short_name": "Oba Market",
-      "badge_text": "O",
+      "title_en": "Oba Market",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Oba Market"
-      ],
-      "keywords": [
-        "Oba Market"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/obamarket-ef7cdd.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "obamarket-ef7cdd",
         "wikidata": "Q106473053"

@@ -1,50 +1,230 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 10,
+  "country": "kz",
+  "category": "food",
+  "total_brands": 44,
   "brand_aliases": {
     "paul_q3370417": {
       "slug": "paul_q3370417",
       "title": "Paul",
-      "short_name": "Paul",
-      "badge_text": "P",
+      "title_en": "Paul",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paul"
-      ],
-      "keywords": [
-        "Paul"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paul-652955",
         "wikidata": "Q3370417"
       }
     },
+    "a1a83437a285": {
+      "slug": "a1a83437a285",
+      "title": "Улыбка",
+      "title_en": "Улыбка",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "a1a834-37a285",
+        "wikidata": ""
+      }
+    },
+    "bankrbk_q21843640": {
+      "slug": "bankrbk_q21843640",
+      "title": "Bank RBK",
+      "title_en": "Bank RBK",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankrbk-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankrbk-033b31",
+        "wikidata": "Q21843640"
+      }
+    },
+    "berekebank_q4153367": {
+      "slug": "berekebank_q4153367",
+      "title": "Bereke Bank",
+      "title_en": "Bereke Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/berekebank-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "berekebank-033b31",
+        "wikidata": "Q4153367"
+      }
+    },
+    "centercredit_q806624": {
+      "slug": "centercredit_q806624",
+      "title": "Bank CenterCredit",
+      "title_en": "Bank CenterCredit",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankcentercredit-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankcentercredit-033b31",
+        "wikidata": "Q806624"
+      }
+    },
+    "eurasianbank_q143852": {
+      "slug": "eurasianbank_q143852",
+      "title": "Eurasian Bank",
+      "title_en": "Eurasian Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurasianbank-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eurasianbank-033b31",
+        "wikidata": "Q143852"
+      }
+    },
+    "fortebank_q1336498": {
+      "slug": "fortebank_q1336498",
+      "title": "ForteBank",
+      "title_en": "ForteBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fortebank-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fortebank-033b31",
+        "wikidata": "Q1336498"
+      }
+    },
+    "freedombank_q21843099": {
+      "slug": "freedombank_q21843099",
+      "title": "Freedom Bank",
+      "title_en": "Freedom Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freedombank-033b31.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "freedombank-033b31",
+        "wikidata": "Q21843099"
+      }
+    },
+    "halykbank_q1046186": {
+      "slug": "halykbank_q1046186",
+      "title": "Halyk Bank",
+      "title_en": "Halyk Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/halykbank-c4165a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "halykbank-c4165a",
+        "wikidata": "Q1046186"
+      }
+    },
+    "homecreditbank_q115575403": {
+      "slug": "homecreditbank_q115575403",
+      "title": "Home Credit Bank",
+      "title_en": "Home Credit Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homecreditbank-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "homecreditbank-033b31",
+        "wikidata": "Q115575403"
+      }
+    },
+    "jusan_q25485074": {
+      "slug": "jusan_q25485074",
+      "title": "Jusan",
+      "title_en": "Jusan",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jusan-033b31",
+        "wikidata": "Q25485074"
+      }
+    },
+    "kaspikz_q143833": {
+      "slug": "kaspikz_q143833",
+      "title": "Kaspi.kz",
+      "title_en": "Kaspi.kz",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaspikz-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kaspikz-033b31",
+        "wikidata": "Q143833"
+      }
+    },
+    "nurbank_q1638772": {
+      "slug": "nurbank_q1638772",
+      "title": "Nurbank",
+      "title_en": "Nurbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nurbank-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nurbank-033b31",
+        "wikidata": "Q1638772"
+      }
+    },
+    "zamanbank_q4185641": {
+      "slug": "zamanbank_q4185641",
+      "title": "Zaman-Bank",
+      "title_en": "Zaman-Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zamanbank-033b31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zamanbank-033b31",
+        "wikidata": "Q4185641"
+      }
+    },
+    "0b5e42277e18": {
+      "slug": "0b5e42277e18",
+      "title": "Айболит",
+      "title_en": "Айболит",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "0b5e42-277e18",
+        "wikidata": ""
+      }
+    },
     "farsh": {
       "slug": "farsh",
       "title": "Farsh",
-      "short_name": "Farsh",
-      "badge_text": "F",
+      "title_en": "Farsh",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Farsh"
-      ],
-      "keywords": [
-        "Farsh"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "farsh-26312c",
         "wikidata": ""
@@ -53,21 +233,12 @@
     "foodsolutions_q118149812": {
       "slug": "foodsolutions_q118149812",
       "title": "Food Solutions",
-      "short_name": "Food Solut",
-      "badge_text": "F",
+      "title_en": "Food Solutions",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Food Solutions"
-      ],
-      "keywords": [
-        "Food Solutions"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "foodsolutions-71a487",
         "wikidata": "Q118149812"
@@ -76,21 +247,12 @@
     "kannamchicken": {
       "slug": "kannamchicken",
       "title": "Kannam Chicken",
-      "short_name": "Kannam Chi",
-      "badge_text": "K",
+      "title_en": "Kannam Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Kannam Chicken"
-      ],
-      "keywords": [
-        "Kannam Chicken"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kannamchicken-79e0b1",
         "wikidata": ""
@@ -99,23 +261,12 @@
     "_q177054": {
       "slug": "_q177054",
       "title": "Бургер Кинг",
-      "short_name": "Бургер Кин",
-      "badge_text": "Б",
+      "title_en": "Burger King",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Burger King",
-        "Бургер Кинг"
-      ],
-      "keywords": [
-        "Burger King",
-        "Бургер Кинг"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burgerking-e25654.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "burgerking-e25654",
         "wikidata": "Q177054"
@@ -124,23 +275,12 @@
     "_q61949318": {
       "slug": "_q61949318",
       "title": "Додо Пицца",
-      "short_name": "Додо Пицца",
-      "badge_text": "Д",
+      "title_en": "Dodo Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Dodo Pizza",
-        "Додо Пицца"
-      ],
-      "keywords": [
-        "Dodo Pizza",
-        "Додо Пицца"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dodopizza-e25654.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dodopizza-e25654",
         "wikidata": "Q61949318"
@@ -149,44 +289,124 @@
     "_q129419587": {
       "slug": "_q129419587",
       "title": "ЧебурекМи",
-      "short_name": "ЧебурекМи",
-      "badge_text": "Ч",
+      "title_en": "ЧебурекМи",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "ЧебурекМи"
-      ],
-      "keywords": [
-        "ЧебурекМи"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "0d6f84-ec2b4e",
         "wikidata": "Q129419587"
       }
     },
+    "europharma": {
+      "slug": "europharma",
+      "title": "Europharma",
+      "title_en": "Europharma",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "europharma-44e364",
+        "wikidata": ""
+      }
+    },
+    "1": {
+      "slug": "1",
+      "title": "Аптека №1",
+      "title_en": "Аптека №1",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "3b7e06-41252c",
+        "wikidata": ""
+      }
+    },
+    "8b7216494ab4": {
+      "slug": "8b7216494ab4",
+      "title": "Панацея",
+      "title_en": "Панацея",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "8b7216-494ab4",
+        "wikidata": ""
+      }
+    },
+    "e4475d8786f0": {
+      "slug": "e4475d8786f0",
+      "title": "Пульс",
+      "title_en": "Пульс",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "e4475d-8786f0",
+        "wikidata": ""
+      }
+    },
+    "ec19e58786f0": {
+      "slug": "ec19e58786f0",
+      "title": "Семейная",
+      "title_en": "Семейная",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ec19e5-8786f0",
+        "wikidata": ""
+      }
+    },
+    "38db8c4b9132": {
+      "slug": "38db8c4b9132",
+      "title": "Центральная аптека",
+      "title_en": "Центральная аптека",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "38db8c-4b9132",
+        "wikidata": ""
+      }
+    },
+    "33_q110147993": {
+      "slug": "33_q110147993",
+      "title": "33 пингвина",
+      "title_en": "33 пингвина",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fd1d7e-3c9560.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fd1d7e-3c9560",
+        "wikidata": "Q110147993"
+      }
+    },
     "bigchefs_q97832915": {
       "slug": "bigchefs_q97832915",
       "title": "BigChefs",
-      "short_name": "BigChefs",
-      "badge_text": "B",
+      "title_en": "BigChefs",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "BigChefs"
-      ],
-      "keywords": [
-        "BigChefs"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigchefs-697df7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bigchefs-697df7",
         "wikidata": "Q97832915"
@@ -195,21 +415,12 @@
     "oceanbasket_q62075311": {
       "slug": "oceanbasket_q62075311",
       "title": "Ocean Basket",
-      "short_name": "Ocean Bask",
-      "badge_text": "O",
+      "title_en": "Ocean Basket",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Ocean Basket"
-      ],
-      "keywords": [
-        "Ocean Basket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oceanbasket-5d9698.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oceanbasket-5d9698",
         "wikidata": "Q62075311"
@@ -218,26 +429,197 @@
     "_q62758690": {
       "slug": "_q62758690",
       "title": "Тануки",
-      "short_name": "Тануки",
-      "badge_text": "Т",
+      "title_en": "Tanuki",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Тануки",
-        "Tanuki"
-      ],
-      "keywords": [
-        "Тануки",
-        "Tanuki"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tanuki-dd767d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tanuki-dd767d",
         "wikidata": "Q62758690"
+      }
+    },
+    "grafika": {
+      "slug": "grafika",
+      "title": "Grafika",
+      "title_en": "Grafika",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "grafika-c90afd",
+        "wikidata": ""
+      }
+    },
+    "babyclub22863f": {
+      "slug": "babyclub22863f",
+      "title": "Бэби-клуб",
+      "title_en": "Baby-Club",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "babyclub-22863f",
+        "wikidata": ""
+      }
+    },
+    "gasenergy": {
+      "slug": "gasenergy",
+      "title": "Gasenergy",
+      "title_en": "Gasenergy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gasenergy-6daebb",
+        "wikidata": ""
+      }
+    },
+    "gazoil": {
+      "slug": "gazoil",
+      "title": "Gazoil",
+      "title_en": "Gazoil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gazoil-6daebb",
+        "wikidata": ""
+      }
+    },
+    "qazaqoil_q115190155": {
+      "slug": "qazaqoil_q115190155",
+      "title": "Qazaq Oil",
+      "title_en": "Qazaq Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qazaqoil-6daebb.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "qazaqoil-6daebb",
+        "wikidata": "Q115190155"
+      }
+    },
+    "sinooil_q503182": {
+      "slug": "sinooil_q503182",
+      "title": "Sinooil",
+      "title_en": "Sinooil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sinooil-6daebb",
+        "wikidata": "Q503182"
+      }
+    },
+    "_q1461799": {
+      "slug": "_q1461799",
+      "title": "Газпромнефть",
+      "title_en": "Газпромнефть",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/0b910f-bb6729.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "0b910f-bb6729",
+        "wikidata": "Q1461799"
+      }
+    },
+    "57ff6a6daebb": {
+      "slug": "57ff6a6daebb",
+      "title": "Газпромнефть АЗС",
+      "title_en": "Газпромнефть АЗС",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "57ff6a-6daebb",
+        "wikidata": ""
+      }
+    },
+    "_q62286471": {
+      "slug": "_q62286471",
+      "title": "Гелиос",
+      "title_en": "Helios",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "helios-6daebb",
+        "wikidata": "Q62286471"
+      }
+    },
+    "_q1417227": {
+      "slug": "_q1417227",
+      "title": "ҚазМұнайГаз",
+      "title_en": "ҚазМұнайГаз",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ef63bd-6daebb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ef63bd-6daebb",
+        "wikidata": "Q1417227"
+      }
+    },
+    "_q329347": {
+      "slug": "_q329347",
+      "title": "Лукойл",
+      "title_en": "Lukoil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukoil-0962f2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lukoil-0962f2",
+        "wikidata": "Q329347"
+      }
+    },
+    "shymkentbike": {
+      "slug": "shymkentbike",
+      "title": "Shymkent Bike",
+      "title_en": "Shymkent Bike",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shymkentbike-8e16ae",
+        "wikidata": ""
+      }
+    },
+    "8aea6ec4e665": {
+      "slug": "8aea6ec4e665",
+      "title": "Мой сам",
+      "title_en": "Мой сам",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "8aea6e-c4e665",
+        "wikidata": ""
       }
     }
   }

@@ -1,9 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "mk",
-  "total_categories": 2,
+  "country_name": "MK",
+  "total_categories": 4,
   "manifest_files": [
     "food.json",
-    "supermarket.json"
-  ]
+    "supermarket.json",
+    "other.json",
+    "express.json"
+  ],
+  "version": 1
 }

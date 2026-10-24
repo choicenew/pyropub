@@ -1,27 +1,146 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "lu",
+  "category": "express",
+  "total_brands": 12,
   "brand_aliases": {
+    "swisslifeselect_q300213": {
+      "slug": "swisslifeselect_q300213",
+      "title": "Swiss Life Select",
+      "title_en": "Swiss Life Select",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslifeselect-1e9d61.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisslifeselect-1e9d61",
+        "wikidata": "Q300213"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "bloise_q457912": {
+      "slug": "bloise_q457912",
+      "title": "Bâloise",
+      "title_en": "Bâloise",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baloise-d9a3dd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baloise-d9a3dd",
+        "wikidata": "Q457912"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "foyer_q1344573": {
+      "slug": "foyer_q1344573",
+      "title": "Foyer",
+      "title_en": "Foyer",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foyer-734c77.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foyer-734c77",
+        "wikidata": "Q1344573"
+      }
+    },
+    "lalux_q13103680": {
+      "slug": "lalux_q13103680",
+      "title": "LaLux",
+      "title_en": "LaLux",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lalux-734c77.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lalux-734c77",
+        "wikidata": "Q13103680"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -30,21 +149,12 @@
     "inpost_q3182097": {
       "slug": "inpost_q3182097",
       "title": "InPost",
-      "short_name": "InPost",
-      "badge_text": "I",
+      "title_en": "InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "InPost"
-      ],
-      "keywords": [
-        "InPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inpost-6b37ec",
         "wikidata": "Q3182097"
@@ -52,24 +162,13 @@
     },
     "postpackup_q1570910": {
       "slug": "postpackup_q1570910",
-      "title": "POST PackUp",
-      "short_name": "POST PackU",
-      "badge_text": "P",
+      "title": "PackUp",
+      "title_en": "PackUp",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "PackUp",
-        "POST Luxembourg"
-      ],
-      "keywords": [
-        "PackUp",
-        "POST Luxembourg"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/packup-f54db3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "packup-f54db3",
         "wikidata": "Q1570910"

@@ -1,27 +1,34 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "mw",
+  "category": "food",
+  "total_brands": 4,
   "brand_aliases": {
+    "oldmutual_q289704": {
+      "slug": "oldmutual_q289704",
+      "title": "Old Mutual",
+      "title_en": "Old Mutual",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutual-ff45b4.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutual-ff45b4",
+        "wikidata": "Q289704"
+      }
+    },
     "debonairspizza_q65079407": {
       "slug": "debonairspizza_q65079407",
       "title": "Debonairs Pizza",
-      "short_name": "Debonairs ",
-      "badge_text": "D",
+      "title_en": "Debonairs Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Debonairs Pizza"
-      ],
-      "keywords": [
-        "Debonairs Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debonairspizza-10dad6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "debonairspizza-10dad6",
         "wikidata": "Q65079407"
@@ -30,24 +37,29 @@
     "galitos_q116619555": {
       "slug": "galitos_q116619555",
       "title": "Galito's",
-      "short_name": "Galito's",
-      "badge_text": "G",
+      "title_en": "Galito's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Galito's"
-      ],
-      "keywords": [
-        "Galito's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galitos-00ffa4.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "galitos-00ffa4",
         "wikidata": "Q116619555"
+      }
+    },
+    "shiptech_q116894475": {
+      "slug": "shiptech_q116894475",
+      "title": "Shiptech",
+      "title_en": "Shiptech",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shiptech-ddc474.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shiptech-ddc474",
+        "wikidata": "Q116894475"
       }
     }
   }

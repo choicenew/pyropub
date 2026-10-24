@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 11,
+  "country": "cy",
+  "category": "food",
+  "total_brands": 23,
   "brand_aliases": {
     "paul_q3370417": {
       "slug": "paul_q3370417",
       "title": "Paul",
-      "short_name": "Paul",
-      "badge_text": "P",
+      "title_en": "Paul",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paul"
-      ],
-      "keywords": [
-        "Paul"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paul-652955",
         "wikidata": "Q3370417"
@@ -30,46 +23,124 @@
     "_q16956985": {
       "slug": "_q16956985",
       "title": "Τερκενλής",
-      "short_name": "Τερκενλής",
-      "badge_text": "Τ",
+      "title_en": "Terkenlis",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Terkenlis",
-        "Τερκενλής"
-      ],
-      "keywords": [
-        "Terkenlis",
-        "Τερκενλής"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/terkenlis-e9ca96.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "terkenlis-e9ca96",
         "wikidata": "Q16956985"
       }
     },
+    "alphabank_q747394": {
+      "slug": "alphabank_q747394",
+      "title": "Alpha Bank",
+      "title_en": "Alpha Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alphabank-438bef.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alphabank-438bef",
+        "wikidata": "Q747394"
+      }
+    },
+    "bankofcyprus_q806678": {
+      "slug": "bankofcyprus_q806678",
+      "title": "Bank of Cyprus",
+      "title_en": "Bank of Cyprus",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankofcyprus-fe69e8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankofcyprus-fe69e8",
+        "wikidata": "Q806678"
+      }
+    },
+    "eurobankergasias_q951850": {
+      "slug": "eurobankergasias_q951850",
+      "title": "Eurobank",
+      "title_en": "Eurobank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurobank-158d7a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eurobank-158d7a",
+        "wikidata": "Q951850"
+      }
+    },
+    "hellenicbank_q5707160": {
+      "slug": "hellenicbank_q5707160",
+      "title": "Ελληνική Τράπεζα",
+      "title_en": "Hellenic Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hellenicbank-fe69e8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hellenicbank-fe69e8",
+        "wikidata": "Q5707160"
+      }
+    },
+    "ahepahall_q4743973": {
+      "slug": "ahepahall_q4743973",
+      "title": "AHEPA Hall",
+      "title_en": "AHEPA Hall",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ahepahall-30ca27.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ahepahall-30ca27",
+        "wikidata": "Q4743973"
+      }
+    },
+    "changegroup_q5071758": {
+      "slug": "changegroup_q5071758",
+      "title": "Change Group",
+      "title_en": "Change Group",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/changegroup-70b70e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "changegroup-70b70e",
+        "wikidata": "Q5071758"
+      }
+    },
+    "pcharge": {
+      "slug": "pcharge",
+      "title": "pcharge",
+      "title_en": "pcharge",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pcharge-096a1d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pcharge-096a1d",
+        "wikidata": ""
+      }
+    },
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
@@ -78,21 +149,12 @@
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
@@ -101,21 +163,12 @@
     "wingstreet_q946630": {
       "slug": "wingstreet_q946630",
       "title": "WingStreet",
-      "short_name": "WingStreet",
-      "badge_text": "W",
+      "title_en": "WingStreet",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "WingStreet"
-      ],
-      "keywords": [
-        "WingStreet"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wingstreet-1c2e03.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "wingstreet-1c2e03",
         "wikidata": "Q946630"
@@ -124,21 +177,12 @@
     "woktowalk_q4020634": {
       "slug": "woktowalk_q4020634",
       "title": "Wok to Walk",
-      "short_name": "Wok to Wal",
-      "badge_text": "W",
+      "title_en": "Wok to Walk",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wok to Walk"
-      ],
-      "keywords": [
-        "Wok to Walk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woktowalk-f5ada9",
         "wikidata": "Q4020634"
@@ -147,23 +191,12 @@
     "_q62273834": {
       "slug": "_q62273834",
       "title": "Γρηγόρης",
-      "short_name": "Γρηγόρης",
-      "badge_text": "Γ",
+      "title_en": "Gregory's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Gregory's",
-        "Γρηγόρης"
-      ],
-      "keywords": [
-        "Gregory's",
-        "Γρηγόρης"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gregorys-2c3287.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gregorys-2c3287",
         "wikidata": "Q62273834"
@@ -172,21 +205,12 @@
     "bennigans_q8246508": {
       "slug": "bennigans_q8246508",
       "title": "Bennigan's",
-      "short_name": "Bennigan's",
-      "badge_text": "B",
+      "title_en": "Bennigan's",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Bennigan's"
-      ],
-      "keywords": [
-        "Bennigan's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bennigans-2a32d0.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bennigans-2a32d0",
         "wikidata": "Q8246508"
@@ -195,21 +219,12 @@
     "bigchefs_q97832915": {
       "slug": "bigchefs_q97832915",
       "title": "BigChefs",
-      "short_name": "BigChefs",
-      "badge_text": "B",
+      "title_en": "BigChefs",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "BigChefs"
-      ],
-      "keywords": [
-        "BigChefs"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigchefs-697df7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bigchefs-697df7",
         "wikidata": "Q97832915"
@@ -218,21 +233,12 @@
     "oceanbasket_q62075311": {
       "slug": "oceanbasket_q62075311",
       "title": "Ocean Basket",
-      "short_name": "Ocean Bask",
-      "badge_text": "O",
+      "title_en": "Ocean Basket",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Ocean Basket"
-      ],
-      "keywords": [
-        "Ocean Basket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oceanbasket-5d9698.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oceanbasket-5d9698",
         "wikidata": "Q62075311"
@@ -241,24 +247,85 @@
     "pizzaexpress_q662845": {
       "slug": "pizzaexpress_q662845",
       "title": "PizzaExpress",
-      "short_name": "PizzaExpre",
-      "badge_text": "P",
+      "title_en": "PizzaExpress",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "PizzaExpress"
-      ],
-      "keywords": [
-        "PizzaExpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pizzaexpress-ebbd3d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pizzaexpress-ebbd3d",
         "wikidata": "Q662845"
+      }
+    },
+    "ekocyprus_q111604705": {
+      "slug": "ekocyprus_q111604705",
+      "title": "EKO",
+      "title_en": "EKO",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eko-96daf2.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eko-96daf2",
+        "wikidata": "Q111604705"
+      }
+    },
+    "eni_q565594": {
+      "slug": "eni_q565594",
+      "title": "Eni",
+      "title_en": "Eni",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eni-0330be.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eni-0330be",
+        "wikidata": "Q565594"
+      }
+    },
+    "petrolina_q17013948": {
+      "slug": "petrolina_q17013948",
+      "title": "Petrolina",
+      "title_en": "Petrolina",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrolina-96daf2.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petrolina-96daf2",
+        "wikidata": "Q17013948"
+      }
+    },
+    "nextbikecyprus_q2351279": {
+      "slug": "nextbikecyprus_q2351279",
+      "title": "nextbike",
+      "title_en": "nextbike",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nextbike-063331.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nextbike-063331",
+        "wikidata": "Q2351279"
+      }
+    },
+    "eniwash_q565594": {
+      "slug": "eniwash_q565594",
+      "title": "Eni Wash",
+      "title_en": "Eni Wash",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eniwash-a152e3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eniwash-a152e3",
+        "wikidata": "Q565594"
       }
     }
   }

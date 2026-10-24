@@ -1,11 +1,15 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "at",
-  "total_categories": 4,
+  "country_name": "Österreich",
+  "total_categories": 6,
   "manifest_files": [
+    "other.json",
+    "supermarket.json",
     "drink.json",
     "food.json",
-    "supermarket.json",
-    "express.json"
-  ]
+    "express.json",
+    "travel.json"
+  ],
+  "version": 1
 }

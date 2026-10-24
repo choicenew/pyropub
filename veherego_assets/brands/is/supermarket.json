@@ -1,27 +1,118 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "is",
+  "category": "supermarket",
+  "total_brands": 13,
   "brand_aliases": {
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "sport24_q121503172": {
+      "slug": "sport24_q121503172",
+      "title": "Sport 24",
+      "title_en": "Sport 24",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sport24-def6fd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sport24-def6fd",
+        "wikidata": "Q121503172"
+      }
+    },
+    "costco_q715583": {
+      "slug": "costco_q715583",
+      "title": "Costco",
+      "title_en": "Costco",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "costco-69a5bf",
+        "wikidata": "Q715583"
+      }
+    },
+    "karma_q22671741": {
+      "slug": "karma_q22671741",
+      "title": "Karma",
+      "title_en": "Karma",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karma-40d0fc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karma-40d0fc",
+        "wikidata": "Q22671741"
+      }
+    },
+    "flgger_q10497241": {
+      "slug": "flgger_q10497241",
+      "title": "Flügger",
+      "title_en": "Flügger",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flugger-678bfe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flugger-678bfe",
+        "wikidata": "Q10497241"
+      }
+    },
+    "flyingtigercopenhagen_q2786319": {
+      "slug": "flyingtigercopenhagen_q2786319",
+      "title": "Flying Tiger Copenhagen",
+      "title_en": "Flying Tiger Copenhagen",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingtigercopenhagen-55ef00.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flyingtigercopenhagen-55ef00",
+        "wikidata": "Q2786319"
+      }
+    },
+    "bauhaus_q672043": {
+      "slug": "bauhaus_q672043",
+      "title": "Bauhaus",
+      "title_en": "Bauhaus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bauhaus-6847b5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bauhaus-6847b5",
+        "wikidata": "Q672043"
+      }
+    },
     "bnus_q3480158": {
       "slug": "bnus_q3480158",
       "title": "Bónus",
-      "short_name": "Bónus",
-      "badge_text": "B",
+      "title_en": "Bónus",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Bónus"
-      ],
-      "keywords": [
-        "Bónus"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bonus-eba859.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bonus-eba859",
         "wikidata": "Q3480158"
@@ -30,21 +121,12 @@
     "krnan_q16419327": {
       "slug": "krnan_q16419327",
       "title": "Krónan",
-      "short_name": "Krónan",
-      "badge_text": "K",
+      "title_en": "Krónan",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Krónan"
-      ],
-      "keywords": [
-        "Krónan"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kronan-0c58a2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kronan-0c58a2",
         "wikidata": "Q16419327"
@@ -52,48 +134,58 @@
     },
     "nettsland_q67205962": {
       "slug": "nettsland_q67205962",
-      "title": "Nettó (Ísland)",
-      "short_name": "Nettó (Ísl",
-      "badge_text": "N",
+      "title": "Nettó",
+      "title_en": "Nettó",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Nettó"
-      ],
-      "keywords": [
-        "Nettó"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/netto-0c58a2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "netto-0c58a2",
         "wikidata": "Q67205962"
       }
     },
+    "vodafone_q122141": {
+      "slug": "vodafone_q122141",
+      "title": "Vodafone",
+      "title_en": "Vodafone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodafone-187d7d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vodafone-187d7d",
+        "wikidata": "Q122141"
+      }
+    },
     "1011_q65336720": {
       "slug": "1011_q65336720",
       "title": "10-11",
-      "short_name": "10-11",
-      "badge_text": "1",
+      "title_en": "10-11",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "10-11"
-      ],
-      "keywords": [
-        "10-11"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1011-ead397.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "1011-ead397",
         "wikidata": "Q65336720"
+      }
+    },
+    "habitatnonuk_q689059": {
+      "slug": "habitatnonuk_q689059",
+      "title": "Habitat",
+      "title_en": "Habitat",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/habitat-4d9d78.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "habitat-4d9d78",
+        "wikidata": "Q689059"
       }
     }
   }

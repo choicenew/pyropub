@@ -1,50 +1,230 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "ve",
+  "category": "food",
+  "total_brands": 16,
   "brand_aliases": {
+    "bancaribe_q5717827": {
+      "slug": "bancaribe_q5717827",
+      "title": "Bancaribe",
+      "title_en": "Bancaribe",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancaribe-0269b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancaribe-0269b0",
+        "wikidata": "Q5717827"
+      }
+    },
+    "bancobicentenario_q5728123": {
+      "slug": "bancobicentenario_q5728123",
+      "title": "Banco Bicentenario",
+      "title_en": "Banco Bicentenario",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancobicentenario-0269b0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancobicentenario-0269b0",
+        "wikidata": "Q5728123"
+      }
+    },
+    "bancodevenezuela_q517093": {
+      "slug": "bancodevenezuela_q517093",
+      "title": "Banco de Venezuela",
+      "title_en": "Banco de Venezuela",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancodevenezuela-0269b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancodevenezuela-0269b0",
+        "wikidata": "Q517093"
+      }
+    },
+    "bancofondocomn_q5465007": {
+      "slug": "bancofondocomn_q5465007",
+      "title": "Banco Fondo Común",
+      "title_en": "Banco Fondo Común",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancofondocomun-0269b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancofondocomun-0269b0",
+        "wikidata": "Q5465007"
+      }
+    },
+    "banconacionaldecrdito_q4854103": {
+      "slug": "banconacionaldecrdito_q4854103",
+      "title": "Banco Nacional de Crédito",
+      "title_en": "Banco Nacional de Crédito",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banconacionaldecredito-0269b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banconacionaldecredito-0269b0",
+        "wikidata": "Q4854103"
+      }
+    },
+    "banesco_q4854841": {
+      "slug": "banesco_q4854841",
+      "title": "Banesco",
+      "title_en": "Banesco",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banesco-0269b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banesco-0269b0",
+        "wikidata": "Q4854841"
+      }
+    },
+    "bbvaprovincial_q4835087": {
+      "slug": "bbvaprovincial_q4835087",
+      "title": "BBVA Provincial",
+      "title_en": "BBVA Provincial",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bbvaprovincial-0269b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bbvaprovincial-0269b0",
+        "wikidata": "Q4835087"
+      }
+    },
+    "occidentaldedescuento_q4854108": {
+      "slug": "occidentaldedescuento_q4854108",
+      "title": "Occidental de Descuento",
+      "title_en": "Occidental de Descuento",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/occidentaldedescuento-0269b0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "occidentaldedescuento-0269b0",
+        "wikidata": "Q4854108"
+      }
+    },
+    "tesoro_q5718196": {
+      "slug": "tesoro_q5718196",
+      "title": "Tesoro",
+      "title_en": "Tesoro",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tesoro-0269b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tesoro-0269b0",
+        "wikidata": "Q5718196"
+      }
+    },
     "mrpretzels_q115728208": {
       "slug": "mrpretzels_q115728208",
       "title": "Mr. Pretzels",
-      "short_name": "Mr. Pretze",
-      "badge_text": "M",
+      "title_en": "Mr. Pretzels",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Mr. Pretzels"
-      ],
-      "keywords": [
-        "Mr. Pretzels"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mrpretzels-d3f544",
         "wikidata": "Q115728208"
       }
     },
+    "farmaciasaas_q5856074": {
+      "slug": "farmaciasaas_q5856074",
+      "title": "Farmacia SAAS",
+      "title_en": "Farmacia SAAS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmaciasaas-291746.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmaciasaas-291746",
+        "wikidata": "Q5856074"
+      }
+    },
+    "farmahorro_q20015002": {
+      "slug": "farmahorro_q20015002",
+      "title": "Farmahorro",
+      "title_en": "Farmahorro",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmahorro-291746.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmahorro-291746",
+        "wikidata": "Q20015002"
+      }
+    },
+    "farmatodo_q5856092": {
+      "slug": "farmatodo_q5856092",
+      "title": "Farmatodo",
+      "title_en": "Farmatodo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmatodo-d1778e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmatodo-d1778e",
+        "wikidata": "Q5856092"
+      }
+    },
+    "locatel_q109598019": {
+      "slug": "locatel_q109598019",
+      "title": "Locatel",
+      "title_en": "Locatel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/locatel-71f222.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "locatel-71f222",
+        "wikidata": "Q109598019"
+      }
+    },
+    "yogurtland_q8054428": {
+      "slug": "yogurtland_q8054428",
+      "title": "Yogurtland",
+      "title_en": "Yogurtland",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yogurtland-4111ef.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yogurtland-4111ef",
+        "wikidata": "Q8054428"
+      }
+    },
     "crepeswaffles_q5184238": {
       "slug": "crepeswaffles_q5184238",
       "title": "Crepes & Waffles",
-      "short_name": "Crepes & W",
-      "badge_text": "C",
+      "title_en": "Crepes & Waffles",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Crepes & Waffles"
-      ],
-      "keywords": [
-        "Crepes & Waffles"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crepesandwaffles-7b5290.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "crepesandwaffles-7b5290",
         "wikidata": "Q5184238"

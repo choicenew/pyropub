@@ -1,9 +1,12 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "zw",
-  "total_categories": 2,
+  "country_name": "ZW",
+  "total_categories": 3,
   "manifest_files": [
     "supermarket.json",
+    "express.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

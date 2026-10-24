@@ -1,13 +1,21 @@
 {
-  "type": "travel",
+  "type": "travel_rules",
   "schema_version": 1,
   "manifest_name": "VehereGo Global Sovereign Travel Rules Manifest",
-  "supported_locales": ["zh", "en", "ja", "ko", "ru", "pt"],
+  "supported_locales": [
+    "zh",
+    "en",
+    "ja",
+    "ko",
+    "ru",
+    "pt"
+  ],
   "locales": {
     "zh": "assets/travel/travel_rules_zh.json",
     "en": "assets/travel/travel_rules_en.json",
     "ja": "assets/travel/travel_rules_ja.json",
     "ko": "assets/travel/travel_rules_ko.json"
   },
-  "default_rules": "assets/travel/travel_rules_en.json"
+  "default_rules": "assets/travel/travel_rules_en.json",
+  "version": 1
 }

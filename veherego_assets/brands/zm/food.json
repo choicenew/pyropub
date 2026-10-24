@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 10,
+  "country": "zm",
+  "category": "food",
+  "total_brands": 17,
   "brand_aliases": {
+    "accessbank_q4672418": {
+      "slug": "accessbank_q4672418",
+      "title": "Access Bank",
+      "title_en": "Access Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessbank-155277.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "accessbank-155277",
+        "wikidata": "Q4672418"
+      }
+    },
+    "fnbsouthafrica_q3072956": {
+      "slug": "fnbsouthafrica_q3072956",
+      "title": "FNB",
+      "title_en": "FNB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fnb-154feb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fnb-154feb",
+        "wikidata": "Q3072956"
+      }
+    },
+    "uba_q513457": {
+      "slug": "uba_q513457",
+      "title": "UBA",
+      "title_en": "UBA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uba-95540f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uba-95540f",
+        "wikidata": "Q513457"
+      }
+    },
+    "interchange_q136716284": {
+      "slug": "interchange_q136716284",
+      "title": "Interchange",
+      "title_en": "Interchange",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "interchange-cfef29",
+        "wikidata": "Q136716284"
+      }
+    },
     "debonairspizza_q65079407": {
       "slug": "debonairspizza_q65079407",
       "title": "Debonairs Pizza",
-      "short_name": "Debonairs ",
-      "badge_text": "D",
+      "title_en": "Debonairs Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Debonairs Pizza"
-      ],
-      "keywords": [
-        "Debonairs Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debonairspizza-10dad6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "debonairspizza-10dad6",
         "wikidata": "Q65079407"
@@ -30,21 +79,12 @@
     "galitos_q116619555": {
       "slug": "galitos_q116619555",
       "title": "Galito's",
-      "short_name": "Galito's",
-      "badge_text": "G",
+      "title_en": "Galito's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Galito's"
-      ],
-      "keywords": [
-        "Galito's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galitos-00ffa4.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "galitos-00ffa4",
         "wikidata": "Q116619555"
@@ -53,21 +93,12 @@
     "hungrylion_q115636930": {
       "slug": "hungrylion_q115636930",
       "title": "Hungry Lion",
-      "short_name": "Hungry Lio",
-      "badge_text": "H",
+      "title_en": "Hungry Lion",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Hungry Lion"
-      ],
-      "keywords": [
-        "Hungry Lion"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hungrylion-f0dc80",
         "wikidata": "Q115636930"
@@ -76,21 +107,12 @@
     "rocogo_q123034964": {
       "slug": "rocogo_q123034964",
       "title": "RocoGo",
-      "short_name": "RocoGo",
-      "badge_text": "R",
+      "title_en": "RocoGo",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "RocoGo"
-      ],
-      "keywords": [
-        "RocoGo"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocogo-0f34ca.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rocogo-0f34ca",
         "wikidata": "Q123034964"
@@ -99,44 +121,40 @@
     "romanspizza_q65079427": {
       "slug": "romanspizza_q65079427",
       "title": "Roman's Pizza",
-      "short_name": "Roman's Pi",
-      "badge_text": "R",
+      "title_en": "Roman's Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Roman's Pizza"
-      ],
-      "keywords": [
-        "Roman's Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/romanspizza-054529.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "romanspizza-054529",
         "wikidata": "Q65079427"
       }
     },
+    "numetrocinemas_q7067740": {
+      "slug": "numetrocinemas_q7067740",
+      "title": "Nu Metro",
+      "title_en": "Nu Metro",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/numetro-06ed22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "numetro-06ed22",
+        "wikidata": "Q7067740"
+      }
+    },
     "johndorys_q130140080": {
       "slug": "johndorys_q130140080",
       "title": "John Dory's",
-      "short_name": "John Dory'",
-      "badge_text": "J",
+      "title_en": "John Dory's",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "John Dory's"
-      ],
-      "keywords": [
-        "John Dory's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johndorys-f0d76a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "johndorys-f0d76a",
         "wikidata": "Q130140080"
@@ -145,21 +163,12 @@
     "nandos_q3472954": {
       "slug": "nandos_q3472954",
       "title": "Nando's",
-      "short_name": "Nando's",
-      "badge_text": "N",
+      "title_en": "Nando's",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Nando's"
-      ],
-      "keywords": [
-        "Nando's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nandos-32ebee.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nandos-32ebee",
         "wikidata": "Q3472954"
@@ -168,21 +177,12 @@
     "panarottis_q130220087": {
       "slug": "panarottis_q130220087",
       "title": "Panarottis",
-      "short_name": "Panarottis",
-      "badge_text": "P",
+      "title_en": "Panarottis",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Panarottis"
-      ],
-      "keywords": [
-        "Panarottis"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panarottis-0539cf.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "panarottis-0539cf",
         "wikidata": "Q130220087"
@@ -191,21 +191,12 @@
     "rocomamas_q123034964": {
       "slug": "rocomamas_q123034964",
       "title": "RocoMamas",
-      "short_name": "RocoMamas",
-      "badge_text": "R",
+      "title_en": "RocoMamas",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "RocoMamas"
-      ],
-      "keywords": [
-        "RocoMamas"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocomamas-a7acfa.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rocomamas-a7acfa",
         "wikidata": "Q123034964"
@@ -214,24 +205,43 @@
     "spur_q7581546": {
       "slug": "spur_q7581546",
       "title": "Spur",
-      "short_name": "Spur",
-      "badge_text": "S",
+      "title_en": "Spur",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Spur"
-      ],
-      "keywords": [
-        "Spur"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spur-efd5c1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spur-efd5c1",
         "wikidata": "Q7581546"
+      }
+    },
+    "kobil_q22906119": {
+      "slug": "kobil_q22906119",
+      "title": "Kobil",
+      "title_en": "Kobil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kobil-568233.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kobil-568233",
+        "wikidata": "Q22906119"
+      }
+    },
+    "shiptech_q116894475": {
+      "slug": "shiptech_q116894475",
+      "title": "Shiptech",
+      "title_en": "Shiptech",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shiptech-ddc474.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shiptech-ddc474",
+        "wikidata": "Q116894475"
       }
     }
   }

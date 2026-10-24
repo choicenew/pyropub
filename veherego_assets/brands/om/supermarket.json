@@ -1,27 +1,188 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "om",
+  "category": "supermarket",
+  "total_brands": 16,
   "brand_aliases": {
+    "joyalukkas_q6297357": {
+      "slug": "joyalukkas_q6297357",
+      "title": "Joyalukkas",
+      "title_en": "Joyalukkas",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/joyalukkas-534941.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "joyalukkas-534941",
+        "wikidata": "Q6297357"
+      }
+    },
+    "malabargoldanddiamonds_q60748883": {
+      "slug": "malabargoldanddiamonds_q60748883",
+      "title": "Malabar Gold and Diamonds",
+      "title_en": "Malabar Gold and Diamonds",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/malabargoldanddiamonds-9fa2ef.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "malabargoldanddiamonds-9fa2ef",
+        "wikidata": "Q60748883"
+      }
+    },
+    "eyewa_q141129902": {
+      "slug": "eyewa_q141129902",
+      "title": "eyewa",
+      "title_en": "eyewa",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eyewa-e7f237.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eyewa-e7f237",
+        "wikidata": "Q141129902"
+      }
+    },
+    "loxam_q3264407": {
+      "slug": "loxam_q3264407",
+      "title": "Loxam",
+      "title_en": "Loxam",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loxam-a4cd21.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "loxam-a4cd21",
+        "wikidata": "Q3264407"
+      }
+    },
+    "3bb7974e0e50": {
+      "slug": "3bb7974e0e50",
+      "title": "محمصة الرفاعي",
+      "title_en": "محمصة الرفاعي",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "3bb797-4e0e50",
+        "wikidata": ""
+      }
+    },
+    "tyreplus_q110959120": {
+      "slug": "tyreplus_q110959120",
+      "title": "Tyreplus",
+      "title_en": "Tyreplus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tyreplus-99cc81.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tyreplus-99cc81",
+        "wikidata": "Q110959120"
+      }
+    },
+    "koenigsegg_q35594": {
+      "slug": "koenigsegg_q35594",
+      "title": "Koenigsegg",
+      "title_en": "Koenigsegg",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koenigsegg-45c2de.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "koenigsegg-45c2de",
+        "wikidata": "Q35594"
+      }
+    },
+    "jeffdebruges_q3176626": {
+      "slug": "jeffdebruges_q3176626",
+      "title": "Jeff de Bruges",
+      "title_en": "Jeff de Bruges",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeffdebruges-bc7364.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jeffdebruges-bc7364",
+        "wikidata": "Q3176626"
+      }
+    },
+    "vperfumes_q135350225": {
+      "slug": "vperfumes_q135350225",
+      "title": "V Perfumes",
+      "title_en": "V Perfumes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vperfumes-a31737.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vperfumes-a31737",
+        "wikidata": "Q135350225"
+      }
+    },
+    "ardene_q2860764": {
+      "slug": "ardene_q2860764",
+      "title": "Ardene",
+      "title_en": "Ardene",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ardene-d1f154.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ardene-d1f154",
+        "wikidata": "Q2860764"
+      }
+    },
+    "garage_q5521860": {
+      "slug": "garage_q5521860",
+      "title": "Garage",
+      "title_en": "Garage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/garage-072c62.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "garage-072c62",
+        "wikidata": "Q5521860"
+      }
+    },
+    "95270fc3d0a3": {
+      "slug": "95270fc3d0a3",
+      "title": "ردتاغ",
+      "title_en": "ردتاغ",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "95270f-c3d0a3",
+        "wikidata": ""
+      }
+    },
     "luluhypermarket_q6702930": {
       "slug": "luluhypermarket_q6702930",
       "title": "Lulu Hypermarket",
-      "short_name": "Lulu Hyper",
-      "badge_text": "L",
+      "title_en": "Lulu Hypermarket",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Lulu Hypermarket"
-      ],
-      "keywords": [
-        "Lulu Hypermarket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luluhypermarket-7e55ed.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "luluhypermarket-7e55ed",
         "wikidata": "Q6702930"
@@ -30,24 +191,43 @@
     "spinneys_q2890701": {
       "slug": "spinneys_q2890701",
       "title": "Spinneys",
-      "short_name": "Spinneys",
-      "badge_text": "S",
+      "title_en": "Spinneys",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Spinneys"
-      ],
-      "keywords": [
-        "Spinneys"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spinneys-37e51a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spinneys-37e51a",
         "wikidata": "Q2890701"
+      }
+    },
+    "vodafone_q122141": {
+      "slug": "vodafone_q122141",
+      "title": "Vodafone",
+      "title_en": "Vodafone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodafone-187d7d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vodafone-187d7d",
+        "wikidata": "Q122141"
+      }
+    },
+    "ooredoo_q919935": {
+      "slug": "ooredoo_q919935",
+      "title": "Ooredoo",
+      "title_en": "Ooredoo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ooredoo-5cc5ab.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ooredoo-5cc5ab",
+        "wikidata": "Q919935"
       }
     }
   }

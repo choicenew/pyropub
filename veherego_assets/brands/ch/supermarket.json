@@ -1,29 +1,1826 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 23,
+  "country": "ch",
+  "category": "supermarket",
+  "total_brands": 175,
   "brand_aliases": {
-    "aldisuisse_q111030009": {
-      "slug": "aldisuisse_q111030009",
-      "title": "Aldi Suisse",
-      "short_name": "Aldi Suiss",
-      "badge_text": "A",
+    "butlers_q1017972": {
+      "slug": "butlers_q1017972",
+      "title": "Butlers",
+      "title_en": "Butlers",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/butlers-85b078.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "butlers-85b078",
+        "wikidata": "Q1017972"
+      }
+    },
+    "casa_q1991755": {
+      "slug": "casa_q1991755",
+      "title": "CASA",
+      "title_en": "CASA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casa-48e009.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "casa-48e009",
+        "wikidata": "Q1991755"
+      }
+    },
+    "depot_q1191740": {
+      "slug": "depot_q1191740",
+      "title": "Depot",
+      "title_en": "Depot",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/depot-5f264c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "depot-5f264c",
+        "wikidata": "Q1191740"
+      }
+    },
+    "englishhome_q106803513": {
+      "slug": "englishhome_q106803513",
+      "title": "English Home",
+      "title_en": "English Home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/englishhome-1ef949.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "englishhome-1ef949",
+        "wikidata": "Q106803513"
+      }
+    },
+    "magasindumonde_q109044029": {
+      "slug": "magasindumonde_q109044029",
+      "title": "Magasin du Monde",
+      "title_en": "Magasin du Monde",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/magasindumonde-ea61d3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "magasindumonde-ea61d3",
+        "wikidata": "Q109044029"
+      }
+    },
+    "rexel_q962489": {
+      "slug": "rexel_q962489",
+      "title": "Rexel",
+      "title_en": "Rexel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rexel-091354.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rexel-091354",
+        "wikidata": "Q962489"
+      }
+    },
+    "sonepar_q2301315": {
+      "slug": "sonepar_q2301315",
+      "title": "Sonepar",
+      "title_en": "Sonepar",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sonepar-bfcbb0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sonepar-bfcbb0",
+        "wikidata": "Q2301315"
+      }
+    },
+    "christ_q1077957": {
+      "slug": "christ_q1077957",
+      "title": "Christ",
+      "title_en": "Christ",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/christ-729edb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "christ-729edb",
+        "wikidata": "Q1077957"
+      }
+    },
+    "citykiosk": {
+      "slug": "citykiosk",
+      "title": "City Kiosk",
+      "title_en": "City Kiosk",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "citykiosk-586994",
+        "wikidata": ""
+      }
+    },
+    "fitshop_q15848204": {
+      "slug": "fitshop_q15848204",
+      "title": "Fitshop",
+      "title_en": "Fitshop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fitshop-b06acf.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fitshop-b06acf",
+        "wikidata": "Q15848204"
+      }
+    },
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "ochsnersport_q102030654": {
+      "slug": "ochsnersport_q102030654",
+      "title": "Ochsner Sport",
+      "title_en": "Ochsner Sport",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ochsnersport-89a72b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ochsnersport-89a72b",
+        "wikidata": "Q102030654"
+      }
+    },
+    "skiset_q48747223": {
+      "slug": "skiset_q48747223",
+      "title": "Skiset",
+      "title_en": "Skiset",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skiset-8e4106.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "skiset-8e4106",
+        "wikidata": "Q48747223"
+      }
+    },
+    "transgourmet_q2448805": {
+      "slug": "transgourmet_q2448805",
+      "title": "Transgourmet",
+      "title_en": "Transgourmet",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/transgourmet-4d1ebd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "transgourmet-4d1ebd",
+        "wikidata": "Q2448805"
+      }
+    },
+    "heytens_q90565231": {
+      "slug": "heytens_q90565231",
+      "title": "Heytens",
+      "title_en": "Heytens",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/heytens-ceb642.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "heytens-ceb642",
+        "wikidata": "Q90565231"
+      }
+    },
+    "lumas_q1452381": {
+      "slug": "lumas_q1452381",
+      "title": "Lumas",
+      "title_en": "Lumas",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lumas-60f999.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lumas-60f999",
+        "wikidata": "Q1452381"
+      }
+    },
+    "sabag_q2209366": {
+      "slug": "sabag_q2209366",
+      "title": "Sabag",
+      "title_en": "Sabag",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sabag-56a74d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sabag-56a74d",
+        "wikidata": "Q2209366"
+      }
+    },
+    "coiffco_q115013410": {
+      "slug": "coiffco_q115013410",
+      "title": "Coiff&Co",
+      "title_en": "Coiff&Co",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coiffandco-232a64.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coiffandco-232a64",
+        "wikidata": "Q115013410"
+      }
+    },
+    "gidor_q1523182": {
+      "slug": "gidor_q1523182",
+      "title": "Gidor",
+      "title_en": "Gidor",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gidor-537977.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gidor-537977",
+        "wikidata": "Q1523182"
+      }
+    },
+    "cashconverters_q5048645": {
+      "slug": "cashconverters_q5048645",
+      "title": "Cash Converters",
+      "title_en": "Cash Converters",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cashconverters-1c62e9",
+        "wikidata": "Q5048645"
+      }
+    },
+    "dropa_q1260273": {
+      "slug": "dropa_q1260273",
+      "title": "Dropa",
+      "title_en": "Dropa",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dropa-05cd60",
+        "wikidata": "Q1260273"
+      }
+    },
+    "mller_q1958759": {
+      "slug": "mller_q1958759",
+      "title": "Müller",
+      "title_en": "Müller",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muller-4c5bf7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "muller-4c5bf7",
+        "wikidata": "Q1958759"
+      }
+    },
+    "rossmann_q316004": {
+      "slug": "rossmann_q316004",
+      "title": "Rossmann",
+      "title_en": "Rossmann",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rossmann-3e0aee.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rossmann-3e0aee",
+        "wikidata": "Q316004"
+      }
+    },
+    "adlo_q116862985": {
+      "slug": "adlo_q116862985",
+      "title": "ADLO",
+      "title_en": "ADLO",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adlo-46a8ae.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "adlo-46a8ae",
+        "wikidata": "Q116862985"
+      }
+    },
+    "lthy_q14018409": {
+      "slug": "lthy_q14018409",
+      "title": "Lüthy",
+      "title_en": "Lüthy",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luthy-c5abff.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "luthy-c5abff",
+        "wikidata": "Q14018409"
+      }
+    },
+    "orellfssli_q1511140": {
+      "slug": "orellfssli_q1511140",
+      "title": "Orell Füssli",
+      "title_en": "Orell Füssli",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orellfussli-c5abff.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orellfussli-c5abff",
+        "wikidata": "Q1511140"
+      }
+    },
+    "pressbooks_q100407277": {
+      "slug": "pressbooks_q100407277",
+      "title": "Press & Books",
+      "title_en": "Press & Books",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pressandbooks-b35c93.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pressandbooks-b35c93",
+        "wikidata": "Q100407277"
+      }
+    },
+    "churchs_q2967663": {
+      "slug": "churchs_q2967663",
+      "title": "Church's",
+      "title_en": "Church's",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/churchs-72971b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "churchs-72971b",
+        "wikidata": "Q2967663"
+      }
+    },
+    "dosenbach_q2677329": {
+      "slug": "dosenbach_q2677329",
+      "title": "Dosenbach",
+      "title_en": "Dosenbach",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dosenbach-f20847.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dosenbach-f20847",
+        "wikidata": "Q2677329"
+      }
+    },
+    "dunelondon_q65557112": {
+      "slug": "dunelondon_q65557112",
+      "title": "Dune London",
+      "title_en": "Dune London",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dunelondon-95839f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dunelondon-95839f",
+        "wikidata": "Q65557112"
+      }
+    },
+    "reno_q2144204": {
+      "slug": "reno_q2144204",
+      "title": "Reno",
+      "title_en": "Reno",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reno-647f57.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reno-647f57",
+        "wikidata": "Q2144204"
+      }
+    },
+    "snipes_q42306166": {
+      "slug": "snipes_q42306166",
+      "title": "Snipes",
+      "title_en": "Snipes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snipes-9e6e1a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "snipes-9e6e1a",
+        "wikidata": "Q42306166"
+      }
+    },
+    "stuartweitzman_q75244763": {
+      "slug": "stuartweitzman_q75244763",
+      "title": "Stuart Weitzman",
+      "title_en": "Stuart Weitzman",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stuartweitzman-54b0d5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "stuartweitzman-54b0d5",
+        "wikidata": "Q75244763"
+      }
+    },
+    "vgeleshoes_q1389021": {
+      "slug": "vgeleshoes_q1389021",
+      "title": "Vögele Shoes",
+      "title_en": "Vögele Shoes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vogeleshoes-10cc84",
+        "wikidata": "Q1389021"
+      }
+    },
+    "capielectronics_q123846871": {
+      "slug": "capielectronics_q123846871",
+      "title": "Capi Electronics",
+      "title_en": "Capi Electronics",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/capielectronics-cec7c5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "capielectronics-cec7c5",
+        "wikidata": "Q123846871"
+      }
+    },
+    "conrad_q467136": {
+      "slug": "conrad_q467136",
+      "title": "Conrad",
+      "title_en": "Conrad",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conrad-a3c660.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "conrad-a3c660",
+        "wikidata": "Q467136"
+      }
+    },
+    "ep_q110271192": {
+      "slug": "ep_q110271192",
+      "title": "EP:",
+      "title_en": "EP:",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ep-a53b66.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ep-a53b66",
+        "wikidata": "Q110271192"
+      }
+    },
+    "fnac_q676585": {
+      "slug": "fnac_q676585",
+      "title": "Fnac",
+      "title_en": "Fnac",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fnac-8dde8e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fnac-8dde8e",
+        "wikidata": "Q676585"
+      }
+    },
+    "fust_q1227164": {
+      "slug": "fust_q1227164",
+      "title": "Fust",
+      "title_en": "Fust",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fust-c12012",
+        "wikidata": "Q1227164"
+      }
+    },
+    "interdiscount_q1665980": {
+      "slug": "interdiscount_q1665980",
+      "title": "Interdiscount",
+      "title_en": "Interdiscount",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/interdiscount-c12012.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "interdiscount-c12012",
+        "wikidata": "Q1665980"
+      }
+    },
+    "mediamarkt_q2381223": {
+      "slug": "mediamarkt_q2381223",
+      "title": "MediaMarkt",
+      "title_en": "MediaMarkt",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mediamarkt-19e894.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mediamarkt-19e894",
+        "wikidata": "Q2381223"
+      }
+    },
+    "mulberry_q3866987": {
+      "slug": "mulberry_q3866987",
+      "title": "Mulberry",
+      "title_en": "Mulberry",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mulberry-e1f087.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mulberry-e1f087",
+        "wikidata": "Q3866987"
+      }
+    },
+    "acetate_q110516413": {
+      "slug": "acetate_q110516413",
+      "title": "Ace & Tate",
+      "title_en": "Ace & Tate",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aceandtate-b2ee21.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aceandtate-b2ee21",
+        "wikidata": "Q110516413"
+      }
+    },
+    "alainafflelou_q2829511": {
+      "slug": "alainafflelou_q2829511",
+      "title": "Alain Afflelou",
+      "title_en": "Alain Afflelou",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alainafflelou-b3bc92",
+        "wikidata": "Q2829511"
+      }
+    },
+    "fielmann_q457822": {
+      "slug": "fielmann_q457822",
+      "title": "Fielmann",
+      "title_en": "Fielmann",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fielmann-eb871f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fielmann-eb871f",
+        "wikidata": "Q457822"
+      }
+    },
+    "mcoptic_q1915328": {
+      "slug": "mcoptic_q1915328",
+      "title": "McOptic",
+      "title_en": "McOptic",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcoptic-fac47f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mcoptic-fac47f",
+        "wikidata": "Q1915328"
+      }
+    },
+    "misterspex_q27313697": {
+      "slug": "misterspex_q27313697",
+      "title": "Mister Spex",
+      "title_en": "Mister Spex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/misterspex-516ee7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "misterspex-516ee7",
+        "wikidata": "Q27313697"
+      }
+    },
+    "optic2000_q3354445": {
+      "slug": "optic2000_q3354445",
+      "title": "Optic 2000",
+      "title_en": "Optic 2000",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/optic2000-7d1aac.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "optic2000-7d1aac",
+        "wikidata": "Q3354445"
+      }
+    },
+    "opticalcenter_q3354448": {
+      "slug": "opticalcenter_q3354448",
+      "title": "Optical Center",
+      "title_en": "Optical Center",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/opticalcenter-efdbe9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "opticalcenter-efdbe9",
+        "wikidata": "Q3354448"
+      }
+    },
+    "visilab_q2528307": {
+      "slug": "visilab_q2528307",
+      "title": "Visilab",
+      "title_en": "Visilab",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/visilab-fac47f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "visilab-fac47f",
+        "wikidata": "Q2528307"
+      }
+    },
+    "viu_q136709653": {
+      "slug": "viu_q136709653",
+      "title": "Viu",
+      "title_en": "Viu",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viu-e4b658.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "viu-e4b658",
+        "wikidata": "Q136709653"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "mway_q136486907": {
+      "slug": "mway_q136486907",
+      "title": "m-way",
+      "title_en": "m-way",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mway-dfdabf.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mway-dfdabf",
+        "wikidata": "Q136486907"
+      }
+    },
+    "louismotorrad_q1659681": {
+      "slug": "louismotorrad_q1659681",
+      "title": "Louis Motorrad",
+      "title_en": "Louis Motorrad",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/louismotorrad-5a4a1c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "louismotorrad-5a4a1c",
+        "wikidata": "Q1659681"
+      }
+    },
+    "polomotorrad_q2102562": {
+      "slug": "polomotorrad_q2102562",
+      "title": "Polo Motorrad",
+      "title_en": "Polo Motorrad",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/polomotorrad-85371d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "polomotorrad-85371d",
+        "wikidata": "Q2102562"
+      }
+    },
+    "landi_q1803010": {
+      "slug": "landi_q1803010",
+      "title": "Landi",
+      "title_en": "Landi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/landi-a9a167.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "landi-a9a167",
+        "wikidata": "Q1803010"
+      }
+    },
+    "mcpaper_q1915329": {
+      "slug": "mcpaper_q1915329",
+      "title": "McPaper",
+      "title_en": "McPaper",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcpaper-f8476b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mcpaper-f8476b",
+        "wikidata": "Q1915329"
+      }
+    },
+    "boels_q19901961": {
+      "slug": "boels_q19901961",
+      "title": "Boels",
+      "title_en": "Boels",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boels-d0c09f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "boels-d0c09f",
+        "wikidata": "Q19901961"
+      }
+    },
+    "loxam_q3264407": {
+      "slug": "loxam_q3264407",
+      "title": "Loxam",
+      "title_en": "Loxam",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loxam-a4cd21.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "loxam-a4cd21",
+        "wikidata": "Q3264407"
+      }
+    },
+    "matratzenconcord_q18629057": {
+      "slug": "matratzenconcord_q18629057",
+      "title": "Matratzen Concord",
+      "title_en": "Matratzen Concord",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/matratzenconcord-795ce0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "matratzenconcord-795ce0",
+        "wikidata": "Q18629057"
+      }
+    },
+    "audika_q2870745": {
+      "slug": "audika_q2870745",
+      "title": "Audika",
+      "title_en": "Audika",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/audika-d17c26.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "audika-d17c26",
+        "wikidata": "Q2870745"
+      }
+    },
+    "neuroth_q15836645": {
+      "slug": "neuroth_q15836645",
+      "title": "Neuroth",
+      "title_en": "Neuroth",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neuroth-88d033.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "neuroth-88d033",
+        "wikidata": "Q15836645"
+      }
+    },
+    "drivercenter_q48180528": {
+      "slug": "drivercenter_q48180528",
+      "title": "Driver Center",
+      "title_en": "Driver Center",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drivercenter-54501e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "drivercenter-54501e",
+        "wikidata": "Q48180528"
+      }
+    },
+    "derendinger_q1200150": {
+      "slug": "derendinger_q1200150",
+      "title": "Derendinger",
+      "title_en": "Derendinger",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/derendinger-dfc2fd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "derendinger-dfc2fd",
+        "wikidata": "Q1200150"
+      }
+    },
+    "fressnapf_q875796": {
+      "slug": "fressnapf_q875796",
+      "title": "Fressnapf",
+      "title_en": "Fressnapf",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fressnapf-254367.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fressnapf-254367",
+        "wikidata": "Q875796"
+      }
+    },
+    "maxizoo_q108403242": {
+      "slug": "maxizoo_q108403242",
+      "title": "Maxi Zoo",
+      "title_en": "Maxi Zoo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maxizoo-3e2920",
+        "wikidata": "Q108403242"
+      }
+    },
+    "qualipet_q15841340": {
+      "slug": "qualipet_q15841340",
+      "title": "Qualipet",
+      "title_en": "Qualipet",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qualipet-c04507.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "qualipet-c04507",
+        "wikidata": "Q15841340"
+      }
+    },
+    "boesner_q890317": {
+      "slug": "boesner_q890317",
+      "title": "Boesner",
+      "title_en": "Boesner",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boesner-1cc9f4.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "boesner-1cc9f4",
+        "wikidata": "Q890317"
+      }
+    },
+    "koenigsegg_q35594": {
+      "slug": "koenigsegg_q35594",
+      "title": "Koenigsegg",
+      "title_en": "Koenigsegg",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koenigsegg-45c2de.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "koenigsegg-45c2de",
+        "wikidata": "Q35594"
+      }
+    },
+    "lagenceautomobilire_q120734335": {
+      "slug": "lagenceautomobilire_q120734335",
+      "title": "L'Agence Automobilière",
+      "title_en": "L'Agence Automobilière",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lagenceautomobiliere-b37b4e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lagenceautomobiliere-b37b4e",
+        "wikidata": "Q120734335"
+      }
+    },
+    "brillux_q917229": {
+      "slug": "brillux_q917229",
+      "title": "Brillux",
+      "title_en": "Brillux",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brillux-7853a1.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "brillux-7853a1",
+        "wikidata": "Q917229"
+      }
+    },
+    "flyingtigercopenhagen_q2786319": {
+      "slug": "flyingtigercopenhagen_q2786319",
+      "title": "Flying Tiger Copenhagen",
+      "title_en": "Flying Tiger Copenhagen",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingtigercopenhagen-55ef00.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flyingtigercopenhagen-55ef00",
+        "wikidata": "Q2786319"
+      }
+    },
+    "gifi_q3105439": {
+      "slug": "gifi_q3105439",
+      "title": "GiFi",
+      "title_en": "GiFi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gifi-eed69a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gifi-eed69a",
+        "wikidata": "Q3105439"
+      }
+    },
+    "ottos_q2041507": {
+      "slug": "ottos_q2041507",
+      "title": "Otto's",
+      "title_en": "Otto's",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ottos-793388.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ottos-793388",
+        "wikidata": "Q2041507"
+      }
+    },
+    "lumimart_q111722218": {
+      "slug": "lumimart_q111722218",
+      "title": "Lumimart",
+      "title_en": "Lumimart",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lumimart-cc1c34.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lumimart-cc1c34",
+        "wikidata": "Q111722218"
+      }
+    },
+    "romafriseurbedarf_q130570318": {
+      "slug": "romafriseurbedarf_q130570318",
+      "title": "ROMA",
+      "title_en": "ROMA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roma-00412a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "roma-00412a",
+        "wikidata": "Q130570318"
+      }
+    },
+    "estheticcenter_q123321775": {
+      "slug": "estheticcenter_q123321775",
+      "title": "Esthetic Center",
+      "title_en": "Esthetic Center",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/estheticcenter-bc649c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "estheticcenter-bc649c",
+        "wikidata": "Q123321775"
+      }
+    },
+    "soeder_q111722324": {
+      "slug": "soeder_q111722324",
+      "title": "Soeder",
+      "title_en": "Soeder",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/soeder-1b5c42.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "soeder-1b5c42",
+        "wikidata": "Q111722324"
+      }
+    },
+    "liebeskindberlin_q107156547": {
+      "slug": "liebeskindberlin_q107156547",
+      "title": "LIEBESKIND Berlin",
+      "title_en": "LIEBESKIND Berlin",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/liebeskindberlin-af0c77.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "liebeskindberlin-af0c77",
+        "wikidata": "Q107156547"
+      }
+    },
+    "bauhaus_q672043": {
+      "slug": "bauhaus_q672043",
+      "title": "Bauhaus",
+      "title_en": "Bauhaus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bauhaus-6847b5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bauhaus-6847b5",
+        "wikidata": "Q672043"
+      }
+    },
+    "coopbauhobby_q432564": {
+      "slug": "coopbauhobby_q432564",
+      "title": "Coop Bau+Hobby",
+      "title_en": "Coop Bau+Hobby",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coopbauhobby-0f6f08.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coopbauhobby-0f6f08",
+        "wikidata": "Q432564"
+      }
+    },
+    "hagebaumarkt_q1568279": {
+      "slug": "hagebaumarkt_q1568279",
+      "title": "Hagebaumarkt",
+      "title_en": "Hagebaumarkt",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hagebaumarkt-8202fe",
+        "wikidata": "Q1568279"
+      }
+    },
+    "hornbach_q685926": {
+      "slug": "hornbach_q685926",
+      "title": "Hornbach",
+      "title_en": "Hornbach",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hornbach-92b1c1.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hornbach-92b1c1",
+        "wikidata": "Q685926"
+      }
+    },
+    "jumbo_q1713190": {
+      "slug": "jumbo_q1713190",
+      "title": "Jumbo",
+      "title_en": "Jumbo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jumbo-0f6f08.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jumbo-0f6f08",
+        "wikidata": "Q1713190"
+      }
+    },
+    "obi_q300518": {
+      "slug": "obi_q300518",
+      "title": "OBI",
+      "title_en": "OBI",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/obi-5571de.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "obi-5571de",
+        "wikidata": "Q300518"
+      }
+    },
+    "smyths_q7546779": {
+      "slug": "smyths_q7546779",
+      "title": "Smyths",
+      "title_en": "Smyths",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smyths-abf82e",
+        "wikidata": "Q7546779"
+      }
+    },
+    "coopcity_q120492050": {
+      "slug": "coopcity_q120492050",
+      "title": "Coop City",
+      "title_en": "Coop City",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Aldi Suisse",
-        "Aldi"
-      ],
-      "keywords": [
-        "Aldi Suisse",
-        "Aldi"
-      ],
-      "package_hints": [],
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coopcity-66d8a4",
+        "wikidata": "Q120492050"
+      }
+    },
+    "manor_q382686": {
+      "slug": "manor_q382686",
+      "title": "Manor",
+      "title_en": "Manor",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manor-66d8a4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "manor-66d8a4",
+        "wikidata": "Q382686"
+      }
+    },
+    "muji_q708789": {
+      "slug": "muji_q708789",
+      "title": "Muji",
+      "title_en": "Muji",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muji-5ebe4b.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "muji-5ebe4b",
+        "wikidata": "Q708789"
+      }
+    },
+    "antoineetlili_q105338416": {
+      "slug": "antoineetlili_q105338416",
+      "title": "Antoine et Lili",
+      "title_en": "Antoine et Lili",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/antoineetlili-9da203.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "antoineetlili-9da203",
+        "wikidata": "Q105338416"
+      }
+    },
+    "beldona_q137351738": {
+      "slug": "beldona_q137351738",
+      "title": "Beldona",
+      "title_en": "Beldona",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beldona-fed098.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "beldona-fed098",
+        "wikidata": "Q137351738"
+      }
+    },
+    "blackout_q118074688": {
+      "slug": "blackout_q118074688",
+      "title": "Blackout",
+      "title_en": "Blackout",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blackout-fed098.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "blackout-fed098",
+        "wikidata": "Q118074688"
+      }
+    },
+    "bluetomato_q107637238": {
+      "slug": "bluetomato_q107637238",
+      "title": "Blue Tomato",
+      "title_en": "Blue Tomato",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bluetomato-fa8f79.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bluetomato-fa8f79",
+        "wikidata": "Q107637238"
+      }
+    },
+    "bonita_q892598": {
+      "slug": "bonita_q892598",
+      "title": "BONITA",
+      "title_en": "BONITA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bonita-51c18f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bonita-51c18f",
+        "wikidata": "Q892598"
+      }
+    },
+    "bonitamen_q892598": {
+      "slug": "bonitamen_q892598",
+      "title": "BONITA men",
+      "title_en": "BONITA men",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bonitamen-51c18f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bonitamen-51c18f",
+        "wikidata": "Q892598"
+      }
+    },
+    "calida_q693344": {
+      "slug": "calida_q693344",
+      "title": "Calida",
+      "title_en": "Calida",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "calida-758685",
+        "wikidata": "Q693344"
+      }
+    },
+    "caroll_q63063871": {
+      "slug": "caroll_q63063871",
+      "title": "Caroll",
+      "title_en": "Caroll",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caroll-210777.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "caroll-210777",
+        "wikidata": "Q63063871"
+      }
+    },
+    "charlesvgele_q1066326": {
+      "slug": "charlesvgele_q1066326",
+      "title": "Charles Vögele",
+      "title_en": "Charles Vögele",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/charlesvogele-900aa6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "charlesvogele-900aa6",
+        "wikidata": "Q1066326"
+      }
+    },
+    "chicore_q1072246": {
+      "slug": "chicore_q1072246",
+      "title": "Chicorée",
+      "title_en": "Chicorée",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chicoree-fed098.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chicoree-fed098",
+        "wikidata": "Q1072246"
+      }
+    },
+    "defursac_q22248311": {
+      "slug": "defursac_q22248311",
+      "title": "De Fursac",
+      "title_en": "De Fursac",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/defursac-819815.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "defursac-819815",
+        "wikidata": "Q22248311"
+      }
+    },
+    "falke_q1394122": {
+      "slug": "falke_q1394122",
+      "title": "FALKE",
+      "title_en": "FALKE",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/falke-d93616.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "falke-d93616",
+        "wikidata": "Q1394122"
+      }
+    },
+    "gmo_q3122954": {
+      "slug": "gmo_q3122954",
+      "title": "Gémo",
+      "title_en": "Gémo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gemo-7bebe2",
+        "wikidata": "Q3122954"
+      }
+    },
+    "hallhuber_q1571714": {
+      "slug": "hallhuber_q1571714",
+      "title": "Hallhuber",
+      "title_en": "Hallhuber",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hallhuber-20ae39.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hallhuber-20ae39",
+        "wikidata": "Q1571714"
+      }
+    },
+    "lahalle_q100728296": {
+      "slug": "lahalle_q100728296",
+      "title": "La Halle",
+      "title_en": "La Halle",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lahalle-5bd015.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lahalle-5bd015",
+        "wikidata": "Q100728296"
+      }
+    },
+    "leslipfranais_q14594793": {
+      "slug": "leslipfranais_q14594793",
+      "title": "Le Slip Français",
+      "title_en": "Le Slip Français",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leslipfrancais-512580.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "leslipfrancais-512580",
+        "wikidata": "Q14594793"
+      }
+    },
+    "letempsdescerises_q3228558": {
+      "slug": "letempsdescerises_q3228558",
+      "title": "Le Temps des Cerises",
+      "title_en": "Le Temps des Cerises",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/letempsdescerises-9cdbc1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "letempsdescerises-9cdbc1",
+        "wikidata": "Q3228558"
+      }
+    },
+    "lululemon_q6702957": {
+      "slug": "lululemon_q6702957",
+      "title": "Lululemon",
+      "title_en": "Lululemon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lululemon-4bc474.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lululemon-4bc474",
+        "wikidata": "Q6702957"
+      }
+    },
+    "maxetmoi_q104717564": {
+      "slug": "maxetmoi_q104717564",
+      "title": "Max et Moi",
+      "title_en": "Max et Moi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maxetmoi-d4124c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maxetmoi-d4124c",
+        "wikidata": "Q104717564"
+      }
+    },
+    "morgan_q6911563": {
+      "slug": "morgan_q6911563",
+      "title": "Morgan",
+      "title_en": "Morgan",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morgan-5bd015.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "morgan-5bd015",
+        "wikidata": "Q6911563"
+      }
+    },
+    "nafnaf_q3334188": {
+      "slug": "nafnaf_q3334188",
+      "title": "NAF NAF",
+      "title_en": "NAF NAF",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nafnaf-6dd3cd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nafnaf-6dd3cd",
+        "wikidata": "Q3334188"
+      }
+    },
+    "nunalie_q113291269": {
+      "slug": "nunalie_q113291269",
+      "title": "Nuna Lie",
+      "title_en": "Nuna Lie",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nunalie-83ed0b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nunalie-83ed0b",
+        "wikidata": "Q113291269"
+      }
+    },
+    "okadi_q3350027": {
+      "slug": "okadi_q3350027",
+      "title": "Okaïdi",
+      "title_en": "Okaïdi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/okaidi-eea264.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "okaidi-eea264",
+        "wikidata": "Q3350027"
+      }
+    },
+    "olivergrant_q104717450": {
+      "slug": "olivergrant_q104717450",
+      "title": "Oliver Grant",
+      "title_en": "Oliver Grant",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "olivergrant-9da203",
+        "wikidata": "Q104717450"
+      }
+    },
+    "peterhahn_q2075416": {
+      "slug": "peterhahn_q2075416",
+      "title": "Peter Hahn",
+      "title_en": "Peter Hahn",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peterhahn-5713f3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "peterhahn-5713f3",
+        "wikidata": "Q2075416"
+      }
+    },
+    "phaseeight_q17020730": {
+      "slug": "phaseeight_q17020730",
+      "title": "Phase Eight",
+      "title_en": "Phase Eight",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/phaseeight-9ea1fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "phaseeight-9ea1fe",
+        "wikidata": "Q17020730"
+      }
+    },
+    "seidensticker_q1797834": {
+      "slug": "seidensticker_q1797834",
+      "title": "Seidensticker",
+      "title_en": "Seidensticker",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seidensticker-28c0e5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "seidensticker-28c0e5",
+        "wikidata": "Q1797834"
+      }
+    },
+    "szane_q86682767": {
+      "slug": "szane_q86682767",
+      "title": "Sézane",
+      "title_en": "Sézane",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sezane-bfb742.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sezane-bfb742",
+        "wikidata": "Q86682767"
+      }
+    },
+    "sisley_q12054325": {
+      "slug": "sisley_q12054325",
+      "title": "Sisley",
+      "title_en": "Sisley",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sisley-9d6d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sisley-9d6d32",
+        "wikidata": "Q12054325"
+      }
+    },
+    "streetone_q61997265": {
+      "slug": "streetone_q61997265",
+      "title": "Street One",
+      "title_en": "Street One",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/streetone-1c3d1b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "streetone-1c3d1b",
+        "wikidata": "Q61997265"
+      }
+    },
+    "takkofashion_q1371302": {
+      "slug": "takkofashion_q1371302",
+      "title": "Takko Fashion",
+      "title_en": "Takko Fashion",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/takkofashion-80f395.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "takkofashion-80f395",
+        "wikidata": "Q1371302"
+      }
+    },
+    "ullapopken_q2475146": {
+      "slug": "ullapopken_q2475146",
+      "title": "Ulla Popken",
+      "title_en": "Ulla Popken",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ullapopken-341143.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ullapopken-341143",
+        "wikidata": "Q2475146"
+      }
+    },
+    "undiz_q105306275": {
+      "slug": "undiz_q105306275",
+      "title": "Undiz",
+      "title_en": "Undiz",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/undiz-024578.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "undiz-024578",
+        "wikidata": "Q105306275"
+      }
+    },
+    "vangraaf_q113505161": {
+      "slug": "vangraaf_q113505161",
+      "title": "Van Graaf",
+      "title_en": "Van Graaf",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vangraaf-9ef6ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vangraaf-9ef6ea",
+        "wikidata": "Q113505161"
+      }
+    },
+    "we_q1987861": {
+      "slug": "we_q1987861",
+      "title": "WE",
+      "title_en": "WE",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/we-1dbf87.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "we-1dbf87",
+        "wikidata": "Q1987861"
+      }
+    },
+    "zebra_q99692008": {
+      "slug": "zebra_q99692008",
+      "title": "Zebra",
+      "title_en": "Zebra",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zebra-fed098.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zebra-fed098",
+        "wikidata": "Q99692008"
+      }
+    },
+    "zero_q191896": {
+      "slug": "zero_q191896",
+      "title": "zero",
+      "title_en": "zero",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zero-9393a9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zero-9393a9",
+        "wikidata": "Q191896"
+      }
+    },
+    "fjllrven_q1422481": {
+      "slug": "fjllrven_q1422481",
+      "title": "Fjällräven",
+      "title_en": "Fjällräven",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fjallraven-748e5d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fjallraven-748e5d",
+        "wikidata": "Q1422481"
+      }
+    },
+    "jackwolfskin_q536133": {
+      "slug": "jackwolfskin_q536133",
+      "title": "Jack Wolfskin",
+      "title_en": "Jack Wolfskin",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jackwolfskin-d66c75.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jackwolfskin-d66c75",
+        "wikidata": "Q536133"
+      }
+    },
+    "naturedcouvertes_q3337111": {
+      "slug": "naturedcouvertes_q3337111",
+      "title": "Nature & Découvertes",
+      "title_en": "Nature & Découvertes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/natureanddecouvertes-fb7405.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "natureanddecouvertes-fb7405",
+        "wikidata": "Q3337111"
+      }
+    },
+    "aldisuisse_q111030009": {
+      "slug": "aldisuisse_q111030009",
+      "title": "Aldi",
+      "title_en": "Aldi",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aldi-36e991.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "aldi-36e991",
         "wikidata": "Q111030009"
@@ -32,23 +1829,12 @@
     "alnaturasupernaturmarkt_q876811": {
       "slug": "alnaturasupernaturmarkt_q876811",
       "title": "Alnatura Super Natur Markt",
-      "short_name": "Alnatura S",
-      "badge_text": "A",
+      "title_en": "Alnatura Super Natur Markt",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Alnatura Super Natur Markt",
-        "Alnatura"
-      ],
-      "keywords": [
-        "Alnatura Super Natur Markt",
-        "Alnatura"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alnaturasupernaturmarkt-f97a5b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "alnaturasupernaturmarkt-f97a5b",
         "wikidata": "Q876811"
@@ -56,22 +1842,13 @@
     },
     "coopschweiz_q432564": {
       "slug": "coopschweiz_q432564",
-      "title": "Coop (Schweiz)",
-      "short_name": "Coop (Schw",
-      "badge_text": "C",
+      "title": "Coop",
+      "title_en": "Coop",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Coop"
-      ],
-      "keywords": [
-        "Coop"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coop-07a460.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "coop-07a460",
         "wikidata": "Q432564"
@@ -80,21 +1857,12 @@
     "crai_q3696429": {
       "slug": "crai_q3696429",
       "title": "Crai",
-      "short_name": "Crai",
-      "badge_text": "C",
+      "title_en": "Crai",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Crai"
-      ],
-      "keywords": [
-        "Crai"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crai-d52198.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "crai-d52198",
         "wikidata": "Q3696429"
@@ -103,21 +1871,12 @@
     "denner_q379911": {
       "slug": "denner_q379911",
       "title": "Denner",
-      "short_name": "Denner",
-      "badge_text": "D",
+      "title_en": "Denner",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Denner"
-      ],
-      "keywords": [
-        "Denner"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/denner-704edb.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "denner-704edb",
         "wikidata": "Q379911"
@@ -126,21 +1885,12 @@
     "eblnaturkost_q22691722": {
       "slug": "eblnaturkost_q22691722",
       "title": "ebl-Naturkost",
-      "short_name": "ebl-Naturk",
-      "badge_text": "E",
+      "title_en": "ebl-Naturkost",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "ebl-Naturkost"
-      ],
-      "keywords": [
-        "ebl-Naturkost"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eblnaturkost-f97a5b.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "eblnaturkost-f97a5b",
         "wikidata": "Q22691722"
@@ -148,22 +1898,13 @@
     },
     "migroseurope_q680727": {
       "slug": "migroseurope_q680727",
-      "title": "Migros (Europe)",
-      "short_name": "Migros (Eu",
-      "badge_text": "M",
+      "title": "Migros",
+      "title_en": "Migros",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Migros"
-      ],
-      "keywords": [
-        "Migros"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/migros-e39709.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "migros-e39709",
         "wikidata": "Q680727"
@@ -172,21 +1913,12 @@
     "mmmigros": {
       "slug": "mmmigros",
       "title": "MM Migros",
-      "short_name": "MM Migros",
-      "badge_text": "M",
+      "title_en": "MM Migros",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "MM Migros"
-      ],
-      "keywords": [
-        "MM Migros"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mmmigros-36e991",
         "wikidata": ""
@@ -195,21 +1927,12 @@
     "pam_q105615038": {
       "slug": "pam_q105615038",
       "title": "Pam",
-      "short_name": "Pam",
-      "badge_text": "P",
+      "title_en": "Pam",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Pam"
-      ],
-      "keywords": [
-        "Pam"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pam-d52198",
         "wikidata": "Q105615038"
@@ -218,23 +1941,12 @@
     "proxisuper_q3408522": {
       "slug": "proxisuper_q3408522",
       "title": "Proxi Super",
-      "short_name": "Proxi Supe",
-      "badge_text": "P",
+      "title_en": "Proxi Super",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Proxi Super",
-        "Proxi"
-      ],
-      "keywords": [
-        "Proxi Super",
-        "Proxi"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/proxisuper-f97dff.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "proxisuper-f97dff",
         "wikidata": "Q3408522"
@@ -243,21 +1955,12 @@
     "voi_q110277616": {
       "slug": "voi_q110277616",
       "title": "VOI",
-      "short_name": "VOI",
-      "badge_text": "V",
+      "title_en": "VOI",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "VOI"
-      ],
-      "keywords": [
-        "VOI"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/voi-36e991.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "voi-36e991",
         "wikidata": "Q110277616"
@@ -266,44 +1969,96 @@
     "volg_q2530746": {
       "slug": "volg_q2530746",
       "title": "Volg",
-      "short_name": "Volg",
-      "badge_text": "V",
+      "title_en": "Volg",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Volg"
-      ],
-      "keywords": [
-        "Volg"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volg-704edb.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "volg-704edb",
         "wikidata": "Q2530746"
       }
     },
+    "ticketmaster_q2609162": {
+      "slug": "ticketmaster_q2609162",
+      "title": "Ticketmaster",
+      "title_en": "Ticketmaster",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ticketmaster-9f0b74.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ticketmaster-9f0b74",
+        "wikidata": "Q2609162"
+      }
+    },
+    "mobilezone_q1680518": {
+      "slug": "mobilezone_q1680518",
+      "title": "Mobilezone",
+      "title_en": "Mobilezone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mobilezone-741c3f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mobilezone-741c3f",
+        "wikidata": "Q1680518"
+      }
+    },
+    "1aautoservice_q109558465": {
+      "slug": "1aautoservice_q109558465",
+      "title": "1a autoservice",
+      "title_en": "1a autoservice",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/1aautoservice-4c8afc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "1aautoservice-4c8afc",
+        "wikidata": "Q109558465"
+      }
+    },
+    "euromaster_q3060668": {
+      "slug": "euromaster_q3060668",
+      "title": "Euromaster",
+      "title_en": "Euromaster",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/euromaster-2762ed.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "euromaster-2762ed",
+        "wikidata": "Q3060668"
+      }
+    },
+    "premio_q100895958": {
+      "slug": "premio_q100895958",
+      "title": "Premio",
+      "title_en": "Premio",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/premio-4558e6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "premio-4558e6",
+        "wikidata": "Q100895958"
+      }
+    },
     "avec_q103863974": {
       "slug": "avec_q103863974",
       "title": "avec",
-      "short_name": "avec",
-      "badge_text": "A",
+      "title_en": "avec",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "avec"
-      ],
-      "keywords": [
-        "avec"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avec-c71a8a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "avec-c71a8a",
         "wikidata": "Q103863974"
@@ -312,21 +2067,12 @@
     "avia_q300147": {
       "slug": "avia_q300147",
       "title": "Avia",
-      "short_name": "Avia",
-      "badge_text": "A",
+      "title_en": "Avia",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Avia"
-      ],
-      "keywords": [
-        "Avia"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avia-da37e8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "avia-da37e8",
         "wikidata": "Q300147"
@@ -335,21 +2081,12 @@
     "bpshop_q152057": {
       "slug": "bpshop_q152057",
       "title": "BP Shop",
-      "short_name": "BP Shop",
-      "badge_text": "B",
+      "title_en": "BP Shop",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "BP Shop"
-      ],
-      "keywords": [
-        "BP Shop"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bpshop-24c3f1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bpshop-24c3f1",
         "wikidata": "Q152057"
@@ -358,21 +2095,12 @@
     "claro_q3679155": {
       "slug": "claro_q3679155",
       "title": "Claro",
-      "short_name": "Claro",
-      "badge_text": "C",
+      "title_en": "Claro",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Claro"
-      ],
-      "keywords": [
-        "Claro"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "claro-07a460",
         "wikidata": "Q3679155"
@@ -381,21 +2109,12 @@
     "cooppronto_q1129777": {
       "slug": "cooppronto_q1129777",
       "title": "Coop Pronto",
-      "short_name": "Coop Pront",
-      "badge_text": "C",
+      "title_en": "Coop Pronto",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Coop Pronto"
-      ],
-      "keywords": [
-        "Coop Pronto"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooppronto-0438d5.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooppronto-0438d5",
         "wikidata": "Q1129777"
@@ -404,23 +2123,12 @@
     "dennerexpress_q379911": {
       "slug": "dennerexpress_q379911",
       "title": "Denner Express",
-      "short_name": "Denner Exp",
-      "badge_text": "D",
+      "title_en": "Denner Express",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Denner",
-        "Denner Express"
-      ],
-      "keywords": [
-        "Denner",
-        "Denner Express"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dennerexpress-07a460.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dennerexpress-07a460",
         "wikidata": "Q379911"
@@ -429,21 +2137,12 @@
     "enishop_q565594": {
       "slug": "enishop_q565594",
       "title": "Eni Shop",
-      "short_name": "Eni Shop",
-      "badge_text": "E",
+      "title_en": "Eni Shop",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Eni Shop"
-      ],
-      "keywords": [
-        "Eni Shop"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enishop-a98884.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "enishop-a98884",
         "wikidata": "Q565594"
@@ -452,21 +2151,12 @@
     "kkiosk_q60381703": {
       "slug": "kkiosk_q60381703",
       "title": "k kiosk",
-      "short_name": "k kiosk",
-      "badge_text": "K",
+      "title_en": "k kiosk",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "k kiosk"
-      ],
-      "keywords": [
-        "k kiosk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kkiosk-e34768.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kkiosk-e34768",
         "wikidata": "Q60381703"
@@ -475,21 +2165,12 @@
     "migrolino_q56745088": {
       "slug": "migrolino_q56745088",
       "title": "Migrolino",
-      "short_name": "Migrolino",
-      "badge_text": "M",
+      "title_en": "Migrolino",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Migrolino"
-      ],
-      "keywords": [
-        "Migrolino"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/migrolino-07a460.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "migrolino-07a460",
         "wikidata": "Q56745088"
@@ -498,21 +2179,12 @@
     "proxi_q3408522": {
       "slug": "proxi_q3408522",
       "title": "Proxi",
-      "short_name": "Proxi",
-      "badge_text": "P",
+      "title_en": "Proxi",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Proxi"
-      ],
-      "keywords": [
-        "Proxi"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/proxi-6fdfa6.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "proxi-6fdfa6",
         "wikidata": "Q3408522"
@@ -521,24 +2193,267 @@
     "redu_q112913831": {
       "slug": "redu_q112913831",
       "title": "Rüedu",
-      "short_name": "Rüedu",
-      "badge_text": "R",
+      "title_en": "Rüedu",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Rüedu"
-      ],
-      "keywords": [
-        "Rüedu"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ruedu-07a460.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ruedu-07a460",
         "wikidata": "Q112913831"
+      }
+    },
+    "oilvinegar_q107987188": {
+      "slug": "oilvinegar_q107987188",
+      "title": "Oil & Vinegar",
+      "title_en": "Oil & Vinegar",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oilandvinegar-5ac0f6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oilandvinegar-5ac0f6",
+        "wikidata": "Q107987188"
+      }
+    },
+    "vomfass_q2533008": {
+      "slug": "vomfass_q2533008",
+      "title": "vomFASS",
+      "title_en": "vomFASS",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vomfass-a3c745.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vomfass-a3c745",
+        "wikidata": "Q2533008"
+      }
+    },
+    "chateaudax_q100249791": {
+      "slug": "chateaudax_q100249791",
+      "title": "Chateau d'Ax",
+      "title_en": "Chateau d'Ax",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateaudax-dd1a0d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chateaudax-dd1a0d",
+        "wikidata": "Q100249791"
+      }
+    },
+    "conforama_q541134": {
+      "slug": "conforama_q541134",
+      "title": "Conforama",
+      "title_en": "Conforama",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/conforama-6fff46.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "conforama-6fff46",
+        "wikidata": "Q541134"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "IKEA",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-ac4ccb",
+        "wikidata": "Q54078"
+      }
+    },
+    "livique_q15851221": {
+      "slug": "livique_q15851221",
+      "title": "Livique",
+      "title_en": "Livique",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/livique-be426f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "livique-be426f",
+        "wikidata": "Q15851221"
+      }
+    },
+    "maisonsdumonde_q3280364": {
+      "slug": "maisonsdumonde_q3280364",
+      "title": "Maisons du Monde",
+      "title_en": "Maisons du Monde",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maisonsdumonde-41c8c3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maisonsdumonde-41c8c3",
+        "wikidata": "Q3280364"
+      }
+    },
+    "pfister_q104215428": {
+      "slug": "pfister_q104215428",
+      "title": "Pfister",
+      "title_en": "Pfister",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pfister-be426f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pfister-be426f",
+        "wikidata": "Q104215428"
+      }
+    },
+    "poltronesof_q80833069": {
+      "slug": "poltronesof_q80833069",
+      "title": "Poltronesofà",
+      "title_en": "Poltronesofà",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/poltronesofa-488b55.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "poltronesofa-488b55",
+        "wikidata": "Q80833069"
+      }
+    },
+    "douglas_q2052213": {
+      "slug": "douglas_q2052213",
+      "title": "Douglas",
+      "title_en": "Douglas",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/douglas-4ed3c9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "douglas-4ed3c9",
+        "wikidata": "Q2052213"
+      }
+    },
+    "importparfumerie_q1660352": {
+      "slug": "importparfumerie_q1660352",
+      "title": "Import Parfumerie",
+      "title_en": "Import Parfumerie",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/importparfumerie-5a7a8c.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "importparfumerie-5a7a8c",
+        "wikidata": "Q1660352"
+      }
+    },
+    "marionnaud_q1129073": {
+      "slug": "marionnaud_q1129073",
+      "title": "Marionnaud",
+      "title_en": "Marionnaud",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marionnaud-c9f458.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "marionnaud-c9f458",
+        "wikidata": "Q1129073"
+      }
+    },
+    "salt_q3884382": {
+      "slug": "salt_q3884382",
+      "title": "Salt",
+      "title_en": "Salt",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/salt-b6d5be.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "salt-b6d5be",
+        "wikidata": "Q3884382"
+      }
+    },
+    "sunrise_q112573820": {
+      "slug": "sunrise_q112573820",
+      "title": "Sunrise",
+      "title_en": "Sunrise",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunrise-b6d5be.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sunrise-b6d5be",
+        "wikidata": "Q112573820"
+      }
+    },
+    "swisscom_q644324": {
+      "slug": "swisscom_q644324",
+      "title": "Swisscom",
+      "title_en": "Swisscom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisscom-b6d5be.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisscom-b6d5be",
+        "wikidata": "Q644324"
+      }
+    },
+    "myplaceselfstorage_q109659129": {
+      "slug": "myplaceselfstorage_q109659129",
+      "title": "MyPlace-SelfStorage",
+      "title_en": "MyPlace-SelfStorage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/myplaceselfstorage-7d575b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "myplaceselfstorage-7d575b",
+        "wikidata": "Q109659129"
+      }
+    },
+    "storebox_q117430004": {
+      "slug": "storebox_q117430004",
+      "title": "Storebox",
+      "title_en": "Storebox",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storebox-3e45ed.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "storebox-3e45ed",
+        "wikidata": "Q117430004"
+      }
+    },
+    "hotelplan_q1631145": {
+      "slug": "hotelplan_q1631145",
+      "title": "Hotelplan",
+      "title_en": "Hotelplan",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hotelplan-c09afe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hotelplan-c09afe",
+        "wikidata": "Q1631145"
       }
     }
   }

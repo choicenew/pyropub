@@ -1,10 +1,15 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ph",
-  "total_categories": 3,
+  "country_name": "Pilipinas",
+  "total_categories": 6,
   "manifest_files": [
-    "food.json",
+    "other.json",
     "supermarket.json",
+    "food.json",
+    "express.json",
+    "travel.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

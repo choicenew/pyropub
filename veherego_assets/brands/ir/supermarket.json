@@ -1,29 +1,90 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 9,
+  "country": "ir",
+  "category": "supermarket",
+  "total_brands": 16,
   "brand_aliases": {
+    "8b62969e25bc": {
+      "slug": "8b62969e25bc",
+      "title": "دکه",
+      "title_en": "دکه",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "8b6296-9e25bc",
+        "wikidata": ""
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "_q116234": {
+      "slug": "_q116234",
+      "title": "سایپا",
+      "title_en": "Saipa",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "saipa-bd50af",
+        "wikidata": "Q116234"
+      }
+    },
+    "5d9fb1bd50af": {
+      "slug": "5d9fb1bd50af",
+      "title": "نمایندگی ایران خودرو",
+      "title_en": "نمایندگی ایران خودرو",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "5d9fb1-bd50af",
+        "wikidata": ""
+      }
+    },
+    "_q5862430": {
+      "slug": "_q5862430",
+      "title": "شیرین عسل",
+      "title_en": "Shirin Asal",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shirinasal-971a8a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shirinasal-971a8a",
+        "wikidata": "Q5862430"
+      }
+    },
     "_q65199490": {
       "slug": "_q65199490",
       "title": "افق کوروش",
-      "short_name": "افق کوروش",
-      "badge_text": "ا",
+      "title_en": "Ofoq Kourosh",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Ofoq Kourosh",
-        "افق کوروش"
-      ],
-      "keywords": [
-        "Ofoq Kourosh",
-        "افق کوروش"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ofoqkourosh-d157b9.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ofoqkourosh-d157b9",
         "wikidata": "Q65199490"
@@ -32,23 +93,12 @@
     "_q119145401": {
       "slug": "_q119145401",
       "title": "جانبو",
-      "short_name": "جانبو",
-      "badge_text": "ج",
+      "title_en": "Canbo",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Canbo",
-        "جانبو"
-      ],
-      "keywords": [
-        "Canbo",
-        "جانبو"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canbo-d157b9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "canbo-d157b9",
         "wikidata": "Q119145401"
@@ -57,23 +107,12 @@
     "_q119145493": {
       "slug": "_q119145493",
       "title": "دیلی مارکت",
-      "short_name": "دیلی مارکت",
-      "badge_text": "د",
+      "title_en": "Daily Market",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "دیلی مارکت",
-        "Daily Market"
-      ],
-      "keywords": [
-        "دیلی مارکت",
-        "Daily Market"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dailymarket-d157b9",
         "wikidata": "Q119145493"
@@ -82,23 +121,12 @@
     "_q7307085": {
       "slug": "_q7307085",
       "title": "رفاه",
-      "short_name": "رفاه",
-      "badge_text": "ر",
+      "title_en": "Refah",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "رفاه",
-        "Refah"
-      ],
-      "keywords": [
-        "رفاه",
-        "Refah"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/refah-d157b9.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "refah-d157b9",
         "wikidata": "Q7307085"
@@ -107,21 +135,12 @@
     "3b0e76c29ef9": {
       "slug": "3b0e76c29ef9",
       "title": "سوپر",
-      "short_name": "سوپر",
-      "badge_text": "س",
+      "title_en": "سوپر",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "سوپر"
-      ],
-      "keywords": [
-        "سوپر"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "3b0e76-c29ef9",
         "wikidata": ""
@@ -130,21 +149,12 @@
     "14a0fbc29ef9": {
       "slug": "14a0fbc29ef9",
       "title": "فروشگاه افق کوروش",
-      "short_name": "فروشگاه اف",
-      "badge_text": "ف",
+      "title_en": "فروشگاه افق کوروش",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "فروشگاه افق کوروش"
-      ],
-      "keywords": [
-        "فروشگاه افق کوروش"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "14a0fb-c29ef9",
         "wikidata": ""
@@ -153,21 +163,12 @@
     "9ddc31c29ef9": {
       "slug": "9ddc31c29ef9",
       "title": "فروشگاه رفاه",
-      "short_name": "فروشگاه رف",
-      "badge_text": "ف",
+      "title_en": "فروشگاه رفاه",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "فروشگاه رفاه"
-      ],
-      "keywords": [
-        "فروشگاه رفاه"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "9ddc31-c29ef9",
         "wikidata": ""
@@ -176,46 +177,54 @@
     "_q10860330": {
       "slug": "_q10860330",
       "title": "هایپراستار",
-      "short_name": "هایپراستار",
-      "badge_text": "ه",
+      "title_en": "Hyperstar",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Hyperstar",
-        "هایپراستار"
-      ],
-      "keywords": [
-        "Hyperstar",
-        "هایپراستار"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hyperstar-c29ef9",
         "wikidata": "Q10860330"
       }
     },
+    "_q20109567": {
+      "slug": "_q20109567",
+      "title": "اسنوا",
+      "title_en": "Snowa",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/snowa-e56cf0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "snowa-e56cf0",
+        "wikidata": "Q20109567"
+      }
+    },
+    "mtn_q1813361": {
+      "slug": "mtn_q1813361",
+      "title": "MTN",
+      "title_en": "MTN",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mtn-fe03c5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mtn-fe03c5",
+        "wikidata": "Q1813361"
+      }
+    },
     "875548d157b9": {
       "slug": "875548d157b9",
       "title": "سوپرمارکت",
-      "short_name": "سوپرمارکت",
-      "badge_text": "س",
+      "title_en": "سوپرمارکت",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "سوپرمارکت"
-      ],
-      "keywords": [
-        "سوپرمارکت"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "875548-d157b9",
         "wikidata": ""

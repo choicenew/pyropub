@@ -1,27 +1,34 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "md",
+  "category": "express",
+  "total_brands": 2,
   "brand_aliases": {
+    "grawe_q877006": {
+      "slug": "grawe_q877006",
+      "title": "Grawe",
+      "title_en": "Grawe",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grawe-49851b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "grawe-49851b",
+        "wikidata": "Q877006"
+      }
+    },
     "novaposhta_q97191085": {
       "slug": "novaposhta_q97191085",
       "title": "Nova Poshta",
-      "short_name": "Nova Posht",
-      "badge_text": "N",
+      "title_en": "Nova Poshta",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Nova Poshta"
-      ],
-      "keywords": [
-        "Nova Poshta"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "novaposhta-abee27",
         "wikidata": "Q97191085"

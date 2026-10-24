@@ -1,10 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "kh",
-  "total_categories": 3,
+  "country_name": "KH",
+  "total_categories": 4,
   "manifest_files": [
     "food.json",
     "supermarket.json",
+    "travel.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

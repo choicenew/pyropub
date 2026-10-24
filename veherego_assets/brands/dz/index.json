@@ -1,10 +1,14 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "dz",
-  "total_categories": 3,
+  "country_name": "DZ",
+  "total_categories": 5,
   "manifest_files": [
     "supermarket.json",
-    "drink.json",
-    "food.json"
-  ]
+    "express.json",
+    "travel.json",
+    "food.json",
+    "drink.json"
+  ],
+  "version": 1
 }

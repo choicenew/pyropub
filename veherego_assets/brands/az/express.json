@@ -1,27 +1,34 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "az",
+  "category": "express",
+  "total_brands": 2,
   "brand_aliases": {
+    "azercell_q2639931": {
+      "slug": "azercell_q2639931",
+      "title": "Azercell",
+      "title_en": "Azercell",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/azercell-898395.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "azercell-898395",
+        "wikidata": "Q2639931"
+      }
+    },
     "_q28665980": {
       "slug": "_q28665980",
       "title": "СДЭК",
-      "short_name": "СДЭК",
-      "badge_text": "С",
+      "title_en": "СДЭК",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "СДЭК"
-      ],
-      "keywords": [
-        "СДЭК"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5ac048-c762cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "5ac048-c762cb",
         "wikidata": "Q28665980"

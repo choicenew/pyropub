@@ -1,29 +1,356 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "jp",
+  "category": "express",
+  "total_brands": 27,
   "brand_aliases": {
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "_q7142290": {
+      "slug": "_q7142290",
+      "title": "パソナ",
+      "title_en": "Pasona",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pasona-ea06d3",
+        "wikidata": "Q7142290"
+      }
+    },
+    "_q5016578": {
+      "slug": "_q5016578",
+      "title": "ハローワーク",
+      "title_en": "Hello Work",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hellowork-ea06d3",
+        "wikidata": "Q5016578"
+      }
+    },
+    "_q11284512": {
+      "slug": "_q11284512",
+      "title": "アパマンショップ",
+      "title_en": "Apaman Shop",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apamanshop-60400b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "apamanshop-60400b",
+        "wikidata": "Q11284512"
+      }
+    },
+    "_q11289620": {
+      "slug": "_q11289620",
+      "title": "エイブル",
+      "title_en": "Able",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/able-60400b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "able-60400b",
+        "wikidata": "Q11289620"
+      }
+    },
+    "21_q1054480": {
+      "slug": "21_q1054480",
+      "title": "センチュリー21",
+      "title_en": "Century 21",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-60400b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "century21-60400b",
+        "wikidata": "Q1054480"
+      }
+    },
+    "_q11315877": {
+      "slug": "_q11315877",
+      "title": "タウンハウジング",
+      "title_en": "Townhousing",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "townhousing-60400b",
+        "wikidata": "Q11315877"
+      }
+    },
+    "_q11331484": {
+      "slug": "_q11331484",
+      "title": "ピタットハウス",
+      "title_en": "Pitat House",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pitathouse-60400b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pitathouse-60400b",
+        "wikidata": "Q11331484"
+      }
+    },
+    "_q115113388": {
+      "slug": "_q115113388",
+      "title": "ホームメイト",
+      "title_en": "Homemate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homemate-60400b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "homemate-60400b",
+        "wikidata": "Q115113388"
+      }
+    },
+    "_q11345697": {
+      "slug": "_q11345697",
+      "title": "ユニバーサルホーム",
+      "title_en": "Universal House",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "universalhouse-60400b",
+        "wikidata": "Q11345697"
+      }
+    },
+    "_q11354218": {
+      "slug": "_q11354218",
+      "title": "三井のリハウス",
+      "title_en": "Mitsui Fudosan Realty",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mitsuifudosanrealty-60400b",
+        "wikidata": "Q11354218"
+      }
+    },
+    "ufj_q11357004": {
+      "slug": "ufj_q11357004",
+      "title": "三菱UFJ不動産販売",
+      "title_en": "Mitsubishi UFJ Real Estate Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mitsubishiufjrealestateservices-60400b.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mitsubishiufjrealestateservices-60400b",
+        "wikidata": "Q11357004"
+      }
+    },
+    "_q11285653": {
+      "slug": "_q11285653",
+      "title": "アート引越センター",
+      "title_en": "the0123",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "the0123-b6b6de",
+        "wikidata": "Q11285653"
+      }
+    },
+    "_q11304384": {
+      "slug": "_q11304384",
+      "title": "サカイ引越センター",
+      "title_en": "Sakai Moving Service",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sakaimovingservice-b6b6de",
+        "wikidata": "Q11304384"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "45e8e07cc2d1": {
+      "slug": "45e8e07cc2d1",
+      "title": "ほけんの窓口",
+      "title_en": "ほけんの窓口",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "45e8e0-7cc2d1",
+        "wikidata": ""
+      }
+    },
+    "_q93904665": {
+      "slug": "_q93904665",
+      "title": "保険クリニック",
+      "title_en": "Hoken Clinic",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hokenclinic-7cc2d1",
+        "wikidata": "Q93904665"
+      }
+    },
+    "_q519611": {
+      "slug": "_q519611",
+      "title": "日本生命",
+      "title_en": "Nippon Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nipponlife-7cc2d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nipponlife-7cc2d1",
+        "wikidata": "Q519611"
+      }
+    },
+    "_q174081": {
+      "slug": "_q174081",
+      "title": "明治安田生命",
+      "title_en": "Meiji Yasuda Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meijiyasudalife-7cc2d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "meijiyasudalife-7cc2d1",
+        "wikidata": "Q174081"
+      }
+    },
+    "_q595475": {
+      "slug": "_q595475",
+      "title": "第一生命",
+      "title_en": "Dai-ichi Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiichilife-7cc2d1.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "daiichilife-7cc2d1",
+        "wikidata": "Q595475"
+      }
+    },
+    "zxy_q136955968": {
+      "slug": "zxy_q136955968",
+      "title": "ジザイ",
+      "title_en": "ZXY",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zxy-9ed32d",
+        "wikidata": "Q136955968"
+      }
+    },
+    "_q858957": {
+      "slug": "_q858957",
+      "title": "セコム",
+      "title_en": "SECOM",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/secom-2b5b95.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "secom-2b5b95",
+        "wikidata": "Q858957"
+      }
+    },
+    "ntt_q1054787": {
+      "slug": "ntt_q1054787",
+      "title": "NTT",
+      "title_en": "NTT",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ntt-54abba.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ntt-54abba",
+        "wikidata": "Q1054787"
+      }
+    },
+    "foley_q5464319": {
+      "slug": "foley_q5464319",
+      "title": "Foley",
+      "title_en": "Foley",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foley-2b4d11.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foley-2b4d11",
+        "wikidata": "Q5464319"
+      }
+    },
     "amazonhub_q100274430": {
       "slug": "amazonhub_q100274430",
       "title": "Amazon Hub ロッカー",
-      "short_name": "Amazon Hub",
-      "badge_text": "A",
+      "title_en": "Amazon Hub Locker",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Amazon Hub Locker",
-        "Amazon Hub ロッカー"
-      ],
-      "keywords": [
-        "Amazon Hub Locker",
-        "Amazon Hub ロッカー"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonhublocker-5c1de3.webp",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "amazonhublocker-5c1de3",
         "wikidata": "Q100274430"
@@ -32,27 +359,12 @@
     "pudo_q86738066": {
       "slug": "pudo_q86738066",
       "title": "PUDOステーション",
-      "short_name": "PUDOステーション",
-      "badge_text": "P",
+      "title_en": "PUDO Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "PUDOステーション",
-        "プドー",
-        "PUDO Station",
-        "PUDO"
-      ],
-      "keywords": [
-        "PUDOステーション",
-        "プドー",
-        "PUDO Station",
-        "PUDO"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pudostation-5c1de3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pudostation-5c1de3",
         "wikidata": "Q86738066"
@@ -61,25 +373,12 @@
     "_q117428085": {
       "slug": "_q117428085",
       "title": "はこぽす",
-      "short_name": "はこぽす",
-      "badge_text": "は",
+      "title_en": "Hako Post",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "HAKO POST",
-        "はこぽす",
-        "Hako Post"
-      ],
-      "keywords": [
-        "HAKO POST",
-        "はこぽす",
-        "Hako Post"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hakopost-5c1de3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hakopost-5c1de3",
         "wikidata": "Q117428085"

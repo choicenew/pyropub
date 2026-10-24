@@ -1,8 +1,12 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "gu",
-  "total_categories": 1,
+  "country_name": "GU",
+  "total_categories": 3,
   "manifest_files": [
+    "supermarket.json",
+    "travel.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

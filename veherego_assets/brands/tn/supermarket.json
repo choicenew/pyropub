@@ -1,27 +1,104 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "tn",
+  "category": "supermarket",
+  "total_brands": 14,
   "brand_aliases": {
+    "madura_q3276259": {
+      "slug": "madura_q3276259",
+      "title": "Madura",
+      "title_en": "Madura",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madura-1550f8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "madura-1550f8",
+        "wikidata": "Q3276259"
+      }
+    },
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "cuisinella_q3007012": {
+      "slug": "cuisinella_q3007012",
+      "title": "Cuisinella",
+      "title_en": "Cuisinella",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cuisinella-944de4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cuisinella-944de4",
+        "wikidata": "Q3007012"
+      }
+    },
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "bureauvalle_q18385014": {
+      "slug": "bureauvalle_q18385014",
+      "title": "Bureau Vallée",
+      "title_en": "Bureau Vallée",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bureauvallee-562f71.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bureauvallee-562f71",
+        "wikidata": "Q18385014"
+      }
+    },
+    "jeffdebruges_q3176626": {
+      "slug": "jeffdebruges_q3176626",
+      "title": "Jeff de Bruges",
+      "title_en": "Jeff de Bruges",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jeffdebruges-bc7364.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jeffdebruges-bc7364",
+        "wikidata": "Q3176626"
+      }
+    },
     "gant_q1380537": {
       "slug": "gant_q1380537",
       "title": "Géant",
-      "short_name": "Géant",
-      "badge_text": "G",
+      "title_en": "Géant",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Géant"
-      ],
-      "keywords": [
-        "Géant"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "geant-a2a643",
         "wikidata": "Q1380537"
@@ -29,22 +106,13 @@
     },
     "monoprixtunisia_q2719231": {
       "slug": "monoprixtunisia_q2719231",
-      "title": "Monoprix (Tunisia)",
-      "short_name": "Monoprix (",
-      "badge_text": "M",
+      "title": "Monoprix",
+      "title_en": "Monoprix",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Monoprix"
-      ],
-      "keywords": [
-        "Monoprix"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "monoprix-fb893a",
         "wikidata": "Q2719231"
@@ -53,21 +121,12 @@
     "5ae0566efd78": {
       "slug": "5ae0566efd78",
       "title": "كارفور",
-      "short_name": "كارفور",
-      "badge_text": "ك",
+      "title_en": "كارفور",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "كارفور"
-      ],
-      "keywords": [
-        "كارفور"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "5ae056-6efd78",
         "wikidata": ""
@@ -76,24 +135,71 @@
     "1cd6b6927e7d": {
       "slug": "1cd6b6927e7d",
       "title": "مونوبري",
-      "short_name": "مونوبري",
-      "badge_text": "م",
+      "title_en": "مونوبري",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "مونوبري"
-      ],
-      "keywords": [
-        "مونوبري"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "1cd6b6-927e7d",
         "wikidata": ""
+      }
+    },
+    "orange_q1431486": {
+      "slug": "orange_q1431486",
+      "title": "Orange",
+      "title_en": "Orange",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-87fd86.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orange-87fd86",
+        "wikidata": "Q1431486"
+      }
+    },
+    "chateaudax_q100249791": {
+      "slug": "chateaudax_q100249791",
+      "title": "Chateau d'Ax",
+      "title_en": "Chateau d'Ax",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateaudax-dd1a0d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chateaudax-dd1a0d",
+        "wikidata": "Q100249791"
+      }
+    },
+    "equivalenza_q104649798": {
+      "slug": "equivalenza_q104649798",
+      "title": "Equivalenza",
+      "title_en": "Equivalenza",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equivalenza-59ad61.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "equivalenza-59ad61",
+        "wikidata": "Q104649798"
+      }
+    },
+    "ooredoo_q919935": {
+      "slug": "ooredoo_q919935",
+      "title": "Ooredoo",
+      "title_en": "Ooredoo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ooredoo-5cc5ab.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ooredoo-5cc5ab",
+        "wikidata": "Q919935"
       }
     }
   }

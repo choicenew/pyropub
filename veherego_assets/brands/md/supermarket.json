@@ -1,27 +1,160 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "md",
+  "category": "supermarket",
+  "total_brands": 17,
   "brand_aliases": {
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "metro_q13610282": {
+      "slug": "metro_q13610282",
+      "title": "Metro",
+      "title_en": "Metro",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metro-09b7b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "metro-09b7b7",
+        "wikidata": "Q13610282"
+      }
+    },
+    "image9b9e42": {
+      "slug": "image9b9e42",
+      "title": "Имидж",
+      "title_en": "Image",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "image-9b9e42",
+        "wikidata": ""
+      }
+    },
+    "crtureti_q12726202": {
+      "slug": "crtureti_q12726202",
+      "title": "Cărturești",
+      "title_en": "Cărturești",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carturesti-2e1569.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "carturesti-2e1569",
+        "wikidata": "Q12726202"
+      }
+    },
+    "melimelo_q134389410": {
+      "slug": "melimelo_q134389410",
+      "title": "Meli Melo",
+      "title_en": "Meli Melo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/melimelo-15582e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "melimelo-15582e",
+        "wikidata": "Q134389410"
+      }
+    },
+    "optiplaza_q12737210": {
+      "slug": "optiplaza_q12737210",
+      "title": "Optiplaza",
+      "title_en": "Optiplaza",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/optiplaza-ac2de7.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "optiplaza-ac2de7",
+        "wikidata": "Q12737210"
+      }
+    },
+    "intercars_q115922509": {
+      "slug": "intercars_q115922509",
+      "title": "Inter Cars",
+      "title_en": "Inter Cars",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/intercars-a4b6c1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "intercars-a4b6c1",
+        "wikidata": "Q115922509"
+      }
+    },
+    "topshop_q116919675": {
+      "slug": "topshop_q116919675",
+      "title": "Top Shop",
+      "title_en": "Top Shop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/topshop-f153f8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "topshop-f153f8",
+        "wikidata": "Q116919675"
+      }
+    },
+    "novello_q127603433": {
+      "slug": "novello_q127603433",
+      "title": "No+vello",
+      "title_en": "No+vello",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/novello-44e247.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "novello-44e247",
+        "wikidata": "Q127603433"
+      }
+    },
+    "jumbo_q3562323": {
+      "slug": "jumbo_q3562323",
+      "title": "Jumbo",
+      "title_en": "Jumbo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jumbo-f2bb45.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jumbo-f2bb45",
+        "wikidata": "Q3562323"
+      }
+    },
     "familymarket": {
       "slug": "familymarket",
       "title": "Family Market",
-      "short_name": "Family Mar",
-      "badge_text": "F",
+      "title_en": "Family Market",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Family Market"
-      ],
-      "keywords": [
-        "Family Market"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "familymarket-cb8836",
         "wikidata": ""
@@ -30,21 +163,12 @@
     "kaufland_q685967": {
       "slug": "kaufland_q685967",
       "title": "Kaufland",
-      "short_name": "Kaufland",
-      "badge_text": "K",
+      "title_en": "Kaufland",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Kaufland"
-      ],
-      "keywords": [
-        "Kaufland"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaufland-464a37.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kaufland-464a37",
         "wikidata": "Q685967"
@@ -53,44 +177,68 @@
     "linella_q61085990": {
       "slug": "linella_q61085990",
       "title": "Linella",
-      "short_name": "Linella",
-      "badge_text": "L",
+      "title_en": "Linella",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Linella"
-      ],
-      "keywords": [
-        "Linella"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "linella-cb8836",
         "wikidata": "Q61085990"
       }
     },
+    "moldcell_q1971178": {
+      "slug": "moldcell_q1971178",
+      "title": "Moldcell",
+      "title_en": "Moldcell",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moldcell-a16e28.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "moldcell-a16e28",
+        "wikidata": "Q1971178"
+      }
+    },
+    "orange_q1431486": {
+      "slug": "orange_q1431486",
+      "title": "Orange",
+      "title_en": "Orange",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-87fd86.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orange-87fd86",
+        "wikidata": "Q1431486"
+      }
+    },
+    "serviceauto": {
+      "slug": "serviceauto",
+      "title": "Service Auto",
+      "title_en": "Service Auto",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "serviceauto-4fc828",
+        "wikidata": ""
+      }
+    },
     "hei_q1788862": {
       "slug": "hei_q1788862",
       "title": "hei",
-      "short_name": "hei",
-      "badge_text": "H",
+      "title_en": "hei",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "hei"
-      ],
-      "keywords": [
-        "hei"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hei-6378da.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hei-6378da",
         "wikidata": "Q1788862"

@@ -1,27 +1,146 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "pt",
+  "category": "express",
+  "total_brands": 13,
   "brand_aliases": {
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "cofidis_q1106920": {
+      "slug": "cofidis_q1106920",
+      "title": "Cofidis",
+      "title_en": "Cofidis",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cofidis-8d8ca3.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cofidis-8d8ca3",
+        "wikidata": "Q1106920"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "fidelidade_q108195506": {
+      "slug": "fidelidade_q108195506",
+      "title": "Fidelidade",
+      "title_en": "Fidelidade",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fidelidade-629ea0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fidelidade-629ea0",
+        "wikidata": "Q108195506"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "generalitranquilidade_q7833457": {
+      "slug": "generalitranquilidade_q7833457",
+      "title": "Generali Tranquilidade",
+      "title_en": "Generali Tranquilidade",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generalitranquilidade-629ea0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generalitranquilidade-629ea0",
+        "wikidata": "Q7833457"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "secondhome_q111387268": {
+      "slug": "secondhome_q111387268",
+      "title": "Second Home",
+      "title_en": "Second Home",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/secondhome-b3460a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "secondhome-b3460a",
+        "wikidata": "Q111387268"
+      }
+    },
     "nacex_q126366376": {
       "slug": "nacex_q126366376",
       "title": "Nacex",
-      "short_name": "Nacex",
-      "badge_text": "N",
+      "title_en": "Nacex",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Nacex"
-      ],
-      "keywords": [
-        "Nacex"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nacex-10ef8b",
         "wikidata": "Q126366376"
@@ -30,21 +149,12 @@
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -53,21 +163,12 @@
     "inpost_q3182097": {
       "slug": "inpost_q3182097",
       "title": "InPost",
-      "short_name": "InPost",
-      "badge_text": "I",
+      "title_en": "InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "InPost"
-      ],
-      "keywords": [
-        "InPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inpost-6b37ec",
         "wikidata": "Q3182097"
@@ -76,21 +177,12 @@
     "locky_q127548459": {
       "slug": "locky_q127548459",
       "title": "Locky",
-      "short_name": "Locky",
-      "badge_text": "L",
+      "title_en": "Locky",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Locky"
-      ],
-      "keywords": [
-        "Locky"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/locky-eaeb86.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "locky-eaeb86",
         "wikidata": "Q127548459"

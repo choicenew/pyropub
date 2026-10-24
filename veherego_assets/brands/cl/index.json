@@ -1,11 +1,15 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "cl",
-  "total_categories": 4,
+  "country_name": "Chile",
+  "total_categories": 6,
   "manifest_files": [
-    "food.json",
+    "other.json",
     "supermarket.json",
+    "food.json",
     "express.json",
+    "travel.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

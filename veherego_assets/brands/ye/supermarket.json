@@ -1,30 +1,37 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "ye",
+  "category": "supermarket",
+  "total_brands": 2,
   "brand_aliases": {
     "gant_q1380537": {
       "slug": "gant_q1380537",
       "title": "Géant",
-      "short_name": "Géant",
-      "badge_text": "G",
+      "title_en": "Géant",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Géant"
-      ],
-      "keywords": [
-        "Géant"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "geant-a2a643",
         "wikidata": "Q1380537"
+      }
+    },
+    "mtn_q1813361": {
+      "slug": "mtn_q1813361",
+      "title": "MTN",
+      "title_en": "MTN",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mtn-fe03c5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mtn-fe03c5",
+        "wikidata": "Q1813361"
       }
     }
   }

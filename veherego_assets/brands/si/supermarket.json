@@ -1,27 +1,482 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 8,
+  "country": "si",
+  "category": "supermarket",
+  "total_brands": 46,
   "brand_aliases": {
+    "rexel_q962489": {
+      "slug": "rexel_q962489",
+      "title": "Rexel",
+      "title_en": "Rexel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rexel-091354.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rexel-091354",
+        "wikidata": "Q962489"
+      }
+    },
+    "zlatarnacelje_q19736656": {
+      "slug": "zlatarnacelje_q19736656",
+      "title": "Zlatarna Celje",
+      "title_en": "Zlatarna Celje",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zlatarnacelje-702c99.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zlatarnacelje-702c99",
+        "wikidata": "Q19736656"
+      }
+    },
+    "hervis_q1614816": {
+      "slug": "hervis_q1614816",
+      "title": "Hervis",
+      "title_en": "Hervis",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hervis-38a747.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hervis-38a747",
+        "wikidata": "Q1614816"
+      }
+    },
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "skiset_q48747223": {
+      "slug": "skiset_q48747223",
+      "title": "Skiset",
+      "title_en": "Skiset",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/skiset-8e4106.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "skiset-8e4106",
+        "wikidata": "Q48747223"
+      }
+    },
+    "sportvision_q116729857": {
+      "slug": "sportvision_q116729857",
+      "title": "Sport Vision",
+      "title_en": "Sport Vision",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sportvision-daf837.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sportvision-daf837",
+        "wikidata": "Q116729857"
+      }
+    },
+    "dm_q266572": {
+      "slug": "dm_q266572",
+      "title": "dm",
+      "title_en": "dm",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dm-1281c9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dm-1281c9",
+        "wikidata": "Q266572"
+      }
+    },
+    "mller_q1958759": {
+      "slug": "mller_q1958759",
+      "title": "Müller",
+      "title_en": "Müller",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muller-4c5bf7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "muller-4c5bf7",
+        "wikidata": "Q1958759"
+      }
+    },
+    "humanic_q1636668": {
+      "slug": "humanic_q1636668",
+      "title": "Humanic",
+      "title_en": "Humanic",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/humanic-fbe642.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "humanic-fbe642",
+        "wikidata": "Q1636668"
+      }
+    },
+    "officeshoes_q93946123": {
+      "slug": "officeshoes_q93946123",
+      "title": "Office Shoes",
+      "title_en": "Office Shoes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officeshoes-30afef.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "officeshoes-30afef",
+        "wikidata": "Q93946123"
+      }
+    },
+    "pittarosso_q105643314": {
+      "slug": "pittarosso_q105643314",
+      "title": "PittaRosso",
+      "title_en": "PittaRosso",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pittarosso-6005fb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pittarosso-6005fb",
+        "wikidata": "Q105643314"
+      }
+    },
+    "sizeer_q93982889": {
+      "slug": "sizeer_q93982889",
+      "title": "Sizeer",
+      "title_en": "Sizeer",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sizeer-5db2a9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sizeer-5db2a9",
+        "wikidata": "Q93982889"
+      }
+    },
+    "istyle_q58196745": {
+      "slug": "istyle_q58196745",
+      "title": "iStyle",
+      "title_en": "iStyle",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/istyle-e9662e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "istyle-e9662e",
+        "wikidata": "Q58196745"
+      }
+    },
+    "neuroth_q15836645": {
+      "slug": "neuroth_q15836645",
+      "title": "Neuroth",
+      "title_en": "Neuroth",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neuroth-88d033.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "neuroth-88d033",
+        "wikidata": "Q15836645"
+      }
+    },
+    "intercars_q115922509": {
+      "slug": "intercars_q115922509",
+      "title": "Inter Cars",
+      "title_en": "Inter Cars",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/intercars-a4b6c1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "intercars-a4b6c1",
+        "wikidata": "Q115922509"
+      }
+    },
+    "toki_q125761127": {
+      "slug": "toki_q125761127",
+      "title": "Tokić",
+      "title_en": "Tokić",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tokic-5b5de8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tokic-5b5de8",
+        "wikidata": "Q125761127"
+      }
+    },
+    "tedi_q1364603": {
+      "slug": "tedi_q1364603",
+      "title": "TEDi",
+      "title_en": "TEDi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tedi-8a061e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tedi-8a061e",
+        "wikidata": "Q1364603"
+      }
+    },
+    "topshop_q116919675": {
+      "slug": "topshop_q116919675",
+      "title": "Top Shop",
+      "title_en": "Top Shop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/topshop-f153f8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "topshop-f153f8",
+        "wikidata": "Q116919675"
+      }
+    },
+    "novello_q127603433": {
+      "slug": "novello_q127603433",
+      "title": "No+vello",
+      "title_en": "No+vello",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/novello-44e247.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "novello-44e247",
+        "wikidata": "Q127603433"
+      }
+    },
+    "bauhaus_q672043": {
+      "slug": "bauhaus_q672043",
+      "title": "Bauhaus",
+      "title_en": "Bauhaus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bauhaus-6847b5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bauhaus-6847b5",
+        "wikidata": "Q672043"
+      }
+    },
+    "obi_q300518": {
+      "slug": "obi_q300518",
+      "title": "OBI",
+      "title_en": "OBI",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/obi-5571de.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "obi-5571de",
+        "wikidata": "Q300518"
+      }
+    },
+    "comma_q15803717": {
+      "slug": "comma_q15803717",
+      "title": "comma",
+      "title_en": "comma",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comma-9aade2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "comma-9aade2",
+        "wikidata": "Q15803717"
+      }
+    },
+    "cropp_q9196793": {
+      "slug": "cropp_q9196793",
+      "title": "Cropp",
+      "title_en": "Cropp",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cropp-049ecd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cropp-049ecd",
+        "wikidata": "Q9196793"
+      }
+    },
+    "extremeintimo_q117309408": {
+      "slug": "extremeintimo_q117309408",
+      "title": "Extreme Intimo",
+      "title_en": "Extreme Intimo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/extremeintimo-bdfec0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "extremeintimo-bdfec0",
+        "wikidata": "Q117309408"
+      }
+    },
+    "house_q9294202": {
+      "slug": "house_q9294202",
+      "title": "House",
+      "title_en": "House",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "house-049ecd",
+        "wikidata": "Q9294202"
+      }
+    },
+    "kik_q883965": {
+      "slug": "kik_q883965",
+      "title": "KiK",
+      "title_en": "KiK",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kik-323dff.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kik-323dff",
+        "wikidata": "Q883965"
+      }
+    },
+    "luna_q133254189": {
+      "slug": "luna_q133254189",
+      "title": "Luna",
+      "title_en": "Luna",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "luna-ee6563",
+        "wikidata": "Q133254189"
+      }
+    },
+    "mana": {
+      "slug": "mana",
+      "title": "Mana",
+      "title_en": "Mana",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mana-c5c387",
+        "wikidata": ""
+      }
+    },
+    "mohito_q107410616": {
+      "slug": "mohito_q107410616",
+      "title": "Mohito",
+      "title_en": "Mohito",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mohito-388bf6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mohito-388bf6",
+        "wikidata": "Q107410616"
+      }
+    },
+    "nkd_q927272": {
+      "slug": "nkd_q927272",
+      "title": "NKD",
+      "title_en": "NKD",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nkd-30d2bf.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nkd-30d2bf",
+        "wikidata": "Q927272"
+      }
+    },
+    "pepco_q11815580": {
+      "slug": "pepco_q11815580",
+      "title": "Pepco",
+      "title_en": "Pepco",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pepco-9b55e7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pepco-9b55e7",
+        "wikidata": "Q11815580"
+      }
+    },
+    "takkofashion_q1371302": {
+      "slug": "takkofashion_q1371302",
+      "title": "Takko Fashion",
+      "title_en": "Takko Fashion",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/takkofashion-80f395.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "takkofashion-80f395",
+        "wikidata": "Q1371302"
+      }
+    },
+    "textilehouse_q77878002": {
+      "slug": "textilehouse_q77878002",
+      "title": "Textile house",
+      "title_en": "Textile house",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/textilehouse-86acc9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "textilehouse-86acc9",
+        "wikidata": "Q77878002"
+      }
+    },
     "eurospin_q1374674": {
       "slug": "eurospin_q1374674",
       "title": "EuroSpin",
-      "short_name": "EuroSpin",
-      "badge_text": "E",
+      "title_en": "EuroSpin",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "EuroSpin"
-      ],
-      "keywords": [
-        "EuroSpin"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eurospin-8a5880.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "eurospin-8a5880",
         "wikidata": "Q1374674"
@@ -30,21 +485,12 @@
     "hofer_q15815751": {
       "slug": "hofer_q15815751",
       "title": "Hofer",
-      "short_name": "Hofer",
-      "badge_text": "H",
+      "title_en": "Hofer",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Hofer"
-      ],
-      "keywords": [
-        "Hofer"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hofer-83285c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hofer-83285c",
         "wikidata": "Q15815751"
@@ -53,21 +499,12 @@
     "interspar_q15820339": {
       "slug": "interspar_q15820339",
       "title": "Interspar",
-      "short_name": "Interspar",
-      "badge_text": "I",
+      "title_en": "Interspar",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Interspar"
-      ],
-      "keywords": [
-        "Interspar"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/interspar-268650.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "interspar-268650",
         "wikidata": "Q15820339"
@@ -76,21 +513,12 @@
     "mercator_q738412": {
       "slug": "mercator_q738412",
       "title": "Mercator",
-      "short_name": "Mercator",
-      "badge_text": "M",
+      "title_en": "Mercator",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Mercator"
-      ],
-      "keywords": [
-        "Mercator"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercator-eb6d99.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mercator-eb6d99",
         "wikidata": "Q738412"
@@ -99,44 +527,40 @@
     "mixmarkt_q327854": {
       "slug": "mixmarkt_q327854",
       "title": "Mix Markt",
-      "short_name": "Mix Markt",
-      "badge_text": "M",
+      "title_en": "Mix Markt",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Mix Markt"
-      ],
-      "keywords": [
-        "Mix Markt"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mixmarkt-4aeb54.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mixmarkt-4aeb54",
         "wikidata": "Q327854"
       }
     },
+    "telekom_q9396": {
+      "slug": "telekom_q9396",
+      "title": "Telekom",
+      "title_en": "Telekom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telekom-7c714d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "telekom-7c714d",
+        "wikidata": "Q9396"
+      }
+    },
     "freshcorner_q129256375": {
       "slug": "freshcorner_q129256375",
       "title": "Fresh Corner",
-      "short_name": "Fresh Corn",
-      "badge_text": "F",
+      "title_en": "Fresh Corner",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Fresh Corner"
-      ],
-      "keywords": [
-        "Fresh Corner"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freshcorner-f9f0e2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "freshcorner-f9f0e2",
         "wikidata": "Q129256375"
@@ -145,23 +569,12 @@
     "ikeaswedishfoodmarket_q54078": {
       "slug": "ikeaswedishfoodmarket_q54078",
       "title": "IKEA Swedish Food Market",
-      "short_name": "IKEA Swedi",
-      "badge_text": "I",
+      "title_en": "IKEA Swedish Food Market",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeaswedishfoodmarket-e66215.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeaswedishfoodmarket-e66215",
         "wikidata": "Q54078"
@@ -170,24 +583,71 @@
     "molshop_q549181": {
       "slug": "molshop_q549181",
       "title": "MOL Shop",
-      "short_name": "MOL Shop",
-      "badge_text": "M",
+      "title_en": "MOL Shop",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "MOL Shop"
-      ],
-      "keywords": [
-        "MOL Shop"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/molshop-32b19d.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "molshop-32b19d",
         "wikidata": "Q549181"
+      }
+    },
+    "chateaudax_q100249791": {
+      "slug": "chateaudax_q100249791",
+      "title": "Chateau d'Ax",
+      "title_en": "Chateau d'Ax",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateaudax-dd1a0d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chateaudax-dd1a0d",
+        "wikidata": "Q100249791"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "IKEA",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-ac4ccb",
+        "wikidata": "Q54078"
+      }
+    },
+    "douglas_q2052213": {
+      "slug": "douglas_q2052213",
+      "title": "Douglas",
+      "title_en": "Douglas",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/douglas-4ed3c9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "douglas-4ed3c9",
+        "wikidata": "Q2052213"
+      }
+    },
+    "a1_q688755": {
+      "slug": "a1_q688755",
+      "title": "A1",
+      "title_en": "A1",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/a1-5b3624.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "a1-5b3624",
+        "wikidata": "Q688755"
       }
     }
   }

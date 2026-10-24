@@ -1,27 +1,48 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "li",
+  "category": "supermarket",
+  "total_brands": 6,
   "brand_aliases": {
+    "mller_q1958759": {
+      "slug": "mller_q1958759",
+      "title": "Müller",
+      "title_en": "Müller",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muller-4c5bf7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "muller-4c5bf7",
+        "wikidata": "Q1958759"
+      }
+    },
+    "neuroth_q15836645": {
+      "slug": "neuroth_q15836645",
+      "title": "Neuroth",
+      "title_en": "Neuroth",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neuroth-88d033.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "neuroth-88d033",
+        "wikidata": "Q15836645"
+      }
+    },
     "denner_q379911": {
       "slug": "denner_q379911",
       "title": "Denner",
-      "short_name": "Denner",
-      "badge_text": "D",
+      "title_en": "Denner",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Denner"
-      ],
-      "keywords": [
-        "Denner"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/denner-704edb.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "denner-704edb",
         "wikidata": "Q379911"
@@ -30,21 +51,12 @@
     "volg_q2530746": {
       "slug": "volg_q2530746",
       "title": "Volg",
-      "short_name": "Volg",
-      "badge_text": "V",
+      "title_en": "Volg",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Volg"
-      ],
-      "keywords": [
-        "Volg"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/volg-704edb.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "volg-704edb",
         "wikidata": "Q2530746"
@@ -53,21 +65,12 @@
     "cooppronto_q1129777": {
       "slug": "cooppronto_q1129777",
       "title": "Coop Pronto",
-      "short_name": "Coop Pront",
-      "badge_text": "C",
+      "title_en": "Coop Pronto",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Coop Pronto"
-      ],
-      "keywords": [
-        "Coop Pronto"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooppronto-0438d5.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooppronto-0438d5",
         "wikidata": "Q1129777"
@@ -76,21 +79,12 @@
     "kkiosk_q60381703": {
       "slug": "kkiosk_q60381703",
       "title": "k kiosk",
-      "short_name": "k kiosk",
-      "badge_text": "K",
+      "title_en": "k kiosk",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "k kiosk"
-      ],
-      "keywords": [
-        "k kiosk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kkiosk-e34768.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kkiosk-e34768",
         "wikidata": "Q60381703"

@@ -1,27 +1,692 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "fx",
+  "category": "express",
+  "total_brands": 49,
   "brand_aliases": {
+    "randstaddigital_q2872338": {
+      "slug": "randstaddigital_q2872338",
+      "title": "Randstad Digital",
+      "title_en": "Randstad Digital",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstaddigital-ae4dd7",
+        "wikidata": "Q2872338"
+      }
+    },
+    "cfdt_q1125605": {
+      "slug": "cfdt_q1125605",
+      "title": "CFDT",
+      "title_en": "CFDT",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cfdt-98227a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cfdt-98227a",
+        "wikidata": "Q1125605"
+      }
+    },
+    "cfecgc_q2992730": {
+      "slug": "cfecgc_q2992730",
+      "title": "CFE-CGC",
+      "title_en": "CFE-CGC",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cfecgc-98227a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cfecgc-98227a",
+        "wikidata": "Q2992730"
+      }
+    },
+    "cftc_q1125610": {
+      "slug": "cftc_q1125610",
+      "title": "CFTC",
+      "title_en": "CFTC",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cftc-98227a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cftc-98227a",
+        "wikidata": "Q1125610"
+      }
+    },
+    "cgt_q1125638": {
+      "slug": "cgt_q1125638",
+      "title": "CGT",
+      "title_en": "CGT",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cgt-98227a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cgt-98227a",
+        "wikidata": "Q1125638"
+      }
+    },
+    "fo_q1125623": {
+      "slug": "fo_q1125623",
+      "title": "FO",
+      "title_en": "FO",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fo-98227a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fo-98227a",
+        "wikidata": "Q1125623"
+      }
+    },
+    "fse_q109037715": {
+      "slug": "fse_q109037715",
+      "title": "FSE",
+      "title_en": "FSE",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fse-98227a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fse-98227a",
+        "wikidata": "Q109037715"
+      }
+    },
+    "sesl_q16677410": {
+      "slug": "sesl_q16677410",
+      "title": "SESL",
+      "title_en": "SESL",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sesl-98227a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sesl-98227a",
+        "wikidata": "Q16677410"
+      }
+    },
+    "solidaires_q3550610": {
+      "slug": "solidaires_q3550610",
+      "title": "Solidaires",
+      "title_en": "Solidaires",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solidaires-98227a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "solidaires-98227a",
+        "wikidata": "Q3550610"
+      }
+    },
+    "ue_q117428377": {
+      "slug": "ue_q117428377",
+      "title": "UE",
+      "title_en": "UE",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ue-98227a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ue-98227a",
+        "wikidata": "Q117428377"
+      }
+    },
+    "unef_q910798": {
+      "slug": "unef_q910798",
+      "title": "UNEF",
+      "title_en": "UNEF",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unef-98227a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unef-98227a",
+        "wikidata": "Q910798"
+      }
+    },
+    "appelmdical": {
+      "slug": "appelmdical",
+      "title": "Appel Médical",
+      "title_en": "Appel Médical",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "appelmedical-e5fc42",
+        "wikidata": ""
+      }
+    },
+    "crit_q126912884": {
+      "slug": "crit_q126912884",
+      "title": "CRIT Interim",
+      "title_en": "CRIT Interim",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/critinterim-e5fc42.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "critinterim-e5fc42",
+        "wikidata": "Q126912884"
+      }
+    },
+    "dominorh_q141174923": {
+      "slug": "dominorh_q141174923",
+      "title": "Domino RH",
+      "title_en": "Domino RH",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dominorh-e5fc42",
+        "wikidata": "Q141174923"
+      }
+    },
+    "interaction": {
+      "slug": "interaction",
+      "title": "Interaction",
+      "title_en": "Interaction",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "interaction-e5fc42",
+        "wikidata": ""
+      }
+    },
+    "morganservices": {
+      "slug": "morganservices",
+      "title": "Morgan Services",
+      "title_en": "Morgan Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "morganservices-e5fc42",
+        "wikidata": ""
+      }
+    },
+    "supplay_q140701082": {
+      "slug": "supplay_q140701082",
+      "title": "Supplay",
+      "title_en": "Supplay",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supplay-e5fc42.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "supplay-e5fc42",
+        "wikidata": "Q140701082"
+      }
+    },
+    "synergiefrance_q130540603": {
+      "slug": "synergiefrance_q130540603",
+      "title": "Synergie",
+      "title_en": "Synergie",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synergie-e5fc42.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "synergie-e5fc42",
+        "wikidata": "Q130540603"
+      }
+    },
+    "temporis": {
+      "slug": "temporis",
+      "title": "Temporis",
+      "title_en": "Temporis",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "temporis-e5fc42",
+        "wikidata": ""
+      }
+    },
+    "activexpertise": {
+      "slug": "activexpertise",
+      "title": "Activ'expertise",
+      "title_en": "Activ'expertise",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "activexpertise-b7bc37",
+        "wikidata": ""
+      }
+    },
+    "ajpimmobilier_q141301527": {
+      "slug": "ajpimmobilier_q141301527",
+      "title": "AJP Immobilier",
+      "title_en": "AJP Immobilier",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ajpimmobilier-b7bc37",
+        "wikidata": "Q141301527"
+      }
+    },
+    "cabinetbedin_q141309660": {
+      "slug": "cabinetbedin_q141309660",
+      "title": "Cabinet Bedin",
+      "title_en": "Cabinet Bedin",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cabinetbedin-b7bc37",
+        "wikidata": "Q141309660"
+      }
+    },
+    "cimmimmobilier": {
+      "slug": "cimmimmobilier",
+      "title": "Cimm Immobilier",
+      "title_en": "Cimm Immobilier",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cimmimmobilier-b7bc37",
+        "wikidata": ""
+      }
+    },
+    "eraimmobilier_q121496901": {
+      "slug": "eraimmobilier_q121496901",
+      "title": "ERA Immobilier",
+      "title_en": "ERA Immobilier",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eraimmobilier-5155c2.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eraimmobilier-5155c2",
+        "wikidata": "Q121496901"
+      }
+    },
+    "foncia_q1435638": {
+      "slug": "foncia_q1435638",
+      "title": "Foncia",
+      "title_en": "Foncia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foncia-b7bc37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foncia-b7bc37",
+        "wikidata": "Q1435638"
+      }
+    },
+    "humanimmobilier_q102352527": {
+      "slug": "humanimmobilier_q102352527",
+      "title": "Human Immobilier",
+      "title_en": "Human Immobilier",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "humanimmobilier-b7bc37",
+        "wikidata": "Q102352527"
+      }
+    },
+    "nestenn_q128788942": {
+      "slug": "nestenn_q128788942",
+      "title": "Nestenn",
+      "title_en": "Nestenn",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nestenn-b7bc37.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nestenn-b7bc37",
+        "wikidata": "Q128788942"
+      }
+    },
+    "nexity_q3339185": {
+      "slug": "nexity_q3339185",
+      "title": "Nexity",
+      "title_en": "Nexity",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nexity-b7bc37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nexity-b7bc37",
+        "wikidata": "Q3339185"
+      }
+    },
+    "squarehabitat_q64027038": {
+      "slug": "squarehabitat_q64027038",
+      "title": "Square Habitat",
+      "title_en": "Square Habitat",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/squarehabitat-b7bc37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "squarehabitat-b7bc37",
+        "wikidata": "Q64027038"
+      }
+    },
+    "stphaneplazaimmobilier_q97368097": {
+      "slug": "stphaneplazaimmobilier_q97368097",
+      "title": "Stéphane Plaza Immobilier",
+      "title_en": "Stéphane Plaza Immobilier",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stephaneplazaimmobilier-b7bc37.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "stephaneplazaimmobilier-b7bc37",
+        "wikidata": "Q97368097"
+      }
+    },
+    "cafpi_q2932922": {
+      "slug": "cafpi_q2932922",
+      "title": "Cafpi",
+      "title_en": "Cafpi",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cafpi-1791d3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cafpi-1791d3",
+        "wikidata": "Q2932922"
+      }
+    },
+    "meilleurtaux_q3304699": {
+      "slug": "meilleurtaux_q3304699",
+      "title": "Meilleurtaux",
+      "title_en": "Meilleurtaux",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meilleurtaux-1791d3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "meilleurtaux-1791d3",
+        "wikidata": "Q3304699"
+      }
+    },
+    "vousfinancer_q114185120": {
+      "slug": "vousfinancer_q114185120",
+      "title": "Vousfinancer",
+      "title_en": "Vousfinancer",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vousfinancer-1791d3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vousfinancer-1791d3",
+        "wikidata": "Q114185120"
+      }
+    },
+    "ymanci_q109722251": {
+      "slug": "ymanci_q109722251",
+      "title": "Ymanci",
+      "title_en": "Ymanci",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ymanci-1791d3",
+        "wikidata": "Q109722251"
+      }
+    },
+    "lesdmnageursbretons_q60849018": {
+      "slug": "lesdmnageursbretons_q60849018",
+      "title": "Les Déménageurs Bretons",
+      "title_en": "Les Déménageurs Bretons",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lesdemenageursbretons-05c8b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lesdemenageursbretons-05c8b7",
+        "wikidata": "Q60849018"
+      }
+    },
+    "abeilleassurances_q117012137": {
+      "slug": "abeilleassurances_q117012137",
+      "title": "Abeille Assurances",
+      "title_en": "Abeille Assurances",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abeilleassurances-8c2e7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "abeilleassurances-8c2e7e",
+        "wikidata": "Q117012137"
+      }
+    },
+    "asiomutuelle_q56320205": {
+      "slug": "asiomutuelle_q56320205",
+      "title": "Aésio Mutuelle",
+      "title_en": "Aésio Mutuelle",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aesiomutuelle-8c2e7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aesiomutuelle-8c2e7e",
+        "wikidata": "Q56320205"
+      }
+    },
+    "assu2000_q126596934": {
+      "slug": "assu2000_q126596934",
+      "title": "Assu 2000",
+      "title_en": "Assu 2000",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/assu2000-8c2e7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "assu2000-8c2e7e",
+        "wikidata": "Q126596934"
+      }
+    },
+    "harmoniemutuelle_q3127528": {
+      "slug": "harmoniemutuelle_q3127528",
+      "title": "Harmonie Mutuelle",
+      "title_en": "Harmonie Mutuelle",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harmoniemutuelle-8c2e7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "harmoniemutuelle-8c2e7e",
+        "wikidata": "Q3127528"
+      }
+    },
+    "macif_q3331021": {
+      "slug": "macif_q3331021",
+      "title": "Macif",
+      "title_en": "Macif",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macif-8c2e7e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "macif-8c2e7e",
+        "wikidata": "Q3331021"
+      }
+    },
+    "matmut_q3299185": {
+      "slug": "matmut_q3299185",
+      "title": "Matmut",
+      "title_en": "Matmut",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/matmut-8c2e7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "matmut-8c2e7e",
+        "wikidata": "Q3299185"
+      }
+    },
+    "mma_q3331046": {
+      "slug": "mma_q3331046",
+      "title": "MMA",
+      "title_en": "MMA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mma-8c2e7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mma-8c2e7e",
+        "wikidata": "Q3331046"
+      }
+    },
+    "mutuelledepoitiersassurances_q57200940": {
+      "slug": "mutuelledepoitiersassurances_q57200940",
+      "title": "Mutuelle de Poitiers Assurances",
+      "title_en": "Mutuelle de Poitiers Assurances",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mutuelledepoitiersassurances-8c2e7e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mutuelledepoitiersassurances-8c2e7e",
+        "wikidata": "Q57200940"
+      }
+    },
+    "prvoirassurances": {
+      "slug": "prvoirassurances",
+      "title": "Prévoir Assurances",
+      "title_en": "Prévoir Assurances",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "prevoirassurances-8c2e7e",
+        "wikidata": ""
+      }
+    },
+    "pcf_q192821": {
+      "slug": "pcf_q192821",
+      "title": "Parti Communiste Français",
+      "title_en": "Parti Communiste Français",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/particommunistefrancais-ed1753.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "particommunistefrancais-ed1753",
+        "wikidata": "Q192821"
+      }
+    },
+    "franceservices_q24931343": {
+      "slug": "franceservices_q24931343",
+      "title": "France Services",
+      "title_en": "France Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/franceservices-9f865c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "franceservices-9f865c",
+        "wikidata": "Q24931343"
+      }
+    },
+    "gnraledesservices": {
+      "slug": "gnraledesservices",
+      "title": "Générale Des Services",
+      "title_en": "Générale Des Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generaledesservices-16802d",
+        "wikidata": ""
+      }
+    },
+    "lacompagniedesdboucheurs": {
+      "slug": "lacompagniedesdboucheurs",
+      "title": "La Compagnie Des Déboucheurs",
+      "title_en": "La Compagnie Des Déboucheurs",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lacompagniedesdeboucheurs-16802d",
+        "wikidata": ""
+      }
+    },
     "pickupstation_q110748562": {
       "slug": "pickupstation_q110748562",
       "title": "Pickup Station",
-      "short_name": "Pickup Sta",
-      "badge_text": "P",
+      "title_en": "Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Pickup Station"
-      ],
-      "keywords": [
-        "Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pickupstation-b94a6a.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pickupstation-b94a6a",
         "wikidata": "Q110748562"

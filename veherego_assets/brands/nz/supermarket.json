@@ -1,27 +1,1504 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 14,
+  "country": "nz",
+  "category": "supermarket",
+  "total_brands": 142,
   "brand_aliases": {
-    "bininn_q110524077": {
-      "slug": "bininn_q110524077",
-      "title": "Bin Inn",
-      "short_name": "Bin Inn",
-      "badge_text": "B",
+    "madbutcher_q111015152": {
+      "slug": "madbutcher_q111015152",
+      "title": "Mad Butcher",
+      "title_en": "Mad Butcher",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "madbutcher-79ce66",
+        "wikidata": "Q111015152"
+      }
+    },
+    "habitatforhumanityrestore_q108414596": {
+      "slug": "habitatforhumanityrestore_q108414596",
+      "title": "Habitat for Humanity ReStore",
+      "title_en": "Habitat for Humanity ReStore",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "habitatforhumanityrestore-0873d3",
+        "wikidata": "Q108414596"
+      }
+    },
+    "rexel_q962489": {
+      "slug": "rexel_q962489",
+      "title": "Rexel",
+      "title_en": "Rexel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rexel-091354.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rexel-091354",
+        "wikidata": "Q962489"
+      }
+    },
+    "liquidlaundromat": {
+      "slug": "liquidlaundromat",
+      "title": "Liquid Laundromat",
+      "title_en": "Liquid Laundromat",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "liquidlaundromat-cfb67c",
+        "wikidata": ""
+      }
+    },
+    "adairs_q109626904": {
+      "slug": "adairs_q109626904",
+      "title": "Adairs",
+      "title_en": "Adairs",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adairs-f571b2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "adairs-f571b2",
+        "wikidata": "Q109626904"
+      }
+    },
+    "bedbathbeyondnewzealand_q110295215": {
+      "slug": "bedbathbeyondnewzealand_q110295215",
+      "title": "Bed Bath & Beyond",
+      "title_en": "Bed Bath & Beyond",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedbathandbeyond-1d32aa.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bedbathandbeyond-1d32aa",
+        "wikidata": "Q110295215"
+      }
+    },
+    "bedbathntable_q118551276": {
+      "slug": "bedbathntable_q118551276",
+      "title": "Bed Bath N' Table",
+      "title_en": "Bed Bath N' Table",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedbathntable-299251.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bedbathntable-299251",
+        "wikidata": "Q118551276"
+      }
+    },
+    "briscoes_q110190653": {
+      "slug": "briscoes_q110190653",
+      "title": "Briscoes",
+      "title_en": "Briscoes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/briscoes-1d32aa.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "briscoes-1d32aa",
+        "wikidata": "Q110190653"
+      }
+    },
+    "goldmark_q17005474": {
+      "slug": "goldmark_q17005474",
+      "title": "Goldmark",
+      "title_en": "Goldmark",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goldmark-f8a228.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "goldmark-f8a228",
+        "wikidata": "Q17005474"
+      }
+    },
+    "michaelhill_q3308250": {
+      "slug": "michaelhill_q3308250",
+      "title": "Michael Hill",
+      "title_en": "Michael Hill",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/michaelhill-4ffa40.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "michaelhill-4ffa40",
+        "wikidata": "Q3308250"
+      }
+    },
+    "carters_q5047174": {
+      "slug": "carters_q5047174",
+      "title": "Carters",
+      "title_en": "Carters",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carters-10910e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "carters-10910e",
+        "wikidata": "Q5047174"
+      }
+    },
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "rebelsport_q110190372": {
+      "slug": "rebelsport_q110190372",
+      "title": "Rebel Sport",
+      "title_en": "Rebel Sport",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rebelsport-6d17d3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rebelsport-6d17d3",
+        "wikidata": "Q110190372"
+      }
+    },
+    "costco_q715583": {
+      "slug": "costco_q715583",
+      "title": "Costco",
+      "title_en": "Costco",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "costco-69a5bf",
+        "wikidata": "Q715583"
+      }
+    },
+    "choicesflooring_q117155570": {
+      "slug": "choicesflooring_q117155570",
+      "title": "Choices Flooring",
+      "title_en": "Choices Flooring",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/choicesflooring-42cf07.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "choicesflooring-42cf07",
+        "wikidata": "Q117155570"
+      }
+    },
+    "justcuts_q116784479": {
+      "slug": "justcuts_q116784479",
+      "title": "Just Cuts",
+      "title_en": "Just Cuts",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/justcuts-f77181.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "justcuts-f77181",
+        "wikidata": "Q116784479"
+      }
+    },
+    "synergyhair_q121644633": {
+      "slug": "synergyhair_q121644633",
+      "title": "Synergy Hair",
+      "title_en": "Synergy Hair",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/synergyhair-637f75.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "synergyhair-637f75",
+        "wikidata": "Q121644633"
+      }
+    },
+    "cashconverters_q5048645": {
+      "slug": "cashconverters_q5048645",
+      "title": "Cash Converters",
+      "title_en": "Cash Converters",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cashconverters-1c62e9",
+        "wikidata": "Q5048645"
+      }
+    },
+    "peachescream_q110923243": {
+      "slug": "peachescream_q110923243",
+      "title": "Peaches & Cream",
+      "title_en": "Peaches & Cream",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "peachesandcream-a6d61a",
+        "wikidata": "Q110923243"
+      }
+    },
+    "paperplus_q110437236": {
+      "slug": "paperplus_q110437236",
+      "title": "Paper Plus",
+      "title_en": "Paper Plus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paperplus-fe66a8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "paperplus-fe66a8",
+        "wikidata": "Q110437236"
+      }
+    },
+    "whitcoulls_q7994237": {
+      "slug": "whitcoulls_q7994237",
+      "title": "Whitcoulls",
+      "title_en": "Whitcoulls",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "whitcoulls-fe66a8",
+        "wikidata": "Q7994237"
+      }
+    },
+    "novo_q120669012": {
+      "slug": "novo_q120669012",
+      "title": "NOVO",
+      "title_en": "NOVO",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/novo-f56c2a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "novo-f56c2a",
+        "wikidata": "Q120669012"
+      }
+    },
+    "numberoneshoes_q111015103": {
+      "slug": "numberoneshoes_q111015103",
+      "title": "Number One Shoes",
+      "title_en": "Number One Shoes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/numberoneshoes-4d7d7d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "numberoneshoes-4d7d7d",
+        "wikidata": "Q111015103"
+      }
+    },
+    "jaycar_q6167713": {
+      "slug": "jaycar_q6167713",
+      "title": "Jaycar",
+      "title_en": "Jaycar",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jaycar-2d5b11.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jaycar-2d5b11",
+        "wikidata": "Q6167713"
+      }
+    },
+    "jbhifi_q3310113": {
+      "slug": "jbhifi_q3310113",
+      "title": "JB Hi-Fi",
+      "title_en": "JB Hi-Fi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jbhifi-2d5b11.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jbhifi-2d5b11",
+        "wikidata": "Q3310113"
+      }
+    },
+    "noelleeming_q110205329": {
+      "slug": "noelleeming_q110205329",
+      "title": "Noel Leeming",
+      "title_en": "Noel Leeming",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/noelleeming-5f4367.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "noelleeming-5f4367",
+        "wikidata": "Q110205329"
+      }
+    },
+    "baileynelson_q107639842": {
+      "slug": "baileynelson_q107639842",
+      "title": "Bailey Nelson",
+      "title_en": "Bailey Nelson",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baileynelson-fadfbe",
+        "wikidata": "Q107639842"
+      }
+    },
+    "opsm_q7072858": {
+      "slug": "opsm_q7072858",
+      "title": "OPSM",
+      "title_en": "OPSM",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/opsm-d767a4.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "opsm-d767a4",
+        "wikidata": "Q7072858"
+      }
+    },
+    "oscarwylee_q120669494": {
+      "slug": "oscarwylee_q120669494",
+      "title": "Oscar Wylee",
+      "title_en": "Oscar Wylee",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oscarwylee-d767a4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oscarwylee-d767a4",
+        "wikidata": "Q120669494"
+      }
+    },
+    "babybunting_q109626935": {
+      "slug": "babybunting_q109626935",
+      "title": "Baby Bunting",
+      "title_en": "Baby Bunting",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babybunting-124709.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "babybunting-124709",
+        "wikidata": "Q109626935"
+      }
+    },
+    "thebabyfactory_q110298660": {
+      "slug": "thebabyfactory_q110298660",
+      "title": "The Baby Factory",
+      "title_en": "The Baby Factory",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thebabyfactory-42c98b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thebabyfactory-42c98b",
+        "wikidata": "Q110298660"
+      }
+    },
+    "99bikes_q110288298": {
+      "slug": "99bikes_q110288298",
+      "title": "99 Bikes",
+      "title_en": "99 Bikes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/99bikes-0d00fa.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "99bikes-0d00fa",
+        "wikidata": "Q110288298"
+      }
+    },
+    "officemax_q7079111": {
+      "slug": "officemax_q7079111",
+      "title": "OfficeMax",
+      "title_en": "OfficeMax",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/officemax-f154d6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "officemax-f154d6",
+        "wikidata": "Q7079111"
+      }
+    },
+    "smiggle_q7544536": {
+      "slug": "smiggle_q7544536",
+      "title": "Smiggle",
+      "title_en": "Smiggle",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smiggle-471bdb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smiggle-471bdb",
+        "wikidata": "Q7544536"
+      }
+    },
+    "warehousestationery_q110221565": {
+      "slug": "warehousestationery_q110221565",
+      "title": "Warehouse Stationery",
+      "title_en": "Warehouse Stationery",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warehousestationery-a34cb3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "warehousestationery-a34cb3",
+        "wikidata": "Q110221565"
+      }
+    },
+    "bedsrusnewzealand_q111018938": {
+      "slug": "bedsrusnewzealand_q111018938",
+      "title": "BedsRus",
+      "title_en": "BedsRus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bedsrus-a769d8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bedsrus-a769d8",
+        "wikidata": "Q111018938"
+      }
+    },
+    "audika_q2870745": {
+      "slug": "audika_q2870745",
+      "title": "Audika",
+      "title_en": "Audika",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/audika-d17c26.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "audika-d17c26",
+        "wikidata": "Q2870745"
+      }
+    },
+    "carpetcourtnewzealand_q137908618": {
+      "slug": "carpetcourtnewzealand_q137908618",
+      "title": "Carpet Court",
+      "title_en": "Carpet Court",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carpetcourt-3bed23.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "carpetcourt-3bed23",
+        "wikidata": "Q137908618"
+      }
+    },
+    "advantage_q131625974": {
+      "slug": "advantage_q131625974",
+      "title": "Advantage",
+      "title_en": "Advantage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/advantage-d7c451.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "advantage-d7c451",
+        "wikidata": "Q131625974"
+      }
+    },
+    "repco_q173425": {
+      "slug": "repco_q173425",
+      "title": "Repco",
+      "title_en": "Repco",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/repco-ff9108.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "repco-ff9108",
+        "wikidata": "Q173425"
+      }
+    },
+    "supercheapauto_q7643119": {
+      "slug": "supercheapauto_q7643119",
+      "title": "Supercheap Auto",
+      "title_en": "Supercheap Auto",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supercheapauto-ff9108.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "supercheapauto-ff9108",
+        "wikidata": "Q7643119"
+      }
+    },
+    "animates_q110299350": {
+      "slug": "animates_q110299350",
+      "title": "Animates",
+      "title_en": "Animates",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/animates-b0a57a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "animates-b0a57a",
+        "wikidata": "Q110299350"
+      }
+    },
+    "holden_q29281": {
+      "slug": "holden_q29281",
+      "title": "Holden",
+      "title_en": "Holden",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/holden-e02034.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "holden-e02034",
+        "wikidata": "Q29281"
+      }
+    },
+    "henrys_q111017798": {
+      "slug": "henrys_q111017798",
+      "title": "Henry's",
+      "title_en": "Henry's",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "henrys-a2b828",
+        "wikidata": "Q111017798"
+      }
+    },
+    "liquorlandnewzealand_q110295342": {
+      "slug": "liquorlandnewzealand_q110295342",
+      "title": "Liquorland",
+      "title_en": "Liquorland",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "liquorland-a2b828",
+        "wikidata": "Q110295342"
+      }
+    },
+    "superliquor_q112038718": {
+      "slug": "superliquor_q112038718",
+      "title": "Super Liquor",
+      "title_en": "Super Liquor",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "superliquor-a2b828",
+        "wikidata": "Q112038718"
+      }
+    },
+    "thebottleo_q111015122": {
+      "slug": "thebottleo_q111015122",
+      "title": "The Bottle-O",
+      "title_en": "The Bottle-O",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thebottleo-a2b828",
+        "wikidata": "Q111015122"
+      }
+    },
+    "thirstyliquor": {
+      "slug": "thirstyliquor",
+      "title": "Thirsty Liquor",
+      "title_en": "Thirsty Liquor",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thirstyliquor-a2b828",
+        "wikidata": ""
+      }
+    },
+    "palmers_q7128292": {
+      "slug": "palmers_q7128292",
+      "title": "Palmers",
+      "title_en": "Palmers",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palmers-aac937.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "palmers-aac937",
+        "wikidata": "Q7128292"
+      }
+    },
+    "hirepool_q114352983": {
+      "slug": "hirepool_q114352983",
+      "title": "Hirepool",
+      "title_en": "Hirepool",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hirepool-13c9d0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hirepool-13c9d0",
+        "wikidata": "Q114352983"
+      }
+    },
+    "kennardshire_q63557330": {
+      "slug": "kennardshire_q63557330",
+      "title": "Kennards Hire",
+      "title_en": "Kennards Hire",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kennardshire-cc85b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kennardshire-cc85b7",
+        "wikidata": "Q63557330"
+      }
+    },
+    "resene_q111951487": {
+      "slug": "resene_q111951487",
+      "title": "Resene",
+      "title_en": "Resene",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/resene-7091e6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "resene-7091e6",
+        "wikidata": "Q111951487"
+      }
+    },
+    "coryselectrical_q113313384": {
+      "slug": "coryselectrical_q113313384",
+      "title": "Corys Electrical",
+      "title_en": "Corys Electrical",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coryselectrical-49357c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coryselectrical-49357c",
+        "wikidata": "Q113313384"
+      }
+    },
+    "itm_q110437159": {
+      "slug": "itm_q110437159",
+      "title": "ITM",
+      "title_en": "ITM",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/itm-49357c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "itm-49357c",
+        "wikidata": "Q110437159"
+      }
+    },
+    "jarussel_q113313306": {
+      "slug": "jarussel_q113313306",
+      "title": "J. A. Russel",
+      "title_en": "J. A. Russel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jarussel-49357c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jarussel-49357c",
+        "wikidata": "Q113313306"
+      }
+    },
+    "reeceactrol_q29025524": {
+      "slug": "reeceactrol_q29025524",
+      "title": "Reece Actrol",
+      "title_en": "Reece Actrol",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reeceactrol-b11955",
+        "wikidata": "Q29025524"
+      }
+    },
+    "reecebathroomlife_q29025524": {
+      "slug": "reecebathroomlife_q29025524",
+      "title": "Reece Bathroom Life",
+      "title_en": "Reece Bathroom Life",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reecebathroomlife-b11955",
+        "wikidata": "Q29025524"
+      }
+    },
+    "reecehvacr_q29025524": {
+      "slug": "reecehvacr_q29025524",
+      "title": "Reece HVAC-R",
+      "title_en": "Reece HVAC-R",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reecehvacr-b11955",
+        "wikidata": "Q29025524"
+      }
+    },
+    "reeceplumbingcentre_q29025524": {
+      "slug": "reeceplumbingcentre_q29025524",
+      "title": "Reece Plumbing Centre",
+      "title_en": "Reece Plumbing Centre",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reeceplumbingcentre-b11955",
+        "wikidata": "Q29025524"
+      }
+    },
+    "shavershop_q119443589": {
+      "slug": "shavershop_q119443589",
+      "title": "Shaver Shop",
+      "title_en": "Shaver Shop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shavershop-b81096.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shavershop-b81096",
+        "wikidata": "Q119443589"
+      }
+    },
+    "laserclinics_q126539797": {
+      "slug": "laserclinics_q126539797",
+      "title": "Laser Clinics",
+      "title_en": "Laser Clinics",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laserclinics-107a7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "laserclinics-107a7f",
+        "wikidata": "Q126539797"
+      }
+    },
+    "coach_q727697": {
+      "slug": "coach_q727697",
+      "title": "Coach",
+      "title_en": "Coach",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coach-dc35d7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coach-dc35d7",
+        "wikidata": "Q727697"
+      }
+    },
+    "strandbags_q111946652": {
+      "slug": "strandbags_q111946652",
+      "title": "Strandbags",
+      "title_en": "Strandbags",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/strandbags-e9e78d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "strandbags-e9e78d",
+        "wikidata": "Q111946652"
+      }
+    },
+    "dusk_q120669167": {
+      "slug": "dusk_q120669167",
+      "title": "dusk",
+      "title_en": "dusk",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dusk-c1a86d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dusk-c1a86d",
+        "wikidata": "Q120669167"
+      }
+    },
+    "godfreys_q17005430": {
+      "slug": "godfreys_q17005430",
+      "title": "Godfreys",
+      "title_en": "Godfreys",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/godfreys-817a4b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "godfreys-817a4b",
+        "wikidata": "Q17005430"
+      }
+    },
+    "bunningswarehouse_q4997829": {
+      "slug": "bunningswarehouse_q4997829",
+      "title": "Bunnings Warehouse",
+      "title_en": "Bunnings Warehouse",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bunningswarehouse-aaac5b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bunningswarehouse-aaac5b",
+        "wikidata": "Q4997829"
+      }
+    },
+    "mitre10newzealand_q6882394": {
+      "slug": "mitre10newzealand_q6882394",
+      "title": "Mitre 10",
+      "title_en": "Mitre 10",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mitre10-e80948",
+        "wikidata": "Q6882394"
+      }
+    },
+    "mitre10mega_q6882394": {
+      "slug": "mitre10mega_q6882394",
+      "title": "Mitre 10 MEGA",
+      "title_en": "Mitre 10 MEGA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mitre10mega-e80948",
+        "wikidata": "Q6882394"
+      }
+    },
+    "placemakers_q7200206": {
+      "slug": "placemakers_q7200206",
+      "title": "PlaceMakers",
+      "title_en": "PlaceMakers",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/placemakers-e80948.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "placemakers-e80948",
+        "wikidata": "Q7200206"
+      }
+    },
+    "burnsco_q116825899": {
+      "slug": "burnsco_q116825899",
+      "title": "Burnsco",
+      "title_en": "Burnsco",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burnsco-bc4d2d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "burnsco-bc4d2d",
+        "wikidata": "Q116825899"
+      }
+    },
+    "popmart_q97180096": {
+      "slug": "popmart_q97180096",
+      "title": "Pop Mart",
+      "title_en": "Pop Mart",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popmart-32846c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "popmart-32846c",
+        "wikidata": "Q97180096"
+      }
+    },
+    "toyworld_q95923071": {
+      "slug": "toyworld_q95923071",
+      "title": "Toyworld",
+      "title_en": "Toyworld",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toyworld-03114e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "toyworld-03114e",
+        "wikidata": "Q95923071"
+      }
+    },
+    "farmers_q5435806": {
+      "slug": "farmers_q5435806",
+      "title": "Farmers",
+      "title_en": "Farmers",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Bin Inn"
-      ],
-      "keywords": [
-        "Bin Inn"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmers-98a4a8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmers-98a4a8",
+        "wikidata": "Q5435806"
+      }
+    },
+    "harveynorman_q4040441": {
+      "slug": "harveynorman_q4040441",
+      "title": "Harvey Norman",
+      "title_en": "Harvey Norman",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harveynorman-b73e73.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "harveynorman-b73e73",
+        "wikidata": "Q4040441"
+      }
+    },
+    "kmartoceania_q6421682": {
+      "slug": "kmartoceania_q6421682",
+      "title": "Kmart",
+      "title_en": "Kmart",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kmart-2e4a6e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kmart-2e4a6e",
+        "wikidata": "Q6421682"
+      }
+    },
+    "lottedutyfree_q12594196": {
+      "slug": "lottedutyfree_q12594196",
+      "title": "Lotte Duty Free",
+      "title_en": "Lotte Duty Free",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedutyfree-8352b8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lottedutyfree-8352b8",
+        "wikidata": "Q12594196"
+      }
+    },
+    "smithscity_q104865291": {
+      "slug": "smithscity_q104865291",
+      "title": "Smiths City",
+      "title_en": "Smiths City",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smithscity-98a4a8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smithscity-98a4a8",
+        "wikidata": "Q104865291"
+      }
+    },
+    "thewarehouse_q110205200": {
+      "slug": "thewarehouse_q110205200",
+      "title": "The Warehouse",
+      "title_en": "The Warehouse",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thewarehouse-98a4a8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thewarehouse-98a4a8",
+        "wikidata": "Q110205200"
+      }
+    },
+    "ascolour_q121646382": {
+      "slug": "ascolour_q121646382",
+      "title": "AS Colour",
+      "title_en": "AS Colour",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ascolour-daf281.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ascolour-daf281",
+        "wikidata": "Q121646382"
+      }
+    },
+    "blueillusion_q118464703": {
+      "slug": "blueillusion_q118464703",
+      "title": "Blue Illusion",
+      "title_en": "Blue Illusion",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blueillusion-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "blueillusion-2bb477",
+        "wikidata": "Q118464703"
+      }
+    },
+    "bonds_q4941440": {
+      "slug": "bonds_q4941440",
+      "title": "Bonds",
+      "title_en": "Bonds",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bonds-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bonds-2bb477",
+        "wikidata": "Q4941440"
+      }
+    },
+    "brasnthings_q120669960": {
+      "slug": "brasnthings_q120669960",
+      "title": "Bras N Things",
+      "title_en": "Bras N Things",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brasnthings-24a002.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "brasnthings-24a002",
+        "wikidata": "Q120669960"
+      }
+    },
+    "citychic_q123383442": {
+      "slug": "citychic_q123383442",
+      "title": "City Chic",
+      "title_en": "City Chic",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "citychic-2bb477",
+        "wikidata": "Q123383442"
+      }
+    },
+    "countryroad_q2998907": {
+      "slug": "countryroad_q2998907",
+      "title": "Country Road",
+      "title_en": "Country Road",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/countryroad-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "countryroad-2bb477",
+        "wikidata": "Q2998907"
+      }
+    },
+    "dangerfield_q119220880": {
+      "slug": "dangerfield_q119220880",
+      "title": "Dangerfield",
+      "title_en": "Dangerfield",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dangerfield-2bb477.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dangerfield-2bb477",
+        "wikidata": "Q119220880"
+      }
+    },
+    "forevernew_q119221929": {
+      "slug": "forevernew_q119221929",
+      "title": "Forever New",
+      "title_en": "Forever New",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/forevernew-cd1df3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "forevernew-cd1df3",
+        "wikidata": "Q119221929"
+      }
+    },
+    "glassons_q118384067": {
+      "slug": "glassons_q118384067",
+      "title": "Glassons",
+      "title_en": "Glassons",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/glassons-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "glassons-2bb477",
+        "wikidata": "Q118384067"
+      }
+    },
+    "hallensteins_q24189399": {
+      "slug": "hallensteins_q24189399",
+      "title": "Hallensteins",
+      "title_en": "Hallensteins",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hallensteins-2bb477.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hallensteins-2bb477",
+        "wikidata": "Q24189399"
+      }
+    },
+    "huffer_q107862765": {
+      "slug": "huffer_q107862765",
+      "title": "Huffer",
+      "title_en": "Huffer",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/huffer-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "huffer-2bb477",
+        "wikidata": "Q107862765"
+      }
+    },
+    "jayjays_q6166759": {
+      "slug": "jayjays_q6166759",
+      "title": "Jay Jays",
+      "title_en": "Jay Jays",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jayjays-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jayjays-2bb477",
+        "wikidata": "Q6166759"
+      }
+    },
+    "jeanswest_q6172434": {
+      "slug": "jeanswest_q6172434",
+      "title": "Jeanswest",
+      "title_en": "Jeanswest",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jeanswest-2bb477",
+        "wikidata": "Q6172434"
+      }
+    },
+    "justjeans_q6316068": {
+      "slug": "justjeans_q6316068",
+      "title": "Just Jeans",
+      "title_en": "Just Jeans",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/justjeans-2bb477.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "justjeans-2bb477",
+        "wikidata": "Q6316068"
+      }
+    },
+    "katespadenewyork_q6375797": {
+      "slug": "katespadenewyork_q6375797",
+      "title": "Kate Spade New York",
+      "title_en": "Kate Spade New York",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/katespadenewyork-3fff8f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "katespadenewyork-3fff8f",
+        "wikidata": "Q6375797"
+      }
+    },
+    "lornajane_q28857986": {
+      "slug": "lornajane_q28857986",
+      "title": "Lorna Jane",
+      "title_en": "Lorna Jane",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lornajane-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lornajane-2bb477",
+        "wikidata": "Q28857986"
+      }
+    },
+    "lululemon_q6702957": {
+      "slug": "lululemon_q6702957",
+      "title": "Lululemon",
+      "title_en": "Lululemon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lululemon-4bc474.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lululemon-4bc474",
+        "wikidata": "Q6702957"
+      }
+    },
+    "nudiejeans_q2436187": {
+      "slug": "nudiejeans_q2436187",
+      "title": "Nudie Jeans",
+      "title_en": "Nudie Jeans",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nudiejeans-085abf.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nudiejeans-085abf",
+        "wikidata": "Q2436187"
+      }
+    },
+    "portmans_q118383252": {
+      "slug": "portmans_q118383252",
+      "title": "Portmans",
+      "title_en": "Portmans",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/portmans-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "portmans-2bb477",
+        "wikidata": "Q118383252"
+      }
+    },
+    "postie_q110299434": {
+      "slug": "postie_q110299434",
+      "title": "Postie",
+      "title_en": "Postie",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postie-f8b7cc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "postie-f8b7cc",
+        "wikidata": "Q110299434"
+      }
+    },
+    "ripcurl_q2915254": {
+      "slug": "ripcurl_q2915254",
+      "title": "Rip Curl",
+      "title_en": "Rip Curl",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ripcurl-e95856.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ripcurl-e95856",
+        "wikidata": "Q2915254"
+      }
+    },
+    "roddgunn_q85797658": {
+      "slug": "roddgunn_q85797658",
+      "title": "Rodd & Gunn",
+      "title_en": "Rodd & Gunn",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roddandgunn-5bf61e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "roddandgunn-5bf61e",
+        "wikidata": "Q85797658"
+      }
+    },
+    "seedheritage_q106014671": {
+      "slug": "seedheritage_q106014671",
+      "title": "Seed Heritage",
+      "title_en": "Seed Heritage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seedheritage-2bb477.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "seedheritage-2bb477",
+        "wikidata": "Q106014671"
+      }
+    },
+    "bivouacoutdoor_q111019114": {
+      "slug": "bivouacoutdoor_q111019114",
+      "title": "Bivouac Outdoor",
+      "title_en": "Bivouac Outdoor",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bivouacoutdoor-f40221.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bivouacoutdoor-f40221",
+        "wikidata": "Q111019114"
+      }
+    },
+    "kathmandu_q1736294": {
+      "slug": "kathmandu_q1736294",
+      "title": "Kathmandu",
+      "title_en": "Kathmandu",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kathmandu-7b766e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kathmandu-7b766e",
+        "wikidata": "Q1736294"
+      }
+    },
+    "macpac_q6724943": {
+      "slug": "macpac_q6724943",
+      "title": "Macpac",
+      "title_en": "Macpac",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/macpac-7b766e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "macpac-7b766e",
+        "wikidata": "Q6724943"
+      }
+    },
+    "mountainwarehouse_q6925414": {
+      "slug": "mountainwarehouse_q6925414",
+      "title": "Mountain Warehouse",
+      "title_en": "Mountain Warehouse",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mountainwarehouse-19caf6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mountainwarehouse-19caf6",
+        "wikidata": "Q6925414"
+      }
+    },
+    "torpedo7_q110221600": {
+      "slug": "torpedo7_q110221600",
+      "title": "Torpedo7",
+      "title_en": "Torpedo7",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/torpedo7-f40221.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "torpedo7-f40221",
+        "wikidata": "Q110221600"
+      }
+    },
+    "bininn_q110524077": {
+      "slug": "bininn_q110524077",
+      "title": "Bin Inn",
+      "title_en": "Bin Inn",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bininn-5dc426.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bininn-5dc426",
         "wikidata": "Q110524077"
@@ -30,21 +1507,12 @@
     "countdown_q5176845": {
       "slug": "countdown_q5176845",
       "title": "Countdown",
-      "short_name": "Countdown",
-      "badge_text": "C",
+      "title_en": "Countdown",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Countdown"
-      ],
-      "keywords": [
-        "Countdown"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/countdown-5dc426.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "countdown-5dc426",
         "wikidata": "Q5176845"
@@ -53,21 +1521,12 @@
     "foursquare_q5475558": {
       "slug": "foursquare_q5475558",
       "title": "Four Square",
-      "short_name": "Four Squar",
-      "badge_text": "F",
+      "title_en": "Four Square",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Four Square"
-      ],
-      "keywords": [
-        "Four Square"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foursquare-7a43a8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "foursquare-7a43a8",
         "wikidata": "Q5475558"
@@ -76,21 +1535,12 @@
     "freshchoice_q22271877": {
       "slug": "freshchoice_q22271877",
       "title": "FreshChoice",
-      "short_name": "FreshChoic",
-      "badge_text": "F",
+      "title_en": "FreshChoice",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "FreshChoice"
-      ],
-      "keywords": [
-        "FreshChoice"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freshchoice-5dc426.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "freshchoice-5dc426",
         "wikidata": "Q22271877"
@@ -99,21 +1549,12 @@
     "newworld_q7012488": {
       "slug": "newworld_q7012488",
       "title": "New World",
-      "short_name": "New World",
-      "badge_text": "N",
+      "title_en": "New World",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "New World"
-      ],
-      "keywords": [
-        "New World"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/newworld-5dc426.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "newworld-5dc426",
         "wikidata": "Q7012488"
@@ -122,21 +1563,12 @@
     "paknsave_q7125339": {
       "slug": "paknsave_q7125339",
       "title": "PAK'nSAVE",
-      "short_name": "PAK'nSAVE",
-      "badge_text": "P",
+      "title_en": "PAK'nSAVE",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "PAK'nSAVE"
-      ],
-      "keywords": [
-        "PAK'nSAVE"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paknsave-5dc426.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paknsave-5dc426",
         "wikidata": "Q7125339"
@@ -144,22 +1576,13 @@
     },
     "supervaluenewzealand_q7642080": {
       "slug": "supervaluenewzealand_q7642080",
-      "title": "SuperValue (New Zealand)",
-      "short_name": "SuperValue",
-      "badge_text": "S",
+      "title": "SuperValue",
+      "title_en": "SuperValue",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "SuperValue"
-      ],
-      "keywords": [
-        "SuperValue"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/supervalue-5dc426.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "supervalue-5dc426",
         "wikidata": "Q7642080"
@@ -167,22 +1590,13 @@
     },
     "woolworthsnewzealand_q5176845": {
       "slug": "woolworthsnewzealand_q5176845",
-      "title": "Woolworths (New Zealand)",
-      "short_name": "Woolworths",
-      "badge_text": "W",
+      "title": "Woolworths",
+      "title_en": "Woolworths",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Woolworths"
-      ],
-      "keywords": [
-        "Woolworths"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworths-5dc426.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woolworths-5dc426",
         "wikidata": "Q5176845"
@@ -190,45 +1604,125 @@
     },
     "woolworthsmetronewzealand_q123699264": {
       "slug": "woolworthsmetronewzealand_q123699264",
-      "title": "Woolworths Metro (New Zealand)",
-      "short_name": "Woolworths",
-      "badge_text": "W",
+      "title": "Woolworths Metro",
+      "title_en": "Woolworths Metro",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Woolworths Metro"
-      ],
-      "keywords": [
-        "Woolworths Metro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woolworthsmetro-5dc426.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woolworthsmetro-5dc426",
         "wikidata": "Q123699264"
       }
     },
+    "ticketmaster_q2609162": {
+      "slug": "ticketmaster_q2609162",
+      "title": "Ticketmaster",
+      "title_en": "Ticketmaster",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ticketmaster-9f0b74.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ticketmaster-9f0b74",
+        "wikidata": "Q2609162"
+      }
+    },
+    "2degrees_q4633463": {
+      "slug": "2degrees_q4633463",
+      "title": "2degrees",
+      "title_en": "2degrees",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/2degrees-5219b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "2degrees-5219b0",
+        "wikidata": "Q4633463"
+      }
+    },
+    "onenz_q7939291": {
+      "slug": "onenz_q7939291",
+      "title": "One NZ",
+      "title_en": "One NZ",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/onenz-5219b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "onenz-5219b0",
+        "wikidata": "Q7939291"
+      }
+    },
+    "sparknewzealand_q1549526": {
+      "slug": "sparknewzealand_q1549526",
+      "title": "Spark",
+      "title_en": "Spark",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spark-5219b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "spark-5219b0",
+        "wikidata": "Q1549526"
+      }
+    },
+    "lincraft_q17052417": {
+      "slug": "lincraft_q17052417",
+      "title": "Lincraft",
+      "title_en": "Lincraft",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lincraft-a43b83.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lincraft-a43b83",
+        "wikidata": "Q17052417"
+      }
+    },
+    "spotlight_q105960982": {
+      "slug": "spotlight_q105960982",
+      "title": "Spotlight",
+      "title_en": "Spotlight",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spotlight-0e32f9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "spotlight-0e32f9",
+        "wikidata": "Q105960982"
+      }
+    },
+    "pbtech_q123600421": {
+      "slug": "pbtech_q123600421",
+      "title": "PB Tech",
+      "title_en": "PB Tech",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pbtech-57fd22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pbtech-57fd22",
+        "wikidata": "Q123600421"
+      }
+    },
     "bp2go_q152057": {
       "slug": "bp2go_q152057",
       "title": "BP 2go",
-      "short_name": "BP 2go",
-      "badge_text": "B",
+      "title_en": "BP 2go",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "BP 2go"
-      ],
-      "keywords": [
-        "BP 2go"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bp2go-7a43a8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bp2go-7a43a8",
         "wikidata": "Q152057"
@@ -237,21 +1731,12 @@
     "bpconnect_q152057": {
       "slug": "bpconnect_q152057",
       "title": "BP Connect",
-      "short_name": "BP Connect",
-      "badge_text": "B",
+      "title_en": "BP Connect",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "BP Connect"
-      ],
-      "keywords": [
-        "BP Connect"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bpconnect-7a43a8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bpconnect-7a43a8",
         "wikidata": "Q152057"
@@ -260,23 +1745,12 @@
     "ikeaswedishfoodmarket_q54078": {
       "slug": "ikeaswedishfoodmarket_q54078",
       "title": "IKEA Swedish Food Market",
-      "short_name": "IKEA Swedi",
-      "badge_text": "I",
+      "title_en": "IKEA Swedish Food Market",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeaswedishfoodmarket-e66215.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeaswedishfoodmarket-e66215",
         "wikidata": "Q54078"
@@ -285,21 +1759,12 @@
     "metromart_q121642943": {
       "slug": "metromart_q121642943",
       "title": "MetroMart",
-      "short_name": "MetroMart",
-      "badge_text": "M",
+      "title_en": "MetroMart",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "MetroMart"
-      ],
-      "keywords": [
-        "MetroMart"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "metromart-7a43a8",
         "wikidata": "Q121642943"
@@ -308,24 +1773,225 @@
     "nightnday_q111955183": {
       "slug": "nightnday_q111955183",
       "title": "Night 'n Day",
-      "short_name": "Night 'n D",
-      "badge_text": "N",
+      "title_en": "Night 'n Day",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Night 'n Day"
-      ],
-      "keywords": [
-        "Night 'n Day"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nightnday-7a43a8.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nightnday-7a43a8",
         "wikidata": "Q111955183"
+      }
+    },
+    "westfieldoceania_q106623253": {
+      "slug": "westfieldoceania_q106623253",
+      "title": "Westfield",
+      "title_en": "Westfield",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/westfield-1e4415.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "westfield-1e4415",
+        "wikidata": "Q106623253"
+      }
+    },
+    "warhammer_q136613133": {
+      "slug": "warhammer_q136613133",
+      "title": "Warhammer",
+      "title_en": "Warhammer",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/warhammer-f1fbcb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "warhammer-f1fbcb",
+        "wikidata": "Q136613133"
+      }
+    },
+    "bigsavefurniture_q118464713": {
+      "slug": "bigsavefurniture_q118464713",
+      "title": "Big Save Furniture",
+      "title_en": "Big Save Furniture",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigsavefurniture-ac16b9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bigsavefurniture-ac16b9",
+        "wikidata": "Q118464713"
+      }
+    },
+    "danskembler_q118464708": {
+      "slug": "danskembler_q118464708",
+      "title": "Danske Møbler",
+      "title_en": "Danske Møbler",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/danskemobler-ac16b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "danskemobler-ac16b9",
+        "wikidata": "Q118464708"
+      }
+    },
+    "earlysettler_q111080173": {
+      "slug": "earlysettler_q111080173",
+      "title": "Early Settler",
+      "title_en": "Early Settler",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/earlysettler-42aa1b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "earlysettler-42aa1b",
+        "wikidata": "Q111080173"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "IKEA",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-ac4ccb",
+        "wikidata": "Q54078"
+      }
+    },
+    "lazboy_q6391583": {
+      "slug": "lazboy_q6391583",
+      "title": "La-Z-Boy",
+      "title_en": "La-Z-Boy",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lazboy-637554.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lazboy-637554",
+        "wikidata": "Q6391583"
+      }
+    },
+    "vapo_q117236856": {
+      "slug": "vapo_q117236856",
+      "title": "VAPO",
+      "title_en": "VAPO",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vapo-1ac9df",
+        "wikidata": "Q117236856"
+      }
+    },
+    "adairskids_q109626904": {
+      "slug": "adairskids_q109626904",
+      "title": "Adairs Kids",
+      "title_en": "Adairs Kids",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adairskids-f571b2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "adairskids-f571b2",
+        "wikidata": "Q109626904"
+      }
+    },
+    "kennardsstorage_q115565997": {
+      "slug": "kennardsstorage_q115565997",
+      "title": "Kennards Storage",
+      "title_en": "Kennards Storage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kennardsstorage-e49450.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kennardsstorage-e49450",
+        "wikidata": "Q115565997"
+      }
+    },
+    "nationalministorage_q114353224": {
+      "slug": "nationalministorage_q114353224",
+      "title": "National Mini Storage",
+      "title_en": "National Mini Storage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalministorage-8edc81.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nationalministorage-8edc81",
+        "wikidata": "Q114353224"
+      }
+    },
+    "nationalstorage_q21178908": {
+      "slug": "nationalstorage_q21178908",
+      "title": "National Storage",
+      "title_en": "National Storage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalstorage-e49450.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nationalstorage-e49450",
+        "wikidata": "Q21178908"
+      }
+    },
+    "storageking_q114353097": {
+      "slug": "storageking_q114353097",
+      "title": "Storage King",
+      "title_en": "Storage King",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/storageking-e49450.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "storageking-e49450",
+        "wikidata": "Q114353097"
+      }
+    },
+    "tabnewzealand_q110288070": {
+      "slug": "tabnewzealand_q110288070",
+      "title": "TAB",
+      "title_en": "TAB",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tab-c21655",
+        "wikidata": "Q110288070"
+      }
+    },
+    "houseoftravel_q23177553": {
+      "slug": "houseoftravel_q23177553",
+      "title": "House of Travel",
+      "title_en": "House of Travel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/houseoftravel-64ecef.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "houseoftravel-64ecef",
+        "wikidata": "Q23177553"
       }
     }
   }

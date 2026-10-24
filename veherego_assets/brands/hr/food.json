@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 8,
+  "country": "hr",
+  "category": "food",
+  "total_brands": 51,
   "brand_aliases": {
     "fornetti_q1003020": {
       "slug": "fornetti_q1003020",
       "title": "Fornetti",
-      "short_name": "Fornetti",
-      "badge_text": "F",
+      "title_en": "Fornetti",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Fornetti"
-      ],
-      "keywords": [
-        "Fornetti"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fornetti-0c6f37.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fornetti-0c6f37",
         "wikidata": "Q1003020"
@@ -30,21 +23,12 @@
     "mlinar_q62082464": {
       "slug": "mlinar_q62082464",
       "title": "Mlinar",
-      "short_name": "Mlinar",
-      "badge_text": "M",
+      "title_en": "Mlinar",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Mlinar"
-      ],
-      "keywords": [
-        "Mlinar"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mlinar-f94504.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mlinar-f94504",
         "wikidata": "Q62082464"
@@ -53,21 +37,12 @@
     "panpek_q125813932": {
       "slug": "panpek_q125813932",
       "title": "Pan-pek",
-      "short_name": "Pan-pek",
-      "badge_text": "P",
+      "title_en": "Pan-pek",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Pan-pek"
-      ],
-      "keywords": [
-        "Pan-pek"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/panpek-0cc7ae.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "panpek-0cc7ae",
         "wikidata": "Q125813932"
@@ -75,47 +50,405 @@
     },
     "zagrebakepekarneklara_q125815636": {
       "slug": "zagrebakepekarneklara_q125815636",
-      "title": "Zagrebačke pekarne Klara",
-      "short_name": "Zagrebačke",
-      "badge_text": "Z",
+      "title": "Klara",
+      "title_en": "Klara",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Zagrebačke pekarne Klara",
-        "Klara"
-      ],
-      "keywords": [
-        "Zagrebačke pekarne Klara",
-        "Klara"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/klara-0cc7ae.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "klara-0cc7ae",
         "wikidata": "Q125815636"
       }
     },
+    "aurodomus_q125811872": {
+      "slug": "aurodomus_q125811872",
+      "title": "Auro Domus",
+      "title_en": "Auro Domus",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aurodomus-4d8c03.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aurodomus-4d8c03",
+        "wikidata": "Q125811872"
+      }
+    },
+    "moneyget_q125808866": {
+      "slug": "moneyget_q125808866",
+      "title": "MoneyGet",
+      "title_en": "MoneyGet",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moneyget-7535fc.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "moneyget-7535fc",
+        "wikidata": "Q125808866"
+      }
+    },
+    "addikobank_q27926559": {
+      "slug": "addikobank_q27926559",
+      "title": "Addiko Bank",
+      "title_en": "Addiko Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/addikobank-975383.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "addikobank-975383",
+        "wikidata": "Q27926559"
+      }
+    },
+    "agrambanka_q125756504": {
+      "slug": "agrambanka_q125756504",
+      "title": "Agram banka",
+      "title_en": "Agram banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agrambanka-6f3d3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "agrambanka-6f3d3b",
+        "wikidata": "Q125756504"
+      }
+    },
+    "bankakovanica_q25382167": {
+      "slug": "bankakovanica_q25382167",
+      "title": "Banka Kovanica",
+      "title_en": "Banka Kovanica",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankakovanica-6f3d3b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankakovanica-6f3d3b",
+        "wikidata": "Q25382167"
+      }
+    },
+    "croatiabanka_q25495576": {
+      "slug": "croatiabanka_q25495576",
+      "title": "Croatia banka",
+      "title_en": "Croatia banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/croatiabanka-6f3d3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "croatiabanka-6f3d3b",
+        "wikidata": "Q25495576"
+      }
+    },
+    "erstebank_q696867": {
+      "slug": "erstebank_q696867",
+      "title": "Erste Bank",
+      "title_en": "Erste Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/erstebank-171b0c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "erstebank-171b0c",
+        "wikidata": "Q696867"
+      }
+    },
+    "hrvatskapotanskabanka_q5923981": {
+      "slug": "hrvatskapotanskabanka_q5923981",
+      "title": "Hrvatska poštanska banka",
+      "title_en": "Hrvatska poštanska banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hrvatskapostanskabanka-6f3d3b",
+        "wikidata": "Q5923981"
+      }
+    },
+    "imexbanka_q102338225": {
+      "slug": "imexbanka_q102338225",
+      "title": "Imex banka",
+      "title_en": "Imex banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/imexbanka-6f3d3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "imexbanka-6f3d3b",
+        "wikidata": "Q102338225"
+      }
+    },
+    "istarskakreditnabankaumag_q125756614": {
+      "slug": "istarskakreditnabankaumag_q125756614",
+      "title": "Istarska kreditna banka Umag",
+      "title_en": "Istarska kreditna banka Umag",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/istarskakreditnabankaumag-6f3d3b.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "istarskakreditnabankaumag-6f3d3b",
+        "wikidata": "Q125756614"
+      }
+    },
+    "jtbanka_q12022160": {
+      "slug": "jtbanka_q12022160",
+      "title": "J&T Banka",
+      "title_en": "J&T Banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jandtbanka-9e9a79.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jandtbanka-9e9a79",
+        "wikidata": "Q12022160"
+      }
+    },
+    "karlovakabanka_q102338238": {
+      "slug": "karlovakabanka_q102338238",
+      "title": "Karlovačka banka",
+      "title_en": "Karlovačka banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karlovackabanka-6f3d3b",
+        "wikidata": "Q102338238"
+      }
+    },
+    "kentbank_q25383439": {
+      "slug": "kentbank_q25383439",
+      "title": "KentBank",
+      "title_en": "KentBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kentbank-6f3d3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kentbank-6f3d3b",
+        "wikidata": "Q25383439"
+      }
+    },
+    "otpbankahrvatska_q31198593": {
+      "slug": "otpbankahrvatska_q31198593",
+      "title": "OTP banka",
+      "title_en": "OTP banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "otpbanka-6f3d3b",
+        "wikidata": "Q31198593"
+      }
+    },
+    "partnerbanka_q125756313": {
+      "slug": "partnerbanka_q125756313",
+      "title": "Partner banka",
+      "title_en": "Partner banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/partnerbanka-6f3d3b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "partnerbanka-6f3d3b",
+        "wikidata": "Q125756313"
+      }
+    },
+    "podravskabanka_q125756441": {
+      "slug": "podravskabanka_q125756441",
+      "title": "Podravska banka",
+      "title_en": "Podravska banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/podravskabanka-6f3d3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "podravskabanka-6f3d3b",
+        "wikidata": "Q125756441"
+      }
+    },
+    "privrednabankazagreb_q7246343": {
+      "slug": "privrednabankazagreb_q7246343",
+      "title": "Privredna banka Zagreb",
+      "title_en": "Privredna banka Zagreb",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/privrednabankazagreb-6f3d3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "privrednabankazagreb-6f3d3b",
+        "wikidata": "Q7246343"
+      }
+    },
+    "raiffeisenbankhrvatska_q125756787": {
+      "slug": "raiffeisenbankhrvatska_q125756787",
+      "title": "Raiffeisen bank",
+      "title_en": "Raiffeisen bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raiffeisenbank-6f3d3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "raiffeisenbank-6f3d3b",
+        "wikidata": "Q125756787"
+      }
+    },
+    "samoborskabanka_q125756384": {
+      "slug": "samoborskabanka_q125756384",
+      "title": "Samoborska banka",
+      "title_en": "Samoborska banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/samoborskabanka-6f3d3b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "samoborskabanka-6f3d3b",
+        "wikidata": "Q125756384"
+      }
+    },
+    "slatinskabanka_q125756415": {
+      "slug": "slatinskabanka_q125756415",
+      "title": "Slatinska banka",
+      "title_en": "Slatinska banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/slatinskabanka-6f3d3b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "slatinskabanka-6f3d3b",
+        "wikidata": "Q125756415"
+      }
+    },
+    "zagrebakabanka_q140381": {
+      "slug": "zagrebakabanka_q140381",
+      "title": "Zagrebačka banka",
+      "title_en": "Zagrebačka banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zagrebackabanka-6f3d3b",
+        "wikidata": "Q140381"
+      }
+    },
+    "finafinancijskaagencija_q12631015": {
+      "slug": "finafinancijskaagencija_q12631015",
+      "title": "Fina",
+      "title_en": "Fina",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fina-9c5e01.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fina-9c5e01",
+        "wikidata": "Q12631015"
+      }
+    },
+    "maplebear_q10324823": {
+      "slug": "maplebear_q10324823",
+      "title": "Maple Bear",
+      "title_en": "Maple Bear",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maplebear-101006.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maplebear-101006",
+        "wikidata": "Q10324823"
+      }
+    },
+    "exclusivechange_q127799085": {
+      "slug": "exclusivechange_q127799085",
+      "title": "Exclusive Change",
+      "title_en": "Exclusive Change",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exclusivechange-216703.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "exclusivechange-216703",
+        "wikidata": "Q127799085"
+      }
+    },
+    "electrip_q133980622": {
+      "slug": "electrip_q133980622",
+      "title": "electrip",
+      "title_en": "electrip",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electrip-7d70e9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "electrip-7d70e9",
+        "wikidata": "Q133980622"
+      }
+    },
+    "greenway_q116450281": {
+      "slug": "greenway_q116450281",
+      "title": "GreenWay",
+      "title_en": "GreenWay",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenway-1cf5d4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "greenway-1cf5d4",
+        "wikidata": "Q116450281"
+      }
+    },
+    "molplugee_q549181": {
+      "slug": "molplugee_q549181",
+      "title": "MOL Plugee",
+      "title_en": "MOL Plugee",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/molplugee-ce45cd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "molplugee-ce45cd",
+        "wikidata": "Q549181"
+      }
+    },
     "freshcornerrestaurant_q129256375": {
       "slug": "freshcornerrestaurant_q129256375",
       "title": "Fresh Corner Restaurant",
-      "short_name": "Fresh Corn",
-      "badge_text": "F",
+      "title_en": "Fresh Corner Restaurant",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Fresh Corner Restaurant"
-      ],
-      "keywords": [
-        "Fresh Corner Restaurant"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freshcornerrestaurant-f8d5e4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "freshcornerrestaurant-f8d5e4",
         "wikidata": "Q129256375"
@@ -124,23 +457,12 @@
     "ikeabistro_q54078": {
       "slug": "ikeabistro_q54078",
       "title": "IKEA Bistro",
-      "short_name": "IKEA Bistr",
-      "badge_text": "I",
+      "title_en": "IKEA Bistro",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "keywords": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeabistro-e746e6",
         "wikidata": "Q54078"
@@ -149,23 +471,12 @@
     "ikearestaurant_q54078": {
       "slug": "ikearestaurant_q54078",
       "title": "IKEA Restaurant",
-      "short_name": "IKEA Resta",
-      "badge_text": "I",
+      "title_en": "IKEA Restaurant",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikearestaurant-15fdc5",
         "wikidata": "Q54078"
@@ -174,24 +485,239 @@
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
+      }
+    },
+    "farmaciahrvatska_q12630914": {
+      "slug": "farmaciahrvatska_q12630914",
+      "title": "Farmacia",
+      "title_en": "Farmacia",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmacia-e8d74c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmacia-e8d74c",
+        "wikidata": "Q12630914"
+      }
+    },
+    "gradskaljekarnazagreb_q132529253": {
+      "slug": "gradskaljekarnazagreb_q132529253",
+      "title": "Gradska ljekarna Zagreb",
+      "title_en": "Gradska ljekarna Zagreb",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gradskaljekarnazagreb-e8d74c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gradskaljekarnazagreb-e8d74c",
+        "wikidata": "Q132529253"
+      }
+    },
+    "ljekarnajadran": {
+      "slug": "ljekarnajadran",
+      "title": "Ljekarna Jadran",
+      "title_en": "Ljekarna Jadran",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ljekarnajadran-e8d74c",
+        "wikidata": ""
+      }
+    },
+    "ljekarnajoukhadar": {
+      "slug": "ljekarnajoukhadar",
+      "title": "Ljekarna Joukhadar",
+      "title_en": "Ljekarna Joukhadar",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ljekarnajoukhadar-e8d74c",
+        "wikidata": ""
+      }
+    },
+    "ljekarnapablo": {
+      "slug": "ljekarnapablo",
+      "title": "Ljekarna Pablo",
+      "title_en": "Ljekarna Pablo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ljekarnapablo-e8d74c",
+        "wikidata": ""
+      }
+    },
+    "mandispharm": {
+      "slug": "mandispharm",
+      "title": "Mandis Pharm",
+      "title_en": "Mandis Pharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mandispharm-e8d74c",
+        "wikidata": ""
+      }
+    },
+    "primapharme": {
+      "slug": "primapharme",
+      "title": "Prima Pharme",
+      "title_en": "Prima Pharme",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "primapharme-e8d74c",
+        "wikidata": ""
+      }
+    },
+    "vaezdravlje": {
+      "slug": "vaezdravlje",
+      "title": "Vaše zdravlje",
+      "title_en": "Vaše zdravlje",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vasezdravlje-e8d74c",
+        "wikidata": ""
+      }
+    },
+    "cineplexx_q873340": {
+      "slug": "cineplexx_q873340",
+      "title": "Cineplexx",
+      "title_en": "Cineplexx",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cineplexx-8f1bb5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cineplexx-8f1bb5",
+        "wikidata": "Q873340"
+      }
+    },
+    "cinestar_q321889": {
+      "slug": "cinestar_q321889",
+      "title": "CineStar",
+      "title_en": "CineStar",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cinestar-a7029a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cinestar-a7029a",
+        "wikidata": "Q321889"
+      }
+    },
+    "llaollao_q12163048": {
+      "slug": "llaollao_q12163048",
+      "title": "Llaollao",
+      "title_en": "Llaollao",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "llaollao-dd9462",
+        "wikidata": "Q12163048"
+      }
+    },
+    "as24_q2819394": {
+      "slug": "as24_q2819394",
+      "title": "AS 24",
+      "title_en": "AS 24",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/as24-a160b3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "as24-a160b3",
+        "wikidata": "Q2819394"
+      }
+    },
+    "crodux_q62274622": {
+      "slug": "crodux_q62274622",
+      "title": "Crodux",
+      "title_en": "Crodux",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "crodux-a8f5c5",
+        "wikidata": "Q62274622"
+      }
+    },
+    "ina_q1662137": {
+      "slug": "ina_q1662137",
+      "title": "INA",
+      "title_en": "INA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ina-be0952.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ina-be0952",
+        "wikidata": "Q1662137"
+      }
+    },
+    "petrol_q174824": {
+      "slug": "petrol_q174824",
+      "title": "Petrol",
+      "title_en": "Petrol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrol-7302f5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petrol-7302f5",
+        "wikidata": "Q174824"
+      }
+    },
+    "bajszagreb_q137167497": {
+      "slug": "bajszagreb_q137167497",
+      "title": "Bajs",
+      "title_en": "Bajs",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bajs-134482.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bajs-134482",
+        "wikidata": "Q137167497"
       }
     }
   }

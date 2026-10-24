@@ -1,50 +1,90 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "by",
+  "category": "express",
+  "total_brands": 7,
   "brand_aliases": {
     "e9820961c0ff": {
       "slug": "e9820961c0ff",
       "title": "ПЭК",
-      "short_name": "ПЭК",
-      "badge_text": "П",
+      "title_en": "ПЭК",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "ПЭК"
-      ],
-      "keywords": [
-        "ПЭК"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "e98209-61c0ff",
+        "wikidata": ""
+      }
+    },
+    "asoba_q109650100": {
+      "slug": "asoba_q109650100",
+      "title": "Asoba",
+      "title_en": "Asoba",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "asoba-fe8e31",
+        "wikidata": "Q109650100"
+      }
+    },
+    "303d35fe8e31": {
+      "slug": "303d35fe8e31",
+      "title": "Асоба",
+      "title_en": "Асоба",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "303d35-fe8e31",
+        "wikidata": ""
+      }
+    },
+    "_q6468822": {
+      "slug": "_q6468822",
+      "title": "Белдзяржстрах",
+      "title_en": "Belgosstrakh",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belgosstrakh-fe8e31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "belgosstrakh-fe8e31",
+        "wikidata": "Q6468822"
+      }
+    },
+    "2c8da4fe8e31": {
+      "slug": "2c8da4fe8e31",
+      "title": "Белкоопстрах",
+      "title_en": "Белкоопстрах",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "2c8da4-fe8e31",
         "wikidata": ""
       }
     },
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -53,21 +93,12 @@
     "_q28665980": {
       "slug": "_q28665980",
       "title": "СДЭК",
-      "short_name": "СДЭК",
-      "badge_text": "С",
+      "title_en": "СДЭК",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "СДЭК"
-      ],
-      "keywords": [
-        "СДЭК"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5ac048-c762cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "5ac048-c762cb",
         "wikidata": "Q28665980"

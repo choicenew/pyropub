@@ -1,27 +1,48 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "ss",
+  "category": "food",
+  "total_brands": 3,
   "brand_aliases": {
+    "oldmutual_q289704": {
+      "slug": "oldmutual_q289704",
+      "title": "Old Mutual",
+      "title_en": "Old Mutual",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutual-ff45b4.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutual-ff45b4",
+        "wikidata": "Q289704"
+      }
+    },
+    "equitybanksouthsudan_q5384666": {
+      "slug": "equitybanksouthsudan_q5384666",
+      "title": "Equity Bank",
+      "title_en": "Equity Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equitybank-158a0b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "equitybank-158a0b",
+        "wikidata": "Q5384666"
+      }
+    },
     "debonairspizza_q65079407": {
       "slug": "debonairspizza_q65079407",
       "title": "Debonairs Pizza",
-      "short_name": "Debonairs ",
-      "badge_text": "D",
+      "title_en": "Debonairs Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Debonairs Pizza"
-      ],
-      "keywords": [
-        "Debonairs Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/debonairspizza-10dad6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "debonairspizza-10dad6",
         "wikidata": "Q65079407"

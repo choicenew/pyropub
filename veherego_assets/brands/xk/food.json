@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "xk",
+  "category": "food",
+  "total_brands": 5,
   "brand_aliases": {
+    "capitalria": {
+      "slug": "capitalria",
+      "title": "Capital Ria",
+      "title_en": "Capital Ria",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "capitalria-6b8cf1",
+        "wikidata": ""
+      }
+    },
+    "nlb_q1481509": {
+      "slug": "nlb_q1481509",
+      "title": "NLB",
+      "title_en": "NLB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nlb-155ab9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nlb-155ab9",
+        "wikidata": "Q1481509"
+      }
+    },
+    "procreditbank_q567304": {
+      "slug": "procreditbank_q567304",
+      "title": "ProCredit Bank",
+      "title_en": "ProCredit Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/procreditbank-f3fcbc.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "procreditbank-f3fcbc",
+        "wikidata": "Q567304"
+      }
+    },
+    "cineplexx_q873340": {
+      "slug": "cineplexx_q873340",
+      "title": "Cineplexx",
+      "title_en": "Cineplexx",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cineplexx-8f1bb5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cineplexx-8f1bb5",
+        "wikidata": "Q873340"
+      }
+    },
     "lanticapizzeriadamichele_q137571344": {
       "slug": "lanticapizzeriadamichele_q137571344",
       "title": "L'Antica Pizzeria da Michele",
-      "short_name": "L'Antica P",
-      "badge_text": "L",
+      "title_en": "L'Antica Pizzeria da Michele",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "L'Antica Pizzeria da Michele"
-      ],
-      "keywords": [
-        "L'Antica Pizzeria da Michele"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lanticapizzeriadamichele-762625.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lanticapizzeriadamichele-762625",
         "wikidata": "Q137571344"

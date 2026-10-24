@@ -1,29 +1,48 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "td",
+  "category": "food",
+  "total_brands": 3,
   "brand_aliases": {
+    "uba_q513457": {
+      "slug": "uba_q513457",
+      "title": "UBA",
+      "title_en": "UBA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uba-95540f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uba-95540f",
+        "wikidata": "Q513457"
+      }
+    },
+    "expressunion_q3062276": {
+      "slug": "expressunion_q3062276",
+      "title": "Express Union",
+      "title_en": "Express Union",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressunion-bf90ce.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "expressunion-bf90ce",
+        "wikidata": "Q3062276"
+      }
+    },
     "_q4704878": {
       "slug": "_q4704878",
       "title": "الطازج",
-      "short_name": "الطازج",
-      "badge_text": "ا",
+      "title_en": "Al Tazaj",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Al Tazaj",
-        "الطازج"
-      ],
-      "keywords": [
-        "Al Tazaj",
-        "الطازج"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altazaj-7c76bb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "altazaj-7c76bb",
         "wikidata": "Q4704878"

@@ -1,29 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
+  "country": "dz",
+  "category": "drink",
   "total_brands": 1,
   "brand_aliases": {
     "_q37158": {
       "slug": "_q37158",
       "title": "ستاربكس",
-      "short_name": "ستاربكس",
-      "badge_text": "س",
+      "title_en": "Starbucks",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "ستاربكس",
-        "Starbucks"
-      ],
-      "keywords": [
-        "ستاربكس",
-        "Starbucks"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/starbucks-0dcee5.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "starbucks-0dcee5",
         "wikidata": "Q37158"

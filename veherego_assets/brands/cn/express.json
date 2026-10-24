@@ -1,27 +1,370 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 11,
+  "country": "cn",
+  "category": "express",
+  "total_brands": 36,
   "brand_aliases": {
+    "_q27833474": {
+      "slug": "_q27833474",
+      "title": "中信建投证券",
+      "title_en": "China Securities",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinasecurities-fe1d6b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chinasecurities-fe1d6b",
+        "wikidata": "Q27833474"
+      }
+    },
+    "_q737443": {
+      "slug": "_q737443",
+      "title": "中信证券",
+      "title_en": "CITIC Securities",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citicsecurities-fe1d6b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "citicsecurities-fe1d6b",
+        "wikidata": "Q737443"
+      }
+    },
+    "_q106610106": {
+      "slug": "_q106610106",
+      "title": "华泰证券",
+      "title_en": "Huatai Securities",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/huataisecurities-fe1d6b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "huataisecurities-fe1d6b",
+        "wikidata": "Q106610106"
+      }
+    },
+    "_q5619679": {
+      "slug": "_q5619679",
+      "title": "国泰君安证券",
+      "title_en": "Guotai Junan Securities",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guotaijunansecurities-fe1d6b.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "guotaijunansecurities-fe1d6b",
+        "wikidata": "Q5619679"
+      }
+    },
+    "_q11077292": {
+      "slug": "_q11077292",
+      "title": "招商证券",
+      "title_en": "China Merchants Securities",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chinamerchantssecurities-fe1d6b",
+        "wikidata": "Q11077292"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "21_q1054480": {
+      "slug": "21_q1054480",
+      "title": "21世纪不动产",
+      "title_en": "Century 21",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-3462c2.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "century21-3462c2",
+        "wikidata": "Q1054480"
+      }
+    },
+    "9a732017e349": {
+      "slug": "9a732017e349",
+      "title": "中原房产",
+      "title_en": "中原房产",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "9a7320-17e349",
+        "wikidata": ""
+      }
+    },
+    "bd85f317e349": {
+      "slug": "bd85f317e349",
+      "title": "德佑地产",
+      "title_en": "德佑地产",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bd85f3-17e349",
+        "wikidata": ""
+      }
+    },
+    "_q21017079": {
+      "slug": "_q21017079",
+      "title": "我爱我家",
+      "title_en": "我爱我家",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/b7e613-17e349.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "b7e613-17e349",
+        "wikidata": "Q21017079"
+      }
+    },
+    "_q24836804": {
+      "slug": "_q24836804",
+      "title": "链家",
+      "title_en": "Lianjia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lianjia-3462c2.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lianjia-3462c2",
+        "wikidata": "Q24836804"
+      }
+    },
+    "oldmutualfinance_q289704": {
+      "slug": "oldmutualfinance_q289704",
+      "title": "Old Mutual Finance",
+      "title_en": "Old Mutual Finance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutualfinance-38693f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutualfinance-38693f",
+        "wikidata": "Q289704"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "groupama_q3083531": {
+      "slug": "groupama_q3083531",
+      "title": "Groupama",
+      "title_en": "Groupama",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/groupama-ad965a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "groupama-ad965a",
+        "wikidata": "Q3083531"
+      }
+    },
+    "oldmutualinsure_q289704": {
+      "slug": "oldmutualinsure_q289704",
+      "title": "Old Mutual Insure",
+      "title_en": "Old Mutual Insure",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutualinsure-170662.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutualinsure-170662",
+        "wikidata": "Q289704"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "_q1073306": {
+      "slug": "_q1073306",
+      "title": "中国人寿保险",
+      "title_en": "China Life Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinalifeinsurance-a9e4d2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chinalifeinsurance-a9e4d2",
+        "wikidata": "Q1073306"
+      }
+    },
+    "_q1807264": {
+      "slug": "_q1807264",
+      "title": "中国人民保险",
+      "title_en": "PICC",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/picc-07bd2d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "picc-07bd2d",
+        "wikidata": "Q1807264"
+      }
+    },
+    "_q4036130": {
+      "slug": "_q4036130",
+      "title": "中国太平",
+      "title_en": "China Taiping",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chinataiping-07bd2d",
+        "wikidata": "Q4036130"
+      }
+    },
+    "_q1256188": {
+      "slug": "_q1256188",
+      "title": "中国平安",
+      "title_en": "Pingan",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pingan-07bd2d.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pingan-07bd2d",
+        "wikidata": "Q1256188"
+      }
+    },
+    "_q1003813": {
+      "slug": "_q1003813",
+      "title": "太平洋保险",
+      "title_en": "CPIC",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cpic-07bd2d.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cpic-07bd2d",
+        "wikidata": "Q1003813"
+      }
+    },
+    "ucommune_q60785187": {
+      "slug": "ucommune_q60785187",
+      "title": "优客工场",
+      "title_en": "Ucommune",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ucommune-4ed4b9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ucommune-4ed4b9",
+        "wikidata": "Q60785187"
+      }
+    },
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -30,23 +373,12 @@
     "_q96076112": {
       "slug": "_q96076112",
       "title": "丰巢",
-      "short_name": "丰巢",
-      "badge_text": "丰",
+      "title_en": "Hive Box",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Hive Box",
-        "丰巢"
-      ],
-      "keywords": [
-        "Hive Box",
-        "丰巢"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hivebox-a0c60b",
         "wikidata": "Q96076112"
@@ -55,23 +387,12 @@
     "_q16947973": {
       "slug": "_q16947973",
       "title": "菜鸟驿站",
-      "short_name": "菜鸟驿站",
-      "badge_text": "菜",
+      "title_en": "Cainiao",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Cainiao",
-        "菜鸟驿站"
-      ],
-      "keywords": [
-        "Cainiao",
-        "菜鸟驿站"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cainiao-de5f7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cainiao-de5f7a",
         "wikidata": "Q16947973"
@@ -80,23 +401,12 @@
     "_q1066476": {
       "slug": "_q1066476",
       "title": "中国邮政",
-      "short_name": "中国邮政",
-      "badge_text": "中",
+      "title_en": "China Post",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "中国邮政",
-        "China Post"
-      ],
-      "keywords": [
-        "中国邮政",
-        "China Post"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chinapost-de5f7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chinapost-de5f7a",
         "wikidata": "Q1066476"
@@ -105,23 +415,12 @@
     "_q10876705": {
       "slug": "_q10876705",
       "title": "中通快递",
-      "short_name": "中通快递",
-      "badge_text": "中",
+      "title_en": "ZTO Express",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "中通快递",
-        "ZTO Express"
-      ],
-      "keywords": [
-        "中通快递",
-        "ZTO Express"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ztoexpress-de5f7a",
         "wikidata": "Q10876705"
@@ -130,23 +429,12 @@
     "_q67936681": {
       "slug": "_q67936681",
       "title": "京东物流",
-      "short_name": "京东物流",
-      "badge_text": "京",
+      "title_en": "JD Logistics",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "JD Logistics",
-        "京东物流"
-      ],
-      "keywords": [
-        "JD Logistics",
-        "京东物流"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jdlogistics-d6fe70.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "jdlogistics-d6fe70",
         "wikidata": "Q67936681"
@@ -155,23 +443,12 @@
     "_q10926656": {
       "slug": "_q10926656",
       "title": "圆通速递",
-      "short_name": "圆通速递",
-      "badge_text": "圆",
+      "title_en": "YTO Express",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "YTO Express",
-        "圆通速递"
-      ],
-      "keywords": [
-        "YTO Express",
-        "圆通速递"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ytoexpress-de5f7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ytoexpress-de5f7a",
         "wikidata": "Q10926656"
@@ -180,23 +457,12 @@
     "_q109378877": {
       "slug": "_q109378877",
       "title": "德邦快递",
-      "short_name": "德邦快递",
-      "badge_text": "德",
+      "title_en": "Deppon Express",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Deppon Express",
-        "德邦快递"
-      ],
-      "keywords": [
-        "Deppon Express",
-        "德邦快递"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/depponexpress-de5f7a.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "depponexpress-de5f7a",
         "wikidata": "Q109378877"
@@ -205,23 +471,12 @@
     "_q10426347": {
       "slug": "_q10426347",
       "title": "申通快递",
-      "short_name": "申通快递",
-      "badge_text": "申",
+      "title_en": "STO Express",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "申通快递",
-        "STO Express"
-      ],
-      "keywords": [
-        "申通快递",
-        "STO Express"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "stoexpress-de5f7a",
         "wikidata": "Q10426347"
@@ -230,23 +485,12 @@
     "_q17010677": {
       "slug": "_q17010677",
       "title": "韵达速递",
-      "short_name": "韵达速递",
-      "badge_text": "韵",
+      "title_en": "Yunda Express",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Yunda Express",
-        "韵达速递"
-      ],
-      "keywords": [
-        "Yunda Express",
-        "韵达速递"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yundaexpress-de5f7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "yundaexpress-de5f7a",
         "wikidata": "Q17010677"
@@ -255,23 +499,12 @@
     "_q7390019": {
       "slug": "_q7390019",
       "title": "顺丰速运",
-      "short_name": "顺丰速运",
-      "badge_text": "顺",
+      "title_en": "SF Express",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "顺丰速运",
-        "SF Express"
-      ],
-      "keywords": [
-        "顺丰速运",
-        "SF Express"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sfexpress-316e92.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sfexpress-316e92",
         "wikidata": "Q7390019"

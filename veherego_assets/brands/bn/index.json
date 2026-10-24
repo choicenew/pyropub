@@ -1,9 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "bn",
-  "total_categories": 2,
+  "country_name": "BN",
+  "total_categories": 4,
   "manifest_files": [
-    "drink.json",
-    "food.json"
-  ]
+    "supermarket.json",
+    "express.json",
+    "food.json",
+    "drink.json"
+  ],
+  "version": 1
 }

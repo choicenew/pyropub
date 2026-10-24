@@ -1,50 +1,62 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "cu",
+  "category": "supermarket",
+  "total_brands": 4,
   "brand_aliases": {
     "panamericana": {
       "slug": "panamericana",
       "title": "Panamericana",
-      "short_name": "Panamerica",
-      "badge_text": "P",
+      "title_en": "Panamericana",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Panamericana"
-      ],
-      "keywords": [
-        "Panamericana"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "panamericana-915f01",
         "wikidata": ""
       }
     },
+    "telcel_q3517255": {
+      "slug": "telcel_q3517255",
+      "title": "Telcel",
+      "title_en": "Telcel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telcel-9812f0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "telcel-9812f0",
+        "wikidata": "Q3517255"
+      }
+    },
+    "wifietecsa_q490323": {
+      "slug": "wifietecsa_q490323",
+      "title": "WIFI_ETECSA",
+      "title_en": "WIFI_ETECSA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wifietecsa-9a8553.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wifietecsa-9a8553",
+        "wikidata": "Q490323"
+      }
+    },
     "trd": {
       "slug": "trd",
       "title": "TRD",
-      "short_name": "TRD",
-      "badge_text": "T",
+      "title_en": "TRD",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "TRD"
-      ],
-      "keywords": [
-        "TRD"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "trd-915f01",
         "wikidata": ""

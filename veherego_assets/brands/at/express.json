@@ -1,27 +1,216 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "at",
+  "category": "express",
+  "total_brands": 19,
   "brand_aliases": {
+    "arbeitsmarktservicesterreich_q628700": {
+      "slug": "arbeitsmarktservicesterreich_q628700",
+      "title": "Arbeitsmarktservice Österreich",
+      "title_en": "Arbeitsmarktservice Österreich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arbeitsmarktserviceosterreich-69b0ce.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "arbeitsmarktserviceosterreich-69b0ce",
+        "wikidata": "Q628700"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "vonpollimmobilien_q96026696": {
+      "slug": "vonpollimmobilien_q96026696",
+      "title": "Von Poll Immobilien",
+      "title_en": "Von Poll Immobilien",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vonpollimmobilien-0fbcd3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vonpollimmobilien-0fbcd3",
+        "wikidata": "Q96026696"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "generali_q670482": {
+      "slug": "generali_q670482",
+      "title": "Generali",
+      "title_en": "Generali",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/generali-cb13d1.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "generali-cb13d1",
+        "wikidata": "Q670482"
+      }
+    },
+    "grawe_q877006": {
+      "slug": "grawe_q877006",
+      "title": "Grawe",
+      "title_en": "Grawe",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grawe-49851b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "grawe-49851b",
+        "wikidata": "Q877006"
+      }
+    },
+    "helvetia_q933766": {
+      "slug": "helvetia_q933766",
+      "title": "Helvetia",
+      "title_en": "Helvetia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/helvetia-f9490e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "helvetia-f9490e",
+        "wikidata": "Q933766"
+      }
+    },
+    "swisslife_q667350": {
+      "slug": "swisslife_q667350",
+      "title": "Swiss Life",
+      "title_en": "Swiss Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swisslife-aab9d2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swisslife-aab9d2",
+        "wikidata": "Q667350"
+      }
+    },
+    "uniqa_q1022419": {
+      "slug": "uniqa_q1022419",
+      "title": "Uniqa",
+      "title_en": "Uniqa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uniqa-39b262.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uniqa-39b262",
+        "wikidata": "Q1022419"
+      }
+    },
+    "wienerstdtischeversicherung_q16088560": {
+      "slug": "wienerstdtischeversicherung_q16088560",
+      "title": "Wiener Städtische Versicherung",
+      "title_en": "Wiener Städtische Versicherung",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wienerstadtischeversicherung-4ff154.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wienerstadtischeversicherung-4ff154",
+        "wikidata": "Q16088560"
+      }
+    },
+    "wstenrot_q2597123": {
+      "slug": "wstenrot_q2597123",
+      "title": "Wüstenrot",
+      "title_en": "Wüstenrot",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wustenrot-4e7038.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wustenrot-4e7038",
+        "wikidata": "Q2597123"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "amtcsttzpunkt_q306057": {
+      "slug": "amtcsttzpunkt_q306057",
+      "title": "ÖAMTC",
+      "title_en": "ÖAMTC",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oamtc-71b284.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oamtc-71b284",
+        "wikidata": "Q306057"
+      }
+    },
     "alzabox_q115254158": {
       "slug": "alzabox_q115254158",
       "title": "AlzaBox",
-      "short_name": "AlzaBox",
-      "badge_text": "A",
+      "title_en": "AlzaBox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "AlzaBox"
-      ],
-      "keywords": [
-        "AlzaBox"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alzabox-bee63b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "alzabox-bee63b",
         "wikidata": "Q115254158"
@@ -30,21 +219,12 @@
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -53,21 +233,12 @@
     "myflexbox_q117313525": {
       "slug": "myflexbox_q117313525",
       "title": "myflexbox",
-      "short_name": "myflexbox",
-      "badge_text": "M",
+      "title_en": "myflexbox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "myflexbox"
-      ],
-      "keywords": [
-        "myflexbox"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "myflexbox-4d2310",
         "wikidata": "Q117313525"
@@ -76,21 +247,12 @@
     "postabholstation_q110748491": {
       "slug": "postabholstation_q110748491",
       "title": "Post Abholstation",
-      "short_name": "Post Abhol",
-      "badge_text": "P",
+      "title_en": "Post Abholstation",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Post Abholstation"
-      ],
-      "keywords": [
-        "Post Abholstation"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "postabholstation-82dce7",
         "wikidata": "Q110748491"
@@ -99,21 +261,12 @@
     "tamburi_q125176523": {
       "slug": "tamburi_q125176523",
       "title": "Tamburi",
-      "short_name": "Tamburi",
-      "badge_text": "T",
+      "title_en": "Tamburi",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Tamburi"
-      ],
-      "keywords": [
-        "Tamburi"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tamburi-82dce7",
         "wikidata": "Q125176523"

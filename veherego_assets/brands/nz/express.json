@@ -1,50 +1,174 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "nz",
+  "category": "express",
+  "total_brands": 13,
   "brand_aliases": {
+    "expressemploymentprofessionals_q117351404": {
+      "slug": "expressemploymentprofessionals_q117351404",
+      "title": "Express Employment Professionals",
+      "title_en": "Express Employment Professionals",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressemploymentprofessionals-867cf6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "expressemploymentprofessionals-867cf6",
+        "wikidata": "Q117351404"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
     "gebrderweiss_q1497233": {
       "slug": "gebrderweiss_q1497233",
       "title": "Gebrüder Weiss",
-      "short_name": "Gebrüder W",
-      "badge_text": "G",
+      "title_en": "Gebrüder Weiss",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Gebrüder Weiss"
-      ],
-      "keywords": [
-        "Gebrüder Weiss"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gebruderweiss-3fef46.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gebruderweiss-3fef46",
         "wikidata": "Q1497233"
       }
     },
+    "barfootthompson_q4860509": {
+      "slug": "barfootthompson_q4860509",
+      "title": "Barfoot & Thompson",
+      "title_en": "Barfoot & Thompson",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barfootandthompson-8dbc65.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "barfootandthompson-8dbc65",
+        "wikidata": "Q4860509"
+      }
+    },
+    "bayleys_q112189592": {
+      "slug": "bayleys_q112189592",
+      "title": "Bayleys",
+      "title_en": "Bayleys",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bayleys-d3667a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bayleys-d3667a",
+        "wikidata": "Q112189592"
+      }
+    },
+    "firstnationalrealestate_q122888198": {
+      "slug": "firstnationalrealestate_q122888198",
+      "title": "First National Real Estate",
+      "title_en": "First National Real Estate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "firstnationalrealestate-54d29c",
+        "wikidata": "Q122888198"
+      }
+    },
+    "harcourts_q5655056": {
+      "slug": "harcourts_q5655056",
+      "title": "Harcourts",
+      "title_en": "Harcourts",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harcourts-e2b091.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "harcourts-e2b091",
+        "wikidata": "Q5655056"
+      }
+    },
+    "raywhite_q81077729": {
+      "slug": "raywhite_q81077729",
+      "title": "Ray White",
+      "title_en": "Ray White",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raywhite-85c03d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "raywhite-85c03d",
+        "wikidata": "Q81077729"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "allieduniversal_q4732537": {
+      "slug": "allieduniversal_q4732537",
+      "title": "Allied Universal",
+      "title_en": "Allied Universal",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allieduniversal-8dcc43.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allieduniversal-8dcc43",
+        "wikidata": "Q4732537"
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -52,22 +176,13 @@
     },
     "dxmailnewzealand_q125635563": {
       "slug": "dxmailnewzealand_q125635563",
-      "title": "DX Mail (New Zealand)",
-      "short_name": "DX Mail (N",
-      "badge_text": "D",
+      "title": "DX Mail",
+      "title_en": "DX Mail",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "DX Mail"
-      ],
-      "keywords": [
-        "DX Mail"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dxmail-c4f0a8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dxmail-c4f0a8",
         "wikidata": "Q125635563"

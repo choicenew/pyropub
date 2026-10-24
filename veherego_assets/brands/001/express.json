@@ -1,50 +1,678 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 12,
+  "country": "001",
+  "category": "express",
+  "total_brands": 58,
   "brand_aliases": {
+    "alstom_q309084": {
+      "slug": "alstom_q309084",
+      "title": "Alstom",
+      "title_en": "Alstom",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alstom-3739d4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alstom-3739d4",
+        "wikidata": "Q309084"
+      }
+    },
+    "meta_q380": {
+      "slug": "meta_q380",
+      "title": "Meta",
+      "title_en": "Meta",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meta-124efb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "meta-124efb",
+        "wikidata": "Q380"
+      }
+    },
+    "salesforce_q941127": {
+      "slug": "salesforce_q941127",
+      "title": "Salesforce",
+      "title_en": "Salesforce",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/salesforce-124efb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "salesforce-124efb",
+        "wikidata": "Q941127"
+      }
+    },
+    "adecco_q353494": {
+      "slug": "adecco_q353494",
+      "title": "Adecco",
+      "title_en": "Adecco",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adecco-0baa05.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "adecco-0baa05",
+        "wikidata": "Q353494"
+      }
+    },
+    "kellyservices_q1538585": {
+      "slug": "kellyservices_q1538585",
+      "title": "Kelly Services",
+      "title_en": "Kelly Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kellyservices-0baa05.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kellyservices-0baa05",
+        "wikidata": "Q1538585"
+      }
+    },
+    "manpower_q1472539": {
+      "slug": "manpower_q1472539",
+      "title": "Manpower",
+      "title_en": "Manpower",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manpower-0baa05.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "manpower-0baa05",
+        "wikidata": "Q1472539"
+      }
+    },
     "dhl_q489815": {
       "slug": "dhl_q489815",
       "title": "DHL",
-      "short_name": "DHL",
-      "badge_text": "D",
+      "title_en": "DHL",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "DHL"
-      ],
-      "keywords": [
-        "DHL"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhl-27cb18.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dhl-27cb18",
         "wikidata": "Q489815"
       }
     },
+    "barnes_q111207452": {
+      "slug": "barnes_q111207452",
+      "title": "Barnes",
+      "title_en": "Barnes",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barnes-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "barnes-08bb13",
+        "wikidata": "Q111207452"
+      }
+    },
+    "cbre_q1023013": {
+      "slug": "cbre_q1023013",
+      "title": "CBRE",
+      "title_en": "CBRE",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cbre-08bb13.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cbre-08bb13",
+        "wikidata": "Q1023013"
+      }
+    },
+    "century21_q1054480": {
+      "slug": "century21_q1054480",
+      "title": "Century 21",
+      "title_en": "Century 21",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/century21-8870f0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "century21-8870f0",
+        "wikidata": "Q1054480"
+      }
+    },
+    "coldwellbanker_q738853": {
+      "slug": "coldwellbanker_q738853",
+      "title": "Coldwell Banker",
+      "title_en": "Coldwell Banker",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coldwellbanker-08bb13.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coldwellbanker-08bb13",
+        "wikidata": "Q738853"
+      }
+    },
+    "cushmanwakefield_q1146061": {
+      "slug": "cushmanwakefield_q1146061",
+      "title": "Cushman & Wakefield",
+      "title_en": "Cushman & Wakefield",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cushmanandwakefield-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cushmanandwakefield-08bb13",
+        "wikidata": "Q1146061"
+      }
+    },
+    "engelvlkers_q1341765": {
+      "slug": "engelvlkers_q1341765",
+      "title": "Engel & Völkers",
+      "title_en": "Engel & Völkers",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/engelandvolkers-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "engelandvolkers-08bb13",
+        "wikidata": "Q1341765"
+      }
+    },
+    "erarealestate_q121496901": {
+      "slug": "erarealestate_q121496901",
+      "title": "ERA Real Estate",
+      "title_en": "ERA Real Estate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/erarealestate-bdc562.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "erarealestate-bdc562",
+        "wikidata": "Q121496901"
+      }
+    },
+    "jll_q1703389": {
+      "slug": "jll_q1703389",
+      "title": "JLL",
+      "title_en": "JLL",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jll-08bb13.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jll-08bb13",
+        "wikidata": "Q1703389"
+      }
+    },
+    "kellerwilliamsrealty_q6385689": {
+      "slug": "kellerwilliamsrealty_q6385689",
+      "title": "Keller Williams Realty",
+      "title_en": "Keller Williams Realty",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kellerwilliamsrealty-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kellerwilliamsrealty-08bb13",
+        "wikidata": "Q6385689"
+      }
+    },
+    "knightfrank_q3197998": {
+      "slug": "knightfrank_q3197998",
+      "title": "Knight Frank",
+      "title_en": "Knight Frank",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/knightfrank-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "knightfrank-08bb13",
+        "wikidata": "Q3197998"
+      }
+    },
+    "ljhooker_q6456509": {
+      "slug": "ljhooker_q6456509",
+      "title": "LJ Hooker",
+      "title_en": "LJ Hooker",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ljhooker-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ljhooker-08bb13",
+        "wikidata": "Q6456509"
+      }
+    },
+    "remax_q965845": {
+      "slug": "remax_q965845",
+      "title": "RE/MAX",
+      "title_en": "RE/MAX",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/remax-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "remax-08bb13",
+        "wikidata": "Q965845"
+      }
+    },
+    "savills_q10458056": {
+      "slug": "savills_q10458056",
+      "title": "Savills",
+      "title_en": "Savills",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/savills-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "savills-08bb13",
+        "wikidata": "Q10458056"
+      }
+    },
+    "winkworth_q8025502": {
+      "slug": "winkworth_q8025502",
+      "title": "Winkworth",
+      "title_en": "Winkworth",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/winkworth-08bb13.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "winkworth-08bb13",
+        "wikidata": "Q8025502"
+      }
+    },
+    "morganstanley_q334204": {
+      "slug": "morganstanley_q334204",
+      "title": "Morgan Stanley",
+      "title_en": "Morgan Stanley",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganstanley-433028.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "morganstanley-433028",
+        "wikidata": "Q334204"
+      }
+    },
+    "mapfre_q544532": {
+      "slug": "mapfre_q544532",
+      "title": "Mapfre",
+      "title_en": "Mapfre",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mapfre-b9b33f",
+        "wikidata": "Q544532"
+      }
+    },
+    "prudential_q1374135": {
+      "slug": "prudential_q1374135",
+      "title": "Prudential",
+      "title_en": "Prudential",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prudential-8102ff.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "prudential-8102ff",
+        "wikidata": "Q1374135"
+      }
+    },
+    "impacthub_q25205858": {
+      "slug": "impacthub_q25205858",
+      "title": "Impact Hub",
+      "title_en": "Impact Hub",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/impacthub-cfb41b.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "impacthub-cfb41b",
+        "wikidata": "Q25205858"
+      }
+    },
+    "regus_q130240418": {
+      "slug": "regus_q130240418",
+      "title": "Regus",
+      "title_en": "Regus",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/regus-cfb41b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "regus-cfb41b",
+        "wikidata": "Q130240418"
+      }
+    },
+    "spaces_q87629680": {
+      "slug": "spaces_q87629680",
+      "title": "Spaces",
+      "title_en": "Spaces",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spaces-92cb94.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "spaces-92cb94",
+        "wikidata": "Q87629680"
+      }
+    },
+    "wework_q19995004": {
+      "slug": "wework_q19995004",
+      "title": "WeWork",
+      "title_en": "WeWork",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wework-cfb41b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wework-cfb41b",
+        "wikidata": "Q19995004"
+      }
+    },
+    "accenture_q338825": {
+      "slug": "accenture_q338825",
+      "title": "Accenture",
+      "title_en": "Accenture",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accenture-2207a5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "accenture-2207a5",
+        "wikidata": "Q338825"
+      }
+    },
+    "bostonconsultinggroup_q135635": {
+      "slug": "bostonconsultinggroup_q135635",
+      "title": "Boston Consulting Group",
+      "title_en": "Boston Consulting Group",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bostonconsultinggroup-2207a5",
+        "wikidata": "Q135635"
+      }
+    },
+    "deloitte_q491748": {
+      "slug": "deloitte_q491748",
+      "title": "Deloitte",
+      "title_en": "Deloitte",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deloitte-2207a5.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "deloitte-2207a5",
+        "wikidata": "Q491748"
+      }
+    },
+    "ey_q489097": {
+      "slug": "ey_q489097",
+      "title": "EY",
+      "title_en": "EY",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ey-2207a5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ey-2207a5",
+        "wikidata": "Q489097"
+      }
+    },
+    "indra_q1661823": {
+      "slug": "indra_q1661823",
+      "title": "Indra",
+      "title_en": "Indra",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indra-2207a5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "indra-2207a5",
+        "wikidata": "Q1661823"
+      }
+    },
+    "kearney_q178907": {
+      "slug": "kearney_q178907",
+      "title": "Kearney",
+      "title_en": "Kearney",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kearney-2207a5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kearney-2207a5",
+        "wikidata": "Q178907"
+      }
+    },
+    "kpmg_q493751": {
+      "slug": "kpmg_q493751",
+      "title": "KPMG",
+      "title_en": "KPMG",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kpmg-2207a5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kpmg-2207a5",
+        "wikidata": "Q493751"
+      }
+    },
+    "mckinseycompany_q310207": {
+      "slug": "mckinseycompany_q310207",
+      "title": "McKinsey & Company",
+      "title_en": "McKinsey & Company",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mckinseyandcompany-2207a5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mckinseyandcompany-2207a5",
+        "wikidata": "Q310207"
+      }
+    },
+    "pwc_q488048": {
+      "slug": "pwc_q488048",
+      "title": "PwC",
+      "title_en": "PwC",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pwc-2207a5",
+        "wikidata": "Q488048"
+      }
+    },
+    "greenpeace_q81307": {
+      "slug": "greenpeace_q81307",
+      "title": "Greenpeace",
+      "title_en": "Greenpeace",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/greenpeace-a7aa2a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "greenpeace-a7aa2a",
+        "wikidata": "Q81307"
+      }
+    },
+    "conselhotutelar": {
+      "slug": "conselhotutelar",
+      "title": "Conselho Tutelar",
+      "title_en": "Conselho Tutelar",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "conselhotutelar-0bc456",
+        "wikidata": ""
+      }
+    },
+    "ministeriopblico": {
+      "slug": "ministeriopblico",
+      "title": "Ministerio Público",
+      "title_en": "Ministerio Público",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ministeriopublico-0bc456",
+        "wikidata": ""
+      }
+    },
+    "google_q95": {
+      "slug": "google_q95",
+      "title": "Google",
+      "title_en": "Google",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/google-4a77e8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "google-4a77e8",
+        "wikidata": "Q95"
+      }
+    },
+    "siemens_q81230": {
+      "slug": "siemens_q81230",
+      "title": "Siemens",
+      "title_en": "Siemens",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/siemens-4a77e8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "siemens-4a77e8",
+        "wikidata": "Q81230"
+      }
+    },
+    "thales_q1161666": {
+      "slug": "thales_q1161666",
+      "title": "Thales",
+      "title_en": "Thales",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thales-4a77e8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thales-4a77e8",
+        "wikidata": "Q1161666"
+      }
+    },
+    "tomtom_q682144": {
+      "slug": "tomtom_q682144",
+      "title": "TomTom",
+      "title_en": "TomTom",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tomtom-4a77e8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tomtom-4a77e8",
+        "wikidata": "Q682144"
+      }
+    },
+    "securitas_q662174": {
+      "slug": "securitas_q662174",
+      "title": "Securitas",
+      "title_en": "Securitas",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "securitas-1f2ee5",
+        "wikidata": "Q662174"
+      }
+    },
+    "att_q35476": {
+      "slug": "att_q35476",
+      "title": "AT&T",
+      "title_en": "AT&T",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atandt-d4bcbe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "atandt-d4bcbe",
+        "wikidata": "Q35476"
+      }
+    },
+    "dentons_q13633888": {
+      "slug": "dentons_q13633888",
+      "title": "Dentons",
+      "title_en": "Dentons",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dentons-0fb954.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dentons-0fb954",
+        "wikidata": "Q13633888"
+      }
+    },
     "amazon_q3884": {
       "slug": "amazon_q3884",
       "title": "Amazon",
-      "short_name": "Amazon",
-      "badge_text": "A",
+      "title_en": "Amazon",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Amazon"
-      ],
-      "keywords": [
-        "Amazon"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazon-2083a7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "amazon-2083a7",
         "wikidata": "Q3884"
@@ -53,21 +681,12 @@
     "dpd_q541030": {
       "slug": "dpd_q541030",
       "title": "DPD",
-      "short_name": "DPD",
-      "badge_text": "D",
+      "title_en": "DPD",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD"
-      ],
-      "keywords": [
-        "DPD"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpd-f31092.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpd-f31092",
         "wikidata": "Q541030"
@@ -76,21 +695,12 @@
     "fedex_q459477": {
       "slug": "fedex_q459477",
       "title": "FedEx",
-      "short_name": "FedEx",
-      "badge_text": "F",
+      "title_en": "FedEx",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "FedEx"
-      ],
-      "keywords": [
-        "FedEx"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fedex-2083a7.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fedex-2083a7",
         "wikidata": "Q459477"
@@ -99,21 +709,12 @@
     "ups_q155026": {
       "slug": "ups_q155026",
       "title": "UPS",
-      "short_name": "UPS",
-      "badge_text": "U",
+      "title_en": "UPS",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "UPS"
-      ],
-      "keywords": [
-        "UPS"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ups-2083a7.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ups-2083a7",
         "wikidata": "Q155026"
@@ -121,22 +722,13 @@
     },
     "amazonhublocker_q100274430": {
       "slug": "amazonhublocker_q100274430",
-      "title": "Amazon Hub Locker",
-      "short_name": "Amazon Hub",
-      "badge_text": "A",
+      "title": "Amazon Hub",
+      "title_en": "Amazon Hub",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Amazon Hub"
-      ],
-      "keywords": [
-        "Amazon Hub"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonhub-f85b1f.webp",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "amazonhub-f85b1f",
         "wikidata": "Q100274430"
@@ -145,21 +737,12 @@
     "amazonlocker_q16974764": {
       "slug": "amazonlocker_q16974764",
       "title": "Amazon Locker",
-      "short_name": "Amazon Loc",
-      "badge_text": "A",
+      "title_en": "Amazon Locker",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Amazon Locker"
-      ],
-      "keywords": [
-        "Amazon Locker"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amazonlocker-f85b1f.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "amazonlocker-f85b1f",
         "wikidata": "Q16974764"
@@ -168,21 +751,12 @@
     "gls_q366182": {
       "slug": "gls_q366182",
       "title": "GLS",
-      "short_name": "GLS",
-      "badge_text": "G",
+      "title_en": "GLS",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "GLS"
-      ],
-      "keywords": [
-        "GLS"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gls-7f0db9.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gls-7f0db9",
         "wikidata": "Q366182"
@@ -191,21 +765,12 @@
     "parcelpending_q127685418": {
       "slug": "parcelpending_q127685418",
       "title": "Parcel Pending",
-      "short_name": "Parcel Pen",
-      "badge_text": "P",
+      "title_en": "Parcel Pending",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Parcel Pending"
-      ],
-      "keywords": [
-        "Parcel Pending"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parcelpending-6a219a.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "parcelpending-6a219a",
         "wikidata": "Q127685418"
@@ -214,21 +779,12 @@
     "vintedgo": {
       "slug": "vintedgo",
       "title": "Vinted Go",
-      "short_name": "Vinted Go",
-      "badge_text": "V",
+      "title_en": "Vinted Go",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Vinted Go"
-      ],
-      "keywords": [
-        "Vinted Go"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "vintedgo-6a219a",
         "wikidata": ""
@@ -237,23 +793,12 @@
     "fedexshipcenter_q459477": {
       "slug": "fedexshipcenter_q459477",
       "title": "FedEx Ship Center",
-      "short_name": "FedEx Ship",
-      "badge_text": "F",
+      "title_en": "FedEx Ship Center",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "FedEx Ship Center",
-        "FedEx"
-      ],
-      "keywords": [
-        "FedEx Ship Center",
-        "FedEx"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fedexshipcenter-27cb18.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fedexshipcenter-27cb18",
         "wikidata": "Q459477"
@@ -262,21 +807,12 @@
     "mailboxesetc_q1139182": {
       "slug": "mailboxesetc_q1139182",
       "title": "Mail Boxes Etc.",
-      "short_name": "Mail Boxes",
-      "badge_text": "M",
+      "title_en": "Mail Boxes Etc.",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Mail Boxes Etc."
-      ],
-      "keywords": [
-        "Mail Boxes Etc."
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mailboxesetc-187121.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mailboxesetc-187121",
         "wikidata": "Q1139182"

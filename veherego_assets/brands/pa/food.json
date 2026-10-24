@@ -1,50 +1,146 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 7,
+  "country": "pa",
+  "category": "food",
+  "total_brands": 20,
   "brand_aliases": {
     "paul_q3370417": {
       "slug": "paul_q3370417",
       "title": "Paul",
-      "short_name": "Paul",
-      "badge_text": "P",
+      "title_en": "Paul",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paul"
-      ],
-      "keywords": [
-        "Paul"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paul-652955",
         "wikidata": "Q3370417"
       }
     },
+    "baccredomatic_q5715556": {
+      "slug": "baccredomatic_q5715556",
+      "title": "BAC Credomatic",
+      "title_en": "BAC Credomatic",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baccredomatic-a7c666.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baccredomatic-a7c666",
+        "wikidata": "Q5715556"
+      }
+    },
+    "bancoazteca_q4854076": {
+      "slug": "bancoazteca_q4854076",
+      "title": "Banco Azteca",
+      "title_en": "Banco Azteca",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancoazteca-a695fe",
+        "wikidata": "Q4854076"
+      }
+    },
+    "bancogeneral_q27618271": {
+      "slug": "bancogeneral_q27618271",
+      "title": "Banco General",
+      "title_en": "Banco General",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancogeneral-865fd1.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancogeneral-865fd1",
+        "wikidata": "Q27618271"
+      }
+    },
+    "banconacional_q2917708": {
+      "slug": "banconacional_q2917708",
+      "title": "Banco Nacional",
+      "title_en": "Banco Nacional",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banconacional-865fd1",
+        "wikidata": "Q2917708"
+      }
+    },
+    "davivienda_q5242054": {
+      "slug": "davivienda_q5242054",
+      "title": "Davivienda",
+      "title_en": "Davivienda",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/davivienda-0357a0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "davivienda-0357a0",
+        "wikidata": "Q5242054"
+      }
+    },
+    "ficohsa_q5886178": {
+      "slug": "ficohsa_q5886178",
+      "title": "Ficohsa",
+      "title_en": "Ficohsa",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ficohsa-47ab19",
+        "wikidata": "Q5886178"
+      }
+    },
+    "quirnprevencin_q140050574": {
+      "slug": "quirnprevencin_q140050574",
+      "title": "Quirónprevención",
+      "title_en": "Quirónprevención",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/quironprevencion-befa0a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "quironprevencion-befa0a",
+        "wikidata": "Q140050574"
+      }
+    },
+    "els_q5323325": {
+      "slug": "els_q5323325",
+      "title": "ELS",
+      "title_en": "ELS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/els-89568f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "els-89568f",
+        "wikidata": "Q5323325"
+      }
+    },
     "cosechas_q128305751": {
       "slug": "cosechas_q128305751",
       "title": "Cosechas",
-      "short_name": "Cosechas",
-      "badge_text": "C",
+      "title_en": "Cosechas",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Cosechas"
-      ],
-      "keywords": [
-        "Cosechas"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cosechas-a14b1c",
         "wikidata": "Q128305751"
@@ -53,21 +149,12 @@
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
@@ -76,44 +163,54 @@
     "woktowalk_q4020634": {
       "slug": "woktowalk_q4020634",
       "title": "Wok to Walk",
-      "short_name": "Wok to Wal",
-      "badge_text": "W",
+      "title_en": "Wok to Walk",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wok to Walk"
-      ],
-      "keywords": [
-        "Wok to Walk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woktowalk-f5ada9",
         "wikidata": "Q4020634"
       }
     },
+    "caribbeancinemas_q5039364": {
+      "slug": "caribbeancinemas_q5039364",
+      "title": "Caribbean Cinemas",
+      "title_en": "Caribbean Cinemas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caribbeancinemas-77ba3f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "caribbeancinemas-77ba3f",
+        "wikidata": "Q5039364"
+      }
+    },
+    "smoy_q21573945": {
+      "slug": "smoy_q21573945",
+      "title": "smöoy",
+      "title_en": "smöoy",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smooy-ae897d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smooy-ae897d",
+        "wikidata": "Q21573945"
+      }
+    },
     "benihana_q4887996": {
       "slug": "benihana_q4887996",
       "title": "Benihana",
-      "short_name": "Benihana",
-      "badge_text": "B",
+      "title_en": "Benihana",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Benihana"
-      ],
-      "keywords": [
-        "Benihana"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benihana-934c20.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "benihana-934c20",
         "wikidata": "Q4887996"
@@ -122,21 +219,12 @@
     "chuckecheese_q2438391": {
       "slug": "chuckecheese_q2438391",
       "title": "Chuck E. Cheese",
-      "short_name": "Chuck E. C",
-      "badge_text": "C",
+      "title_en": "Chuck E. Cheese",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Chuck E. Cheese"
-      ],
-      "keywords": [
-        "Chuck E. Cheese"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chuckecheese-826402.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chuckecheese-826402",
         "wikidata": "Q2438391"
@@ -145,24 +233,57 @@
     "crepeswaffles_q5184238": {
       "slug": "crepeswaffles_q5184238",
       "title": "Crepes & Waffles",
-      "short_name": "Crepes & W",
-      "badge_text": "C",
+      "title_en": "Crepes & Waffles",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Crepes & Waffles"
-      ],
-      "keywords": [
-        "Crepes & Waffles"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crepesandwaffles-7b5290.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "crepesandwaffles-7b5290",
         "wikidata": "Q5184238"
+      }
+    },
+    "codere_q2918415": {
+      "slug": "codere_q2918415",
+      "title": "Codere",
+      "title_en": "Codere",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/codere-3dfd07.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "codere-3dfd07",
+        "wikidata": "Q2918415"
+      }
+    },
+    "deltacostaricapanama_q62274638": {
+      "slug": "deltacostaricapanama_q62274638",
+      "title": "Delta",
+      "title_en": "Delta",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/delta-1fbae0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "delta-1fbae0",
+        "wikidata": "Q62274638"
+      }
+    },
+    "terpel_q7703003": {
+      "slug": "terpel_q7703003",
+      "title": "Terpel",
+      "title_en": "Terpel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/terpel-23f925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "terpel-23f925",
+        "wikidata": "Q7703003"
       }
     }
   }

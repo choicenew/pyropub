@@ -1,11 +1,14 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ua",
-  "total_categories": 4,
+  "country_name": "Україна",
+  "total_categories": 5,
   "manifest_files": [
-    "food.json",
+    "other.json",
     "supermarket.json",
-    "drink.json",
-    "express.json"
-  ]
+    "food.json",
+    "express.json",
+    "drink.json"
+  ],
+  "version": 1
 }

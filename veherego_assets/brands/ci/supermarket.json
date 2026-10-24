@@ -1,30 +1,149 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "ci",
+  "category": "supermarket",
+  "total_brands": 10,
   "brand_aliases": {
+    "coqivoire_q60183284": {
+      "slug": "coqivoire_q60183284",
+      "title": "Coqivoire",
+      "title_en": "Coqivoire",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coqivoire-40403c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coqivoire-40403c",
+        "wikidata": "Q60183284"
+      }
+    },
+    "foani_q60183335": {
+      "slug": "foani_q60183335",
+      "title": "Foani",
+      "title_en": "Foani",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foani-40403c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foani-40403c",
+        "wikidata": "Q60183335"
+      }
+    },
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "courir_q3001258": {
+      "slug": "courir_q3001258",
+      "title": "Courir",
+      "title_en": "Courir",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "courir-1cd077",
+        "wikidata": "Q3001258"
+      }
+    },
+    "finsbury_q141242163": {
+      "slug": "finsbury_q141242163",
+      "title": "Finsbury",
+      "title_en": "Finsbury",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finsbury-d5b2ff.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "finsbury-d5b2ff",
+        "wikidata": "Q141242163"
+      }
+    },
+    "lagrandercr_q3209556": {
+      "slug": "lagrandercr_q3209556",
+      "title": "La Grande Récré",
+      "title_en": "La Grande Récré",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lagranderecre-61c030.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lagranderecre-61c030",
+        "wikidata": "Q3209556"
+      }
+    },
     "auchan_q758603": {
       "slug": "auchan_q758603",
       "title": "Auchan",
-      "short_name": "Auchan",
-      "badge_text": "A",
+      "title_en": "Auchan",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Auchan"
-      ],
-      "keywords": [
-        "Auchan"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/auchan-05ddc8.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "auchan-05ddc8",
         "wikidata": "Q758603"
+      }
+    },
+    "moov_q3323637": {
+      "slug": "moov_q3323637",
+      "title": "Moov",
+      "title_en": "Moov",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "moov-6ab8a4",
+        "wikidata": "Q3323637"
+      }
+    },
+    "mtn_q1813361": {
+      "slug": "mtn_q1813361",
+      "title": "MTN",
+      "title_en": "MTN",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mtn-fe03c5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mtn-fe03c5",
+        "wikidata": "Q1813361"
+      }
+    },
+    "orange_q1431486": {
+      "slug": "orange_q1431486",
+      "title": "Orange",
+      "title_en": "Orange",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orange-87fd86.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orange-87fd86",
+        "wikidata": "Q1431486"
       }
     }
   }

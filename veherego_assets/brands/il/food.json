@@ -1,54 +1,202 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 19,
+  "country": "il",
+  "category": "food",
+  "total_brands": 44,
   "brand_aliases": {
     "_q117711642": {
       "slug": "_q117711642",
       "title": "מאפה נאמן",
-      "short_name": "מאפה נאמן",
-      "badge_text": "מ",
+      "title_en": "Neeman Bakery",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "מאפה נאמן",
-        "Neeman Bakery"
-      ],
-      "keywords": [
-        "מאפה נאמן",
-        "Neeman Bakery"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/neemanbakery-2a1629.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "neemanbakery-2a1629",
         "wikidata": "Q117711642"
       }
     },
+    "bnpparibas_q499707": {
+      "slug": "bnpparibas_q499707",
+      "title": "BNP Paribas",
+      "title_en": "BNP Paribas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bnpparibas-a4be3f",
+        "wikidata": "Q499707"
+      }
+    },
+    "_q2900674": {
+      "slug": "_q2900674",
+      "title": "בנק אוצר החייל",
+      "title_en": "Bank Otsar Ha-Hayal",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankotsarhahayal-563f7f",
+        "wikidata": "Q2900674"
+      }
+    },
+    "_q250362": {
+      "slug": "_q250362",
+      "title": "בנק דיסקונט",
+      "title_en": "Bank Discount",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankdiscount-563f7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankdiscount-563f7f",
+        "wikidata": "Q250362"
+      }
+    },
+    "_q2666775": {
+      "slug": "_q2666775",
+      "title": "בנק הפועלים",
+      "title_en": "Bank Hapoalim",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankhapoalim-563f7f",
+        "wikidata": "Q2666775"
+      }
+    },
+    "_q7187611": {
+      "slug": "_q7187611",
+      "title": "בנק יהב",
+      "title_en": "Bank Yahav",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankyahav-563f7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankyahav-563f7f",
+        "wikidata": "Q7187611"
+      }
+    },
+    "_q2900227": {
+      "slug": "_q2900227",
+      "title": "בנק ירושלים",
+      "title_en": "Bank of Jerusalem",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankofjerusalem-563f7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankofjerusalem-563f7f",
+        "wikidata": "Q2900227"
+      }
+    },
+    "_q806641": {
+      "slug": "_q806641",
+      "title": "בנק לאומי",
+      "title_en": "Bank Leumi",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankleumi-563f7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankleumi-563f7f",
+        "wikidata": "Q806641"
+      }
+    },
+    "_q7187667": {
+      "slug": "_q7187667",
+      "title": "בנק מסד",
+      "title_en": "Bank Massad",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankmassad-563f7f",
+        "wikidata": "Q7187667"
+      }
+    },
+    "_q6818018": {
+      "slug": "_q6818018",
+      "title": "בנק מרכנתיל דיסקונט",
+      "title_en": "Mercantile Discount Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mercantilediscountbank-563f7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mercantilediscountbank-563f7f",
+        "wikidata": "Q6818018"
+      }
+    },
+    "_q2777497": {
+      "slug": "_q2777497",
+      "title": "הבנק הבינלאומי",
+      "title_en": "First International Bank of Israel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firstinternationalbankofisrael-563f7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "firstinternationalbankofisrael-563f7f",
+        "wikidata": "Q2777497"
+      }
+    },
+    "_q2777129": {
+      "slug": "_q2777129",
+      "title": "בנק מזרחי טפחות",
+      "title_en": "Bank Mizrahi-Tefahot",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankmizrahitefahot-563f7f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankmizrahitefahot-563f7f",
+        "wikidata": "Q2777129"
+      }
+    },
+    "israelnationaltraillibrary_q583897": {
+      "slug": "israelnationaltraillibrary_q583897",
+      "title": "ספריית שביל",
+      "title_en": "Trail Library",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/traillibrary-cd9af2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "traillibrary-cd9af2",
+        "wikidata": "Q583897"
+      }
+    },
     "burgeranch_q950269": {
       "slug": "burgeranch_q950269",
-      "title": "Burgeranch",
-      "short_name": "Burgeranch",
-      "badge_text": "B",
+      "title": "בורגראנץ'",
+      "title_en": "Burgeranch",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "בורגראנץ'",
-        "Burgeranch"
-      ],
-      "keywords": [
-        "בורגראנץ'",
-        "Burgeranch"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "burgeranch-dbdcb8",
         "wikidata": "Q950269"
@@ -56,22 +204,13 @@
     },
     "burgerimisrael_q64760354": {
       "slug": "burgerimisrael_q64760354",
-      "title": "Burgerim (Israel)",
-      "short_name": "Burgerim (",
-      "badge_text": "B",
+      "title": "בורגרים",
+      "title_en": "Burgerim",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Burgerim"
-      ],
-      "keywords": [
-        "Burgerim"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burgerim-dbdcb8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "burgerim-dbdcb8",
         "wikidata": "Q64760354"
@@ -79,22 +218,13 @@
     },
     "burgersbar_q64760337": {
       "slug": "burgersbar_q64760337",
-      "title": "Burgers Bar",
-      "short_name": "Burgers Ba",
-      "badge_text": "B",
+      "title": "בורגרס בר",
+      "title_en": "Burgers Bar",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Burgers Bar"
-      ],
-      "keywords": [
-        "Burgers Bar"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burgersbar-dbdcb8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "burgersbar-dbdcb8",
         "wikidata": "Q64760337"
@@ -103,21 +233,12 @@
     "mrpretzels_q115728208": {
       "slug": "mrpretzels_q115728208",
       "title": "Mr. Pretzels",
-      "short_name": "Mr. Pretze",
-      "badge_text": "M",
+      "title_en": "Mr. Pretzels",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Mr. Pretzels"
-      ],
-      "keywords": [
-        "Mr. Pretzels"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mrpretzels-d3f544",
         "wikidata": "Q115728208"
@@ -126,21 +247,12 @@
     "newdeli_q110687861": {
       "slug": "newdeli_q110687861",
       "title": "New Deli",
-      "short_name": "New Deli",
-      "badge_text": "N",
+      "title_en": "New Deli",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "New Deli"
-      ],
-      "keywords": [
-        "New Deli"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/newdeli-dbdcb8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "newdeli-dbdcb8",
         "wikidata": "Q110687861"
@@ -149,21 +261,12 @@
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
@@ -171,22 +274,13 @@
     },
     "sususons_q64760081": {
       "slug": "sususons_q64760081",
-      "title": "SUSU & Sons",
-      "short_name": "SUSU & Son",
-      "badge_text": "S",
+      "title": "סוסו אנד סאנס",
+      "title_en": "SUSU & Sons",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "SUSU & Sons"
-      ],
-      "keywords": [
-        "SUSU & Sons"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/susuandsons-dbdcb8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "susuandsons-dbdcb8",
         "wikidata": "Q64760081"
@@ -195,21 +289,12 @@
     "woktowalk_q4020634": {
       "slug": "woktowalk_q4020634",
       "title": "Wok to Walk",
-      "short_name": "Wok to Wal",
-      "badge_text": "W",
+      "title_en": "Wok to Walk",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wok to Walk"
-      ],
-      "keywords": [
-        "Wok to Walk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woktowalk-f5ada9",
         "wikidata": "Q4020634"
@@ -218,23 +303,12 @@
     "_q64760070": {
       "slug": "_q64760070",
       "title": "אגדיר",
-      "short_name": "אגדיר",
-      "badge_text": "א",
+      "title_en": "Agadir",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Agadir",
-        "אגדיר"
-      ],
-      "keywords": [
-        "Agadir",
-        "אגדיר"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agadir-dbdcb8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "agadir-dbdcb8",
         "wikidata": "Q64760070"
@@ -243,23 +317,12 @@
     "_q12061542": {
       "slug": "_q12061542",
       "title": "מקדונלד'ס",
-      "short_name": "מקדונלד'ס",
-      "badge_text": "מ",
+      "title_en": "McDonald's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "McDonald's",
-        "מקדונלד'ס"
-      ],
-      "keywords": [
-        "McDonald's",
-        "מקדונלד'ס"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mcdonalds-dbdcb8",
         "wikidata": "Q12061542"
@@ -268,25 +331,12 @@
     "agvaniadbdcb8": {
       "slug": "agvaniadbdcb8",
       "title": "עגבניה",
-      "short_name": "עגבניה",
-      "badge_text": "ע",
+      "title_en": "Agvania",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Agvania",
-        "Agvania Pizza",
-        "עגבניה"
-      ],
-      "keywords": [
-        "Agvania",
-        "Agvania Pizza",
-        "עגבניה"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "agvania-dbdcb8",
         "wikidata": ""
@@ -295,23 +345,12 @@
     "_q64760165": {
       "slug": "_q64760165",
       "title": "עד העצם אקספרס",
-      "short_name": "עד העצם אק",
-      "badge_text": "ע",
+      "title_en": "Ad Haetzem Express",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "עד העצם אקספרס",
-        "Ad Haetzem Express"
-      ],
-      "keywords": [
-        "עד העצם אקספרס",
-        "Ad Haetzem Express"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adhaetzemexpress-dbdcb8.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "adhaetzemexpress-dbdcb8",
         "wikidata": "Q64760165"
@@ -320,23 +359,12 @@
     "_q99769214": {
       "slug": "_q99769214",
       "title": "פיצה פרגו",
-      "short_name": "פיצה פרגו",
-      "badge_text": "פ",
+      "title_en": "Pizza Prego",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Pizza Prego",
-        "פיצה פרגו"
-      ],
-      "keywords": [
-        "Pizza Prego",
-        "פיצה פרגו"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pizzaprego-dbdcb8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pizzaprego-dbdcb8",
         "wikidata": "Q99769214"
@@ -345,48 +373,124 @@
     "_q99769124": {
       "slug": "_q99769124",
       "title": "פיצה שמש",
-      "short_name": "פיצה שמש",
-      "badge_text": "פ",
+      "title_en": "Pizza Shemesh",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "פיצה שמש",
-        "Pizza Shemesh"
-      ],
-      "keywords": [
-        "פיצה שמש",
-        "Pizza Shemesh"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pizzashemesh-dbdcb8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pizzashemesh-dbdcb8",
         "wikidata": "Q99769124"
       }
     },
+    "be_q110739667": {
+      "slug": "be_q110739667",
+      "title": "Be",
+      "title_en": "Be",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "be-b1ecfe",
+        "wikidata": "Q110739667"
+      }
+    },
+    "goodpharm_q59506754": {
+      "slug": "goodpharm_q59506754",
+      "title": "גוד פארם",
+      "title_en": "GOOD PHARM",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodpharm-b1ecfe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "goodpharm-b1ecfe",
+        "wikidata": "Q59506754"
+      }
+    },
+    "superpharm_q13220217": {
+      "slug": "superpharm_q13220217",
+      "title": "סופר-פארם",
+      "title_en": "Super-Pharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/superpharm-8f2066.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "superpharm-8f2066",
+        "wikidata": "Q13220217"
+      }
+    },
+    "_q2028422": {
+      "slug": "_q2028422",
+      "title": "בית מרקחת כללית",
+      "title_en": "Clalit Pharmacy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/clalitpharmacy-b1ecfe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "clalitpharmacy-b1ecfe",
+        "wikidata": "Q2028422"
+      }
+    },
+    "_q117470179": {
+      "slug": "_q117470179",
+      "title": "מאוחדת פארם",
+      "title_en": "Meuhedet Pharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "meuhedetpharm-b1ecfe",
+        "wikidata": "Q117470179"
+      }
+    },
+    "_q110739725": {
+      "slug": "_q110739725",
+      "title": "מכבי פארם",
+      "title_en": "Macabi Pharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "macabipharm-b1ecfe",
+        "wikidata": "Q110739725"
+      }
+    },
+    "ibombo_q127945083": {
+      "slug": "ibombo_q127945083",
+      "title": "ibombo",
+      "title_en": "ibombo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ibombo-c84b0b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ibombo-c84b0b",
+        "wikidata": "Q127945083"
+      }
+    },
     "bbb_q64760094": {
       "slug": "bbb_q64760094",
       "title": "BBB",
-      "short_name": "BBB",
-      "badge_text": "B",
+      "title_en": "BBB",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "BBB",
-        "Burgus Burger Bar"
-      ],
-      "keywords": [
-        "BBB",
-        "Burgus Burger Bar"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bbb-b691b2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bbb-b691b2",
         "wikidata": "Q64760094"
@@ -394,24 +498,13 @@
     },
     "black_q64760158": {
       "slug": "black_q64760158",
-      "title": "Black",
-      "short_name": "Black",
-      "badge_text": "B",
+      "title": "בלאק",
+      "title_en": "Black",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Black Bar Burger",
-        "Black"
-      ],
-      "keywords": [
-        "Black Bar Burger",
-        "Black"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/black-b691b2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "black-b691b2",
         "wikidata": "Q64760158"
@@ -419,22 +512,13 @@
     },
     "moses_q64760150": {
       "slug": "moses_q64760150",
-      "title": "Moses",
-      "short_name": "Moses",
-      "badge_text": "M",
+      "title": "מוזס",
+      "title_en": "Moses",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Moses"
-      ],
-      "keywords": [
-        "Moses"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "moses-b691b2",
         "wikidata": "Q64760150"
@@ -443,26 +527,99 @@
     "_q64760057": {
       "slug": "_q64760057",
       "title": "בורגר סאלון",
-      "short_name": "בורגר סאלו",
-      "badge_text": "ב",
+      "title_en": "Burger Saloon",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "בורגר סאלון",
-        "Burger Saloon"
-      ],
-      "keywords": [
-        "בורגר סאלון",
-        "Burger Saloon"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/burgersaloon-b691b2.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "burgersaloon-b691b2",
         "wikidata": "Q64760057"
+      }
+    },
+    "delek_q1184087": {
+      "slug": "delek_q1184087",
+      "title": "דלק",
+      "title_en": "Delek",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "delek-bb4acb",
+        "wikidata": "Q1184087"
+      }
+    },
+    "_q16130352": {
+      "slug": "_q16130352",
+      "title": "דור אלון",
+      "title_en": "Dor Alon",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/doralon-bb4acb.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "doralon-bb4acb",
+        "wikidata": "Q16130352"
+      }
+    },
+    "_q3701622": {
+      "slug": "_q3701622",
+      "title": "סונול",
+      "title_en": "Sonol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sonol-bb4acb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sonol-bb4acb",
+        "wikidata": "Q3701622"
+      }
+    },
+    "_q2211731": {
+      "slug": "_q2211731",
+      "title": "פז",
+      "title_en": "Paz",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paz-bb4acb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "paz-bb4acb",
+        "wikidata": "Q2211731"
+      }
+    },
+    "lime_q39086685": {
+      "slug": "lime_q39086685",
+      "title": "Lime",
+      "title_en": "Lime",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lime-ac52f5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lime-ac52f5",
+        "wikidata": "Q39086685"
+      }
+    },
+    "telofun_q2915180": {
+      "slug": "telofun_q2915180",
+      "title": "Tel-O-Fun",
+      "title_en": "Tel-O-Fun",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telofun-ea041a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "telofun-ea041a",
+        "wikidata": "Q2915180"
       }
     }
   }

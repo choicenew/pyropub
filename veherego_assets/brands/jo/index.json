@@ -1,10 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "jo",
-  "total_categories": 3,
+  "country_name": "JO",
+  "total_categories": 4,
   "manifest_files": [
     "food.json",
     "supermarket.json",
+    "travel.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

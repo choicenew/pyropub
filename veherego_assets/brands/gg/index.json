@@ -1,8 +1,12 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "gg",
-  "total_categories": 1,
+  "country_name": "GG",
+  "total_categories": 3,
   "manifest_files": [
-    "supermarket.json"
-  ]
+    "supermarket.json",
+    "express.json",
+    "food.json"
+  ],
+  "version": 1
 }

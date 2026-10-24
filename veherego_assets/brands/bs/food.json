@@ -1,30 +1,37 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "bs",
+  "category": "food",
+  "total_brands": 2,
   "brand_aliases": {
     "marcospizza_q6757382": {
       "slug": "marcospizza_q6757382",
       "title": "Marco's Pizza",
-      "short_name": "Marco's Pi",
-      "badge_text": "M",
+      "title_en": "Marco's Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Marco's Pizza"
-      ],
-      "keywords": [
-        "Marco's Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marcospizza-c4364d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "marcospizza-c4364d",
         "wikidata": "Q6757382"
+      }
+    },
+    "menchies_q6816528": {
+      "slug": "menchies_q6816528",
+      "title": "Menchie's",
+      "title_en": "Menchie's",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/menchies-411174.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "menchies-411174",
+        "wikidata": "Q6816528"
       }
     }
   }

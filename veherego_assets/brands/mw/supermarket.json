@@ -1,27 +1,48 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "mw",
+  "category": "supermarket",
+  "total_brands": 4,
   "brand_aliases": {
+    "cashbuild_q116474606": {
+      "slug": "cashbuild_q116474606",
+      "title": "Cashbuild",
+      "title_en": "Cashbuild",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cashbuild-c5a717.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cashbuild-c5a717",
+        "wikidata": "Q116474606"
+      }
+    },
+    "pep_q7166182": {
+      "slug": "pep_q7166182",
+      "title": "PEP",
+      "title_en": "PEP",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pep-f0ab19.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pep-f0ab19",
+        "wikidata": "Q7166182"
+      }
+    },
     "shopriteafrica_q1857639": {
       "slug": "shopriteafrica_q1857639",
-      "title": "Shoprite (Africa)",
-      "short_name": "Shoprite (",
-      "badge_text": "S",
+      "title": "Shoprite",
+      "title_en": "Shoprite",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Shoprite"
-      ],
-      "keywords": [
-        "Shoprite"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shoprite-502f12.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shoprite-502f12",
         "wikidata": "Q1857639"
@@ -30,21 +51,12 @@
     "usave_q115696368": {
       "slug": "usave_q115696368",
       "title": "Usave",
-      "short_name": "Usave",
-      "badge_text": "U",
+      "title_en": "Usave",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Usave"
-      ],
-      "keywords": [
-        "Usave"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usave-1d4ed7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "usave-1d4ed7",
         "wikidata": "Q115696368"

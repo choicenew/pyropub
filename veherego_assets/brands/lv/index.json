@@ -1,11 +1,14 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "lv",
-  "total_categories": 4,
+  "country_name": "LV",
+  "total_categories": 5,
   "manifest_files": [
     "supermarket.json",
-    "drink.json",
+    "other.json",
     "express.json",
-    "food.json"
-  ]
+    "food.json",
+    "drink.json"
+  ],
+  "version": 1
 }

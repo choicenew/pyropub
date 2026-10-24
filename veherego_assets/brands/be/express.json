@@ -1,27 +1,202 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "be",
+  "category": "express",
+  "total_brands": 18,
   "brand_aliases": {
+    "accentjobs_q2939495": {
+      "slug": "accentjobs_q2939495",
+      "title": "Accent Jobs",
+      "title_en": "Accent Jobs",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accentjobs-26db9d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "accentjobs-26db9d",
+        "wikidata": "Q2939495"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "startpeople_q2646530": {
+      "slug": "startpeople_q2646530",
+      "title": "Start People",
+      "title_en": "Start People",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/startpeople-45a424.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "startpeople-45a424",
+        "wikidata": "Q2646530"
+      }
+    },
+    "tempoteam_q1996250": {
+      "slug": "tempoteam_q1996250",
+      "title": "Tempo-Team",
+      "title_en": "Tempo-Team",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempoteam-a6688c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tempoteam-a6688c",
+        "wikidata": "Q1996250"
+      }
+    },
+    "cofidis_q1106920": {
+      "slug": "cofidis_q1106920",
+      "title": "Cofidis",
+      "title_en": "Cofidis",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cofidis-8d8ca3.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cofidis-8d8ca3",
+        "wikidata": "Q1106920"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "bloise_q457912": {
+      "slug": "bloise_q457912",
+      "title": "Bâloise",
+      "title_en": "Bâloise",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/baloise-d9a3dd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baloise-d9a3dd",
+        "wikidata": "Q457912"
+      }
+    },
+    "concordia_q126478569": {
+      "slug": "concordia_q126478569",
+      "title": "Concordia",
+      "title_en": "Concordia",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/concordia-788bac.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "concordia-788bac",
+        "wikidata": "Q126478569"
+      }
+    },
+    "dvv_q1969247": {
+      "slug": "dvv_q1969247",
+      "title": "DVV",
+      "title_en": "DVV",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dvv-df109b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dvv-df109b",
+        "wikidata": "Q1969247"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "foley_q5464319": {
+      "slug": "foley_q5464319",
+      "title": "Foley",
+      "title_en": "Foley",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foley-2b4d11.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foley-2b4d11",
+        "wikidata": "Q5464319"
+      }
+    },
     "bpost_q740553": {
       "slug": "bpost_q740553",
       "title": "bpost",
-      "short_name": "bpost",
-      "badge_text": "B",
+      "title_en": "bpost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "bpost"
-      ],
-      "keywords": [
-        "bpost"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bpost-a3df6a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bpost-a3df6a",
         "wikidata": "Q740553"
@@ -30,21 +205,12 @@
     "budbee_q123582538": {
       "slug": "budbee_q123582538",
       "title": "Budbee",
-      "short_name": "Budbee",
-      "badge_text": "B",
+      "title_en": "Budbee",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Budbee"
-      ],
-      "keywords": [
-        "Budbee"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budbee-8c9d85.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "budbee-8c9d85",
         "wikidata": "Q123582538"
@@ -53,21 +219,12 @@
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -76,21 +233,12 @@
     "inpost_q3182097": {
       "slug": "inpost_q3182097",
       "title": "InPost",
-      "short_name": "InPost",
-      "badge_text": "I",
+      "title_en": "InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "InPost"
-      ],
-      "keywords": [
-        "InPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inpost-6b37ec",
         "wikidata": "Q3182097"
@@ -99,21 +247,12 @@
     "mondialrelay_q3320547": {
       "slug": "mondialrelay_q3320547",
       "title": "Mondial Relay",
-      "short_name": "Mondial Re",
-      "badge_text": "M",
+      "title_en": "Mondial Relay",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Mondial Relay"
-      ],
-      "keywords": [
-        "Mondial Relay"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mondialrelay-318f10.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mondialrelay-318f10",
         "wikidata": "Q3320547"

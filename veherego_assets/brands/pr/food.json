@@ -1,27 +1,62 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "pr",
+  "category": "food",
+  "total_brands": 6,
   "brand_aliases": {
+    "athenabitcoin_q135280046": {
+      "slug": "athenabitcoin_q135280046",
+      "title": "Athena Bitcoin",
+      "title_en": "Athena Bitcoin",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/athenabitcoin-5938ef.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "athenabitcoin-5938ef",
+        "wikidata": "Q135280046"
+      }
+    },
+    "firstbankpuertorico_q5452333": {
+      "slug": "firstbankpuertorico_q5452333",
+      "title": "First Bank",
+      "title_en": "First Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firstbank-9794e6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "firstbank-9794e6",
+        "wikidata": "Q5452333"
+      }
+    },
+    "libroslibres": {
+      "slug": "libroslibres",
+      "title": "Libros Libres",
+      "title_en": "Libros Libres",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "libroslibres-85816d",
+        "wikidata": ""
+      }
+    },
     "mesonsandwiches_q5351585": {
       "slug": "mesonsandwiches_q5351585",
       "title": "Meson Sandwiches",
-      "short_name": "Meson Sand",
-      "badge_text": "M",
+      "title_en": "Meson Sandwiches",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Meson Sandwiches"
-      ],
-      "keywords": [
-        "Meson Sandwiches"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mesonsandwiches-7afd19.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mesonsandwiches-7afd19",
         "wikidata": "Q5351585"
@@ -30,21 +65,12 @@
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
@@ -53,21 +79,12 @@
     "martinsbbq_q6774779": {
       "slug": "martinsbbq_q6774779",
       "title": "Martin's BBQ",
-      "short_name": "Martin's B",
-      "badge_text": "M",
+      "title_en": "Martin's BBQ",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Martin's BBQ"
-      ],
-      "keywords": [
-        "Martin's BBQ"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/martinsbbq-9af335.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "martinsbbq-9af335",
         "wikidata": "Q6774779"

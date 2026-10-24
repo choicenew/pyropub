@@ -5,61 +5,277 @@
   "description": "VehereGo Chinese default rules pack",
   "brands": {
     "drink": [
-      { "name": "星巴克", "aliases": ["STARBUCKS", "Starbucks"], "category": "饮品", "package_name": "com.starbucks.cn", "keywords": ["啡快口令"] },
-      { "name": "瑞幸", "aliases": ["LUCKIN"], "category": "饮品", "package_name": "com.lucky.luckyclient", "qr_pattern": "^a.{7}AA.=$" },
-      { "name": "库迪", "category": "饮品" },
-      { "name": "幸运咖", "category": "饮品" },
-      { "name": "蜜雪冰城", "category": "饮品", "package_name": "com.mxbc.mxsa", "keywords": ["雪王"] },
-      { "name": "古茗", "category": "饮品", "keywords": ["葫芦"] },
-      { "name": "茶百道", "category": "饮品", "keywords": ["熊猫币", "熊猫值"] },
-      { "name": "沪上阿姨", "category": "饮品" },
-      { "name": "甜啦啦", "category": "饮品" },
-      { "name": "霸王茶姬", "category": "饮品" },
-      { "name": "CoCo", "aliases": ["COCO", "coco"], "category": "饮品" },
-      { "name": "一点点", "category": "饮品" },
-      { "name": "书亦烧仙草", "category": "饮品" },
-      { "name": "喜茶", "aliases": ["HEYTEA"], "category": "饮品", "package_name": "com.heyteago", "keywords": ["喜茶GO"] },
-      { "name": "奈雪的茶", "aliases": ["奈雪"], "category": "饮品" },
-      { "name": "Manner", "category": "饮品" },
-      { "name": "Tims", "aliases": ["TIMS"], "category": "饮品" },
-      { "name": "700CC", "category": "饮品" },
-      { "name": "鲜果时间", "category": "饮品" },
-      { "name": "快乐柠檬", "category": "饮品" },
-      { "name": "7分甜", "category": "饮品" },
-      { "name": "一只酸奶牛", "category": "饮品" },
-      { "name": "茶颜悦色", "category": "饮品" }
+      {
+        "name": "星巴克",
+        "aliases": [
+          "STARBUCKS",
+          "Starbucks"
+        ],
+        "category": "饮品",
+        "package_name": "com.starbucks.cn",
+        "keywords": [
+          "啡快口令"
+        ]
+      },
+      {
+        "name": "瑞幸",
+        "aliases": [
+          "LUCKIN"
+        ],
+        "category": "饮品",
+        "package_name": "com.lucky.luckyclient",
+        "qr_pattern": "^a.{7}AA.=$"
+      },
+      {
+        "name": "库迪",
+        "category": "饮品"
+      },
+      {
+        "name": "幸运咖",
+        "category": "饮品"
+      },
+      {
+        "name": "蜜雪冰城",
+        "category": "饮品",
+        "package_name": "com.mxbc.mxsa",
+        "keywords": [
+          "雪王"
+        ]
+      },
+      {
+        "name": "古茗",
+        "category": "饮品",
+        "keywords": [
+          "葫芦"
+        ]
+      },
+      {
+        "name": "茶百道",
+        "category": "饮品",
+        "keywords": [
+          "熊猫币",
+          "熊猫值"
+        ]
+      },
+      {
+        "name": "沪上阿姨",
+        "category": "饮品"
+      },
+      {
+        "name": "甜啦啦",
+        "category": "饮品"
+      },
+      {
+        "name": "霸王茶姬",
+        "category": "饮品"
+      },
+      {
+        "name": "CoCo",
+        "aliases": [
+          "COCO",
+          "coco"
+        ],
+        "category": "饮品"
+      },
+      {
+        "name": "一点点",
+        "category": "饮品"
+      },
+      {
+        "name": "书亦烧仙草",
+        "category": "饮品"
+      },
+      {
+        "name": "喜茶",
+        "aliases": [
+          "HEYTEA"
+        ],
+        "category": "饮品",
+        "package_name": "com.heyteago",
+        "keywords": [
+          "喜茶GO"
+        ]
+      },
+      {
+        "name": "奈雪的茶",
+        "aliases": [
+          "奈雪"
+        ],
+        "category": "饮品"
+      },
+      {
+        "name": "Manner",
+        "category": "饮品"
+      },
+      {
+        "name": "Tims",
+        "aliases": [
+          "TIMS"
+        ],
+        "category": "饮品"
+      },
+      {
+        "name": "700CC",
+        "category": "饮品"
+      },
+      {
+        "name": "鲜果时间",
+        "category": "饮品"
+      },
+      {
+        "name": "快乐柠檬",
+        "category": "饮品"
+      },
+      {
+        "name": "7分甜",
+        "category": "饮品"
+      },
+      {
+        "name": "一只酸奶牛",
+        "category": "饮品"
+      },
+      {
+        "name": "茶颜悦色",
+        "category": "饮品"
+      }
     ],
     "food": [
-      { "name": "麦当劳", "aliases": ["MCDONALDS"], "category": "餐食", "package_name": "com.mcdonalds.gma.cn" },
-      { "name": "肯德基", "aliases": ["KFC", "kfc"], "category": "餐食", "package_name": "com.yek.android.kfc.activitys" },
-      { "name": "汉堡王", "category": "餐食" },
-      { "name": "塔斯汀", "category": "餐食" },
-      { "name": "老乡鸡", "category": "餐食" },
-      { "name": "华莱士", "category": "餐食" }
+      {
+        "name": "麦当劳",
+        "aliases": [
+          "MCDONALDS"
+        ],
+        "category": "餐食",
+        "package_name": "com.mcdonalds.gma.cn"
+      },
+      {
+        "name": "肯德基",
+        "aliases": [
+          "KFC",
+          "kfc"
+        ],
+        "category": "餐食",
+        "package_name": "com.yek.android.kfc.activitys"
+      },
+      {
+        "name": "汉堡王",
+        "category": "餐食"
+      },
+      {
+        "name": "塔斯汀",
+        "category": "餐食"
+      },
+      {
+        "name": "老乡鸡",
+        "category": "餐食"
+      },
+      {
+        "name": "华莱士",
+        "category": "餐食"
+      }
     ],
     "express": [
-      { "name": "中国邮政", "aliases": ["邮政"], "category": "快递" },
-      { "name": "申通", "category": "快递" },
-      { "name": "中通", "category": "快递" },
-      { "name": "圆通", "category": "快递" },
-      { "name": "韵达", "category": "快递" },
-      { "name": "顺丰", "category": "快递" },
-      { "name": "极兔", "category": "快递" },
-      { "name": "德邦", "category": "快递" },
-      { "name": "菜鸟", "category": "快递" },
-      { "name": "驿站", "category": "快递" },
-      { "name": "丰巢", "category": "快递" },
-      { "name": "包裹", "category": "快递" }
+      {
+        "name": "中国邮政",
+        "aliases": [
+          "邮政"
+        ],
+        "category": "快递"
+      },
+      {
+        "name": "申通",
+        "category": "快递"
+      },
+      {
+        "name": "中通",
+        "category": "快递"
+      },
+      {
+        "name": "圆通",
+        "category": "快递"
+      },
+      {
+        "name": "韵达",
+        "category": "快递"
+      },
+      {
+        "name": "顺丰",
+        "category": "快递"
+      },
+      {
+        "name": "极兔",
+        "category": "快递"
+      },
+      {
+        "name": "德邦",
+        "category": "快递"
+      },
+      {
+        "name": "菜鸟",
+        "category": "快递"
+      },
+      {
+        "name": "驿站",
+        "category": "快递"
+      },
+      {
+        "name": "丰巢",
+        "category": "快递"
+      },
+      {
+        "name": "包裹",
+        "category": "快递"
+      }
     ]
   },
   "code_extraction": {
     "express": {
-      "trigger_keywords": ["取件码", "取件码为", "取件码是", "取件码", "请凭", "靖凭", "凭", "快递柜", "驿站"],
-      "hint_keywords": ["取件", "快递", "包裹", "已到", "取件码"]
+      "trigger_keywords": [
+        "取件码",
+        "取件码为",
+        "取件码是",
+        "取件码",
+        "请凭",
+        "靖凭",
+        "凭",
+        "快递柜",
+        "驿站"
+      ],
+      "hint_keywords": [
+        "取件",
+        "快递",
+        "包裹",
+        "已到",
+        "取件码"
+      ]
     },
     "food": {
-      "trigger_keywords": ["取餐", "取餐号为", "取餐码为", "幸运取餐码", "幸运码", "幸运号", "取茶", "验证码", "券码", "订单", "准备完毕", "领取", "取单", "取货", "取餐"],
-      "hint_keywords": ["取餐", "幸运码", "幸运取餐码", "餐点", "就餐", "打包", "堂食"]
+      "trigger_keywords": [
+        "取餐",
+        "取餐号为",
+        "取餐码为",
+        "幸运取餐码",
+        "幸运码",
+        "幸运号",
+        "取茶",
+        "验证码",
+        "券码",
+        "订单",
+        "准备完毕",
+        "领取",
+        "取单",
+        "取货",
+        "取餐"
+      ],
+      "hint_keywords": [
+        "取餐",
+        "幸运码",
+        "幸运取餐码",
+        "餐点",
+        "就餐",
+        "打包",
+        "堂食"
+      ]
     },
     "multi_clusters": {
       "cluster_patterns": [
@@ -74,32 +290,123 @@
     "default_category": "food",
     "drink_triggers": {
       "brand_based": true,
-      "text_keywords": ["咖啡", "奶茶", "拿铁", "饮品", "茶", "果茶"]
+      "text_keywords": [
+        "咖啡",
+        "奶茶",
+        "拿铁",
+        "饮品",
+        "茶",
+        "果茶"
+      ]
     },
     "ticket_triggers": {
-      "text_keywords": ["车票", "机票", "高铁", "动车", "列车", "火车", "车次", "检票口", "登机口", "登机牌", "航班", "座席", "席位", "车厢", "候车"]
+      "text_keywords": [
+        "车票",
+        "机票",
+        "高铁",
+        "动车",
+        "列车",
+        "火车",
+        "车次",
+        "检票口",
+        "登机口",
+        "登机牌",
+        "航班",
+        "座席",
+        "席位",
+        "车厢",
+        "候车"
+      ]
     },
     "express_triggers": {
-      "text_keywords": ["包裹", "快递", "自提", "驿站", "取件", "派送"],
+      "text_keywords": [
+        "包裹",
+        "快递",
+        "自提",
+        "驿站",
+        "取件",
+        "派送"
+      ],
       "brand_in_text": true
     }
   },
   "homepage_detection": {
     "threshold": 3,
-    "keywords": ["我的", "首页", "会员", "积分", "去下单", "扫一扫"]
+    "keywords": [
+      "我的",
+      "首页",
+      "会员",
+      "积分",
+      "去下单",
+      "扫一扫"
+    ]
   },
   "pickup_location": {
     "start_keywords": [
-      "已到", "已至", "到达", "到了", "在", "于", "己到", "前往", "送到", "前住", "到", "至"
+      "已到",
+      "已至",
+      "到达",
+      "到了",
+      "在",
+      "于",
+      "己到",
+      "前往",
+      "送到",
+      "前住",
+      "到",
+      "至"
     ],
     "target_keywords": [
-      "服务站", "驿站", "菜鸟驿", "菜鸟驿站", "自提点", "快递站", "菜鸟站", "代收点", "代点", "丰巢柜", "快递柜", "智能柜", "门面", "邮政大厅", "大厅", "超市", "便利店", "商店", "小卖部"
+      "服务站",
+      "驿站",
+      "菜鸟驿",
+      "菜鸟驿站",
+      "自提点",
+      "快递站",
+      "菜鸟站",
+      "代收点",
+      "代点",
+      "丰巢柜",
+      "快递柜",
+      "智能柜",
+      "门面",
+      "邮政大厅",
+      "大厅",
+      "超市",
+      "便利店",
+      "商店",
+      "小卖部"
     ],
     "stop_keywords": [
-      "领取", "取件", "查看", "请凭", "靖凭", "如有", "如有疑问", "取您的", "复制", "日已接收", "已接收", "日已签收", "日已到", "点击", "联系"
+      "领取",
+      "取件",
+      "查看",
+      "请凭",
+      "靖凭",
+      "如有",
+      "如有疑问",
+      "取您的",
+      "复制",
+      "日已接收",
+      "已接收",
+      "日已签收",
+      "日已到",
+      "点击",
+      "联系"
     ],
     "trailing_labels": [
-      "联系地址", "门店地址", "店铺地址", "取货地址", "自提地址", "取餐地址", "就餐地点", "取件地址", "柜机地址", "自提点", "提货点", "所在位置"
+      "联系地址",
+      "门店地址",
+      "店铺地址",
+      "取货地址",
+      "自提地址",
+      "取餐地址",
+      "就餐地点",
+      "取件地址",
+      "柜机地址",
+      "自提点",
+      "提货点",
+      "所在位置"
     ],
     "sentence_patterns": [
       "(?:请凭.*(?:已到|已至|到达|到了|在|于|前往|送到|到|至)|请前往|凭码至|请至|凭短信到)\\s*([^\\n,，。]{3,30}(?:驿站|自提点|柜|店|堂食|服务点))",
@@ -115,15 +422,29 @@
       "([\\p{L}\\p{N}]{2,15}(?:站[A-Z0-9出入口口]*|航站楼|火车站|机场|客运站))"
     ],
     "business_hour_keywords": [
-      "营业时间", "工作时间", "取件时间"
+      "营业时间",
+      "工作时间",
+      "取件时间"
     ]
   },
   "text_cleaning": {
     "corrections": [
-      { "from": "取性码", "to": "取件码" },
-      { "from": "靖凭", "to": "请凭" },
-      { "from": "冰域", "to": "冰城" },
-      { "from": "製作中", "to": "制作中" }
+      {
+        "from": "取性码",
+        "to": "取件码"
+      },
+      {
+        "from": "靖凭",
+        "to": "请凭"
+      },
+      {
+        "from": "冰域",
+        "to": "冰城"
+      },
+      {
+        "from": "製作中",
+        "to": "制作中"
+      }
     ],
     "char_removals": [
       "|"
@@ -135,14 +456,50 @@
         "^1[3-9]\\d{9}$",
         "^\\d{3,4}-\\d{7,8}$"
       ],
-      "reject_time_keywords": ["时间", "日期", "时", "分", "秒", "KB/s", "kb/s"],
+      "reject_time_keywords": [
+        "时间",
+        "日期",
+        "时",
+        "分",
+        "秒",
+        "KB/s",
+        "kb/s"
+      ],
       "phone_tail": {
-        "context_keywords": ["本人", "手机", "手机号", "电话", "联系", "收件人", "尾号"]
+        "context_keywords": [
+          "本人",
+          "手机",
+          "手机号",
+          "电话",
+          "联系",
+          "收件人",
+          "尾号"
+        ]
       }
     },
     "food_code": {
-      "reject_time_keywords": ["时间", "日期", "预计获得", "积分"],
-      "distraction_words": ["ml", "g", "元", "¥", "购", "券", "赢", "送", "补贴", "减", "满", "起", "合计", "实付"]
+      "reject_time_keywords": [
+        "时间",
+        "日期",
+        "预计获得",
+        "积分"
+      ],
+      "distraction_words": [
+        "ml",
+        "g",
+        "元",
+        "¥",
+        "购",
+        "券",
+        "赢",
+        "送",
+        "补贴",
+        "减",
+        "满",
+        "起",
+        "合计",
+        "实付"
+      ]
     }
   },
   "scoring": {
@@ -161,5 +518,6 @@
         }
       }
     }
-  }
+  },
+  "version": 1
 }

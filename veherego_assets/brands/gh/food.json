@@ -1,27 +1,356 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 10,
+  "country": "gh",
+  "category": "food",
+  "total_brands": 67,
   "brand_aliases": {
+    "oldmutual_q289704": {
+      "slug": "oldmutual_q289704",
+      "title": "Old Mutual",
+      "title_en": "Old Mutual",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutual-ff45b4.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutual-ff45b4",
+        "wikidata": "Q289704"
+      }
+    },
+    "absaghana_q58641733": {
+      "slug": "absaghana_q58641733",
+      "title": "Absa",
+      "title_en": "Absa",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/absa-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "absa-9d35ea",
+        "wikidata": "Q58641733"
+      }
+    },
+    "accessbank_q4672418": {
+      "slug": "accessbank_q4672418",
+      "title": "Access Bank",
+      "title_en": "Access Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessbank-155277.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "accessbank-155277",
+        "wikidata": "Q4672418"
+      }
+    },
+    "adbghana_q4693885": {
+      "slug": "adbghana_q4693885",
+      "title": "ADB",
+      "title_en": "ADB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/adb-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "adb-9d35ea",
+        "wikidata": "Q4693885"
+      }
+    },
+    "bankofafricaghana_q2882627": {
+      "slug": "bankofafricaghana_q2882627",
+      "title": "Bank of Africa",
+      "title_en": "Bank of Africa",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankofafrica-9d35ea",
+        "wikidata": "Q2882627"
+      }
+    },
+    "calbank_q4035559": {
+      "slug": "calbank_q4035559",
+      "title": "CalBank",
+      "title_en": "CalBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/calbank-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "calbank-9d35ea",
+        "wikidata": "Q4035559"
+      }
+    },
+    "consolidatedbankghana_q56277912": {
+      "slug": "consolidatedbankghana_q56277912",
+      "title": "Consolidated Bank Ghana",
+      "title_en": "Consolidated Bank Ghana",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "consolidatedbankghana-9d35ea",
+        "wikidata": "Q56277912"
+      }
+    },
+    "ecobankghana_q930225": {
+      "slug": "ecobankghana_q930225",
+      "title": "Ecobank",
+      "title_en": "Ecobank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ecobank-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ecobank-9d35ea",
+        "wikidata": "Q930225"
+      }
+    },
+    "fidelitybankghana_q5446778": {
+      "slug": "fidelitybankghana_q5446778",
+      "title": "Fidelity Bank",
+      "title_en": "Fidelity Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fidelitybank-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fidelitybank-9d35ea",
+        "wikidata": "Q5446778"
+      }
+    },
+    "firstatlanticbank_q30688785": {
+      "slug": "firstatlanticbank_q30688785",
+      "title": "First Atlantic Bank",
+      "title_en": "First Atlantic Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "firstatlanticbank-9d35ea",
+        "wikidata": "Q30688785"
+      }
+    },
+    "firstnationalbankghana_q3072956": {
+      "slug": "firstnationalbankghana_q3072956",
+      "title": "First National Bank",
+      "title_en": "First National Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firstnationalbank-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "firstnationalbank-9d35ea",
+        "wikidata": "Q3072956"
+      }
+    },
+    "firstbankghana_q5452342": {
+      "slug": "firstbankghana_q5452342",
+      "title": "FirstBank Ghana",
+      "title_en": "FirstBank Ghana",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/firstbankghana-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "firstbankghana-9d35ea",
+        "wikidata": "Q5452342"
+      }
+    },
+    "gcbbank_q1521346": {
+      "slug": "gcbbank_q1521346",
+      "title": "GCB Bank",
+      "title_en": "GCB Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gcbbank-9d35ea",
+        "wikidata": "Q1521346"
+      }
+    },
+    "gtbank_q579747": {
+      "slug": "gtbank_q579747",
+      "title": "GT Bank",
+      "title_en": "GT Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gtbank-b3c39a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gtbank-b3c39a",
+        "wikidata": "Q579747"
+      }
+    },
+    "nationalinvestmentbankghana_q6973844": {
+      "slug": "nationalinvestmentbankghana_q6973844",
+      "title": "National Investment Bank",
+      "title_en": "National Investment Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationalinvestmentbank-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nationalinvestmentbank-9d35ea",
+        "wikidata": "Q6973844"
+      }
+    },
+    "omnibsicbank_q96397377": {
+      "slug": "omnibsicbank_q96397377",
+      "title": "OmniBSIC Bank",
+      "title_en": "OmniBSIC Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "omnibsicbank-9d35ea",
+        "wikidata": "Q96397377"
+      }
+    },
+    "prudentialbank_q7252979": {
+      "slug": "prudentialbank_q7252979",
+      "title": "Prudential Bank",
+      "title_en": "Prudential Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prudentialbank-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "prudentialbank-9d35ea",
+        "wikidata": "Q7252979"
+      }
+    },
+    "republicbankghana_q7314386": {
+      "slug": "republicbankghana_q7314386",
+      "title": "Republic Bank",
+      "title_en": "Republic Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/republicbank-9d35ea.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "republicbank-9d35ea",
+        "wikidata": "Q7314386"
+      }
+    },
+    "socitgnraleghana_q270363": {
+      "slug": "socitgnraleghana_q270363",
+      "title": "Société Générale",
+      "title_en": "Société Générale",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/societegenerale-9d35ea.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "societegenerale-9d35ea",
+        "wikidata": "Q270363"
+      }
+    },
+    "stanbicbankghana_q1576610": {
+      "slug": "stanbicbankghana_q1576610",
+      "title": "Stanbic Bank",
+      "title_en": "Stanbic Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stanbicbank-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "stanbicbank-9d35ea",
+        "wikidata": "Q1576610"
+      }
+    },
+    "standardcharteredghana_q548278": {
+      "slug": "standardcharteredghana_q548278",
+      "title": "Standard Chartered",
+      "title_en": "Standard Chartered",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/standardchartered-9d35ea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "standardchartered-9d35ea",
+        "wikidata": "Q548278"
+      }
+    },
+    "uba_q513457": {
+      "slug": "uba_q513457",
+      "title": "UBA",
+      "title_en": "UBA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uba-95540f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uba-95540f",
+        "wikidata": "Q513457"
+      }
+    },
+    "universalmerchantbank_q19604603": {
+      "slug": "universalmerchantbank_q19604603",
+      "title": "Universal Merchant Bank",
+      "title_en": "Universal Merchant Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "universalmerchantbank-9d35ea",
+        "wikidata": "Q19604603"
+      }
+    },
+    "zenithbank_q5978240": {
+      "slug": "zenithbank_q5978240",
+      "title": "Zenith Bank",
+      "title_en": "Zenith Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zenithbank-603eac.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zenithbank-603eac",
+        "wikidata": "Q5978240"
+      }
+    },
     "cheezzypizza_q125895139": {
       "slug": "cheezzypizza_q125895139",
       "title": "Cheezzy pizza",
-      "short_name": "Cheezzy pi",
-      "badge_text": "C",
+      "title_en": "Cheezzy pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Cheezzy pizza"
-      ],
-      "keywords": [
-        "Cheezzy pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cheezzypizza-0ae65d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cheezzypizza-0ae65d",
         "wikidata": "Q125895139"
@@ -30,21 +359,12 @@
     "eddyspizza_q115571642": {
       "slug": "eddyspizza_q115571642",
       "title": "Eddys Pizza",
-      "short_name": "Eddys Pizz",
-      "badge_text": "E",
+      "title_en": "Eddys Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Eddys Pizza"
-      ],
-      "keywords": [
-        "Eddys Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eddyspizza-0ae65d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "eddyspizza-0ae65d",
         "wikidata": "Q115571642"
@@ -53,21 +373,12 @@
     "galitos_q116619555": {
       "slug": "galitos_q116619555",
       "title": "Galito's",
-      "short_name": "Galito's",
-      "badge_text": "G",
+      "title_en": "Galito's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Galito's"
-      ],
-      "keywords": [
-        "Galito's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galitos-00ffa4.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "galitos-00ffa4",
         "wikidata": "Q116619555"
@@ -76,21 +387,12 @@
     "mrbiggs_q955488": {
       "slug": "mrbiggs_q955488",
       "title": "Mr Bigg's",
-      "short_name": "Mr Bigg's",
-      "badge_text": "M",
+      "title_en": "Mr Bigg's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Mr Bigg's"
-      ],
-      "keywords": [
-        "Mr Bigg's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrbiggs-282078.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mrbiggs-282078",
         "wikidata": "Q955488"
@@ -99,21 +401,12 @@
     "papaspizza_q125895068": {
       "slug": "papaspizza_q125895068",
       "title": "Papa's Pizza",
-      "short_name": "Papa's Piz",
-      "badge_text": "P",
+      "title_en": "Papa's Pizza",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Papa's Pizza"
-      ],
-      "keywords": [
-        "Papa's Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/papaspizza-0ae65d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "papaspizza-0ae65d",
         "wikidata": "Q125895068"
@@ -122,21 +415,12 @@
     "papayefastfood_q96104325": {
       "slug": "papayefastfood_q96104325",
       "title": "Papaye Fast Food",
-      "short_name": "Papaye Fas",
-      "badge_text": "P",
+      "title_en": "Papaye Fast Food",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Papaye Fast Food"
-      ],
-      "keywords": [
-        "Papaye Fast Food"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "papayefastfood-0ae65d",
         "wikidata": "Q96104325"
@@ -145,21 +429,12 @@
     "pizzamanchickenman_q123097576": {
       "slug": "pizzamanchickenman_q123097576",
       "title": "Pizzaman Chickenman",
-      "short_name": "Pizzaman C",
-      "badge_text": "P",
+      "title_en": "Pizzaman Chickenman",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Pizzaman Chickenman"
-      ],
-      "keywords": [
-        "Pizzaman Chickenman"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pizzamanchickenman-0ae65d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pizzamanchickenman-0ae65d",
         "wikidata": "Q123097576"
@@ -168,21 +443,12 @@
     "rocogo_q123034964": {
       "slug": "rocogo_q123034964",
       "title": "RocoGo",
-      "short_name": "RocoGo",
-      "badge_text": "R",
+      "title_en": "RocoGo",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "RocoGo"
-      ],
-      "keywords": [
-        "RocoGo"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocogo-0f34ca.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rocogo-0f34ca",
         "wikidata": "Q123034964"
@@ -191,21 +457,12 @@
     "laspalmasfoodcentre_q125886007": {
       "slug": "laspalmasfoodcentre_q125886007",
       "title": "Las Palmas Food Centre",
-      "short_name": "Las Palmas",
-      "badge_text": "L",
+      "title_en": "Las Palmas Food Centre",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Las Palmas Food Centre"
-      ],
-      "keywords": [
-        "Las Palmas Food Centre"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laspalmasfoodcentre-e66c3e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "laspalmasfoodcentre-e66c3e",
         "wikidata": "Q125886007"
@@ -214,24 +471,477 @@
     "rocomamas_q123034964": {
       "slug": "rocomamas_q123034964",
       "title": "RocoMamas",
-      "short_name": "RocoMamas",
-      "badge_text": "R",
+      "title_en": "RocoMamas",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "RocoMamas"
-      ],
-      "keywords": [
-        "RocoMamas"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocomamas-a7acfa.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rocomamas-a7acfa",
         "wikidata": "Q123034964"
+      }
+    },
+    "aegis_q127686527": {
+      "slug": "aegis_q127686527",
+      "title": "Aegis",
+      "title_en": "Aegis",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aegis-fdaf22",
+        "wikidata": "Q127686527"
+      }
+    },
+    "agapetlimited_q126110796": {
+      "slug": "agapetlimited_q126110796",
+      "title": "Agapet",
+      "title_en": "Agapet",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agapet-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "agapet-fdaf22",
+        "wikidata": "Q126110796"
+      }
+    },
+    "alincooil_q127686588": {
+      "slug": "alincooil_q127686588",
+      "title": "Alinco Oil",
+      "title_en": "Alinco Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alincooil-fdaf22",
+        "wikidata": "Q127686588"
+      }
+    },
+    "alliedghana_q126097124": {
+      "slug": "alliedghana_q126097124",
+      "title": "Allied",
+      "title_en": "Allied",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allied-fdaf22",
+        "wikidata": "Q126097124"
+      }
+    },
+    "amdawayoil_q130297357": {
+      "slug": "amdawayoil_q130297357",
+      "title": "Amdaway Oil",
+      "title_en": "Amdaway Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amdawayoil-fdaf22",
+        "wikidata": "Q130297357"
+      }
+    },
+    "aminsoenergy_q130297554": {
+      "slug": "aminsoenergy_q130297554",
+      "title": "Aminso Energy",
+      "title_en": "Aminso Energy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aminsoenergy-fdaf22",
+        "wikidata": "Q130297554"
+      }
+    },
+    "amseroil_q130297524": {
+      "slug": "amseroil_q130297524",
+      "title": "Amser Oil",
+      "title_en": "Amser Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amseroil-fdaf22.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amseroil-fdaf22",
+        "wikidata": "Q130297524"
+      }
+    },
+    "apoilghana_q130297616": {
+      "slug": "apoilghana_q130297616",
+      "title": "AP Oil",
+      "title_en": "AP Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "apoil-fdaf22",
+        "wikidata": "Q130297616"
+      }
+    },
+    "benaboil_q127419392": {
+      "slug": "benaboil_q127419392",
+      "title": "Benab Oil",
+      "title_en": "Benab Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "benaboil-fdaf22",
+        "wikidata": "Q127419392"
+      }
+    },
+    "bfpetroleum_q130302526": {
+      "slug": "bfpetroleum_q130302526",
+      "title": "BF Petroleum",
+      "title_en": "BF Petroleum",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bfpetroleum-fdaf22",
+        "wikidata": "Q130302526"
+      }
+    },
+    "bgpetroleum_q130302577": {
+      "slug": "bgpetroleum_q130302577",
+      "title": "BG Petroleum",
+      "title_en": "BG Petroleum",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bgpetroleum-fdaf22",
+        "wikidata": "Q130302577"
+      }
+    },
+    "blankooil_q130335976": {
+      "slug": "blankooil_q130335976",
+      "title": "Blanko Oil",
+      "title_en": "Blanko Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "blankooil-fdaf22",
+        "wikidata": "Q130335976"
+      }
+    },
+    "cashoil_q130336087": {
+      "slug": "cashoil_q130336087",
+      "title": "Cash Oil",
+      "title_en": "Cash Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cashoil-fdaf22",
+        "wikidata": "Q130336087"
+      }
+    },
+    "centralbrent_q130336012": {
+      "slug": "centralbrent_q130336012",
+      "title": "Central Brent",
+      "title_en": "Central Brent",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "centralbrent-fdaf22",
+        "wikidata": "Q130336012"
+      }
+    },
+    "championoil_q126110715": {
+      "slug": "championoil_q126110715",
+      "title": "Champion",
+      "title_en": "Champion",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/champion-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "champion-fdaf22",
+        "wikidata": "Q126110715"
+      }
+    },
+    "cigoenergy_q130376155": {
+      "slug": "cigoenergy_q130376155",
+      "title": "Cigo Energy",
+      "title_en": "Cigo Energy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cigoenergy-fdaf22",
+        "wikidata": "Q130376155"
+      }
+    },
+    "compass_q130376164": {
+      "slug": "compass_q130376164",
+      "title": "Compass",
+      "title_en": "Compass",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "compass-fdaf22",
+        "wikidata": "Q130376164"
+      }
+    },
+    "concordoilghana_q130376181": {
+      "slug": "concordoilghana_q130376181",
+      "title": "Concord Oil",
+      "title_en": "Concord Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "concordoil-fdaf22",
+        "wikidata": "Q130376181"
+      }
+    },
+    "crownghana_q130376185": {
+      "slug": "crownghana_q130376185",
+      "title": "Crown",
+      "title_en": "Crown",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "crown-fdaf22",
+        "wikidata": "Q130376185"
+      }
+    },
+    "fragaoil_q127419564": {
+      "slug": "fragaoil_q127419564",
+      "title": "Fraga Oil",
+      "title_en": "Fraga Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fragaoil-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fragaoil-fdaf22",
+        "wikidata": "Q127419564"
+      }
+    },
+    "frimpsoil_q119041815": {
+      "slug": "frimpsoil_q119041815",
+      "title": "Frimps",
+      "title_en": "Frimps",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frimps-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "frimps-fdaf22",
+        "wikidata": "Q119041815"
+      }
+    },
+    "gloryoil_q127419520": {
+      "slug": "gloryoil_q127419520",
+      "title": "Glory Oil",
+      "title_en": "Glory Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gloryoil-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gloryoil-fdaf22",
+        "wikidata": "Q127419520"
+      }
+    },
+    "goil_q5555383": {
+      "slug": "goil_q5555383",
+      "title": "Goil",
+      "title_en": "Goil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goil-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "goil-fdaf22",
+        "wikidata": "Q5555383"
+      }
+    },
+    "mrs_q56274919": {
+      "slug": "mrs_q56274919",
+      "title": "MRS",
+      "title_en": "MRS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrs-0edd09",
+        "wikidata": "Q56274919"
+      }
+    },
+    "nasonaoil_q126110741": {
+      "slug": "nasonaoil_q126110741",
+      "title": "Nasona",
+      "title_en": "Nasona",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nasona-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nasona-fdaf22",
+        "wikidata": "Q126110741"
+      }
+    },
+    "pacificoilghana_q126096692": {
+      "slug": "pacificoilghana_q126096692",
+      "title": "Pacific",
+      "title_en": "Pacific",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pacific-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pacific-fdaf22",
+        "wikidata": "Q126096692"
+      }
+    },
+    "petrosol_q126096818": {
+      "slug": "petrosol_q126096818",
+      "title": "Petrosol",
+      "title_en": "Petrosol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petrosol-fdaf22",
+        "wikidata": "Q126096818"
+      }
+    },
+    "relianceghana": {
+      "slug": "relianceghana",
+      "title": "Reliance",
+      "title_en": "Reliance",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reliance-fdaf22",
+        "wikidata": ""
+      }
+    },
+    "staroilghana_q126096894": {
+      "slug": "staroilghana_q126096894",
+      "title": "StarOil",
+      "title_en": "StarOil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/staroil-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "staroil-fdaf22",
+        "wikidata": "Q126096894"
+      }
+    },
+    "telenergy_q126110861": {
+      "slug": "telenergy_q126110861",
+      "title": "Telenergy",
+      "title_en": "Telenergy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/telenergy-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "telenergy-fdaf22",
+        "wikidata": "Q126110861"
+      }
+    },
+    "topoil_q127419549": {
+      "slug": "topoil_q127419549",
+      "title": "Top Oil",
+      "title_en": "Top Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/topoil-fdaf22.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "topoil-fdaf22",
+        "wikidata": "Q127419549"
+      }
+    },
+    "unityoil_q127419577": {
+      "slug": "unityoil_q127419577",
+      "title": "Unity Oil",
+      "title_en": "Unity Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unityoil-fdaf22",
+        "wikidata": "Q127419577"
+      }
+    },
+    "zenpetroleum_q126096992": {
+      "slug": "zenpetroleum_q126096992",
+      "title": "Zen",
+      "title_en": "Zen",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zen-fdaf22",
+        "wikidata": "Q126096992"
       }
     }
   }

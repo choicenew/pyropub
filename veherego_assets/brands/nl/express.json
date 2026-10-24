@@ -1,27 +1,160 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 9,
+  "country": "nl",
+  "category": "express",
+  "total_brands": 19,
   "brand_aliases": {
+    "dehypotheekshop_q124052986": {
+      "slug": "dehypotheekshop_q124052986",
+      "title": "De Hypotheekshop",
+      "title_en": "De Hypotheekshop",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dehypotheekshop-7b513e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dehypotheekshop-7b513e",
+        "wikidata": "Q124052986"
+      }
+    },
+    "dehypotheker_q2210766": {
+      "slug": "dehypotheker_q2210766",
+      "title": "De Hypotheker",
+      "title_en": "De Hypotheker",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dehypotheker-59d603.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dehypotheker-59d603",
+        "wikidata": "Q2210766"
+      }
+    },
+    "huishypotheek_q124128783": {
+      "slug": "huishypotheek_q124128783",
+      "title": "Huis & Hypotheek",
+      "title_en": "Huis & Hypotheek",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "huisandhypotheek-7b513e",
+        "wikidata": "Q124128783"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "startpeople_q2646530": {
+      "slug": "startpeople_q2646530",
+      "title": "Start People",
+      "title_en": "Start People",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/startpeople-45a424.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "startpeople-45a424",
+        "wikidata": "Q2646530"
+      }
+    },
+    "tempoteam_q1996250": {
+      "slug": "tempoteam_q1996250",
+      "title": "Tempo-Team",
+      "title_en": "Tempo-Team",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tempoteam-a6688c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tempoteam-a6688c",
+        "wikidata": "Q1996250"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "ergo_q541909": {
+      "slug": "ergo_q541909",
+      "title": "Ergo",
+      "title_en": "Ergo",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ergo-38191f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ergo-38191f",
+        "wikidata": "Q541909"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -30,21 +163,12 @@
     "nacex_q126366376": {
       "slug": "nacex_q126366376",
       "title": "Nacex",
-      "short_name": "Nacex",
-      "badge_text": "N",
+      "title_en": "Nacex",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Nacex"
-      ],
-      "keywords": [
-        "Nacex"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nacex-10ef8b",
         "wikidata": "Q126366376"
@@ -53,21 +177,12 @@
     "budbee_q123582538": {
       "slug": "budbee_q123582538",
       "title": "Budbee",
-      "short_name": "Budbee",
-      "badge_text": "B",
+      "title_en": "Budbee",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Budbee"
-      ],
-      "keywords": [
-        "Budbee"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/budbee-8c9d85.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "budbee-8c9d85",
         "wikidata": "Q123582538"
@@ -76,21 +191,12 @@
     "deburen_q119648956": {
       "slug": "deburen_q119648956",
       "title": "de Buren",
-      "short_name": "de Buren",
-      "badge_text": "D",
+      "title_en": "de Buren",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "de Buren"
-      ],
-      "keywords": [
-        "de Buren"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deburen-476b76.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "deburen-476b76",
         "wikidata": "Q119648956"
@@ -99,21 +205,12 @@
     "dhl_q489815": {
       "slug": "dhl_q489815",
       "title": "DHL",
-      "short_name": "DHL",
-      "badge_text": "D",
+      "title_en": "DHL",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DHL"
-      ],
-      "keywords": [
-        "DHL"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhl-476b76.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dhl-476b76",
         "wikidata": "Q489815"
@@ -122,21 +219,12 @@
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -145,21 +233,12 @@
     "inpost_q3182097": {
       "slug": "inpost_q3182097",
       "title": "InPost",
-      "short_name": "InPost",
-      "badge_text": "I",
+      "title_en": "InPost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "InPost"
-      ],
-      "keywords": [
-        "InPost"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inpost-6b37ec",
         "wikidata": "Q3182097"
@@ -168,21 +247,12 @@
     "instabox_q109923726": {
       "slug": "instabox_q109923726",
       "title": "Instabox",
-      "short_name": "Instabox",
-      "badge_text": "I",
+      "title_en": "Instabox",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Instabox"
-      ],
-      "keywords": [
-        "Instabox"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "instabox-f97fed",
         "wikidata": "Q109923726"
@@ -191,21 +261,12 @@
     "postnl_q5921598": {
       "slug": "postnl_q5921598",
       "title": "PostNL",
-      "short_name": "PostNL",
-      "badge_text": "P",
+      "title_en": "PostNL",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "PostNL"
-      ],
-      "keywords": [
-        "PostNL"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postnl-476b76.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "postnl-476b76",
         "wikidata": "Q5921598"

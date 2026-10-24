@@ -1,8 +1,11 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "aw",
-  "total_categories": 1,
+  "country_name": "AW",
+  "total_categories": 2,
   "manifest_files": [
+    "travel.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

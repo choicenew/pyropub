@@ -1,29 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
+  "country": "az",
+  "category": "drink",
   "total_brands": 1,
   "brand_aliases": {
     "shakespearecoffeebistro_q119561507": {
       "slug": "shakespearecoffeebistro_q119561507",
-      "title": "Shakespeare Coffee & Bistro",
-      "short_name": "Shakespear",
-      "badge_text": "S",
+      "title": "Shakespeare",
+      "title_en": "Shakespeare",
       "category": "drink",
       "sub_category": "coffee",
       "color": "#0D9488",
-      "aliases": [
-        "Shakespeare Coffee & Bistro",
-        "Shakespeare"
-      ],
-      "keywords": [
-        "Shakespeare Coffee & Bistro",
-        "Shakespeare"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shakespeare-fadeed",
         "wikidata": "Q119561507"

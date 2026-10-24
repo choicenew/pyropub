@@ -1,27 +1,90 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "ao",
+  "category": "food",
+  "total_brands": 9,
   "brand_aliases": {
+    "accessbank_q4672418": {
+      "slug": "accessbank_q4672418",
+      "title": "Access Bank",
+      "title_en": "Access Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/accessbank-155277.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "accessbank-155277",
+        "wikidata": "Q4672418"
+      }
+    },
+    "bai_q806172": {
+      "slug": "bai_q806172",
+      "title": "BAI",
+      "title_en": "BAI",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bai-706633.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bai-706633",
+        "wikidata": "Q806172"
+      }
+    },
+    "bancodefomentoangola_q806197": {
+      "slug": "bancodefomentoangola_q806197",
+      "title": "Banco de Fomento Angola",
+      "title_en": "Banco de Fomento Angola",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancodefomentoangola-706633.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancodefomentoangola-706633",
+        "wikidata": "Q806197"
+      }
+    },
+    "bancosolangola_q62118744": {
+      "slug": "bancosolangola_q62118744",
+      "title": "Banco Sol",
+      "title_en": "Banco Sol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancosol-706633",
+        "wikidata": "Q62118744"
+      }
+    },
+    "bpc_q4854132": {
+      "slug": "bpc_q4854132",
+      "title": "BPC",
+      "title_en": "BPC",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bpc-706633",
+        "wikidata": "Q4854132"
+      }
+    },
     "bobs_q1392113": {
       "slug": "bobs_q1392113",
       "title": "Bob's",
-      "short_name": "Bob's",
-      "badge_text": "B",
+      "title_en": "Bob's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Bob's"
-      ],
-      "keywords": [
-        "Bob's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bobs-02d9fb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bobs-02d9fb",
         "wikidata": "Q1392113"
@@ -30,24 +93,43 @@
     "hungrylion_q115636930": {
       "slug": "hungrylion_q115636930",
       "title": "Hungry Lion",
-      "short_name": "Hungry Lio",
-      "badge_text": "H",
+      "title_en": "Hungry Lion",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Hungry Lion"
-      ],
-      "keywords": [
-        "Hungry Lion"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hungrylion-f0dc80",
         "wikidata": "Q115636930"
+      }
+    },
+    "smoy_q21573945": {
+      "slug": "smoy_q21573945",
+      "title": "smöoy",
+      "title_en": "smöoy",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smooy-ae897d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smooy-ae897d",
+        "wikidata": "Q21573945"
+      }
+    },
+    "sonangol_q677832": {
+      "slug": "sonangol_q677832",
+      "title": "Sonangol",
+      "title_en": "Sonangol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sonangol-a1d251.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sonangol-a1d251",
+        "wikidata": "Q677832"
       }
     }
   }

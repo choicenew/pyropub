@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 12,
+  "country": "vn",
+  "category": "food",
+  "total_brands": 53,
   "brand_aliases": {
     "parisbaguette_q62605260": {
       "slug": "parisbaguette_q62605260",
       "title": "Paris Baguette",
-      "short_name": "Paris Bagu",
-      "badge_text": "P",
+      "title_en": "Paris Baguette",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paris Baguette"
-      ],
-      "keywords": [
-        "Paris Baguette"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parisbaguette-f87f10.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "parisbaguette-f87f10",
         "wikidata": "Q62605260"
@@ -30,21 +23,12 @@
     "paul_q3370417": {
       "slug": "paul_q3370417",
       "title": "Paul",
-      "short_name": "Paul",
-      "badge_text": "P",
+      "title_en": "Paul",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paul"
-      ],
-      "keywords": [
-        "Paul"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paul-652955",
         "wikidata": "Q3370417"
@@ -53,44 +37,474 @@
     "touslesjours_q3535609": {
       "slug": "touslesjours_q3535609",
       "title": "Tous les Jours",
-      "short_name": "Tous les J",
-      "badge_text": "T",
+      "title_en": "Tous les Jours",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Tous les Jours"
-      ],
-      "keywords": [
-        "Tous les Jours"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/touslesjours-e39ddb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "touslesjours-e39ddb",
         "wikidata": "Q3535609"
       }
     },
+    "abbank_q10800288": {
+      "slug": "abbank_q10800288",
+      "title": "ABBank",
+      "title_en": "ABBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/abbank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "abbank-a28d32",
+        "wikidata": "Q10800288"
+      }
+    },
+    "acb_q727019": {
+      "slug": "acb_q727019",
+      "title": "ACB",
+      "title_en": "ACB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/acb-a28d32.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "acb-a28d32",
+        "wikidata": "Q727019"
+      }
+    },
+    "agribankvitnam_q1924723": {
+      "slug": "agribankvitnam_q1924723",
+      "title": "Agribank",
+      "title_en": "Agribank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agribank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "agribank-a28d32",
+        "wikidata": "Q1924723"
+      }
+    },
+    "bidv_q1003180": {
+      "slug": "bidv_q1003180",
+      "title": "BIDV",
+      "title_en": "BIDV",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bidv-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bidv-a28d32",
+        "wikidata": "Q1003180"
+      }
+    },
+    "eximbankvitnam_q10800271": {
+      "slug": "eximbankvitnam_q10800271",
+      "title": "Eximbank",
+      "title_en": "Eximbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eximbank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eximbank-a28d32",
+        "wikidata": "Q10800271"
+      }
+    },
+    "hdbank_q10800273": {
+      "slug": "hdbank_q10800273",
+      "title": "HDBank",
+      "title_en": "HDBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hdbank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hdbank-a28d32",
+        "wikidata": "Q10800273"
+      }
+    },
+    "lpbank_q15729124": {
+      "slug": "lpbank_q15729124",
+      "title": "LPBank",
+      "title_en": "LPBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lpbank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lpbank-a28d32",
+        "wikidata": "Q15729124"
+      }
+    },
+    "mb_q10800269": {
+      "slug": "mb_q10800269",
+      "title": "MB",
+      "title_en": "MB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mb-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mb-a28d32",
+        "wikidata": "Q10800269"
+      }
+    },
+    "msb_q10800277": {
+      "slug": "msb_q10800277",
+      "title": "MSB",
+      "title_en": "MSB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/msb-a28d32.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "msb-a28d32",
+        "wikidata": "Q10800277"
+      }
+    },
+    "namabank_q10800266": {
+      "slug": "namabank_q10800266",
+      "title": "Nam A Bank",
+      "title_en": "Nam A Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/namabank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "namabank-a28d32",
+        "wikidata": "Q10800266"
+      }
+    },
+    "ngnhngchnhschxhi_q10800262": {
+      "slug": "ngnhngchnhschxhi_q10800262",
+      "title": "Ngân hàng Chính sách xã hội",
+      "title_en": "Ngân hàng Chính sách xã hội",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nganhangchinhsachxahoi-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nganhangchinhsachxahoi-a28d32",
+        "wikidata": "Q10800262"
+      }
+    },
+    "ocb_q7102288": {
+      "slug": "ocb_q7102288",
+      "title": "OCB",
+      "title_en": "OCB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ocb-a28d32",
+        "wikidata": "Q7102288"
+      }
+    },
+    "pvcombank_q65171780": {
+      "slug": "pvcombank_q65171780",
+      "title": "PVcomBank",
+      "title_en": "PVcomBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pvcombank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pvcombank-a28d32",
+        "wikidata": "Q65171780"
+      }
+    },
+    "rhbbank_q4207443": {
+      "slug": "rhbbank_q4207443",
+      "title": "RHB Bank",
+      "title_en": "RHB Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rhbbank-ea52df.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rhbbank-ea52df",
+        "wikidata": "Q4207443"
+      }
+    },
+    "sacombank_q6123772": {
+      "slug": "sacombank_q6123772",
+      "title": "Sacombank",
+      "title_en": "Sacombank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sacombank-0c3ae7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sacombank-0c3ae7",
+        "wikidata": "Q6123772"
+      }
+    },
+    "saigonbank_q10800275": {
+      "slug": "saigonbank_q10800275",
+      "title": "Saigonbank",
+      "title_en": "Saigonbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saigonbank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "saigonbank-a28d32",
+        "wikidata": "Q10800275"
+      }
+    },
+    "scb_q101575325": {
+      "slug": "scb_q101575325",
+      "title": "SCB",
+      "title_en": "SCB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/scb-a28d32.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "scb-a28d32",
+        "wikidata": "Q101575325"
+      }
+    },
+    "seabank_q10800276": {
+      "slug": "seabank_q10800276",
+      "title": "SeABank",
+      "title_en": "SeABank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seabank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "seabank-a28d32",
+        "wikidata": "Q10800276"
+      }
+    },
+    "shb_q124465825": {
+      "slug": "shb_q124465825",
+      "title": "SHB",
+      "title_en": "SHB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shb-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shb-a28d32",
+        "wikidata": "Q124465825"
+      }
+    },
+    "techcombank_q10541776": {
+      "slug": "techcombank_q10541776",
+      "title": "Techcombank",
+      "title_en": "Techcombank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/techcombank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "techcombank-a28d32",
+        "wikidata": "Q10541776"
+      }
+    },
+    "tpbank_q7801033": {
+      "slug": "tpbank_q7801033",
+      "title": "TPBank",
+      "title_en": "TPBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tpbank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tpbank-a28d32",
+        "wikidata": "Q7801033"
+      }
+    },
+    "uob_q2064074": {
+      "slug": "uob_q2064074",
+      "title": "UOB",
+      "title_en": "UOB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uob-fef9a3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uob-fef9a3",
+        "wikidata": "Q2064074"
+      }
+    },
+    "vdb_q10800267": {
+      "slug": "vdb_q10800267",
+      "title": "VDB",
+      "title_en": "VDB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vdb-a28d32",
+        "wikidata": "Q10800267"
+      }
+    },
+    "vib_q49054349": {
+      "slug": "vib_q49054349",
+      "title": "VIB",
+      "title_en": "VIB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vib-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vib-a28d32",
+        "wikidata": "Q49054349"
+      }
+    },
+    "vietabank_q10800279": {
+      "slug": "vietabank_q10800279",
+      "title": "VietABank",
+      "title_en": "VietABank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vietabank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vietabank-a28d32",
+        "wikidata": "Q10800279"
+      }
+    },
+    "vietcombank_q6122995": {
+      "slug": "vietcombank_q6122995",
+      "title": "Vietcombank",
+      "title_en": "Vietcombank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vietcombank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vietcombank-a28d32",
+        "wikidata": "Q6122995"
+      }
+    },
+    "vietinbank_q7928459": {
+      "slug": "vietinbank_q7928459",
+      "title": "VietinBank",
+      "title_en": "VietinBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vietinbank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vietinbank-a28d32",
+        "wikidata": "Q7928459"
+      }
+    },
+    "vpbank_q20025914": {
+      "slug": "vpbank_q20025914",
+      "title": "VPBank",
+      "title_en": "VPBank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vpbank-a28d32.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vpbank-a28d32",
+        "wikidata": "Q20025914"
+      }
+    },
+    "mathnasium_q6787302": {
+      "slug": "mathnasium_q6787302",
+      "title": "Mathnasium",
+      "title_en": "Mathnasium",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mathnasium-9561b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mathnasium-9561b7",
+        "wikidata": "Q6787302"
+      }
+    },
+    "maplebear_q10324823": {
+      "slug": "maplebear_q10324823",
+      "title": "Maple Bear",
+      "title_en": "Maple Bear",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maplebear-101006.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maplebear-101006",
+        "wikidata": "Q10324823"
+      }
+    },
+    "els_q5323325": {
+      "slug": "els_q5323325",
+      "title": "ELS",
+      "title_en": "ELS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/els-89568f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "els-89568f",
+        "wikidata": "Q5323325"
+      }
+    },
+    "shaneenglishschool_q17054332": {
+      "slug": "shaneenglishschool_q17054332",
+      "title": "Shane English School",
+      "title_en": "Shane English School",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shaneenglishschool-f8b177",
+        "wikidata": "Q17054332"
+      }
+    },
     "kfcvitnam_q524757": {
       "slug": "kfcvitnam_q524757",
-      "title": "KFC (Việt Nam)",
-      "short_name": "KFC (Việt ",
-      "badge_text": "K",
+      "title": "KFC",
+      "title_en": "KFC",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "KFC"
-      ],
-      "keywords": [
-        "KFC"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kfc-434b12.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kfc-434b12",
         "wikidata": "Q524757"
@@ -99,23 +513,12 @@
     "marugameudon_q10877253": {
       "slug": "marugameudon_q10877253",
       "title": "Marugame Udon",
-      "short_name": "Marugame U",
-      "badge_text": "M",
+      "title_en": "Marugame Udon",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Marugame Udon",
-        "Marugame Seimen"
-      ],
-      "keywords": [
-        "Marugame Udon",
-        "Marugame Seimen"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/marugameudon-a3c3a3.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "marugameudon-a3c3a3",
         "wikidata": "Q10877253"
@@ -124,44 +527,96 @@
     "thepizzacompany_q2413520": {
       "slug": "thepizzacompany_q2413520",
       "title": "The Pizza Company",
-      "short_name": "The Pizza ",
-      "badge_text": "T",
+      "title_en": "The Pizza Company",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "The Pizza Company"
-      ],
-      "keywords": [
-        "The Pizza Company"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thepizzacompany-abbb1f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "thepizzacompany-abbb1f",
         "wikidata": "Q2413520"
       }
     },
+    "guardianasia_q63371124": {
+      "slug": "guardianasia_q63371124",
+      "title": "Guardian",
+      "title_en": "Guardian",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guardian-c3738d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "guardian-c3738d",
+        "wikidata": "Q63371124"
+      }
+    },
+    "pharmacity_q115324413": {
+      "slug": "pharmacity_q115324413",
+      "title": "Pharmacity",
+      "title_en": "Pharmacity",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pharmacity-59b438.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pharmacity-59b438",
+        "wikidata": "Q115324413"
+      }
+    },
+    "rpchiuphimcgv_q135400010": {
+      "slug": "rpchiuphimcgv_q135400010",
+      "title": "rạp chiếu phim CGV",
+      "title_en": "CGV Cinemas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rapchieuphimcgv-360d00.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rapchieuphimcgv-360d00",
+        "wikidata": "Q135400010"
+      }
+    },
+    "llaollao_q12163048": {
+      "slug": "llaollao_q12163048",
+      "title": "Llaollao",
+      "title_en": "Llaollao",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "llaollao-dd9462",
+        "wikidata": "Q12163048"
+      }
+    },
+    "swensens_q6640658": {
+      "slug": "swensens_q6640658",
+      "title": "Swensen's",
+      "title_en": "Swensen's",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swensens-570cf0",
+        "wikidata": "Q6640658"
+      }
+    },
     "cocoichibanya_q5986105": {
       "slug": "cocoichibanya_q5986105",
       "title": "CoCo Ichibanya",
-      "short_name": "CoCo Ichib",
-      "badge_text": "C",
+      "title_en": "CoCo Ichibanya",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "CoCo Ichibanya"
-      ],
-      "keywords": [
-        "CoCo Ichibanya"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cocoichibanya-84891e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cocoichibanya-84891e",
         "wikidata": "Q5986105"
@@ -170,21 +625,12 @@
     "ippudo_q6065417": {
       "slug": "ippudo_q6065417",
       "title": "Ippudo",
-      "short_name": "Ippudo",
-      "badge_text": "I",
+      "title_en": "Ippudo",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Ippudo"
-      ],
-      "keywords": [
-        "Ippudo"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ippudo-b715b9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ippudo-b715b9",
         "wikidata": "Q6065417"
@@ -193,21 +639,12 @@
     "momoparadise_q126369578": {
       "slug": "momoparadise_q126369578",
       "title": "Mo-Mo Paradise",
-      "short_name": "Mo-Mo Para",
-      "badge_text": "M",
+      "title_en": "Mo-Mo Paradise",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Mo-Mo Paradise"
-      ],
-      "keywords": [
-        "Mo-Mo Paradise"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/momoparadise-aad2df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "momoparadise-aad2df",
         "wikidata": "Q126369578"
@@ -216,23 +653,12 @@
     "ph24_q63863118": {
       "slug": "ph24_q63863118",
       "title": "Phở 24",
-      "short_name": "Phở 24",
-      "badge_text": "P",
+      "title_en": "Pho 24",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Phở 24",
-        "Pho 24"
-      ],
-      "keywords": [
-        "Phở 24",
-        "Pho 24"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pho24-d3bf7d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pho24-d3bf7d",
         "wikidata": "Q63863118"
@@ -241,21 +667,12 @@
     "ramendanbo_q130221273": {
       "slug": "ramendanbo_q130221273",
       "title": "Ramen Danbo",
-      "short_name": "Ramen Danb",
-      "badge_text": "R",
+      "title_en": "Ramen Danbo",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Ramen Danbo"
-      ],
-      "keywords": [
-        "Ramen Danbo"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ramendanbo-9acb70.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ramendanbo-9acb70",
         "wikidata": "Q130221273"
@@ -264,24 +681,71 @@
     "timhowan_q11153709": {
       "slug": "timhowan_q11153709",
       "title": "Tim Ho Wan",
-      "short_name": "Tim Ho Wan",
-      "badge_text": "T",
+      "title_en": "Tim Ho Wan",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Tim Ho Wan"
-      ],
-      "keywords": [
-        "Tim Ho Wan"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/timhowan-5497f7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "timhowan-5497f7",
         "wikidata": "Q11153709"
+      }
+    },
+    "caltex_q277470": {
+      "slug": "caltex_q277470",
+      "title": "Caltex",
+      "title_en": "Caltex",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caltex-a02c05.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "caltex-a02c05",
+        "wikidata": "Q277470"
+      }
+    },
+    "pvoil_q2089536": {
+      "slug": "pvoil_q2089536",
+      "title": "PV Oil",
+      "title_en": "PV Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pvoil-c46b94.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pvoil-c46b94",
+        "wikidata": "Q2089536"
+      }
+    },
+    "trmxng": {
+      "slug": "trmxng",
+      "title": "Trạm xăng",
+      "title_en": "Trạm xăng",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tramxang-c46b94",
+        "wikidata": ""
+      }
+    },
+    "tngo": {
+      "slug": "tngo",
+      "title": "TNGo",
+      "title_en": "TNGo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tngo-a2c8f4",
+        "wikidata": ""
       }
     }
   }

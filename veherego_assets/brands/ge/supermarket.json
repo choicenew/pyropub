@@ -1,29 +1,902 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 31,
+  "country": "ge",
+  "category": "supermarket",
+  "total_brands": 101,
   "brand_aliases": {
+    "_q128032103": {
+      "slug": "_q128032103",
+      "title": "ბიუ ბიუ",
+      "title_en": "Biu Biu",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biubiu-f98164.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "biubiu-f98164",
+        "wikidata": "Q128032103"
+      }
+    },
+    "_q131469987": {
+      "slug": "_q131469987",
+      "title": "ნოსტე",
+      "title_en": "Noste",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/noste-f98164.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "noste-f98164",
+        "wikidata": "Q131469987"
+      }
+    },
+    "bermeli2ed877": {
+      "slug": "bermeli2ed877",
+      "title": "ბერმელი",
+      "title_en": "Bermeli",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bermeli-2ed877",
+        "wikidata": ""
+      }
+    },
+    "_q131470015": {
+      "slug": "_q131470015",
+      "title": "სუპერი",
+      "title_en": "Super",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/super-595ee9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "super-595ee9",
+        "wikidata": "Q131470015"
+      }
+    },
+    "_q131470016": {
+      "slug": "_q131470016",
+      "title": "ჰოუმ",
+      "title_en": "Home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/home-595ee9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "home-595ee9",
+        "wikidata": "Q131470016"
+      }
+    },
+    "_q131469968": {
+      "slug": "_q131469968",
+      "title": "ჯიბე",
+      "title_en": "Jibe",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jibe-c6ef46.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jibe-c6ef46",
+        "wikidata": "Q131469968"
+      }
+    },
+    "_q131469962": {
+      "slug": "_q131469962",
+      "title": "სუფთა სახლი",
+      "title_en": "Clean House",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cleanhouse-ab5407.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cleanhouse-ab5407",
+        "wikidata": "Q131469962"
+      }
+    },
+    "_q131470008": {
+      "slug": "_q131470008",
+      "title": "ბიბლუსი",
+      "title_en": "Biblus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biblus-4774b4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "biblus-4774b4",
+        "wikidata": "Q131470008"
+      }
+    },
+    "_q136806056": {
+      "slug": "_q136806056",
+      "title": "ლიბრა",
+      "title_en": "Libra",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libra-4774b4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "libra-4774b4",
+        "wikidata": "Q136806056"
+      }
+    },
+    "_q131470010": {
+      "slug": "_q131470010",
+      "title": "პროსპეროს წიგნები",
+      "title_en": "Prospero's Books",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prosperosbooks-4774b4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "prosperosbooks-4774b4",
+        "wikidata": "Q131470010"
+      }
+    },
+    "_q136806077": {
+      "slug": "_q136806077",
+      "title": "სანტა ესპერანსა",
+      "title_en": "Santa Esperansa",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/santaesperansa-4774b4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "santaesperansa-4774b4",
+        "wikidata": "Q136806077"
+      }
+    },
+    "_q131470009": {
+      "slug": "_q131470009",
+      "title": "სულაკაური",
+      "title_en": "Sulakauri",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sulakauri-4774b4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sulakauri-4774b4",
+        "wikidata": "Q131470009"
+      }
+    },
+    "_q688082": {
+      "slug": "_q688082",
+      "title": "ბატა",
+      "title_en": "Bata",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bata-100886.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bata-100886",
+        "wikidata": "Q688082"
+      }
+    },
+    "_q131470013": {
+      "slug": "_q131470013",
+      "title": "კორსო იტალია",
+      "title_en": "Corso Italia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/corsoitalia-100886.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "corsoitalia-100886",
+        "wikidata": "Q131470013"
+      }
+    },
+    "_q61994802": {
+      "slug": "_q61994802",
+      "title": "ფლო",
+      "title_en": "FLO",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flo-100886.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flo-100886",
+        "wikidata": "Q61994802"
+      }
+    },
+    "dns_q4036922": {
+      "slug": "dns_q4036922",
+      "title": "DNS",
+      "title_en": "DNS",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dns-a9f8fc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dns-a9f8fc",
+        "wikidata": "Q4036922"
+      }
+    },
+    "mistore_q131469994": {
+      "slug": "mistore_q131469994",
+      "title": "მისთორი",
+      "title_en": "Mi Store",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mistore-e0cb84",
+        "wikidata": "Q131469994"
+      }
+    },
+    "_q131469998": {
+      "slug": "_q131469998",
+      "title": "აიპლიუსი",
+      "title_en": "iPlus",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iplus-e0cb84.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "iplus-e0cb84",
+        "wikidata": "Q131469998"
+      }
+    },
+    "_q131470002": {
+      "slug": "_q131470002",
+      "title": "აისფეისი",
+      "title_en": "iSpace",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ispace-e0cb84",
+        "wikidata": "Q131470002"
+      }
+    },
+    "_q131469997": {
+      "slug": "_q131469997",
+      "title": "აიტექნიკსი",
+      "title_en": "iTechnics",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/itechnics-e0cb84.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "itechnics-e0cb84",
+        "wikidata": "Q131469997"
+      }
+    },
+    "_q131469992": {
+      "slug": "_q131469992",
+      "title": "ალტა",
+      "title_en": "Alta",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/alta-e0cb84.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alta-e0cb84",
+        "wikidata": "Q131469992"
+      }
+    },
+    "_q131469993": {
+      "slug": "_q131469993",
+      "title": "ელიტ ელექტრონიქსი",
+      "title_en": "Elit Electronics",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elitelectronics-e0cb84.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "elitelectronics-e0cb84",
+        "wikidata": "Q131469993"
+      }
+    },
+    "_q131469991": {
+      "slug": "_q131469991",
+      "title": "ზუმერი",
+      "title_en": "Zoommer",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zoommer-e0cb84.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zoommer-e0cb84",
+        "wikidata": "Q131469991"
+      }
+    },
+    "_q131470001": {
+      "slug": "_q131470001",
+      "title": "კონტაქტ ჰოუმი",
+      "title_en": "Kontakt Home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kontakthome-e0cb84",
+        "wikidata": "Q131470001"
+      }
+    },
+    "_q131469999": {
+      "slug": "_q131469999",
+      "title": "მეგატექნიკა",
+      "title_en": "Megatechnica",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/megatechnica-e0cb84.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "megatechnica-e0cb84",
+        "wikidata": "Q131469999"
+      }
+    },
+    "_q131469995": {
+      "slug": "_q131469995",
+      "title": "მეტრომარტი",
+      "title_en": "Metromart",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/metromart-e0cb84.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "metromart-e0cb84",
+        "wikidata": "Q131469995"
+      }
+    },
+    "_q131470000": {
+      "slug": "_q131470000",
+      "title": "ტექნო ბუმი",
+      "title_en": "Techno Boom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/technoboom-e0cb84.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "technoboom-e0cb84",
+        "wikidata": "Q131470000"
+      }
+    },
+    "_q131469996": {
+      "slug": "_q131469996",
+      "title": "უნიკომი",
+      "title_en": "Unicom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unicom-e0cb84.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unicom-e0cb84",
+        "wikidata": "Q131469996"
+      }
+    },
+    "_q131469953": {
+      "slug": "_q131469953",
+      "title": "კენარი",
+      "title_en": "Kenari",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kenari-a1226c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kenari-a1226c",
+        "wikidata": "Q131469953"
+      }
+    },
+    "_q131469952": {
+      "slug": "_q131469952",
+      "title": "ოპტიმისტი",
+      "title_en": "Optimist",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/optimist-a1226c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "optimist-a1226c",
+        "wikidata": "Q131469952"
+      }
+    },
+    "_q131469951": {
+      "slug": "_q131469951",
+      "title": "რონიკო",
+      "title_en": "Roniko",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/roniko-a1226c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "roniko-a1226c",
+        "wikidata": "Q131469951"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "ozon_q2365235": {
+      "slug": "ozon_q2365235",
+      "title": "Ozon",
+      "title_en": "Ozon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozon-e8ee33.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ozon-e8ee33",
+        "wikidata": "Q2365235"
+      }
+    },
+    "wildberries_q24933714": {
+      "slug": "wildberries_q24933714",
+      "title": "Wildberries",
+      "title_en": "Wildberries",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wildberries-c79976.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wildberries-c79976",
+        "wikidata": "Q24933714"
+      }
+    },
+    "wildberriesgeorgia_q24933714": {
+      "slug": "wildberriesgeorgia_q24933714",
+      "title": "ვაილდბერიზი",
+      "title_en": "Wildberries",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wildberries-0a4445.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wildberries-0a4445",
+        "wikidata": "Q24933714"
+      }
+    },
+    "palaisdesths_q3225161": {
+      "slug": "palaisdesths_q3225161",
+      "title": "Palais des Thés",
+      "title_en": "Palais des Thés",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palaisdesthes-9d2342.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "palaisdesthes-9d2342",
+        "wikidata": "Q3225161"
+      }
+    },
+    "_q134735780": {
+      "slug": "_q134735780",
+      "title": "ამბოლი",
+      "title_en": "Amboli",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amboli-99ec77",
+        "wikidata": "Q134735780"
+      }
+    },
+    "_q131470023": {
+      "slug": "_q131470023",
+      "title": "ზოოლაიფი",
+      "title_en": "ZooLife",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zoolife-fbd79e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zoolife-fbd79e",
+        "wikidata": "Q131470023"
+      }
+    },
+    "_q131470021": {
+      "slug": "_q131470021",
+      "title": "ზოომარტი",
+      "title_en": "Zoomart",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zoomart-fbd79e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zoomart-fbd79e",
+        "wikidata": "Q131470021"
+      }
+    },
+    "_q131470020": {
+      "slug": "_q131470020",
+      "title": "ზოოსითი",
+      "title_en": "ZooCity",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zoocity-fbd79e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zoocity-fbd79e",
+        "wikidata": "Q131470020"
+      }
+    },
+    "_q131470022": {
+      "slug": "_q131470022",
+      "title": "ზოოჰაბი",
+      "title_en": "Zoohub",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zoohub-fbd79e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zoohub-fbd79e",
+        "wikidata": "Q131470022"
+      }
+    },
+    "_q131470019": {
+      "slug": "_q131470019",
+      "title": "პეტ სპოტი",
+      "title_en": "Pet Spot",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petspot-fbd79e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petspot-fbd79e",
+        "wikidata": "Q131470019"
+      }
+    },
+    "smugglers_q131469986": {
+      "slug": "smugglers_q131469986",
+      "title": "სმაგლერსი",
+      "title_en": "Smugglers",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smugglers-2cfee4",
+        "wikidata": "Q131469986"
+      }
+    },
+    "_q131469985": {
+      "slug": "_q131469985",
+      "title": "ალკორიუმი",
+      "title_en": "Alcorium",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alcorium-2cfee4",
+        "wikidata": "Q131469985"
+      }
+    },
+    "_q136806338": {
+      "slug": "_q136806338",
+      "title": "ზღვა ლუდი",
+      "title_en": "Zgva Ludi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zgvaludi-2cfee4",
+        "wikidata": "Q136806338"
+      }
+    },
+    "_q122641630": {
+      "slug": "_q122641630",
+      "title": "ამბარი",
+      "title_en": "Ambari",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ambari-15e116.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ambari-15e116",
+        "wikidata": "Q122641630"
+      }
+    },
+    "_q110227939": {
+      "slug": "_q110227939",
+      "title": "იოიოსო",
+      "title_en": "Yoyoso",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yoyoso-15e116",
+        "wikidata": "Q110227939"
+      }
+    },
+    "_q20732498": {
+      "slug": "_q20732498",
+      "title": "მინისო",
+      "title_en": "Miniso",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "miniso-15e116",
+        "wikidata": "Q20732498"
+      }
+    },
+    "_q4038791": {
+      "slug": "_q4038791",
+      "title": "ფიქს პრაისი",
+      "title_en": "Fix Price",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fixprice-15e116.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fixprice-15e116",
+        "wikidata": "Q4038791"
+      }
+    },
+    "laline_q55649188": {
+      "slug": "laline_q55649188",
+      "title": "Laline",
+      "title_en": "Laline",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laline-255338.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "laline-255338",
+        "wikidata": "Q55649188"
+      }
+    },
+    "_q131469965": {
+      "slug": "_q131469965",
+      "title": "ვულე ვუ",
+      "title_en": "Voulez-Vous",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/voulezvous-5f8e42.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "voulezvous-5f8e42",
+        "wikidata": "Q131469965"
+      }
+    },
+    "_q131469963": {
+      "slug": "_q131469963",
+      "title": "ისი პარი",
+      "title_en": "Ici Paris",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/iciparis-5f8e42.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "iciparis-5f8e42",
+        "wikidata": "Q131469963"
+      }
+    },
+    "_q134732306": {
+      "slug": "_q134732306",
+      "title": "ლუტეცია",
+      "title_en": "Lutecia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lutecia-5f8e42.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lutecia-5f8e42",
+        "wikidata": "Q134732306"
+      }
+    },
+    "_q131469966": {
+      "slug": "_q131469966",
+      "title": "მოზაიკა",
+      "title_en": "Mosaic",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mosaic-5f8e42",
+        "wikidata": "Q131469966"
+      }
+    },
+    "_q131470018": {
+      "slug": "_q131470018",
+      "title": "გორგია",
+      "title_en": "Gorgia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gorgia-bfebe4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gorgia-bfebe4",
+        "wikidata": "Q131470018"
+      }
+    },
+    "xs_q131470006": {
+      "slug": "xs_q131470006",
+      "title": "XS სათამაშოები",
+      "title_en": "XS Toys",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/xstoys-4c5a46.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "xstoys-4c5a46",
+        "wikidata": "Q131470006"
+      }
+    },
+    "_q131470004": {
+      "slug": "_q131470004",
+      "title": "პეპელა",
+      "title_en": "Pepela",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pepela-4c5a46.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pepela-4c5a46",
+        "wikidata": "Q131470004"
+      }
+    },
+    "_q131470003": {
+      "slug": "_q131470003",
+      "title": "ჭიტა",
+      "title_en": "Chita",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chita-4c5a46.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chita-4c5a46",
+        "wikidata": "Q131470003"
+      }
+    },
+    "ovsgeorgia_q2042514": {
+      "slug": "ovsgeorgia_q2042514",
+      "title": "OVS",
+      "title_en": "OVS",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ovs-82a2eb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ovs-82a2eb",
+        "wikidata": "Q2042514"
+      }
+    },
+    "topsport_q131470012": {
+      "slug": "topsport_q131470012",
+      "title": "ტოპსპორტი",
+      "title_en": "TopSport",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/topsport-82a2eb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "topsport-82a2eb",
+        "wikidata": "Q131470012"
+      }
+    },
+    "_q3205965": {
+      "slug": "_q3205965",
+      "title": "ელსი ვაიკიკი",
+      "title_en": "LC Waikiki",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lcwaikiki-82a2eb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lcwaikiki-82a2eb",
+        "wikidata": "Q3205965"
+      }
+    },
+    "_q131470011": {
+      "slug": "_q131470011",
+      "title": "ნავნე",
+      "title_en": "navne",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "navne-82a2eb",
+        "wikidata": "Q131470011"
+      }
+    },
+    "_q131470014": {
+      "slug": "_q131470014",
+      "title": "ოკაიდი",
+      "title_en": "Okaïdi",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/okaidi-82a2eb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "okaidi-82a2eb",
+        "wikidata": "Q131470014"
+      }
+    },
     "_q131469971": {
       "slug": "_q131469971",
       "title": "აგროჰაბი",
-      "short_name": "აგროჰაბი",
-      "badge_text": "Ა",
+      "title_en": "Agrohub",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Agrohub",
-        "აგროჰაბი"
-      ],
-      "keywords": [
-        "Agrohub",
-        "აგროჰაბი"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agrohub-873b68.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "agrohub-873b68",
         "wikidata": "Q131469971"
@@ -32,23 +905,12 @@
     "_q118799213": {
       "slug": "_q118799213",
       "title": "გუდვილი",
-      "short_name": "გუდვილი",
-      "badge_text": "Გ",
+      "title_en": "Goodwill",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "გუდვილი",
-        "Goodwill"
-      ],
-      "keywords": [
-        "გუდვილი",
-        "Goodwill"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/goodwill-873b68.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "goodwill-873b68",
         "wikidata": "Q118799213"
@@ -57,23 +919,12 @@
     "_q118793042": {
       "slug": "_q118793042",
       "title": "ვილმარტი",
-      "short_name": "ვილმარტი",
-      "badge_text": "Ვ",
+      "title_en": "Willmart",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "ვილმარტი",
-        "Willmart"
-      ],
-      "keywords": [
-        "ვილმარტი",
-        "Willmart"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/willmart-873b68.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "willmart-873b68",
         "wikidata": "Q118793042"
@@ -82,27 +933,12 @@
     "_q2689639": {
       "slug": "_q2689639",
       "title": "კარფური მარკეტი",
-      "short_name": "კარფური მა",
-      "badge_text": "Კ",
+      "title_en": "Carrefour Market",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Carrefour",
-        "კარფური მარკეტი",
-        "კარფური",
-        "Carrefour Market"
-      ],
-      "keywords": [
-        "Carrefour",
-        "კარფური მარკეტი",
-        "კარფური",
-        "Carrefour Market"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carrefourmarket-873b68.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "carrefourmarket-873b68",
         "wikidata": "Q2689639"
@@ -111,23 +947,12 @@
     "_q118792780": {
       "slug": "_q118792780",
       "title": "მაგნიტი",
-      "short_name": "მაგნიტი",
-      "badge_text": "Მ",
+      "title_en": "Magniti",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "მაგნიტი",
-        "Magniti"
-      ],
-      "keywords": [
-        "მაგნიტი",
-        "Magniti"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "magniti-3cb7c4",
         "wikidata": "Q118792780"
@@ -136,23 +961,12 @@
     "_q115949612": {
       "slug": "_q115949612",
       "title": "ნიკორა",
-      "short_name": "ნიკორა",
-      "badge_text": "Ნ",
+      "title_en": "Nikora",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "ნიკორა",
-        "Nikora"
-      ],
-      "keywords": [
-        "ნიკორა",
-        "Nikora"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nikora-3cb7c4.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nikora-3cb7c4",
         "wikidata": "Q115949612"
@@ -161,23 +975,12 @@
     "_q115949750": {
       "slug": "_q115949750",
       "title": "ორი ნაბიჯი",
-      "short_name": "ორი ნაბიჯი",
-      "badge_text": "Ო",
+      "title_en": "Ori Nabiji",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Ori Nabiji",
-        "ორი ნაბიჯი"
-      ],
-      "keywords": [
-        "Ori Nabiji",
-        "ორი ნაბიჯი"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "orinabiji-3cb7c4",
         "wikidata": "Q115949750"
@@ -186,23 +989,12 @@
     "_q610492": {
       "slug": "_q610492",
       "title": "სპარი",
-      "short_name": "სპარი",
-      "badge_text": "Ს",
+      "title_en": "Spar",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "სპარი",
-        "Spar"
-      ],
-      "keywords": [
-        "სპარი",
-        "Spar"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spar-3cb7c4.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spar-3cb7c4",
         "wikidata": "Q610492"
@@ -211,23 +1003,12 @@
     "_q131469974": {
       "slug": "_q131469974",
       "title": "ფრესკო",
-      "short_name": "ფრესკო",
-      "badge_text": "Ფ",
+      "title_en": "Fresco",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Fresco",
-        "ფრესკო"
-      ],
-      "keywords": [
-        "Fresco",
-        "ფრესკო"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fresco-873b68.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fresco-873b68",
         "wikidata": "Q131469974"
@@ -236,48 +1017,68 @@
     "jibe873b68": {
       "slug": "jibe873b68",
       "title": "ჯიბე",
-      "short_name": "ჯიბე",
-      "badge_text": "Ჯ",
+      "title_en": "Jibe",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "ჯიბე ქეშ & ქერი",
-        "ჯიბე",
-        "Jibe"
-      ],
-      "keywords": [
-        "ჯიბე ქეშ & ქერი",
-        "ჯიბე",
-        "Jibe"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "jibe-873b68",
         "wikidata": ""
       }
     },
+    "bekogeorgia_q631792": {
+      "slug": "bekogeorgia_q631792",
+      "title": "Beko",
+      "title_en": "Beko",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beko-5f01e3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "beko-5f01e3",
+        "wikidata": "Q631792"
+      }
+    },
+    "_q4044421": {
+      "slug": "_q4044421",
+      "title": "სელფი",
+      "title_en": "Cellfie",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cellfie-693072.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cellfie-693072",
+        "wikidata": "Q4044421"
+      }
+    },
+    "8000_q136806379": {
+      "slug": "8000_q136806379",
+      "title": "8000 მოსავალი",
+      "title_en": "8000 Vintages",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "8000vintages-a3a873",
+        "wikidata": "Q136806379"
+      }
+    },
     "hei_q1788862": {
       "slug": "hei_q1788862",
       "title": "hei",
-      "short_name": "hei",
-      "badge_text": "H",
+      "title_en": "hei",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "hei"
-      ],
-      "keywords": [
-        "hei"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hei-6378da.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hei-6378da",
         "wikidata": "Q1788862"
@@ -285,24 +1086,13 @@
     },
     "madagoni_q131469983": {
       "slug": "madagoni_q131469983",
-      "title": "Madagoni / მადაგონი / Мадагони",
-      "short_name": "Madagoni /",
-      "badge_text": "M",
+      "title": "მადაგონი",
+      "title_en": "Madagoni",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Madagoni",
-        "მადაგონი"
-      ],
-      "keywords": [
-        "Madagoni",
-        "მადაგონი"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madagoni-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "madagoni-3cb7c4",
         "wikidata": "Q131469983"
@@ -311,23 +1101,12 @@
     "_q131469988": {
       "slug": "_q131469988",
       "title": "ბელმარტი",
-      "short_name": "ბელმარტი",
-      "badge_text": "Ბ",
+      "title_en": "Belmart",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Belmart",
-        "ბელმარტი"
-      ],
-      "keywords": [
-        "Belmart",
-        "ბელმარტი"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belmart-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "belmart-3cb7c4",
         "wikidata": "Q131469988"
@@ -336,23 +1115,12 @@
     "_q134732277": {
       "slug": "_q134732277",
       "title": "ბელორუსული სახლი",
-      "short_name": "ბელორუსული",
-      "badge_text": "Ბ",
+      "title_en": "Belarusian House",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "ბელორუსული სახლი",
-        "Belarusian House"
-      ],
-      "keywords": [
-        "ბელორუსული სახლი",
-        "Belarusian House"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belarusianhouse-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "belarusianhouse-3cb7c4",
         "wikidata": "Q134732277"
@@ -361,23 +1129,12 @@
     "_q131469969": {
       "slug": "_q131469969",
       "title": "ბილიონი",
-      "short_name": "ბილიონი",
-      "badge_text": "Ბ",
+      "title_en": "Billion",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "ბილიონი",
-        "Billion"
-      ],
-      "keywords": [
-        "ბილიონი",
-        "Billion"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "billion-3cb7c4",
         "wikidata": "Q131469969"
@@ -386,23 +1143,12 @@
     "_q131469980": {
       "slug": "_q131469980",
       "title": "გვირილა",
-      "short_name": "გვირილა",
-      "badge_text": "Გ",
+      "title_en": "Gvirila",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Gvirila",
-        "გვირილა"
-      ],
-      "keywords": [
-        "Gvirila",
-        "გვირილა"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gvirila-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gvirila-3cb7c4",
         "wikidata": "Q131469980"
@@ -411,23 +1157,12 @@
     "globalproducts3cb7c4": {
       "slug": "globalproducts3cb7c4",
       "title": "გლობალ პროდუქტი",
-      "short_name": "გლობალ პრო",
-      "badge_text": "Გ",
+      "title_en": "Global Products",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "გლობალ პროდუქტი",
-        "Global Products"
-      ],
-      "keywords": [
-        "გლობალ პროდუქტი",
-        "Global Products"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "globalproducts-3cb7c4",
         "wikidata": ""
@@ -436,23 +1171,12 @@
     "_q131469976": {
       "slug": "_q131469976",
       "title": "დეილი",
-      "short_name": "დეილი",
-      "badge_text": "Დ",
+      "title_en": "Daily",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "დეილი",
-        "Daily"
-      ],
-      "keywords": [
-        "დეილი",
-        "Daily"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "daily-3cb7c4",
         "wikidata": "Q131469976"
@@ -461,23 +1185,12 @@
     "_q131469977": {
       "slug": "_q131469977",
       "title": "ევროპროდუქტი",
-      "short_name": "ევროპროდუქ",
-      "badge_text": "Ე",
+      "title_en": "Europroduct",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Europroduct",
-        "ევროპროდუქტი"
-      ],
-      "keywords": [
-        "Europroduct",
-        "ევროპროდუქტი"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europroduct-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "europroduct-3cb7c4",
         "wikidata": "Q131469977"
@@ -486,23 +1199,12 @@
     "expresschain3cb7c4": {
       "slug": "expresschain3cb7c4",
       "title": "ექსპრეს ქსელი",
-      "short_name": "ექსპრეს ქს",
-      "badge_text": "Ე",
+      "title_en": "Express Chain",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "ექსპრეს ქსელი",
-        "Express Chain"
-      ],
-      "keywords": [
-        "ექსპრეს ქსელი",
-        "Express Chain"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "expresschain-3cb7c4",
         "wikidata": ""
@@ -511,23 +1213,12 @@
     "_q131469967": {
       "slug": "_q131469967",
       "title": "ვეი მარტი",
-      "short_name": "ვეი მარტი",
-      "badge_text": "Ვ",
+      "title_en": "Way Mart",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "ვეი მარტი",
-        "Way Mart"
-      ],
-      "keywords": [
-        "ვეი მარტი",
-        "Way Mart"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/waymart-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "waymart-3cb7c4",
         "wikidata": "Q131469967"
@@ -536,23 +1227,12 @@
     "_q131469973": {
       "slug": "_q131469973",
       "title": "ზღაპარი",
-      "short_name": "ზღაპარი",
-      "badge_text": "Ზ",
+      "title_en": "Zgapari",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Zgapari",
-        "ზღაპარი"
-      ],
-      "keywords": [
-        "Zgapari",
-        "ზღაპარი"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zgapari-3cb7c4.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "zgapari-3cb7c4",
         "wikidata": "Q131469973"
@@ -561,23 +1241,12 @@
     "_q131469975": {
       "slug": "_q131469975",
       "title": "იოლი",
-      "short_name": "იოლი",
-      "badge_text": "Ი",
+      "title_en": "Ioli",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "იოლი",
-        "Ioli"
-      ],
-      "keywords": [
-        "იოლი",
-        "Ioli"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ioli-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ioli-3cb7c4",
         "wikidata": "Q131469975"
@@ -586,23 +1255,12 @@
     "_q133886762": {
       "slug": "_q133886762",
       "title": "კალათა",
-      "short_name": "კალათა",
-      "badge_text": "Კ",
+      "title_en": "Kalata",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "კალათა",
-        "Kalata"
-      ],
-      "keywords": [
-        "კალათა",
-        "Kalata"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kalata-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kalata-3cb7c4",
         "wikidata": "Q133886762"
@@ -610,28 +1268,13 @@
     },
     "_q2940187": {
       "slug": "_q2940187",
-      "title": "კარფური",
-      "short_name": "კარფური",
-      "badge_text": "Კ",
+      "title": "კარფური სითი",
+      "title_en": "Carrefour City",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Carrefour",
-        "Carrefour City",
-        "კარფური სითი",
-        "კარფური"
-      ],
-      "keywords": [
-        "Carrefour",
-        "Carrefour City",
-        "კარფური სითი",
-        "კარფური"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/carrefourcity-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "carrefourcity-3cb7c4",
         "wikidata": "Q2940187"
@@ -640,23 +1283,12 @@
     "_q131469972": {
       "slug": "_q131469972",
       "title": "ლიბრე",
-      "short_name": "ლიბრე",
-      "badge_text": "Ლ",
+      "title_en": "Libre",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "ლიბრე",
-        "Libre"
-      ],
-      "keywords": [
-        "ლიბრე",
-        "Libre"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libre-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "libre-3cb7c4",
         "wikidata": "Q131469972"
@@ -665,23 +1297,12 @@
     "_q329347": {
       "slug": "_q329347",
       "title": "ლუკოილი",
-      "short_name": "ლუკოილი",
-      "badge_text": "Ლ",
+      "title_en": "Lukoil",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Lukoil",
-        "ლუკოილი"
-      ],
-      "keywords": [
-        "Lukoil",
-        "ლუკოილი"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukoil-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lukoil-3cb7c4",
         "wikidata": "Q329347"
@@ -690,23 +1311,12 @@
     "_q131469970": {
       "slug": "_q131469970",
       "title": "ნაზილბე",
-      "short_name": "ნაზილბე",
-      "badge_text": "Ნ",
+      "title_en": "Nazilbe",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Nazilbe",
-        "ნაზილბე"
-      ],
-      "keywords": [
-        "Nazilbe",
-        "ნაზილბე"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nazilbe-3cb7c4",
         "wikidata": "Q131469970"
@@ -715,23 +1325,12 @@
     "_q131469982": {
       "slug": "_q131469982",
       "title": "სმარტი",
-      "short_name": "სმარტი",
-      "badge_text": "Ს",
+      "title_en": "Smart",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "სმარტი",
-        "Smart"
-      ],
-      "keywords": [
-        "სმარტი",
-        "Smart"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smart-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "smart-3cb7c4",
         "wikidata": "Q131469982"
@@ -740,23 +1339,12 @@
     "_q131469979": {
       "slug": "_q131469979",
       "title": "უნივერსამი",
-      "short_name": "უნივერსამი",
-      "badge_text": "Უ",
+      "title_en": "Universami",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "უნივერსამი",
-        "Universami"
-      ],
-      "keywords": [
-        "უნივერსამი",
-        "Universami"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/universami-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "universami-3cb7c4",
         "wikidata": "Q131469979"
@@ -765,26 +1353,71 @@
     "_q131469990": {
       "slug": "_q131469990",
       "title": "ფემილი",
-      "short_name": "ფემილი",
-      "badge_text": "Ფ",
+      "title_en": "Family",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Family",
-        "ფემილი"
-      ],
-      "keywords": [
-        "Family",
-        "ფემილი"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/family-3cb7c4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "family-3cb7c4",
         "wikidata": "Q131469990"
+      }
+    },
+    "_q131469989": {
+      "slug": "_q131469989",
+      "title": "ვაკე",
+      "title_en": "Vake",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vake-e0f2d7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vake-e0f2d7",
+        "wikidata": "Q131469989"
+      }
+    },
+    "_q131470007": {
+      "slug": "_q131470007",
+      "title": "კურაკურა",
+      "title_en": "KuraKura",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kurakura-00ca27.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kurakura-00ca27",
+        "wikidata": "Q131470007"
+      }
+    },
+    "_q138913": {
+      "slug": "_q138913",
+      "title": "იუსკ",
+      "title_en": "Jysk",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jysk-2470a3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jysk-2470a3",
+        "wikidata": "Q138913"
+      }
+    },
+    "_q131470017": {
+      "slug": "_q131470017",
+      "title": "მანამო ჰოუმი",
+      "title_en": "Manamo Home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/manamohome-d0e31e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "manamohome-d0e31e",
+        "wikidata": "Q131470017"
       }
     }
   }

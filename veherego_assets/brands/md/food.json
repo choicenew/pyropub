@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "md",
+  "category": "food",
+  "total_brands": 17,
   "brand_aliases": {
     "fornetti_q1003020": {
       "slug": "fornetti_q1003020",
       "title": "Fornetti",
-      "short_name": "Fornetti",
-      "badge_text": "F",
+      "title_en": "Fornetti",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Fornetti"
-      ],
-      "keywords": [
-        "Fornetti"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fornetti-0c6f37.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fornetti-0c6f37",
         "wikidata": "Q1003020"
@@ -30,24 +23,225 @@
     "vatsak_q30966576": {
       "slug": "vatsak_q30966576",
       "title": "Vatsak",
-      "short_name": "Vatsak",
-      "badge_text": "V",
+      "title_en": "Vatsak",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Vatsak"
-      ],
-      "keywords": [
-        "Vatsak"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vatsak-96373c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "vatsak-96373c",
         "wikidata": "Q30966576"
+      }
+    },
+    "moldindconbank_q20429441": {
+      "slug": "moldindconbank_q20429441",
+      "title": "Moldindconbank",
+      "title_en": "Moldindconbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/moldindconbank-59fea4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "moldindconbank-59fea4",
+        "wikidata": "Q20429441"
+      }
+    },
+    "moldovaagroindbank_q4044440": {
+      "slug": "moldovaagroindbank_q4044440",
+      "title": "Moldova Agroindbank",
+      "title_en": "Moldova Agroindbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "moldovaagroindbank-59fea4",
+        "wikidata": "Q4044440"
+      }
+    },
+    "otpbank_q912778": {
+      "slug": "otpbank_q912778",
+      "title": "OTP Bank",
+      "title_en": "OTP Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/otpbank-2ef74c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "otpbank-2ef74c",
+        "wikidata": "Q912778"
+      }
+    },
+    "procreditbank_q567304": {
+      "slug": "procreditbank_q567304",
+      "title": "ProCredit Bank",
+      "title_en": "ProCredit Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/procreditbank-f3fcbc.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "procreditbank-f3fcbc",
+        "wikidata": "Q567304"
+      }
+    },
+    "victoriabank_q4052675": {
+      "slug": "victoriabank_q4052675",
+      "title": "Victoriabank",
+      "title_en": "Victoriabank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/victoriabank-59fea4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "victoriabank-59fea4",
+        "wikidata": "Q4052675"
+      }
+    },
+    "_q4378147": {
+      "slug": "_q4378147",
+      "title": "Приднестровский Сбербанк",
+      "title_en": "Pridnestrovian Savings Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pridnestroviansavingsbank-59fea4",
+        "wikidata": "Q4378147"
+      }
+    },
+    "pianavyshnia_q120651326": {
+      "slug": "pianavyshnia_q120651326",
+      "title": "Piana Vyshnia",
+      "title_en": "Piana Vyshnia",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pianavyshnia-1dc747.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pianavyshnia-1dc747",
+        "wikidata": "Q120651326"
+      }
+    },
+    "elody": {
+      "slug": "elody",
+      "title": "Elody",
+      "title_en": "Elody",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "elody-52cb11",
+        "wikidata": ""
+      }
+    },
+    "farmaciafamiliei": {
+      "slug": "farmaciafamiliei",
+      "title": "Farmacia Familiei",
+      "title_en": "Farmacia Familiei",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmaciafamiliei-52cb11",
+        "wikidata": ""
+      }
+    },
+    "felicia_q62564805": {
+      "slug": "felicia_q62564805",
+      "title": "Felicia",
+      "title_en": "Felicia",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/felicia-52cb11.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "felicia-52cb11",
+        "wikidata": "Q62564805"
+      }
+    },
+    "hippocrates": {
+      "slug": "hippocrates",
+      "title": "Hippocrates",
+      "title_en": "Hippocrates",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hippocrates-52cb11",
+        "wikidata": ""
+      }
+    },
+    "orient": {
+      "slug": "orient",
+      "title": "Orient",
+      "title_en": "Orient",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orient-52cb11",
+        "wikidata": ""
+      }
+    },
+    "petrommoldovaromnia_q1755034": {
+      "slug": "petrommoldovaromnia_q1755034",
+      "title": "Petrom",
+      "title_en": "Petrom",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrom-871b5c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petrom-871b5c",
+        "wikidata": "Q1755034"
+      }
+    },
+    "rompetrol_q1788862": {
+      "slug": "rompetrol_q1788862",
+      "title": "Rompetrol",
+      "title_en": "Rompetrol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rompetrol-871b5c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rompetrol-871b5c",
+        "wikidata": "Q1788862"
+      }
+    },
+    "tirexpetrol_q20432218": {
+      "slug": "tirexpetrol_q20432218",
+      "title": "Tirex Petrol",
+      "title_en": "Tirex Petrol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tirexpetrol-66cb39.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tirexpetrol-66cb39",
+        "wikidata": "Q20432218"
       }
     }
   }

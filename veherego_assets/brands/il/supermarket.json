@@ -1,27 +1,538 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 15,
+  "country": "il",
+  "category": "supermarket",
+  "total_brands": 59,
   "brand_aliases": {
+    "foxhome_q125796655": {
+      "slug": "foxhome_q125796655",
+      "title": "פוקס הום",
+      "title_en": "FOX Home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foxhome-a5093f",
+        "wikidata": "Q125796655"
+      }
+    },
+    "soltam": {
+      "slug": "soltam",
+      "title": "סולתם",
+      "title_en": "Soltam",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "soltam-a5093f",
+        "wikidata": ""
+      }
+    },
+    "hstern_q2660388": {
+      "slug": "hstern_q2660388",
+      "title": "H. Stern",
+      "title_en": "H. Stern",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hstern-5f2e62",
+        "wikidata": "Q2660388"
+      }
+    },
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "_q2903995": {
+      "slug": "_q2903995",
+      "title": "סטימצקי",
+      "title_en": "Steimatzky",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steimatzky-428a21.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "steimatzky-428a21",
+        "wikidata": "Q2903995"
+      }
+    },
+    "_q6743833": {
+      "slug": "_q6743833",
+      "title": "צומת ספרים",
+      "title_en": "Tzomet Sfarim",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tzometsfarim-428a21.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tzometsfarim-428a21",
+        "wikidata": "Q6743833"
+      }
+    },
+    "naot_q6964738": {
+      "slug": "naot_q6964738",
+      "title": "Naot",
+      "title_en": "Naot",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naot-25085b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "naot-25085b",
+        "wikidata": "Q6964738"
+      }
+    },
+    "weshoes_q112242761": {
+      "slug": "weshoes_q112242761",
+      "title": "WeShoes",
+      "title_en": "WeShoes",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/weshoes-e604d0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "weshoes-e604d0",
+        "wikidata": "Q112242761"
+      }
+    },
+    "bug_q6761151": {
+      "slug": "bug_q6761151",
+      "title": "באג",
+      "title_en": "Bug",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bug-f7cc4f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bug-f7cc4f",
+        "wikidata": "Q6761151"
+      }
+    },
+    "ivory_q61126373": {
+      "slug": "ivory_q61126373",
+      "title": "אייבורי",
+      "title_en": "Ivory",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ivory-f7cc4f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ivory-f7cc4f",
+        "wikidata": "Q61126373"
+      }
+    },
+    "ksp_q61126368": {
+      "slug": "ksp_q61126368",
+      "title": "KSP",
+      "title_en": "KSP",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ksp-f7cc4f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ksp-f7cc4f",
+        "wikidata": "Q61126368"
+      }
+    },
+    "_q6670653": {
+      "slug": "_q6670653",
+      "title": "מחסני חשמל",
+      "title_en": "Mahsanei Hashmal",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mahsaneihashmal-f7cc4f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mahsaneihashmal-f7cc4f",
+        "wikidata": "Q6670653"
+      }
+    },
+    "opticalcenter_q3354448": {
+      "slug": "opticalcenter_q3354448",
+      "title": "Optical Center",
+      "title_en": "Optical Center",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/opticalcenter-efdbe9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "opticalcenter-efdbe9",
+        "wikidata": "Q3354448"
+      }
+    },
+    "shilav_q7496633": {
+      "slug": "shilav_q7496633",
+      "title": "שילב",
+      "title_en": "Shilav",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shilav-e06f21.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shilav-e06f21",
+        "wikidata": "Q7496633"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "palaisdesths_q3225161": {
+      "slug": "palaisdesths_q3225161",
+      "title": "Palais des Thés",
+      "title_en": "Palais des Thés",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palaisdesthes-9d2342.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "palaisdesthes-9d2342",
+        "wikidata": "Q3225161"
+      }
+    },
+    "autodepot_q4672981": {
+      "slug": "autodepot_q4672981",
+      "title": "אוטודיפו",
+      "title_en": "Auto Depot",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/autodepot-935544.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "autodepot-935544",
+        "wikidata": "Q4672981"
+      }
+    },
+    "karma_q22671741": {
+      "slug": "karma_q22671741",
+      "title": "Karma",
+      "title_en": "Karma",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karma-40d0fc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karma-40d0fc",
+        "wikidata": "Q22671741"
+      }
+    },
+    "flyingtigercopenhagen_q2786319": {
+      "slug": "flyingtigercopenhagen_q2786319",
+      "title": "Flying Tiger Copenhagen",
+      "title_en": "Flying Tiger Copenhagen",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingtigercopenhagen-55ef00.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flyingtigercopenhagen-55ef00",
+        "wikidata": "Q2786319"
+      }
+    },
+    "maxstock_q18191994": {
+      "slug": "maxstock_q18191994",
+      "title": "מקס סטוק",
+      "title_en": "Max Stock",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maxstock-5846c3",
+        "wikidata": "Q18191994"
+      }
+    },
+    "_q122364246": {
+      "slug": "_q122364246",
+      "title": "באשר פרומז'רי",
+      "title_en": "Basher Fromagerie",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/basherfromagerie-00d377.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "basherfromagerie-00d377",
+        "wikidata": "Q122364246"
+      }
+    },
+    "ilmakiage_q76089779": {
+      "slug": "ilmakiage_q76089779",
+      "title": "איל מקיאג'",
+      "title_en": "IL Makiage",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ilmakiage-e301c4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ilmakiage-e301c4",
+        "wikidata": "Q76089779"
+      }
+    },
+    "laline_q55649188": {
+      "slug": "laline_q55649188",
+      "title": "Laline",
+      "title_en": "Laline",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laline-255338.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "laline-255338",
+        "wikidata": "Q55649188"
+      }
+    },
+    "aerie_q25351619": {
+      "slug": "aerie_q25351619",
+      "title": "Aerie",
+      "title_en": "Aerie",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aerie-0e6d3d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aerie-0e6d3d",
+        "wikidata": "Q25351619"
+      }
+    },
+    "americaneagleoutfitters_q2842931": {
+      "slug": "americaneagleoutfitters_q2842931",
+      "title": "American Eagle Outfitters",
+      "title_en": "American Eagle Outfitters",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americaneagleoutfitters-0e6d3d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "americaneagleoutfitters-0e6d3d",
+        "wikidata": "Q2842931"
+      }
+    },
+    "castro_q1049887": {
+      "slug": "castro_q1049887",
+      "title": "קסטרו",
+      "title_en": "Castro",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/castro-e991b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "castro-e991b5",
+        "wikidata": "Q1049887"
+      }
+    },
+    "delta_q2912754": {
+      "slug": "delta_q2912754",
+      "title": "דלתא",
+      "title_en": "Delta",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/delta-e991b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "delta-e991b5",
+        "wikidata": "Q2912754"
+      }
+    },
+    "dreamsport": {
+      "slug": "dreamsport",
+      "title": "Dream Sport",
+      "title_en": "Dream Sport",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dreamsport-e991b5",
+        "wikidata": ""
+      }
+    },
+    "fox_q5476569": {
+      "slug": "fox_q5476569",
+      "title": "פוקס",
+      "title_en": "FOX",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fox-e991b5",
+        "wikidata": "Q5476569"
+      }
+    },
+    "golfco_q97794410": {
+      "slug": "golfco_q97794410",
+      "title": "גולף אנד קו",
+      "title_en": "Golf & Co",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/golfandco-e991b5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "golfandco-e991b5",
+        "wikidata": "Q97794410"
+      }
+    },
+    "hoodies_q57981223": {
+      "slug": "hoodies_q57981223",
+      "title": "הודיס",
+      "title_en": "Hoodies",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hoodies-e991b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoodies-e991b5",
+        "wikidata": "Q57981223"
+      }
+    },
+    "jdsports_q6108019": {
+      "slug": "jdsports_q6108019",
+      "title": "JD Sports",
+      "title_en": "JD Sports",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jdsports-5e715a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jdsports-5e715a",
+        "wikidata": "Q6108019"
+      }
+    },
+    "renuar_q96179406": {
+      "slug": "renuar_q96179406",
+      "title": "רנואר",
+      "title_en": "Renuar",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renuar-e991b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "renuar-e991b5",
+        "wikidata": "Q96179406"
+      }
+    },
+    "story": {
+      "slug": "story",
+      "title": "סטורי",
+      "title_en": "Story",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "story-e991b5",
+        "wikidata": ""
+      }
+    },
+    "thechildrensplace_q3520257": {
+      "slug": "thechildrensplace_q3520257",
+      "title": "The Children's Place",
+      "title_en": "The Children's Place",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thechildrensplace-0e6d3d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thechildrensplace-0e6d3d",
+        "wikidata": "Q3520257"
+      }
+    },
+    "twentyfourseven": {
+      "slug": "twentyfourseven",
+      "title": "Twentyfourseven",
+      "title_en": "Twentyfourseven",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "twentyfourseven-e991b5",
+        "wikidata": ""
+      }
+    },
+    "yanga": {
+      "slug": "yanga",
+      "title": "Yanga",
+      "title_en": "Yanga",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yanga-e991b5",
+        "wikidata": ""
+      }
+    },
     "ampm_q6891113": {
       "slug": "ampm_q6891113",
       "title": "AM:PM",
-      "short_name": "AM:PM",
-      "badge_text": "A",
+      "title_en": "AM:PM",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "AM:PM"
-      ],
-      "keywords": [
-        "AM:PM"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ampm-6b65f1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ampm-6b65f1",
         "wikidata": "Q6891113"
@@ -29,24 +540,13 @@
     },
     "shufersal_q4523181": {
       "slug": "shufersal_q4523181",
-      "title": "Shufersal",
-      "short_name": "Shufersal",
-      "badge_text": "S",
+      "title": "שופרסל",
+      "title_en": "Shufersal",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Shufersal",
-        "שופרסל"
-      ],
-      "keywords": [
-        "Shufersal",
-        "שופרסל"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shufersal-6b65f1",
         "wikidata": "Q4523181"
@@ -54,22 +554,13 @@
     },
     "victory_q6564842": {
       "slug": "victory_q6564842",
-      "title": "Victory",
-      "short_name": "Victory",
-      "badge_text": "V",
+      "title": "ויקטורי",
+      "title_en": "Victory",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Victory"
-      ],
-      "keywords": [
-        "Victory"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "victory-6b65f1",
         "wikidata": "Q6564842"
@@ -78,23 +569,12 @@
     "_q31198118": {
       "slug": "_q31198118",
       "title": "אושר עד",
-      "short_name": "אושר עד",
-      "badge_text": "א",
+      "title_en": "Osher Ad",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Osher Ad",
-        "אושר עד"
-      ],
-      "keywords": [
-        "Osher Ad",
-        "אושר עד"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "osherad-6b65f1",
         "wikidata": "Q31198118"
@@ -103,25 +583,12 @@
     "_q2903718": {
       "slug": "_q2903718",
       "title": "טיב טעם בעיר",
-      "short_name": "טיב טעם בע",
-      "badge_text": "ט",
+      "title_en": "Tiv Taam in The City",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Tiv Ta'am in The City",
-        "טיב טעם בעיר",
-        "Tiv Taam in The City"
-      ],
-      "keywords": [
-        "Tiv Ta'am in The City",
-        "טיב טעם בעיר",
-        "Tiv Taam in The City"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tivtaaminthecity-6b65f1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tivtaaminthecity-6b65f1",
         "wikidata": "Q2903718"
@@ -130,23 +597,12 @@
     "_q25492676": {
       "slug": "_q25492676",
       "title": "יוחננוף",
-      "short_name": "יוחננוף",
-      "badge_text": "י",
+      "title_en": "Yochananof",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "יוחננוף",
-        "Yochananof"
-      ],
-      "keywords": [
-        "יוחננוף",
-        "Yochananof"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yochananof-6b65f1.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "yochananof-6b65f1",
         "wikidata": "Q25492676"
@@ -155,23 +611,12 @@
     "_q6561327": {
       "slug": "_q6561327",
       "title": "יינות ביתן",
-      "short_name": "יינות ביתן",
-      "badge_text": "י",
+      "title_en": "Yeinot Bitan",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Yeinot Bitan",
-        "יינות ביתן"
-      ],
-      "keywords": [
-        "Yeinot Bitan",
-        "יינות ביתן"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yeinotbitan-6b65f1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "yeinotbitan-6b65f1",
         "wikidata": "Q6561327"
@@ -180,23 +625,12 @@
     "_q12403907": {
       "slug": "_q12403907",
       "title": "מגה בעיר",
-      "short_name": "מגה בעיר",
-      "badge_text": "מ",
+      "title_en": "Mega Ba'Ir",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Mega Ba'Ir",
-        "מגה בעיר"
-      ],
-      "keywords": [
-        "Mega Ba'Ir",
-        "מגה בעיר"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/megabair-6b65f1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "megabair-6b65f1",
         "wikidata": "Q12403907"
@@ -205,25 +639,12 @@
     "_q16132437": {
       "slug": "_q16132437",
       "title": "קואופ שופ",
-      "short_name": "קואופ שופ",
-      "badge_text": "ק",
+      "title_en": "Coop Shop",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Coop Shop",
-        "קואופ שופ",
-        "Coop"
-      ],
-      "keywords": [
-        "Coop Shop",
-        "קואופ שופ",
-        "Coop"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "coopshop-6b65f1",
         "wikidata": "Q16132437"
@@ -232,23 +653,12 @@
     "keshetteamim6b65f1": {
       "slug": "keshetteamim6b65f1",
       "title": "קשת טעמים",
-      "short_name": "קשת טעמים",
-      "badge_text": "ק",
+      "title_en": "Keshet Teamim",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "קשת טעמים",
-        "Keshet Teamim"
-      ],
-      "keywords": [
-        "קשת טעמים",
-        "Keshet Teamim"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "keshetteamim-6b65f1",
         "wikidata": ""
@@ -257,27 +667,12 @@
     "_q6035779": {
       "slug": "_q6035779",
       "title": "רמי לוי",
-      "short_name": "רמי לוי",
-      "badge_text": "ר",
+      "title_en": "Rami Levi",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Rami Levi",
-        "Rami Levy Hashikma Marketing",
-        "רמי לוי שיווק השקמה",
-        "רמי לוי"
-      ],
-      "keywords": [
-        "Rami Levi",
-        "Rami Levy Hashikma Marketing",
-        "רמי לוי שיווק השקמה",
-        "רמי לוי"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ramilevi-6b65f1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ramilevi-6b65f1",
         "wikidata": "Q6035779"
@@ -286,23 +681,12 @@
     "_q4523181": {
       "slug": "_q4523181",
       "title": "שופרסל שלי",
-      "short_name": "שופרסל שלי",
-      "badge_text": "ש",
+      "title_en": "Shufersal Sheli",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "שופרסל שלי",
-        "Shufersal Sheli"
-      ],
-      "keywords": [
-        "שופרסל שלי",
-        "Shufersal Sheli"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shufersalsheli-6b65f1",
         "wikidata": "Q4523181"
@@ -311,48 +695,82 @@
     "shukmhadrin6b65f1": {
       "slug": "shukmhadrin6b65f1",
       "title": "שוק מהדרין",
-      "short_name": "שוק מהדרין",
-      "badge_text": "ש",
+      "title_en": "Shuk Mhadrin",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Shuk Mhadrin",
-        "שוק מהדרין"
-      ],
-      "keywords": [
-        "Shuk Mhadrin",
-        "שוק מהדרין"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shukmhadrin-6b65f1",
         "wikidata": ""
       }
     },
+    "cellcom_q2450722": {
+      "slug": "cellcom_q2450722",
+      "title": "סלקום",
+      "title_en": "Cellcom",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cellcom-0c2e23.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cellcom-0c2e23",
+        "wikidata": "Q2450722"
+      }
+    },
+    "_q847262": {
+      "slug": "_q847262",
+      "title": "הוט מובייל",
+      "title_en": "Hot Mobile",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hotmobile-0c2e23.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hotmobile-0c2e23",
+        "wikidata": "Q847262"
+      }
+    },
+    "_q1536651": {
+      "slug": "_q1536651",
+      "title": "פלאפון",
+      "title_en": "Pelephone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pelephone-0c2e23.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pelephone-0c2e23",
+        "wikidata": "Q1536651"
+      }
+    },
+    "_q2000500": {
+      "slug": "_q2000500",
+      "title": "פרטנר",
+      "title_en": "Partner",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/partner-0c2e23.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "partner-0c2e23",
+        "wikidata": "Q2000500"
+      }
+    },
     "alonit": {
       "slug": "alonit",
-      "title": "Alonit",
-      "short_name": "Alonit",
-      "badge_text": "A",
+      "title": "אלונית",
+      "title_en": "Alonit",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Alonit",
-        "אלונית"
-      ],
-      "keywords": [
-        "Alonit",
-        "אלונית"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "alonit-2f0294",
         "wikidata": ""
@@ -361,24 +779,57 @@
     "yellow_q12403268": {
       "slug": "yellow_q12403268",
       "title": "Yellow",
-      "short_name": "Yellow",
-      "badge_text": "Y",
+      "title_en": "Yellow",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Yellow"
-      ],
-      "keywords": [
-        "Yellow"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yellow-2f0294.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "yellow-2f0294",
         "wikidata": "Q12403268"
+      }
+    },
+    "karlberg": {
+      "slug": "karlberg",
+      "title": "קרל ברג",
+      "title_en": "Karl Berg",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karlberg-dfa63e",
+        "wikidata": ""
+      }
+    },
+    "vomfass_q2533008": {
+      "slug": "vomfass_q2533008",
+      "title": "vomFASS",
+      "title_en": "vomFASS",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vomfass-a3c745.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vomfass-a3c745",
+        "wikidata": "Q2533008"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "IKEA",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-ac4ccb",
+        "wikidata": "Q54078"
       }
     }
   }

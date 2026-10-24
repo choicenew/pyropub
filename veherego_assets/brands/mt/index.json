@@ -1,10 +1,12 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "mt",
+  "country_name": "MT",
   "total_categories": 3,
   "manifest_files": [
-    "food.json",
     "supermarket.json",
+    "food.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

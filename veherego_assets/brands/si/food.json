@@ -1,29 +1,174 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "si",
+  "category": "food",
+  "total_brands": 27,
   "brand_aliases": {
+    "addikobank_q27926559": {
+      "slug": "addikobank_q27926559",
+      "title": "Addiko Bank",
+      "title_en": "Addiko Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/addikobank-975383.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "addikobank-975383",
+        "wikidata": "Q27926559"
+      }
+    },
+    "bankaintesasanpaolo_q12785447": {
+      "slug": "bankaintesasanpaolo_q12785447",
+      "title": "Banka Intesa Sanpaolo",
+      "title_en": "Banka Intesa Sanpaolo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankaintesasanpaolo-30392e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankaintesasanpaolo-30392e",
+        "wikidata": "Q12785447"
+      }
+    },
+    "delavskahranilnica_q111481938": {
+      "slug": "delavskahranilnica_q111481938",
+      "title": "Delavska hranilnica",
+      "title_en": "Delavska hranilnica",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/delavskahranilnica-30392e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "delavskahranilnica-30392e",
+        "wikidata": "Q111481938"
+      }
+    },
+    "gorenjskabanka_q124632214": {
+      "slug": "gorenjskabanka_q124632214",
+      "title": "Gorenjska Banka",
+      "title_en": "Gorenjska Banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gorenjskabanka-30392e",
+        "wikidata": "Q124632214"
+      }
+    },
+    "nlb_q1481509": {
+      "slug": "nlb_q1481509",
+      "title": "NLB",
+      "title_en": "NLB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nlb-155ab9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nlb-155ab9",
+        "wikidata": "Q1481509"
+      }
+    },
+    "otpbankaslovenija_q140373875": {
+      "slug": "otpbankaslovenija_q140373875",
+      "title": "OTP banka",
+      "title_en": "OTP banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/otpbanka-30392e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "otpbanka-30392e",
+        "wikidata": "Q140373875"
+      }
+    },
+    "skbbanka_q93363069": {
+      "slug": "skbbanka_q93363069",
+      "title": "SKB Banka",
+      "title_en": "SKB Banka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "skbbanka-30392e",
+        "wikidata": "Q93363069"
+      }
+    },
+    "sparkassen_q1555572": {
+      "slug": "sparkassen_q1555572",
+      "title": "Sparkassen",
+      "title_en": "Sparkassen",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sparkassen-f2a422.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sparkassen-f2a422",
+        "wikidata": "Q1555572"
+      }
+    },
+    "unicredit_q45568": {
+      "slug": "unicredit_q45568",
+      "title": "UniCredit",
+      "title_en": "UniCredit",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unicredit-d887c4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unicredit-d887c4",
+        "wikidata": "Q45568"
+      }
+    },
+    "milence_q131904416": {
+      "slug": "milence_q131904416",
+      "title": "Milence Charging Hub",
+      "title_en": "Milence Charging Hub",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/milencecharginghub-1903ef.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "milencecharginghub-1903ef",
+        "wikidata": "Q131904416"
+      }
+    },
+    "molplugee_q549181": {
+      "slug": "molplugee_q549181",
+      "title": "MOL Plugee",
+      "title_en": "MOL Plugee",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/molplugee-ce45cd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "molplugee-ce45cd",
+        "wikidata": "Q549181"
+      }
+    },
     "ikeabistro_q54078": {
       "slug": "ikeabistro_q54078",
       "title": "IKEA Bistro",
-      "short_name": "IKEA Bistr",
-      "badge_text": "I",
+      "title_en": "IKEA Bistro",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "keywords": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeabistro-e746e6",
         "wikidata": "Q54078"
@@ -32,23 +177,12 @@
     "ikearestaurant_q54078": {
       "slug": "ikearestaurant_q54078",
       "title": "IKEA Restaurant",
-      "short_name": "IKEA Resta",
-      "badge_text": "I",
+      "title_en": "IKEA Restaurant",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikearestaurant-15fdc5",
         "wikidata": "Q54078"
@@ -57,24 +191,197 @@
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
+      }
+    },
+    "cineplexx_q873340": {
+      "slug": "cineplexx_q873340",
+      "title": "Cineplexx",
+      "title_en": "Cineplexx",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cineplexx-8f1bb5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cineplexx-8f1bb5",
+        "wikidata": "Q873340"
+      }
+    },
+    "llaollao_q12163048": {
+      "slug": "llaollao_q12163048",
+      "title": "Llaollao",
+      "title_en": "Llaollao",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "llaollao-dd9462",
+        "wikidata": "Q12163048"
+      }
+    },
+    "veica": {
+      "slug": "veica",
+      "title": "Vežica",
+      "title_en": "Vežica",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vezica-223b64",
+        "wikidata": ""
+      }
+    },
+    "as24_q2819394": {
+      "slug": "as24_q2819394",
+      "title": "AS 24",
+      "title_en": "AS 24",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/as24-a160b3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "as24-a160b3",
+        "wikidata": "Q2819394"
+      }
+    },
+    "hoferdiskont_q107803455": {
+      "slug": "hoferdiskont_q107803455",
+      "title": "Hofer Diskont",
+      "title_en": "Hofer Diskont",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoferdiskont-3baa0f",
+        "wikidata": "Q107803455"
+      }
+    },
+    "ina_q1662137": {
+      "slug": "ina_q1662137",
+      "title": "INA",
+      "title_en": "INA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ina-be0952.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ina-be0952",
+        "wikidata": "Q1662137"
+      }
+    },
+    "mol_q549181": {
+      "slug": "mol_q549181",
+      "title": "MOL",
+      "title_en": "MOL",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mol-edc9f9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mol-edc9f9",
+        "wikidata": "Q549181"
+      }
+    },
+    "petrol_q174824": {
+      "slug": "petrol_q174824",
+      "title": "Petrol",
+      "title_en": "Petrol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petrol-7302f5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petrol-7302f5",
+        "wikidata": "Q174824"
+      }
+    },
+    "bicikelj_q4903630": {
+      "slug": "bicikelj_q4903630",
+      "title": "BicikeLJ",
+      "title_en": "BicikeLJ",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bicikelj-3dc1ae",
+        "wikidata": "Q4903630"
+      }
+    },
+    "bicy": {
+      "slug": "bicy",
+      "title": "Bicy",
+      "title_en": "Bicy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bicy-3dc1ae",
+        "wikidata": ""
+      }
+    },
+    "bikekia": {
+      "slug": "bikekia",
+      "title": "bikeKIA",
+      "title_en": "bikeKIA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bikekia-3dc1ae",
+        "wikidata": ""
+      }
+    },
+    "kolesce": {
+      "slug": "kolesce",
+      "title": "Kolesce",
+      "title_en": "Kolesce",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kolesce-3dc1ae",
+        "wikidata": ""
+      }
+    },
+    "krskolesom": {
+      "slug": "krskolesom",
+      "title": "KRsKOLESOM",
+      "title_en": "KRsKOLESOM",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "krskolesom-3dc1ae",
+        "wikidata": ""
       }
     }
   }

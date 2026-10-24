@@ -1,9 +1,12 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "cd",
-  "total_categories": 2,
+  "country_name": "CD",
+  "total_categories": 3,
   "manifest_files": [
     "supermarket.json",
+    "travel.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

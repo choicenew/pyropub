@@ -1,27 +1,90 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "dz",
+  "category": "supermarket",
+  "total_brands": 8,
   "brand_aliases": {
+    "hoka_q16908664": {
+      "slug": "hoka_q16908664",
+      "title": "Hoka",
+      "title_en": "Hoka",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hoka-9f13b9",
+        "wikidata": "Q16908664"
+      }
+    },
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "finsbury_q141242163": {
+      "slug": "finsbury_q141242163",
+      "title": "Finsbury",
+      "title_en": "Finsbury",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/finsbury-d5b2ff.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "finsbury-d5b2ff",
+        "wikidata": "Q141242163"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "tati_q3516026": {
+      "slug": "tati_q3516026",
+      "title": "Tati",
+      "title_en": "Tati",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tati-72a3d7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tati-72a3d7",
+        "wikidata": "Q3516026"
+      }
+    },
     "1cd6b6927e7d": {
       "slug": "1cd6b6927e7d",
       "title": "مونوبري",
-      "short_name": "مونوبري",
-      "badge_text": "م",
+      "title_en": "مونوبري",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "مونوبري"
-      ],
-      "keywords": [
-        "مونوبري"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "1cd6b6-927e7d",
         "wikidata": ""
@@ -30,24 +93,29 @@
     "06477d14cddc": {
       "slug": "06477d14cddc",
       "title": "مواد غذائية عامة",
-      "short_name": "مواد غذائي",
-      "badge_text": "م",
+      "title_en": "مواد غذائية عامة",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "مواد غذائية عامة"
-      ],
-      "keywords": [
-        "مواد غذائية عامة"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "06477d-14cddc",
         "wikidata": ""
+      }
+    },
+    "ooredoo_q919935": {
+      "slug": "ooredoo_q919935",
+      "title": "Ooredoo",
+      "title_en": "Ooredoo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ooredoo-5cc5ab.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ooredoo-5cc5ab",
+        "wikidata": "Q919935"
       }
     }
   }

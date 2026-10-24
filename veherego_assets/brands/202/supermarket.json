@@ -1,30 +1,37 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "202",
+  "category": "supermarket",
+  "total_brands": 2,
   "brand_aliases": {
     "game_q126811048": {
       "slug": "game_q126811048",
       "title": "Game",
-      "short_name": "Game",
-      "badge_text": "G",
+      "title_en": "Game",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Game"
-      ],
-      "keywords": [
-        "Game"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/game-910aca.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "game-910aca",
         "wikidata": "Q126811048"
+      }
+    },
+    "airtel_q854867": {
+      "slug": "airtel_q854867",
+      "title": "Airtel",
+      "title_en": "Airtel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/airtel-24da88.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "airtel-24da88",
+        "wikidata": "Q854867"
       }
     }
   }

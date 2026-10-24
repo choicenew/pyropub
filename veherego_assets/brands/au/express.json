@@ -1,50 +1,384 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "au",
+  "category": "express",
+  "total_brands": 28,
   "brand_aliases": {
+    "aussie_q4822807": {
+      "slug": "aussie_q4822807",
+      "title": "Aussie",
+      "title_en": "Aussie",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aussie-e4d3b8",
+        "wikidata": "Q4822807"
+      }
+    },
+    "expressemploymentprofessionals_q117351404": {
+      "slug": "expressemploymentprofessionals_q117351404",
+      "title": "Express Employment Professionals",
+      "title_en": "Express Employment Professionals",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressemploymentprofessionals-867cf6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "expressemploymentprofessionals-867cf6",
+        "wikidata": "Q117351404"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
     "gebrderweiss_q1497233": {
       "slug": "gebrderweiss_q1497233",
       "title": "Gebrüder Weiss",
-      "short_name": "Gebrüder W",
-      "badge_text": "G",
+      "title_en": "Gebrüder Weiss",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Gebrüder Weiss"
-      ],
-      "keywords": [
-        "Gebrüder Weiss"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gebruderweiss-3fef46.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gebruderweiss-3fef46",
         "wikidata": "Q1497233"
       }
     },
+    "belleproperty_q104721339": {
+      "slug": "belleproperty_q104721339",
+      "title": "Belle Property",
+      "title_en": "Belle Property",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/belleproperty-d66f4e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "belleproperty-d66f4e",
+        "wikidata": "Q104721339"
+      }
+    },
+    "buxton_q106236116": {
+      "slug": "buxton_q106236116",
+      "title": "Buxton",
+      "title_en": "Buxton",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/buxton-f2ceb3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "buxton-f2ceb3",
+        "wikidata": "Q106236116"
+      }
+    },
+    "dijones_q105290274": {
+      "slug": "dijones_q105290274",
+      "title": "Di Jones",
+      "title_en": "Di Jones",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dijones-a43aea.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dijones-a43aea",
+        "wikidata": "Q105290274"
+      }
+    },
+    "firstnationalrealestate_q122888198": {
+      "slug": "firstnationalrealestate_q122888198",
+      "title": "First National Real Estate",
+      "title_en": "First National Real Estate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "firstnationalrealestate-54d29c",
+        "wikidata": "Q122888198"
+      }
+    },
+    "fletchers_q106236137": {
+      "slug": "fletchers_q106236137",
+      "title": "Fletchers",
+      "title_en": "Fletchers",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fletchers-f2ceb3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fletchers-f2ceb3",
+        "wikidata": "Q106236137"
+      }
+    },
+    "harcourts_q5655056": {
+      "slug": "harcourts_q5655056",
+      "title": "Harcourts",
+      "title_en": "Harcourts",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harcourts-e2b091.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "harcourts-e2b091",
+        "wikidata": "Q5655056"
+      }
+    },
+    "jelliscraig_q106236086": {
+      "slug": "jelliscraig_q106236086",
+      "title": "Jellis Craig",
+      "title_en": "Jellis Craig",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jelliscraig-f2ceb3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jelliscraig-f2ceb3",
+        "wikidata": "Q106236086"
+      }
+    },
+    "mcgrath_q105290661": {
+      "slug": "mcgrath_q105290661",
+      "title": "McGrath",
+      "title_en": "McGrath",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcgrath-d66f4e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mcgrath-d66f4e",
+        "wikidata": "Q105290661"
+      }
+    },
+    "nelsonalexander_q106236053": {
+      "slug": "nelsonalexander_q106236053",
+      "title": "Nelson Alexander",
+      "title_en": "Nelson Alexander",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nelsonalexander-f2ceb3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nelsonalexander-f2ceb3",
+        "wikidata": "Q106236053"
+      }
+    },
+    "raywhite_q81077729": {
+      "slug": "raywhite_q81077729",
+      "title": "Ray White",
+      "title_en": "Ray White",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raywhite-85c03d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "raywhite-85c03d",
+        "wikidata": "Q81077729"
+      }
+    },
+    "stone_q105290093": {
+      "slug": "stone_q105290093",
+      "title": "Stone",
+      "title_en": "Stone",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stone-d66f4e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "stone-d66f4e",
+        "wikidata": "Q105290093"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "medibank_q6806228": {
+      "slug": "medibank_q6806228",
+      "title": "Medibank",
+      "title_en": "Medibank",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/medibank-437259.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "medibank-437259",
+        "wikidata": "Q6806228"
+      }
+    },
+    "racq_q16822163": {
+      "slug": "racq_q16822163",
+      "title": "RACQ",
+      "title_en": "RACQ",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/racq-57ff94.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "racq-57ff94",
+        "wikidata": "Q16822163"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "thecommons_q138389093": {
+      "slug": "thecommons_q138389093",
+      "title": "The Commons",
+      "title_en": "The Commons",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thecommons-4400d0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thecommons-4400d0",
+        "wikidata": "Q138389093"
+      }
+    },
+    "hrblock_q5627799": {
+      "slug": "hrblock_q5627799",
+      "title": "H&R Block",
+      "title_en": "H&R Block",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handrblock-c966c8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "handrblock-c966c8",
+        "wikidata": "Q5627799"
+      }
+    },
+    "centrelink": {
+      "slug": "centrelink",
+      "title": "Centrelink",
+      "title_en": "Centrelink",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "centrelink-cc3eb2",
+        "wikidata": ""
+      }
+    },
+    "allieduniversal_q4732537": {
+      "slug": "allieduniversal_q4732537",
+      "title": "Allied Universal",
+      "title_en": "Allied Universal",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allieduniversal-8dcc43.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allieduniversal-8dcc43",
+        "wikidata": "Q4732537"
+      }
+    },
+    "beeline_q402880": {
+      "slug": "beeline_q402880",
+      "title": "Beeline",
+      "title_en": "Beeline",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beeline-2f71de.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "beeline-2f71de",
+        "wikidata": "Q402880"
+      }
+    },
+    "shinelawyers_q17033391": {
+      "slug": "shinelawyers_q17033391",
+      "title": "Shine Lawyers",
+      "title_en": "Shine Lawyers",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shinelawyers-22d653.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shinelawyers-22d653",
+        "wikidata": "Q17033391"
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -53,23 +387,12 @@
     "australiapostparcellocker_q1142936": {
       "slug": "australiapostparcellocker_q1142936",
       "title": "Australia Post Parcel Locker",
-      "short_name": "Australia ",
-      "badge_text": "A",
+      "title_en": "Australia Post Parcel Locker",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Australia Post",
-        "Australia Post Parcel Locker"
-      ],
-      "keywords": [
-        "Australia Post",
-        "Australia Post Parcel Locker"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/australiapostparcellocker-a2f344.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "australiapostparcellocker-a2f344",
         "wikidata": "Q1142936"

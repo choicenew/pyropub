@@ -1,11 +1,15 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "fi",
-  "total_categories": 4,
+  "country_name": "Suomi",
+  "total_categories": 6,
   "manifest_files": [
+    "other.json",
     "supermarket.json",
-    "drink.json",
     "express.json",
-    "food.json"
-  ]
+    "travel.json",
+    "food.json",
+    "drink.json"
+  ],
+  "version": 1
 }

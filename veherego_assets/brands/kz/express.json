@@ -1,50 +1,146 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "kz",
+  "category": "express",
+  "total_brands": 13,
   "brand_aliases": {
+    "qaryzzaim": {
+      "slug": "qaryzzaim",
+      "title": "Qaryzzaim",
+      "title_en": "Qaryzzaim",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "qaryzzaim-255c4c",
+        "wikidata": ""
+      }
+    },
+    "solva_q117351534": {
+      "slug": "solva_q117351534",
+      "title": "Solva",
+      "title_en": "Solva",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/solva-255c4c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "solva-255c4c",
+        "wikidata": "Q117351534"
+      }
+    },
     "e9820961c0ff": {
       "slug": "e9820961c0ff",
       "title": "ПЭК",
-      "short_name": "ПЭК",
-      "badge_text": "П",
+      "title_en": "ПЭК",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "ПЭК"
-      ],
-      "keywords": [
-        "ПЭК"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "e98209-61c0ff",
+        "wikidata": ""
+      }
+    },
+    "f075b4ee18db": {
+      "slug": "f075b4ee18db",
+      "title": "БТИ",
+      "title_en": "БТИ",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "f075b4-ee18db",
+        "wikidata": ""
+      }
+    },
+    "1a8386ee18db": {
+      "slug": "1a8386ee18db",
+      "title": "Военкомат",
+      "title_en": "Военкомат",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "1a8386-ee18db",
+        "wikidata": ""
+      }
+    },
+    "2_q4030613": {
+      "slug": "2_q4030613",
+      "title": "2ГИС",
+      "title_en": "2ГИС",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/6790b0-55f3c4.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "6790b0-55f3c4",
+        "wikidata": "Q4030613"
+      }
+    },
+    "kcell_q1737636": {
+      "slug": "kcell_q1737636",
+      "title": "Kcell",
+      "title_en": "Kcell",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kcell-4679e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kcell-4679e0",
+        "wikidata": "Q1737636"
+      }
+    },
+    "_q402880": {
+      "slug": "_q402880",
+      "title": "Билайн",
+      "title_en": "Beeline",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beeline-f03186.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "beeline-f03186",
+        "wikidata": "Q402880"
+      }
+    },
+    "01aaef4679e0": {
+      "slug": "01aaef4679e0",
+      "title": "Казахтелеком",
+      "title_en": "Казахтелеком",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "01aaef-4679e0",
         "wikidata": ""
       }
     },
     "dpdpickupstation_q114273730": {
       "slug": "dpdpickupstation_q114273730",
       "title": "DPD Pickup Station",
-      "short_name": "DPD Pickup",
-      "badge_text": "D",
+      "title_en": "DPD Pickup Station",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "DPD Pickup Station"
-      ],
-      "keywords": [
-        "DPD Pickup Station"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dpdpickupstation-5c8577.svg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dpdpickupstation-5c8577",
         "wikidata": "Q114273730"
@@ -53,21 +149,12 @@
     "globbing_q138667393": {
       "slug": "globbing_q138667393",
       "title": "Globbing",
-      "short_name": "Globbing",
-      "badge_text": "G",
+      "title_en": "Globbing",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Globbing"
-      ],
-      "keywords": [
-        "Globbing"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "globbing-1f20af",
         "wikidata": "Q138667393"
@@ -76,23 +163,12 @@
     "_q746263": {
       "slug": "_q746263",
       "title": "Қазпошта",
-      "short_name": "Қазпошта",
-      "badge_text": "Қ",
+      "title_en": "Kazpost",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Kazpost",
-        "Қазпошта"
-      ],
-      "keywords": [
-        "Kazpost",
-        "Қазпошта"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kazpost-a244bc.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kazpost-a244bc",
         "wikidata": "Q746263"
@@ -101,21 +177,12 @@
     "_q28665980": {
       "slug": "_q28665980",
       "title": "СДЭК",
-      "short_name": "СДЭК",
-      "badge_text": "С",
+      "title_en": "СДЭК",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "СДЭК"
-      ],
-      "keywords": [
-        "СДЭК"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/5ac048-c762cb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "5ac048-c762cb",
         "wikidata": "Q28665980"

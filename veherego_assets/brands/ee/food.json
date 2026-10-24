@@ -1,27 +1,118 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "ee",
+  "category": "food",
+  "total_brands": 21,
   "brand_aliases": {
+    "citadele_q14239556": {
+      "slug": "citadele_q14239556",
+      "title": "Citadele",
+      "title_en": "Citadele bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/citadele-3ce14c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "citadele-3ce14c",
+        "wikidata": "Q14239556"
+      }
+    },
+    "lhvpank_q12664045": {
+      "slug": "lhvpank_q12664045",
+      "title": "LHV Pank",
+      "title_en": "LHV Pank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lhvpank-4e3d23.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lhvpank-4e3d23",
+        "wikidata": "Q12664045"
+      }
+    },
+    "luminorbank_q28966957": {
+      "slug": "luminorbank_q28966957",
+      "title": "Luminor Bank",
+      "title_en": "Luminor Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luminorbank-3ce14c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "luminorbank-3ce14c",
+        "wikidata": "Q28966957"
+      }
+    },
+    "nordea_q1123823": {
+      "slug": "nordea_q1123823",
+      "title": "Nordea",
+      "title_en": "Nordea",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nordea-5e8542.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nordea-5e8542",
+        "wikidata": "Q1123823"
+      }
+    },
+    "seb_q975655": {
+      "slug": "seb_q975655",
+      "title": "SEB",
+      "title_en": "SEB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seb-e3cf16.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "seb-e3cf16",
+        "wikidata": "Q975655"
+      }
+    },
+    "swedbank_q1145493": {
+      "slug": "swedbank_q1145493",
+      "title": "Swedbank",
+      "title_en": "Swedbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swedbank-2cd0b2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swedbank-2cd0b2",
+        "wikidata": "Q1145493"
+      }
+    },
+    "pianavyshnia_q120651326": {
+      "slug": "pianavyshnia_q120651326",
+      "title": "Piana Vyshnia",
+      "title_en": "Piana Vyshnia",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pianavyshnia-1dc747.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pianavyshnia-1dc747",
+        "wikidata": "Q120651326"
+      }
+    },
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
@@ -30,44 +121,82 @@
     "woktowalk_q4020634": {
       "slug": "woktowalk_q4020634",
       "title": "Wok to Walk",
-      "short_name": "Wok to Wal",
-      "badge_text": "W",
+      "title_en": "Wok to Walk",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wok to Walk"
-      ],
-      "keywords": [
-        "Wok to Walk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woktowalk-f5ada9",
         "wikidata": "Q4020634"
       }
     },
+    "apotheka": {
+      "slug": "apotheka",
+      "title": "Apotheka",
+      "title_en": "Apotheka",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "apotheka-ab5e8f",
+        "wikidata": ""
+      }
+    },
+    "benu_q62562792": {
+      "slug": "benu_q62562792",
+      "title": "Benu",
+      "title_en": "Benu",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benu-c1f9dd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "benu-c1f9dd",
+        "wikidata": "Q62562792"
+      }
+    },
+    "euroapteek": {
+      "slug": "euroapteek",
+      "title": "Euroapteek",
+      "title_en": "Euroapteek",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "euroapteek-d24d7e",
+        "wikidata": ""
+      }
+    },
+    "sdameapteek": {
+      "slug": "sdameapteek",
+      "title": "Südameapteek",
+      "title_en": "Südameapteek",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sudameapteek-d24d7e",
+        "wikidata": ""
+      }
+    },
     "chopsticks": {
       "slug": "chopsticks",
       "title": "Chopsticks",
-      "short_name": "Chopsticks",
-      "badge_text": "C",
+      "title_en": "Chopsticks",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Chopsticks"
-      ],
-      "keywords": [
-        "Chopsticks"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chopsticks-67c9ce",
         "wikidata": ""
@@ -76,24 +205,99 @@
     "olearys_q10605590": {
       "slug": "olearys_q10605590",
       "title": "O'Learys",
-      "short_name": "O'Learys",
-      "badge_text": "O",
+      "title_en": "O'Learys",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "O'Learys"
-      ],
-      "keywords": [
-        "O'Learys"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olearys-d05cca.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "olearys-d05cca",
         "wikidata": "Q10605590"
+      }
+    },
+    "olympiccasino_q11150186": {
+      "slug": "olympiccasino_q11150186",
+      "title": "Olympic Casino",
+      "title_en": "Olympic Casino",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olympiccasino-7eadd8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "olympiccasino-7eadd8",
+        "wikidata": "Q11150186"
+      }
+    },
+    "alexela_q20529782": {
+      "slug": "alexela_q20529782",
+      "title": "Alexela",
+      "title_en": "Alexela",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "alexela-00a67a",
+        "wikidata": "Q20529782"
+      }
+    },
+    "olerex_q16931205": {
+      "slug": "olerex_q16931205",
+      "title": "Olerex",
+      "title_en": "Olerex",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olerex-00a67a.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "olerex-00a67a",
+        "wikidata": "Q16931205"
+      }
+    },
+    "statoil_q1776022": {
+      "slug": "statoil_q1776022",
+      "title": "Statoil",
+      "title_en": "Statoil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/statoil-ac665c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "statoil-ac665c",
+        "wikidata": "Q1776022"
+      }
+    },
+    "rattaringlus": {
+      "slug": "rattaringlus",
+      "title": "Rattaringlus",
+      "title_en": "Rattaringlus",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rattaringlus-901243",
+        "wikidata": ""
+      }
+    },
+    "rekola_q24576372": {
+      "slug": "rekola_q24576372",
+      "title": "Rekola",
+      "title_en": "Rekola",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rekola-606a42.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rekola-606a42",
+        "wikidata": "Q24576372"
       }
     }
   }

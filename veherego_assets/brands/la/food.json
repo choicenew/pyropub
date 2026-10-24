@@ -1,30 +1,65 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "la",
+  "category": "food",
+  "total_brands": 4,
   "brand_aliases": {
+    "sacombank_q6123772": {
+      "slug": "sacombank_q6123772",
+      "title": "Sacombank",
+      "title_en": "Sacombank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sacombank-0c3ae7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sacombank-0c3ae7",
+        "wikidata": "Q6123772"
+      }
+    },
     "thepizzacompany_q2413520": {
       "slug": "thepizzacompany_q2413520",
       "title": "The Pizza Company",
-      "short_name": "The Pizza ",
-      "badge_text": "T",
+      "title_en": "The Pizza Company",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "The Pizza Company"
-      ],
-      "keywords": [
-        "The Pizza Company"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thepizzacompany-abbb1f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "thepizzacompany-abbb1f",
         "wikidata": "Q2413520"
+      }
+    },
+    "swensens_q6640658": {
+      "slug": "swensens_q6640658",
+      "title": "Swensen's",
+      "title_en": "Swensen's",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "swensens-570cf0",
+        "wikidata": "Q6640658"
+      }
+    },
+    "staroil": {
+      "slug": "staroil",
+      "title": "Star Oil",
+      "title_en": "Star Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "staroil-89ab1a",
+        "wikidata": ""
       }
     }
   }

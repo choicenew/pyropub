@@ -1,30 +1,37 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "sr",
+  "category": "food",
+  "total_brands": 2,
   "brand_aliases": {
     "chuckecheese_q2438391": {
       "slug": "chuckecheese_q2438391",
       "title": "Chuck E. Cheese",
-      "short_name": "Chuck E. C",
-      "badge_text": "C",
+      "title_en": "Chuck E. Cheese",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Chuck E. Cheese"
-      ],
-      "keywords": [
-        "Chuck E. Cheese"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chuckecheese-826402.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chuckecheese-826402",
         "wikidata": "Q2438391"
+      }
+    },
+    "sol_q99939344": {
+      "slug": "sol_q99939344",
+      "title": "Sol",
+      "title_en": "Sol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sol-6e9b5c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sol-6e9b5c",
+        "wikidata": "Q99939344"
       }
     }
   }

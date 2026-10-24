@@ -1,30 +1,51 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "iq",
+  "category": "supermarket",
+  "total_brands": 3,
   "brand_aliases": {
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
     "fc65e702224f": {
       "slug": "fc65e702224f",
       "title": "تيم مارت",
-      "short_name": "تيم مارت",
-      "badge_text": "ت",
+      "title_en": "تيم مارت",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "تيم مارت"
-      ],
-      "keywords": [
-        "تيم مارت"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fc65e7-02224f",
         "wikidata": ""
+      }
+    },
+    "ooredoo_q919935": {
+      "slug": "ooredoo_q919935",
+      "title": "Ooredoo",
+      "title_en": "Ooredoo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ooredoo-5cc5ab.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ooredoo-5cc5ab",
+        "wikidata": "Q919935"
       }
     }
   }

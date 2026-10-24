@@ -1,27 +1,34 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "sy",
+  "category": "food",
+  "total_brands": 4,
   "brand_aliases": {
+    "qnb_q1136759": {
+      "slug": "qnb_q1136759",
+      "title": "QNB",
+      "title_en": "QNB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/qnb-1ee5d6.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "qnb-1ee5d6",
+        "wikidata": "Q1136759"
+      }
+    },
     "dixychicken_q5285003": {
       "slug": "dixychicken_q5285003",
       "title": "Dixy Chicken",
-      "short_name": "Dixy Chick",
-      "badge_text": "D",
+      "title_en": "Dixy Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Dixy Chicken"
-      ],
-      "keywords": [
-        "Dixy Chicken"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dixychicken-d5291b",
         "wikidata": "Q5285003"
@@ -30,23 +37,12 @@
     "_q524757": {
       "slug": "_q524757",
       "title": "دجاج كنتاكي",
-      "short_name": "دجاج كنتاك",
-      "badge_text": "د",
+      "title_en": "KFC",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "KFC",
-        "دجاج كنتاكي"
-      ],
-      "keywords": [
-        "KFC",
-        "دجاج كنتاكي"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kfc-15a250.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kfc-15a250",
         "wikidata": "Q524757"
@@ -55,23 +51,12 @@
     "_q38076": {
       "slug": "_q38076",
       "title": "ماكدونالدز",
-      "short_name": "ماكدونالدز",
-      "badge_text": "م",
+      "title_en": "McDonald's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "ماكدونالدز",
-        "McDonald's"
-      ],
-      "keywords": [
-        "ماكدونالدز",
-        "McDonald's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcdonalds-19c993.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mcdonalds-19c993",
         "wikidata": "Q38076"

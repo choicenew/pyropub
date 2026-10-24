@@ -1,8 +1,11 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "bs",
-  "total_categories": 1,
+  "country_name": "BS",
+  "total_categories": 2,
   "manifest_files": [
+    "other.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

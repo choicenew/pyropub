@@ -1,30 +1,65 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "gy",
+  "category": "food",
+  "total_brands": 4,
   "brand_aliases": {
+    "republicbankeasterncaribbean_q7314386": {
+      "slug": "republicbankeasterncaribbean_q7314386",
+      "title": "Republic Bank",
+      "title_en": "Republic Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/republicbank-1e52aa.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "republicbank-1e52aa",
+        "wikidata": "Q7314386"
+      }
+    },
     "churchschicken_q1089932": {
       "slug": "churchschicken_q1089932",
       "title": "Church's Chicken",
-      "short_name": "Church's C",
-      "badge_text": "C",
+      "title_en": "Church's Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Church's Chicken"
-      ],
-      "keywords": [
-        "Church's Chicken"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/churchschicken-484ae5.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "churchschicken-484ae5",
         "wikidata": "Q1089932"
+      }
+    },
+    "caribbeancinemas_q5039364": {
+      "slug": "caribbeancinemas_q5039364",
+      "title": "Caribbean Cinemas",
+      "title_en": "Caribbean Cinemas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caribbeancinemas-77ba3f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "caribbeancinemas-77ba3f",
+        "wikidata": "Q5039364"
+      }
+    },
+    "sol_q99939344": {
+      "slug": "sol_q99939344",
+      "title": "Sol",
+      "title_en": "Sol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sol-6e9b5c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sol-6e9b5c",
+        "wikidata": "Q99939344"
       }
     }
   }

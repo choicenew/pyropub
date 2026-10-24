@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "ec",
+  "category": "food",
+  "total_brands": 23,
   "brand_aliases": {
+    "bancodelaustro_q62122344": {
+      "slug": "bancodelaustro_q62122344",
+      "title": "Banco del Austro",
+      "title_en": "Banco del Austro",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancodelaustro-01e191.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancodelaustro-01e191",
+        "wikidata": "Q62122344"
+      }
+    },
+    "bancointernacionalecuador_q806187": {
+      "slug": "bancointernacionalecuador_q806187",
+      "title": "Banco Internacional",
+      "title_en": "Banco Internacional",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancointernacional-01e191",
+        "wikidata": "Q806187"
+      }
+    },
+    "bancopichincha_q4854135": {
+      "slug": "bancopichincha_q4854135",
+      "title": "Banco Pichincha",
+      "title_en": "Banco Pichincha",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bancopichincha-6de7b0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancopichincha-6de7b0",
+        "wikidata": "Q4854135"
+      }
+    },
+    "produbanco_q7247678": {
+      "slug": "produbanco_q7247678",
+      "title": "Produbanco",
+      "title_en": "Produbanco",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/produbanco-01e191.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "produbanco-01e191",
+        "wikidata": "Q7247678"
+      }
+    },
     "aaconcept_q110138105": {
       "slug": "aaconcept_q110138105",
       "title": "Açaí Concept",
-      "short_name": "Açaí Conce",
-      "badge_text": "A",
+      "title_en": "Açaí Concept",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Açaí Concept"
-      ],
-      "keywords": [
-        "Açaí Concept"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "acaiconcept-989340",
         "wikidata": "Q110138105"
@@ -30,21 +79,12 @@
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
@@ -53,21 +93,12 @@
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
@@ -76,47 +107,225 @@
     "woktowalk_q4020634": {
       "slug": "woktowalk_q4020634",
       "title": "Wok to Walk",
-      "short_name": "Wok to Wal",
-      "badge_text": "W",
+      "title_en": "Wok to Walk",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wok to Walk"
-      ],
-      "keywords": [
-        "Wok to Walk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woktowalk-f5ada9",
         "wikidata": "Q4020634"
       }
     },
+    "cruzazul_q62108219": {
+      "slug": "cruzazul_q62108219",
+      "title": "Cruz Azul",
+      "title_en": "Cruz Azul",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cruzazul-235c18",
+        "wikidata": "Q62108219"
+      }
+    },
+    "farmaciaseconmicasecuador_q62108380": {
+      "slug": "farmaciaseconmicasecuador_q62108380",
+      "title": "Farmacias Económicas",
+      "title_en": "Farmacias Económicas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmaciaseconomicas-235c18.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmaciaseconomicas-235c18",
+        "wikidata": "Q62108380"
+      }
+    },
+    "farmaciasmia": {
+      "slug": "farmaciasmia",
+      "title": "Farmacias MIA",
+      "title_en": "Farmacias MIA",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmaciasmia-235c18",
+        "wikidata": ""
+      }
+    },
+    "fybeca_q62564822": {
+      "slug": "fybeca_q62564822",
+      "title": "Fybeca",
+      "title_en": "Fybeca",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fybeca-235c18.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fybeca-235c18",
+        "wikidata": "Q62564822"
+      }
+    },
+    "sanasana_q62564499": {
+      "slug": "sanasana_q62564499",
+      "title": "Sana Sana",
+      "title_en": "Sana Sana",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sanasana-235c18.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sanasana-235c18",
+        "wikidata": "Q62564499"
+      }
+    },
+    "llaollao_q12163048": {
+      "slug": "llaollao_q12163048",
+      "title": "Llaollao",
+      "title_en": "Llaollao",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "llaollao-dd9462",
+        "wikidata": "Q12163048"
+      }
+    },
+    "smoy_q21573945": {
+      "slug": "smoy_q21573945",
+      "title": "smöoy",
+      "title_en": "smöoy",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smooy-ae897d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "smooy-ae897d",
+        "wikidata": "Q21573945"
+      }
+    },
     "crepeswaffles_q5184238": {
       "slug": "crepeswaffles_q5184238",
       "title": "Crepes & Waffles",
-      "short_name": "Crepes & W",
-      "badge_text": "C",
+      "title_en": "Crepes & Waffles",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Crepes & Waffles"
-      ],
-      "keywords": [
-        "Crepes & Waffles"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crepesandwaffles-7b5290.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "crepesandwaffles-7b5290",
         "wikidata": "Q5184238"
+      }
+    },
+    "pdv": {
+      "slug": "pdv",
+      "title": "PDV",
+      "title_en": "PDV",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pdv-07d016",
+        "wikidata": ""
+      }
+    },
+    "petroecuador_q1812822": {
+      "slug": "petroecuador_q1812822",
+      "title": "Petroecuador",
+      "title_en": "Petroecuador",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/petroecuador-07d016.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "petroecuador-07d016",
+        "wikidata": "Q1812822"
+      }
+    },
+    "primaxecuador_q62332857": {
+      "slug": "primaxecuador_q62332857",
+      "title": "Primax",
+      "title_en": "Primax",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/primax-07d016.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "primax-07d016",
+        "wikidata": "Q62332857"
+      }
+    },
+    "pys": {
+      "slug": "pys",
+      "title": "PyS",
+      "title_en": "PyS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pys-07d016",
+        "wikidata": ""
+      }
+    },
+    "terpel_q7703003": {
+      "slug": "terpel_q7703003",
+      "title": "Terpel",
+      "title_en": "Terpel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/terpel-23f925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "terpel-23f925",
+        "wikidata": "Q7703003"
+      }
+    },
+    "bicicuenca": {
+      "slug": "bicicuenca",
+      "title": "Bici Cuenca",
+      "title_en": "Bici Cuenca",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bicicuenca-3e9425",
+        "wikidata": ""
+      }
+    },
+    "biciquito_q16489709": {
+      "slug": "biciquito_q16489709",
+      "title": "BiciQuito",
+      "title_en": "BiciQuito",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/biciquito-3e9425.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "biciquito-3e9425",
+        "wikidata": "Q16489709"
       }
     }
   }

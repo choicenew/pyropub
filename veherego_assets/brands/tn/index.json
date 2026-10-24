@@ -1,10 +1,14 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "tn",
-  "total_categories": 3,
+  "country_name": "TN",
+  "total_categories": 5,
   "manifest_files": [
-    "food.json",
+    "other.json",
     "supermarket.json",
+    "food.json",
+    "travel.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

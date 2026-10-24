@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "is",
+  "category": "food",
+  "total_brands": 10,
   "brand_aliases": {
+    "arionbanki_q662664": {
+      "slug": "arionbanki_q662664",
+      "title": "Arion banki",
+      "title_en": "Arion banki",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arionbanki-9da0bd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "arionbanki-9da0bd",
+        "wikidata": "Q662664"
+      }
+    },
+    "slandsbanki_q15614925": {
+      "slug": "slandsbanki_q15614925",
+      "title": "Íslandsbanki",
+      "title_en": "Íslandsbanki",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/islandsbanki-9da0bd.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "islandsbanki-9da0bd",
+        "wikidata": "Q15614925"
+      }
+    },
+    "landsbankinn_q6952818": {
+      "slug": "landsbankinn_q6952818",
+      "title": "Landsbankinn",
+      "title_en": "Landsbankinn",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/landsbankinn-9da0bd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "landsbankinn-9da0bd",
+        "wikidata": "Q6952818"
+      }
+    },
+    "changegroup_q5071758": {
+      "slug": "changegroup_q5071758",
+      "title": "Change Group",
+      "title_en": "Change Group",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/changegroup-70b70e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "changegroup-70b70e",
+        "wikidata": "Q5071758"
+      }
+    },
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
@@ -30,24 +79,71 @@
     "tommisburgerjoint_q126741276": {
       "slug": "tommisburgerjoint_q126741276",
       "title": "Tommi's Burger Joint",
-      "short_name": "Tommi's Bu",
-      "badge_text": "T",
+      "title_en": "Tommi's Burger Joint",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Tommi's Burger Joint"
-      ],
-      "keywords": [
-        "Tommi's Burger Joint"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tommisburgerjoint-db46fe.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tommisburgerjoint-db46fe",
         "wikidata": "Q126741276"
+      }
+    },
+    "costcogasoline_q715583": {
+      "slug": "costcogasoline_q715583",
+      "title": "Costco Gasoline",
+      "title_en": "Costco Gasoline",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "costcogasoline-53e77b",
+        "wikidata": "Q715583"
+      }
+    },
+    "n1_q30668223": {
+      "slug": "n1_q30668223",
+      "title": "N1",
+      "title_en": "N1",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/n1-3ac543.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "n1-3ac543",
+        "wikidata": "Q30668223"
+      }
+    },
+    "ols_q16423452": {
+      "slug": "ols_q16423452",
+      "title": "Olís",
+      "title_en": "Olís",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olis-3ac543.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "olis-3ac543",
+        "wikidata": "Q16423452"
+      }
+    },
+    "orkan_q124349830": {
+      "slug": "orkan_q124349830",
+      "title": "Orkan",
+      "title_en": "Orkan",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/orkan-3ac543.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "orkan-3ac543",
+        "wikidata": "Q124349830"
       }
     }
   }

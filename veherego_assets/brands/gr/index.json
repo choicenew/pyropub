@@ -1,11 +1,14 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "gr",
-  "total_categories": 4,
+  "country_name": "Ελλάδα",
+  "total_categories": 5,
   "manifest_files": [
     "food.json",
     "supermarket.json",
-    "drink.json",
-    "express.json"
-  ]
+    "express.json",
+    "travel.json",
+    "drink.json"
+  ],
+  "version": 1
 }

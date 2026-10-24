@@ -1,53 +1,79 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "do",
+  "category": "food",
+  "total_brands": 5,
   "brand_aliases": {
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
       }
     },
+    "caribbeancinemas_q5039364": {
+      "slug": "caribbeancinemas_q5039364",
+      "title": "Caribbean Cinemas",
+      "title_en": "Caribbean Cinemas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caribbeancinemas-77ba3f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "caribbeancinemas-77ba3f",
+        "wikidata": "Q5039364"
+      }
+    },
     "udon_q115679798": {
       "slug": "udon_q115679798",
       "title": "UDON",
-      "short_name": "UDON",
-      "badge_text": "U",
+      "title_en": "UDON",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "UDON"
-      ],
-      "keywords": [
-        "UDON"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/udon-5e8163.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "udon-5e8163",
         "wikidata": "Q115679798"
+      }
+    },
+    "usave_q123005345": {
+      "slug": "usave_q123005345",
+      "title": "U-Save",
+      "title_en": "U-Save",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usave-c212fd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "usave-c212fd",
+        "wikidata": "Q123005345"
+      }
+    },
+    "terpel_q7703003": {
+      "slug": "terpel_q7703003",
+      "title": "Terpel",
+      "title_en": "Terpel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/terpel-23f925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "terpel-23f925",
+        "wikidata": "Q7703003"
       }
     }
   }

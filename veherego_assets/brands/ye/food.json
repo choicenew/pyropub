@@ -1,29 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "ye",
+  "category": "food",
+  "total_brands": 7,
   "brand_aliases": {
     "_q4704878": {
       "slug": "_q4704878",
       "title": "الطازج",
-      "short_name": "الطازج",
-      "badge_text": "ا",
+      "title_en": "Al Tazaj",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Al Tazaj",
-        "الطازج"
-      ],
-      "keywords": [
-        "Al Tazaj",
-        "الطازج"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/altazaj-7c76bb.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "altazaj-7c76bb",
         "wikidata": "Q4704878"
@@ -32,26 +23,85 @@
     "_q524757": {
       "slug": "_q524757",
       "title": "دجاج كنتاكي",
-      "short_name": "دجاج كنتاك",
-      "badge_text": "د",
+      "title_en": "KFC",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "KFC",
-        "دجاج كنتاكي"
-      ],
-      "keywords": [
-        "KFC",
-        "دجاج كنتاكي"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kfc-15a250.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kfc-15a250",
         "wikidata": "Q524757"
+      }
+    },
+    "_q98582564": {
+      "slug": "_q98582564",
+      "title": "صيدلية النهدي",
+      "title_en": "Nahdi",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nahdi-3cfaa8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nahdi-3cfaa8",
+        "wikidata": "Q98582564"
+      }
+    },
+    "_q3045998": {
+      "slug": "_q3045998",
+      "title": "اينوك",
+      "title_en": "ENOC",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/enoc-7d34dd.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "enoc-7d34dd",
+        "wikidata": "Q3045998"
+      }
+    },
+    "_q154037": {
+      "slug": "_q154037",
+      "title": "توتال",
+      "title_en": "Total",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/total-7d34dd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "total-7d34dd",
+        "wikidata": "Q154037"
+      }
+    },
+    "95219a7d34dd": {
+      "slug": "95219a7d34dd",
+      "title": "محطة",
+      "title_en": "محطة",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "95219a-7d34dd",
+        "wikidata": ""
+      }
+    },
+    "ce06e77d34dd": {
+      "slug": "ce06e77d34dd",
+      "title": "نفطال",
+      "title_en": "نفطال",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ce06e7-7d34dd",
+        "wikidata": ""
       }
     }
   }

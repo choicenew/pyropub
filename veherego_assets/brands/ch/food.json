@@ -1,29 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 25,
+  "country": "ch",
+  "category": "food",
+  "total_brands": 106,
   "brand_aliases": {
     "backwerk_q798298": {
       "slug": "backwerk_q798298",
       "title": "Backwerk",
-      "short_name": "Backwerk",
-      "badge_text": "B",
+      "title_en": "Backwerk",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Backwerk",
-        "BackWerk"
-      ],
-      "keywords": [
-        "Backwerk",
-        "BackWerk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/backwerk-5fc8b1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "backwerk-5fc8b1",
         "wikidata": "Q798298"
@@ -32,21 +23,12 @@
     "kuhn_q111728345": {
       "slug": "kuhn_q111728345",
       "title": "Kuhn",
-      "short_name": "Kuhn",
-      "badge_text": "K",
+      "title_en": "Kuhn",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Kuhn"
-      ],
-      "keywords": [
-        "Kuhn"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kuhn-903073",
         "wikidata": "Q111728345"
@@ -55,44 +37,726 @@
     "steiner_q111728988": {
       "slug": "steiner_q111728988",
       "title": "Steiner",
-      "short_name": "Steiner",
-      "badge_text": "S",
+      "title_en": "Steiner",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Steiner"
-      ],
-      "keywords": [
-        "Steiner"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/steiner-903073.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "steiner-903073",
         "wikidata": "Q111728988"
       }
     },
+    "postomat_q449233": {
+      "slug": "postomat_q449233",
+      "title": "Postomat",
+      "title_en": "Postomat",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postomat-ba97f3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "postomat-ba97f3",
+        "wikidata": "Q449233"
+      }
+    },
+    "aargauischekantonalbank_q301269": {
+      "slug": "aargauischekantonalbank_q301269",
+      "title": "Aargauische Kantonalbank",
+      "title_en": "Aargauische Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aargauischekantonalbank-74b036",
+        "wikidata": "Q301269"
+      }
+    },
+    "appenzellerkantonalbank_q620963": {
+      "slug": "appenzellerkantonalbank_q620963",
+      "title": "Appenzeller Kantonalbank",
+      "title_en": "Appenzeller Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "appenzellerkantonalbank-74b036",
+        "wikidata": "Q620963"
+      }
+    },
+    "attijariwafabank_q758052": {
+      "slug": "attijariwafabank_q758052",
+      "title": "Attijariwafa Bank",
+      "title_en": "Attijariwafa Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/attijariwafabank-efc165.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "attijariwafabank-efc165",
+        "wikidata": "Q758052"
+      }
+    },
+    "bancastato_q806158": {
+      "slug": "bancastato_q806158",
+      "title": "BancaStato",
+      "title_en": "BancaStato",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bancastato-72646c",
+        "wikidata": "Q806158"
+      }
+    },
+    "banquecantonaledefribourg_q1453871": {
+      "slug": "banquecantonaledefribourg_q1453871",
+      "title": "Freiburger Kantonalbank",
+      "title_en": "Banque Cantonale de Fribourg",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banquecantonaledefribourg-67b150",
+        "wikidata": "Q1453871"
+      }
+    },
+    "banquecantonaledegenve_q650629": {
+      "slug": "banquecantonaledegenve_q650629",
+      "title": "Banque Cantonale de Genève",
+      "title_en": "Banque Cantonale de Genève",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banquecantonaledegeneve-e338fc.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banquecantonaledegeneve-e338fc",
+        "wikidata": "Q650629"
+      }
+    },
+    "banquecantonaledujura_q806923": {
+      "slug": "banquecantonaledujura_q806923",
+      "title": "Banque Cantonale du Jura",
+      "title_en": "Banque Cantonale du Jura",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banquecantonaledujura-54afa2",
+        "wikidata": "Q806923"
+      }
+    },
+    "banquecantonaleduvalais_q2543025": {
+      "slug": "banquecantonaleduvalais_q2543025",
+      "title": "Walliser Kantonalbank",
+      "title_en": "Banque Cantonale du Valais",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banquecantonaleduvalais-43dddb",
+        "wikidata": "Q2543025"
+      }
+    },
+    "banquecantonaleneuchteloise_q688391": {
+      "slug": "banquecantonaleneuchteloise_q688391",
+      "title": "Banque Cantonale Neuchâteloise",
+      "title_en": "Banque Cantonale Neuchâteloise",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banquecantonaleneuchateloise-9b416d",
+        "wikidata": "Q688391"
+      }
+    },
+    "banquecantonalevaudoise_q685533": {
+      "slug": "banquecantonalevaudoise_q685533",
+      "title": "Banque Cantonale Vaudoise",
+      "title_en": "Banque Cantonale Vaudoise",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banquecantonalevaudoise-74b036",
+        "wikidata": "Q685533"
+      }
+    },
+    "basellandschaftlichekantonalbank_q809931": {
+      "slug": "basellandschaftlichekantonalbank_q809931",
+      "title": "Basellandschaftliche Kantonalbank",
+      "title_en": "Basellandschaftliche Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/basellandschaftlichekantonalbank-74b036.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "basellandschaftlichekantonalbank-74b036",
+        "wikidata": "Q809931"
+      }
+    },
+    "baslerkantonalbank_q810408": {
+      "slug": "baslerkantonalbank_q810408",
+      "title": "Basler Kantonalbank",
+      "title_en": "Basler Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "baslerkantonalbank-74b036",
+        "wikidata": "Q810408"
+      }
+    },
+    "bernerkantonalbank_q824579": {
+      "slug": "bernerkantonalbank_q824579",
+      "title": "Berner Kantonalbank",
+      "title_en": "Berner Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bernerkantonalbank-74b036.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bernerkantonalbank-74b036",
+        "wikidata": "Q824579"
+      }
+    },
+    "bnpparibas_q499707": {
+      "slug": "bnpparibas_q499707",
+      "title": "BNP Paribas",
+      "title_en": "BNP Paribas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bnpparibas-a4be3f",
+        "wikidata": "Q499707"
+      }
+    },
+    "creditsuisse_q372657": {
+      "slug": "creditsuisse_q372657",
+      "title": "Credit Suisse",
+      "title_en": "Credit Suisse",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "creditsuisse-74b036",
+        "wikidata": "Q372657"
+      }
+    },
+    "glarnerkantonalbank_q1529290": {
+      "slug": "glarnerkantonalbank_q1529290",
+      "title": "Glarner Kantonalbank",
+      "title_en": "Glarner Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "glarnerkantonalbank-74b036",
+        "wikidata": "Q1529290"
+      }
+    },
+    "graubndnerkantonalbank_q1543702": {
+      "slug": "graubndnerkantonalbank_q1543702",
+      "title": "Graubündner Kantonalbank",
+      "title_en": "Graubündner Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "graubundnerkantonalbank-74b036",
+        "wikidata": "Q1543702"
+      }
+    },
+    "luzernerkantonalbank_q1756878": {
+      "slug": "luzernerkantonalbank_q1756878",
+      "title": "Luzerner Kantonalbank",
+      "title_en": "Luzerner Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/luzernerkantonalbank-74b036.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "luzernerkantonalbank-74b036",
+        "wikidata": "Q1756878"
+      }
+    },
+    "migrosbank_q1593349": {
+      "slug": "migrosbank_q1593349",
+      "title": "Migros Bank",
+      "title_en": "Migros Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/migrosbank-74b036.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "migrosbank-74b036",
+        "wikidata": "Q1593349"
+      }
+    },
+    "nidwaldnerkantonalbank_q1987417": {
+      "slug": "nidwaldnerkantonalbank_q1987417",
+      "title": "Nidwaldner Kantonalbank",
+      "title_en": "Nidwaldner Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nidwaldnerkantonalbank-74b036.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nidwaldnerkantonalbank-74b036",
+        "wikidata": "Q1987417"
+      }
+    },
+    "obwaldnerkantonalbank_q1291630": {
+      "slug": "obwaldnerkantonalbank_q1291630",
+      "title": "Obwaldner Kantonalbank",
+      "title_en": "Obwaldner Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/obwaldnerkantonalbank-74b036.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "obwaldnerkantonalbank-74b036",
+        "wikidata": "Q1291630"
+      }
+    },
+    "postfinance_q449233": {
+      "slug": "postfinance_q449233",
+      "title": "PostFinance",
+      "title_en": "PostFinance",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postfinance-74b036.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "postfinance-74b036",
+        "wikidata": "Q449233"
+      }
+    },
+    "raiffeisenschweiz_q681189": {
+      "slug": "raiffeisenschweiz_q681189",
+      "title": "Raiffeisen",
+      "title_en": "Raiffeisen",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raiffeisen-74b036.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "raiffeisen-74b036",
+        "wikidata": "Q681189"
+      }
+    },
+    "schaffhauserkantonalbank_q2230058": {
+      "slug": "schaffhauserkantonalbank_q2230058",
+      "title": "Schaffhauser Kantonalbank",
+      "title_en": "Schaffhauser Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schaffhauserkantonalbank-74b036.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "schaffhauserkantonalbank-74b036",
+        "wikidata": "Q2230058"
+      }
+    },
+    "schwyzerkantonalbank_q2257957": {
+      "slug": "schwyzerkantonalbank_q2257957",
+      "title": "Schwyzer Kantonalbank",
+      "title_en": "Schwyzer Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/schwyzerkantonalbank-74b036.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "schwyzerkantonalbank-74b036",
+        "wikidata": "Q2257957"
+      }
+    },
+    "stgallerkantonalbank_q2316809": {
+      "slug": "stgallerkantonalbank_q2316809",
+      "title": "St. Galler Kantonalbank",
+      "title_en": "St. Galler Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stgallerkantonalbank-74b036.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "stgallerkantonalbank-74b036",
+        "wikidata": "Q2316809"
+      }
+    },
+    "thurgauerkantonalbank_q2430020": {
+      "slug": "thurgauerkantonalbank_q2430020",
+      "title": "Thurgauer Kantonalbank",
+      "title_en": "Thurgauer Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thurgauerkantonalbank-74b036.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thurgauerkantonalbank-74b036",
+        "wikidata": "Q2430020"
+      }
+    },
+    "urnerkantonalbank_q17051583": {
+      "slug": "urnerkantonalbank_q17051583",
+      "title": "Urner Kantonalbank",
+      "title_en": "Urner Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "urnerkantonalbank-74b036",
+        "wikidata": "Q17051583"
+      }
+    },
+    "valiant_q2509061": {
+      "slug": "valiant_q2509061",
+      "title": "Valiant",
+      "title_en": "Valiant",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/valiant-74b036.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "valiant-74b036",
+        "wikidata": "Q2509061"
+      }
+    },
+    "zugerkantonalbank_q228365": {
+      "slug": "zugerkantonalbank_q228365",
+      "title": "Zuger Kantonalbank",
+      "title_en": "Zuger Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zugerkantonalbank-74b036",
+        "wikidata": "Q228365"
+      }
+    },
+    "zrcherkantonalbank_q248476": {
+      "slug": "zrcherkantonalbank_q248476",
+      "title": "Zürcher Kantonalbank",
+      "title_en": "Zürcher Kantonalbank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zurcherkantonalbank-74b036.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurcherkantonalbank-74b036",
+        "wikidata": "Q248476"
+      }
+    },
+    "saeinstitute_q201438": {
+      "slug": "saeinstitute_q201438",
+      "title": "SAE Institute",
+      "title_en": "SAE Institute",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/saeinstitute-7a11fb.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "saeinstitute-7a11fb",
+        "wikidata": "Q201438"
+      }
+    },
+    "belloo_q98526006": {
+      "slug": "belloo_q98526006",
+      "title": "belloo",
+      "title_en": "belloo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "belloo-6ba58e",
+        "wikidata": "Q98526006"
+      }
+    },
+    "bravo": {
+      "slug": "bravo",
+      "title": "Bravo",
+      "title_en": "Bravo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bravo-742585",
+        "wikidata": ""
+      }
+    },
+    "doggyslide_q136408155": {
+      "slug": "doggyslide_q136408155",
+      "title": "Doggyslide",
+      "title_en": "Doggyslide",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "doggyslide-742585",
+        "wikidata": "Q136408155"
+      }
+    },
+    "robidog_q2159689": {
+      "slug": "robidog_q2159689",
+      "title": "Robidog",
+      "title_en": "Robidog",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/robidog-253083.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "robidog-253083",
+        "wikidata": "Q2159689"
+      }
+    },
+    "selecta_q472153": {
+      "slug": "selecta_q472153",
+      "title": "Selecta",
+      "title_en": "Selecta",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/selecta-ed4d31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "selecta-ed4d31",
+        "wikidata": "Q472153"
+      }
+    },
+    "babilou_q16530800": {
+      "slug": "babilou_q16530800",
+      "title": "Babilou",
+      "title_en": "Babilou",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/babilou-f5662b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "babilou-f5662b",
+        "wikidata": "Q16530800"
+      }
+    },
+    "caritasschweiz_q1036336": {
+      "slug": "caritasschweiz_q1036336",
+      "title": "Caritas",
+      "title_en": "Caritas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caritas-7e98f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "caritas-7e98f6",
+        "wikidata": "Q1036336"
+      }
+    },
+    "bibliocabine_q130461884": {
+      "slug": "bibliocabine_q130461884",
+      "title": "Bibliocabina",
+      "title_en": "Bibliocabina",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bibliocabina-227ad5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bibliocabina-227ad5",
+        "wikidata": "Q130461884"
+      }
+    },
+    "studienkreis_q2358555": {
+      "slug": "studienkreis_q2358555",
+      "title": "Studienkreis",
+      "title_en": "Studienkreis",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/studienkreis-fce332.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "studienkreis-fce332",
+        "wikidata": "Q2358555"
+      }
+    },
+    "prontophot_q123401542": {
+      "slug": "prontophot_q123401542",
+      "title": "Prontophot",
+      "title_en": "Prontophot",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prontophot-84b0f3.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "prontophot-84b0f3",
+        "wikidata": "Q123401542"
+      }
+    },
+    "atlante_q126913632": {
+      "slug": "atlante_q126913632",
+      "title": "Atlante",
+      "title_en": "Atlante",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/atlante-a1174d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "atlante-a1174d",
+        "wikidata": "Q126913632"
+      }
+    },
+    "bikeenergy_q67770877": {
+      "slug": "bikeenergy_q67770877",
+      "title": "bike-energy",
+      "title_en": "bike-energy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bikeenergy-b97cbe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bikeenergy-b97cbe",
+        "wikidata": "Q67770877"
+      }
+    },
+    "chargeone_q136273643": {
+      "slug": "chargeone_q136273643",
+      "title": "ChargeOne",
+      "title_en": "ChargeOne",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chargeone-81fa04",
+        "wikidata": "Q136273643"
+      }
+    },
+    "electra_q128592938": {
+      "slug": "electra_q128592938",
+      "title": "Electra",
+      "title_en": "Electra",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/electra-5e7209.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "electra-5e7209",
+        "wikidata": "Q128592938"
+      }
+    },
+    "fastned_q19935749": {
+      "slug": "fastned_q19935749",
+      "title": "Fastned",
+      "title_en": "Fastned",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fastned-782c71.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fastned-782c71",
+        "wikidata": "Q19935749"
+      }
+    },
+    "ubitricity_q113699692": {
+      "slug": "ubitricity_q113699692",
+      "title": "ubitricity",
+      "title_en": "ubitricity",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ubitricity-ef5e60.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ubitricity-ef5e60",
+        "wikidata": "Q113699692"
+      }
+    },
+    "anicura_q21100245": {
+      "slug": "anicura_q21100245",
+      "title": "AniCura",
+      "title_en": "AniCura",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anicura-acf389.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "anicura-acf389",
+        "wikidata": "Q21100245"
+      }
+    },
     "aaconcept_q110138105": {
       "slug": "aaconcept_q110138105",
       "title": "Açaí Concept",
-      "short_name": "Açaí Conce",
-      "badge_text": "A",
+      "title_en": "Açaí Concept",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Açaí Concept"
-      ],
-      "keywords": [
-        "Açaí Concept"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "acaiconcept-989340",
         "wikidata": "Q110138105"
@@ -101,21 +765,12 @@
     "brezelknig_q111728604": {
       "slug": "brezelknig_q111728604",
       "title": "Brezelkönig",
-      "short_name": "Brezelköni",
-      "badge_text": "B",
+      "title_en": "Brezelkönig",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Brezelkönig"
-      ],
-      "keywords": [
-        "Brezelkönig"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brezelkonig-157c6b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "brezelkonig-157c6b",
         "wikidata": "Q111728604"
@@ -124,21 +779,12 @@
     "deandavid_q66132404": {
       "slug": "deandavid_q66132404",
       "title": "dean&david",
-      "short_name": "dean&david",
-      "badge_text": "D",
+      "title_en": "dean&david",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "dean&david"
-      ],
-      "keywords": [
-        "dean&david"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/deananddavid-f9c825.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "deananddavid-f9c825",
         "wikidata": "Q66132404"
@@ -147,21 +793,12 @@
     "fiveguys_q1131810": {
       "slug": "fiveguys_q1131810",
       "title": "Five Guys",
-      "short_name": "Five Guys",
-      "badge_text": "F",
+      "title_en": "Five Guys",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Five Guys"
-      ],
-      "keywords": [
-        "Five Guys"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fiveguys-f26f5c.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fiveguys-f26f5c",
         "wikidata": "Q1131810"
@@ -170,23 +807,12 @@
     "ikeabistro_q54078": {
       "slug": "ikeabistro_q54078",
       "title": "IKEA Bistro",
-      "short_name": "IKEA Bistr",
-      "badge_text": "I",
+      "title_en": "IKEA Bistro",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "keywords": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeabistro-e746e6",
         "wikidata": "Q54078"
@@ -195,23 +821,12 @@
     "ikearestaurant_q54078": {
       "slug": "ikearestaurant_q54078",
       "title": "IKEA Restaurant",
-      "short_name": "IKEA Resta",
-      "badge_text": "I",
+      "title_en": "IKEA Restaurant",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikearestaurant-15fdc5",
         "wikidata": "Q54078"
@@ -220,21 +835,12 @@
     "leon_q6524851": {
       "slug": "leon_q6524851",
       "title": "LEON",
-      "short_name": "LEON",
-      "badge_text": "L",
+      "title_en": "LEON",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "LEON"
-      ],
-      "keywords": [
-        "LEON"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/leon-04566a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "leon-04566a",
         "wikidata": "Q6524851"
@@ -243,21 +849,12 @@
     "migrostakeaway_q111826610": {
       "slug": "migrostakeaway_q111826610",
       "title": "Migros Take Away",
-      "short_name": "Migros Tak",
-      "badge_text": "M",
+      "title_en": "Migros Take Away",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Migros Take Away"
-      ],
-      "keywords": [
-        "Migros Take Away"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/migrostakeaway-2fcd78.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "migrostakeaway-2fcd78",
         "wikidata": "Q111826610"
@@ -266,21 +863,12 @@
     "nordsee_q74866": {
       "slug": "nordsee_q74866",
       "title": "Nordsee",
-      "short_name": "Nordsee",
-      "badge_text": "N",
+      "title_en": "Nordsee",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Nordsee"
-      ],
-      "keywords": [
-        "Nordsee"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nordsee-da5f5f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nordsee-da5f5f",
         "wikidata": "Q74866"
@@ -289,21 +877,12 @@
     "oakberryaabowls_q104870840": {
       "slug": "oakberryaabowls_q104870840",
       "title": "Oakberry Açaí bowls",
-      "short_name": "Oakberry A",
-      "badge_text": "O",
+      "title_en": "Oakberry Açaí bowls",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Oakberry Açaí bowls"
-      ],
-      "keywords": [
-        "Oakberry Açaí bowls"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oakberryacaibowls-5bb50d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oakberryacaibowls-5bb50d",
         "wikidata": "Q104870840"
@@ -312,21 +891,12 @@
     "pokawa_q123018553": {
       "slug": "pokawa_q123018553",
       "title": "Pokawa",
-      "short_name": "Pokawa",
-      "badge_text": "P",
+      "title_en": "Pokawa",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Pokawa"
-      ],
-      "keywords": [
-        "Pokawa"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pokawa-6a2ed9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pokawa-6a2ed9",
         "wikidata": "Q123018553"
@@ -335,21 +905,12 @@
     "shisoburger_q132807422": {
       "slug": "shisoburger_q132807422",
       "title": "Shiso Burger",
-      "short_name": "Shiso Burg",
-      "badge_text": "S",
+      "title_en": "Shiso Burger",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Shiso Burger"
-      ],
-      "keywords": [
-        "Shiso Burger"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shisoburger-7d97e4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shisoburger-7d97e4",
         "wikidata": "Q132807422"
@@ -358,21 +919,12 @@
     "spizzico_q1419041": {
       "slug": "spizzico_q1419041",
       "title": "Spizzico",
-      "short_name": "Spizzico",
-      "badge_text": "S",
+      "title_en": "Spizzico",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Spizzico"
-      ],
-      "keywords": [
-        "Spizzico"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spizzico-7eb3e4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spizzico-7eb3e4",
         "wikidata": "Q1419041"
@@ -380,22 +932,13 @@
     },
     "sushishopeurope_q3505657": {
       "slug": "sushishopeurope_q3505657",
-      "title": "Sushi Shop (Europe)",
-      "short_name": "Sushi Shop",
-      "badge_text": "S",
+      "title": "Sushi Shop",
+      "title_en": "Sushi Shop",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Sushi Shop"
-      ],
-      "keywords": [
-        "Sushi Shop"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sushishop-ac545e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sushishop-ac545e",
         "wikidata": "Q3505657"
@@ -404,44 +947,194 @@
     "swingkitchen_q116943226": {
       "slug": "swingkitchen_q116943226",
       "title": "Swing Kitchen",
-      "short_name": "Swing Kitc",
-      "badge_text": "S",
+      "title_en": "Swing Kitchen",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Swing Kitchen"
-      ],
-      "keywords": [
-        "Swing Kitchen"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/swingkitchen-157c6b.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "swingkitchen-157c6b",
         "wikidata": "Q116943226"
       }
     },
+    "amavita_q93733901": {
+      "slug": "amavita_q93733901",
+      "title": "Amavita",
+      "title_en": "Amavita",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amavita-7092c5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amavita-7092c5",
+        "wikidata": "Q93733901"
+      }
+    },
+    "benu_q62562792": {
+      "slug": "benu_q62562792",
+      "title": "Benu",
+      "title_en": "Benu",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/benu-c1f9dd.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "benu-c1f9dd",
+        "wikidata": "Q62562792"
+      }
+    },
+    "coopvitality_q111725297": {
+      "slug": "coopvitality_q111725297",
+      "title": "Coop Vitality",
+      "title_en": "Coop Vitality",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coopvitality-7092c5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coopvitality-7092c5",
+        "wikidata": "Q111725297"
+      }
+    },
+    "pharmaciepopulaire_q125537498": {
+      "slug": "pharmaciepopulaire_q125537498",
+      "title": "Pharmacie Populaire",
+      "title_en": "Pharmacie Populaire",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pharmaciepopulaire-7092c5",
+        "wikidata": "Q125537498"
+      }
+    },
+    "pharmacieprincipale_q1547749": {
+      "slug": "pharmacieprincipale_q1547749",
+      "title": "Pharmacie Principale",
+      "title_en": "Pharmacie Principale",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pharmacieprincipale-7092c5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pharmacieprincipale-7092c5",
+        "wikidata": "Q1547749"
+      }
+    },
+    "sunstore_q2365840": {
+      "slug": "sunstore_q2365840",
+      "title": "Sun Store",
+      "title_en": "Sun Store",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sunstore-7092c5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sunstore-7092c5",
+        "wikidata": "Q2365840"
+      }
+    },
+    "toppharm_q110277794": {
+      "slug": "toppharm_q110277794",
+      "title": "TopPharm",
+      "title_en": "TopPharm",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/toppharm-7092c5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "toppharm-7092c5",
+        "wikidata": "Q110277794"
+      }
+    },
+    "kinepolis_q1741993": {
+      "slug": "kinepolis_q1741993",
+      "title": "Kinepolis",
+      "title_en": "Kinepolis",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kinepolis-bc363a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kinepolis-bc363a",
+        "wikidata": "Q1741993"
+      }
+    },
+    "path_q3060526": {
+      "slug": "path_q3060526",
+      "title": "Pathé",
+      "title_en": "Pathé",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pathe-dedd66.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pathe-dedd66",
+        "wikidata": "Q3060526"
+      }
+    },
+    "amorino_q2843884": {
+      "slug": "amorino_q2843884",
+      "title": "Amorino",
+      "title_en": "Amorino",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amorino-d14110.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amorino-d14110",
+        "wikidata": "Q2843884"
+      }
+    },
+    "gelateriadiberna_q111714021": {
+      "slug": "gelateriadiberna_q111714021",
+      "title": "Gelateria di Berna",
+      "title_en": "Gelateria di Berna",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelateriadiberna-656c68.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gelateriadiberna-656c68",
+        "wikidata": "Q111714021"
+      }
+    },
+    "llaollao_q12163048": {
+      "slug": "llaollao_q12163048",
+      "title": "Llaollao",
+      "title_en": "Llaollao",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/llaollao-dd9462.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "llaollao-dd9462",
+        "wikidata": "Q12163048"
+      }
+    },
     "chuckecheese_q2438391": {
       "slug": "chuckecheese_q2438391",
       "title": "Chuck E. Cheese",
-      "short_name": "Chuck E. C",
-      "badge_text": "C",
+      "title_en": "Chuck E. Cheese",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Chuck E. Cheese"
-      ],
-      "keywords": [
-        "Chuck E. Cheese"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chuckecheese-826402.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chuckecheese-826402",
         "wikidata": "Q2438391"
@@ -450,21 +1143,12 @@
     "cooprestaurant_q432564": {
       "slug": "cooprestaurant_q432564",
       "title": "Coop Restaurant",
-      "short_name": "Coop Resta",
-      "badge_text": "C",
+      "title_en": "Coop Restaurant",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Coop Restaurant"
-      ],
-      "keywords": [
-        "Coop Restaurant"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooprestaurant-282f19.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooprestaurant-282f19",
         "wikidata": "Q432564"
@@ -473,21 +1157,12 @@
     "hansimglck_q22569868": {
       "slug": "hansimglck_q22569868",
       "title": "Hans im Glück",
-      "short_name": "Hans im Gl",
-      "badge_text": "H",
+      "title_en": "Hans im Glück",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Hans im Glück"
-      ],
-      "keywords": [
-        "Hans im Glück"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hansimgluck-a53895.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hansimgluck-a53895",
         "wikidata": "Q22569868"
@@ -496,21 +1171,12 @@
     "lanticapizzeriadamichele_q137571344": {
       "slug": "lanticapizzeriadamichele_q137571344",
       "title": "L'Antica Pizzeria da Michele",
-      "short_name": "L'Antica P",
-      "badge_text": "L",
+      "title_en": "L'Antica Pizzeria da Michele",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "L'Antica Pizzeria da Michele"
-      ],
-      "keywords": [
-        "L'Antica Pizzeria da Michele"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lanticapizzeriadamichele-762625.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lanticapizzeriadamichele-762625",
         "wikidata": "Q137571344"
@@ -519,21 +1185,12 @@
     "losteria_q17323478": {
       "slug": "losteria_q17323478",
       "title": "L'Osteria",
-      "short_name": "L'Osteria",
-      "badge_text": "L",
+      "title_en": "L'Osteria",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "L'Osteria"
-      ],
-      "keywords": [
-        "L'Osteria"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "losteria-454d96",
         "wikidata": "Q17323478"
@@ -542,21 +1199,12 @@
     "migrosrestaurant_q111803848": {
       "slug": "migrosrestaurant_q111803848",
       "title": "Migros Restaurant",
-      "short_name": "Migros Res",
-      "badge_text": "M",
+      "title_en": "Migros Restaurant",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Migros Restaurant"
-      ],
-      "keywords": [
-        "Migros Restaurant"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/migrosrestaurant-282f19.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "migrosrestaurant-282f19",
         "wikidata": "Q111803848"
@@ -565,24 +1213,281 @@
     "santalucia_q110419156": {
       "slug": "santalucia_q110419156",
       "title": "Santa Lucia",
-      "short_name": "Santa Luci",
-      "badge_text": "S",
+      "title_en": "Santa Lucia",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Santa Lucia"
-      ],
-      "keywords": [
-        "Santa Lucia"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/santalucia-282f19.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "santalucia-282f19",
         "wikidata": "Q110419156"
+      }
+    },
+    "enterprisego_q130467239": {
+      "slug": "enterprisego_q130467239",
+      "title": "Enterprise GO",
+      "title_en": "Enterprise GO",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "enterprisego-145c5e",
+        "wikidata": "Q130467239"
+      }
+    },
+    "agrola_q397351": {
+      "slug": "agrola_q397351",
+      "title": "Agrola",
+      "title_en": "Agrola",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agrola-27a80f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "agrola-27a80f",
+        "wikidata": "Q397351"
+      }
+    },
+    "avia_q300147": {
+      "slug": "avia_q300147",
+      "title": "Avia",
+      "title_en": "Avia",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/avia-6504b2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "avia-6504b2",
+        "wikidata": "Q300147"
+      }
+    },
+    "bebeco_q62274373": {
+      "slug": "bebeco_q62274373",
+      "title": "BEBECO",
+      "title_en": "BEBECO",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bebeco-27a80f",
+        "wikidata": "Q62274373"
+      }
+    },
+    "cooptankstelle": {
+      "slug": "cooptankstelle",
+      "title": "Coop Tankstelle",
+      "title_en": "Coop Tankstelle",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cooptankstelle-27a80f",
+        "wikidata": ""
+      }
+    },
+    "eni_q565594": {
+      "slug": "eni_q565594",
+      "title": "Eni",
+      "title_en": "Eni",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eni-0330be.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eni-0330be",
+        "wikidata": "Q565594"
+      }
+    },
+    "migrol_q1747771": {
+      "slug": "migrol_q1747771",
+      "title": "Migrol",
+      "title_en": "Migrol",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/migrol-27a80f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "migrol-27a80f",
+        "wikidata": "Q1747771"
+      }
+    },
+    "oil_q2007561": {
+      "slug": "oil_q2007561",
+      "title": "OIL!",
+      "title_en": "OIL!",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oil-4b4296.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oil-4b4296",
+        "wikidata": "Q2007561"
+      }
+    },
+    "ruedirssel_q111725154": {
+      "slug": "ruedirssel_q111725154",
+      "title": "Ruedi Rüssel",
+      "title_en": "Ruedi Rüssel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ruedirussel-27a80f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ruedirussel-27a80f",
+        "wikidata": "Q111725154"
+      }
+    },
+    "socar_q1622293": {
+      "slug": "socar_q1622293",
+      "title": "SOCAR",
+      "title_en": "SOCAR",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/socar-619b60.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "socar-619b60",
+        "wikidata": "Q1622293"
+      }
+    },
+    "tamoil_q706793": {
+      "slug": "tamoil_q706793",
+      "title": "Tamoil",
+      "title_en": "Tamoil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tamoil-c25a01.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tamoil-c25a01",
+        "wikidata": "Q706793"
+      }
+    },
+    "foodsharingdefairteiler_q15809935": {
+      "slug": "foodsharingdefairteiler_q15809935",
+      "title": "foodsharing.de",
+      "title_en": "foodsharing.de",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foodsharingde-bca860.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foodsharingde-bca860",
+        "wikidata": "Q15809935"
+      }
+    },
+    "madamefrigo_q122664134": {
+      "slug": "madamefrigo_q122664134",
+      "title": "Madame Frigo",
+      "title_en": "Madame Frigo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madamefrigo-7b9f77.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "madamefrigo-7b9f77",
+        "wikidata": "Q122664134"
+      }
+    },
+    "carvelo2go_q110278232": {
+      "slug": "carvelo2go_q110278232",
+      "title": "carvelo2go",
+      "title_en": "carvelo2go",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "carvelo2go-61df48",
+        "wikidata": "Q110278232"
+      }
+    },
+    "velospot_q56314221": {
+      "slug": "velospot_q56314221",
+      "title": "Velospot",
+      "title_en": "Velospot",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/velospot-61df48.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "velospot-61df48",
+        "wikidata": "Q56314221"
+      }
+    },
+    "lphantbleu_q3144358": {
+      "slug": "lphantbleu_q3144358",
+      "title": "Éléphant Bleu",
+      "title_en": "Éléphant Bleu",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/elephantbleu-6a6dda.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "elephantbleu-6a6dda",
+        "wikidata": "Q3144358"
+      }
+    },
+    "eniwash_q565594": {
+      "slug": "eniwash_q565594",
+      "title": "Eni Wash",
+      "title_en": "Eni Wash",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eniwash-a152e3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eniwash-a152e3",
+        "wikidata": "Q565594"
+      }
+    },
+    "migrolcarwash_q1747771": {
+      "slug": "migrolcarwash_q1747771",
+      "title": "Migrol Car Wash",
+      "title_en": "Migrol Car Wash",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/migrolcarwash-4c245c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "migrolcarwash-4c245c",
+        "wikidata": "Q1747771"
+      }
+    },
+    "medbase_q50038690": {
+      "slug": "medbase_q50038690",
+      "title": "medbase",
+      "title_en": "medbase",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/medbase-798e42.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "medbase-798e42",
+        "wikidata": "Q50038690"
       }
     }
   }

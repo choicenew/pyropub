@@ -1,10 +1,12 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ly",
+  "country_name": "LY",
   "total_categories": 3,
   "manifest_files": [
     "supermarket.json",
     "drink.json",
     "food.json"
-  ]
+  ],
+  "version": 1
 }

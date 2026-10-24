@@ -1,27 +1,412 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 7,
+  "country": "us",
+  "category": "express",
+  "total_brands": 108,
   "brand_aliases": {
+    "kimleyhorn_q53129145": {
+      "slug": "kimleyhorn_q53129145",
+      "title": "Kimley-Horn and Associates",
+      "title_en": "Kimley-Horn and Associates",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kimleyhornandassociates-2c4a94.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kimleyhornandassociates-2c4a94",
+        "wikidata": "Q53129145"
+      }
+    },
+    "wsp_q1333162": {
+      "slug": "wsp_q1333162",
+      "title": "WSP",
+      "title_en": "WSP",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wsp-2c4a94.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wsp-2c4a94",
+        "wikidata": "Q1333162"
+      }
+    },
+    "teamlogicit_q119996721": {
+      "slug": "teamlogicit_q119996721",
+      "title": "TeamLogic IT",
+      "title_en": "TeamLogic IT",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teamlogicit-560843.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "teamlogicit-560843",
+        "wikidata": "Q119996721"
+      }
+    },
+    "custardinsuranceadjusters_q121435838": {
+      "slug": "custardinsuranceadjusters_q121435838",
+      "title": "Custard Insurance Adjusters",
+      "title_en": "Custard Insurance Adjusters",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "custardinsuranceadjusters-b5ad78",
+        "wikidata": "Q121435838"
+      }
+    },
+    "amerisbank_q124102372": {
+      "slug": "amerisbank_q124102372",
+      "title": "Ameris Bank",
+      "title_en": "Ameris Bank",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amerisbank-477daa.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amerisbank-477daa",
+        "wikidata": "Q124102372"
+      }
+    },
+    "crosscountrymortgage_q122432130": {
+      "slug": "crosscountrymortgage_q122432130",
+      "title": "CrossCountry Mortgage",
+      "title_en": "CrossCountry Mortgage",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/crosscountrymortgage-f8ef9d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "crosscountrymortgage-f8ef9d",
+        "wikidata": "Q122432130"
+      }
+    },
+    "guaranteedrate_q5613923": {
+      "slug": "guaranteedrate_q5613923",
+      "title": "Guaranteed Rate",
+      "title_en": "Guaranteed Rate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "guaranteedrate-f8ef9d",
+        "wikidata": "Q5613923"
+      }
+    },
+    "guildmortgagecompany_q122074693": {
+      "slug": "guildmortgagecompany_q122074693",
+      "title": "Guild Mortgage Company",
+      "title_en": "Guild Mortgage Company",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/guildmortgagecompany-f8ef9d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "guildmortgagecompany-f8ef9d",
+        "wikidata": "Q122074693"
+      }
+    },
+    "loandepot_q65117079": {
+      "slug": "loandepot_q65117079",
+      "title": "loanDepot",
+      "title_en": "loanDepot",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/loandepot-f8ef9d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "loandepot-f8ef9d",
+        "wikidata": "Q65117079"
+      }
+    },
+    "novushomemortgage_q120885488": {
+      "slug": "novushomemortgage_q120885488",
+      "title": "Novus Home Mortgage",
+      "title_en": "Novus Home Mortgage",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/novushomemortgage-f8ef9d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "novushomemortgage-f8ef9d",
+        "wikidata": "Q120885488"
+      }
+    },
+    "1stfranklinfinancial_q5453029": {
+      "slug": "1stfranklinfinancial_q5453029",
+      "title": "1st Franklin Financial",
+      "title_en": "1st Franklin Financial",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "1stfranklinfinancial-f55434",
+        "wikidata": "Q5453029"
+      }
+    },
+    "ameriprisefinancial_q2843129": {
+      "slug": "ameriprisefinancial_q2843129",
+      "title": "Ameriprise Financial",
+      "title_en": "Ameriprise Financial",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ameriprisefinancial-f55434.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ameriprisefinancial-f55434",
+        "wikidata": "Q2843129"
+      }
+    },
+    "charlesschwab_q1066028": {
+      "slug": "charlesschwab_q1066028",
+      "title": "Charles Schwab",
+      "title_en": "Charles Schwab",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/charlesschwab-f55434.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "charlesschwab-f55434",
+        "wikidata": "Q1066028"
+      }
+    },
+    "edwardjones_q5343830": {
+      "slug": "edwardjones_q5343830",
+      "title": "Edward Jones",
+      "title_en": "Edward Jones",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edwardjones-ea0e83.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "edwardjones-ea0e83",
+        "wikidata": "Q5343830"
+      }
+    },
+    "fidelityinvestments_q1411292": {
+      "slug": "fidelityinvestments_q1411292",
+      "title": "Fidelity Investments",
+      "title_en": "Fidelity Investments",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fidelityinvestments-f55434.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fidelityinvestments-f55434",
+        "wikidata": "Q1411292"
+      }
+    },
+    "merrilllynchwealthmanagement_q334122": {
+      "slug": "merrilllynchwealthmanagement_q334122",
+      "title": "Merrill Lynch Wealth Management",
+      "title_en": "Merrill Lynch Wealth Management",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/merrilllynchwealthmanagement-f55434.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "merrilllynchwealthmanagement-f55434",
+        "wikidata": "Q334122"
+      }
+    },
+    "raymondjames_q7298901": {
+      "slug": "raymondjames_q7298901",
+      "title": "Raymond James",
+      "title_en": "Raymond James",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/raymondjames-ea0e83.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "raymondjames-ea0e83",
+        "wikidata": "Q7298901"
+      }
+    },
+    "sageviewadvisorygroup_q115527494": {
+      "slug": "sageviewadvisorygroup_q115527494",
+      "title": "SageView Advisory Group",
+      "title_en": "SageView Advisory Group",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sageviewadvisorygroup-f55434.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sageviewadvisorygroup-f55434",
+        "wikidata": "Q115527494"
+      }
+    },
+    "tdameritrade_q7669886": {
+      "slug": "tdameritrade_q7669886",
+      "title": "TD Ameritrade",
+      "title_en": "TD Ameritrade",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tdameritrade-f55434.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tdameritrade-f55434",
+        "wikidata": "Q7669886"
+      }
+    },
+    "thrivent_q7798301": {
+      "slug": "thrivent_q7798301",
+      "title": "Thrivent",
+      "title_en": "Thrivent",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thrivent-f55434.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thrivent-f55434",
+        "wikidata": "Q7798301"
+      }
+    },
+    "ubsfinancialservices_q193199": {
+      "slug": "ubsfinancialservices_q193199",
+      "title": "UBS Financial Services",
+      "title_en": "UBS Financial Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ubsfinancialservices-f55434.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ubsfinancialservices-f55434",
+        "wikidata": "Q193199"
+      }
+    },
+    "wellsfargoadvisors_q7981643": {
+      "slug": "wellsfargoadvisors_q7981643",
+      "title": "Wells Fargo Advisors",
+      "title_en": "Wells Fargo Advisors",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wellsfargoadvisors-f55434.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wellsfargoadvisors-f55434",
+        "wikidata": "Q7981643"
+      }
+    },
+    "wellsfargoprivatebank_q108933753": {
+      "slug": "wellsfargoprivatebank_q108933753",
+      "title": "Wells Fargo Private Bank",
+      "title_en": "Wells Fargo Private Bank",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wellsfargoprivatebank-f55434",
+        "wikidata": "Q108933753"
+      }
+    },
+    "cintas_q1092571": {
+      "slug": "cintas_q1092571",
+      "title": "cintas",
+      "title_en": "cintas",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cintas-61ea6e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cintas-61ea6e",
+        "wikidata": "Q1092571"
+      }
+    },
+    "expressemploymentprofessionals_q117351404": {
+      "slug": "expressemploymentprofessionals_q117351404",
+      "title": "Express Employment Professionals",
+      "title_en": "Express Employment Professionals",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/expressemploymentprofessionals-867cf6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "expressemploymentprofessionals-867cf6",
+        "wikidata": "Q117351404"
+      }
+    },
+    "peopleready_q122432694": {
+      "slug": "peopleready_q122432694",
+      "title": "PeopleReady",
+      "title_en": "PeopleReady",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peopleready-81c4e9.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "peopleready-81c4e9",
+        "wikidata": "Q122432694"
+      }
+    },
+    "randstad_q267840": {
+      "slug": "randstad_q267840",
+      "title": "Randstad",
+      "title_en": "Randstad",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/randstad-413737.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "randstad-413737",
+        "wikidata": "Q267840"
+      }
+    },
+    "spherion_q120730666": {
+      "slug": "spherion_q120730666",
+      "title": "Spherion Staffing & Recruiting",
+      "title_en": "Spherion Staffing & Recruiting",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "spherionstaffingandrecruiting-81c4e9",
+        "wikidata": "Q120730666"
+      }
+    },
     "averittexpress_q4828320": {
       "slug": "averittexpress_q4828320",
       "title": "Averitt Express",
-      "short_name": "Averitt Ex",
-      "badge_text": "A",
+      "title_en": "Averitt Express",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Averitt Express"
-      ],
-      "keywords": [
-        "Averitt Express"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "averittexpress-6e9d18",
         "wikidata": "Q4828320"
@@ -30,44 +415,1048 @@
     "gebrderweiss_q1497233": {
       "slug": "gebrderweiss_q1497233",
       "title": "Gebrüder Weiss",
-      "short_name": "Gebrüder W",
-      "badge_text": "G",
+      "title_en": "Gebrüder Weiss",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "Gebrüder Weiss"
-      ],
-      "keywords": [
-        "Gebrüder Weiss"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gebruderweiss-3fef46.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gebruderweiss-3fef46",
         "wikidata": "Q1497233"
       }
     },
+    "berkshirehathawayhomeservices_q5887960": {
+      "slug": "berkshirehathawayhomeservices_q5887960",
+      "title": "Berkshire Hathaway HomeServices",
+      "title_en": "Berkshire Hathaway HomeServices",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/berkshirehathawayhomeservices-aec949.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "berkshirehathawayhomeservices-aec949",
+        "wikidata": "Q5887960"
+      }
+    },
+    "edinarealty_q5338112": {
+      "slug": "edinarealty_q5338112",
+      "title": "Edina Realty",
+      "title_en": "Edina Realty",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edinarealty-aec949.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "edinarealty-aec949",
+        "wikidata": "Q5338112"
+      }
+    },
+    "exprealty_q117344280": {
+      "slug": "exprealty_q117344280",
+      "title": "eXp Realty",
+      "title_en": "eXp Realty",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/exprealty-0f7192.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "exprealty-0f7192",
+        "wikidata": "Q117344280"
+      }
+    },
+    "harcourts_q5655056": {
+      "slug": "harcourts_q5655056",
+      "title": "Harcourts",
+      "title_en": "Harcourts",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/harcourts-e2b091.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "harcourts-e2b091",
+        "wikidata": "Q5655056"
+      }
+    },
+    "howardhanna_q119573413": {
+      "slug": "howardhanna_q119573413",
+      "title": "Howard Hanna",
+      "title_en": "Howard Hanna",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/howardhanna-aec949.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "howardhanna-aec949",
+        "wikidata": "Q119573413"
+      }
+    },
+    "johnlscott_q6243687": {
+      "slug": "johnlscott_q6243687",
+      "title": "John L. Scott",
+      "title_en": "John L. Scott",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnlscott-aec949.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "johnlscott-aec949",
+        "wikidata": "Q6243687"
+      }
+    },
+    "longfoster_q6672178": {
+      "slug": "longfoster_q6672178",
+      "title": "Long & Foster",
+      "title_en": "Long & Foster",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "longandfoster-aec949",
+        "wikidata": "Q6672178"
+      }
+    },
+    "realtyexecutives_q122435858": {
+      "slug": "realtyexecutives_q122435858",
+      "title": "Realty Executives",
+      "title_en": "Realty Executives",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/realtyexecutives-aec949.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "realtyexecutives-aec949",
+        "wikidata": "Q122435858"
+      }
+    },
+    "weichertrealtors_q28206837": {
+      "slug": "weichertrealtors_q28206837",
+      "title": "Weichert",
+      "title_en": "Weichert",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/weichert-aec949.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "weichert-aec949",
+        "wikidata": "Q28206837"
+      }
+    },
+    "cmgfinancial_q120884918": {
+      "slug": "cmgfinancial_q120884918",
+      "title": "CMG Financial",
+      "title_en": "CMG Financial",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cmgfinancial-07b653.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cmgfinancial-07b653",
+        "wikidata": "Q120884918"
+      }
+    },
+    "muthootfinance_q6943861": {
+      "slug": "muthootfinance_q6943861",
+      "title": "Muthoot Finance",
+      "title_en": "Muthoot Finance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/muthootfinance-47d4e7.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "muthootfinance-47d4e7",
+        "wikidata": "Q6943861"
+      }
+    },
+    "wintrustfinancial_q23680018": {
+      "slug": "wintrustfinancial_q23680018",
+      "title": "Wintrust Financial",
+      "title_en": "Wintrust Financial",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wintrustfinancial-07b653.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wintrustfinancial-07b653",
+        "wikidata": "Q23680018"
+      }
+    },
+    "twomenandatruck_q7859087": {
+      "slug": "twomenandatruck_q7859087",
+      "title": "Two Men and a Truck",
+      "title_en": "Two Men and a Truck",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/twomenandatruck-1df089.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "twomenandatruck-1df089",
+        "wikidata": "Q7859087"
+      }
+    },
+    "amaxautoinsurance_q75767609": {
+      "slug": "amaxautoinsurance_q75767609",
+      "title": "A-MAX Auto Insurance",
+      "title_en": "A-MAX Auto Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/amaxautoinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "amaxautoinsurance-6b1e37",
+        "wikidata": "Q75767609"
+      }
+    },
+    "aaainsurance_q463436": {
+      "slug": "aaainsurance_q463436",
+      "title": "AAA Insurance",
+      "title_en": "AAA Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aaainsurance-6b1e37.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aaainsurance-6b1e37",
+        "wikidata": "Q463436"
+      }
+    },
+    "aflac_q26311": {
+      "slug": "aflac_q26311",
+      "title": "Aflac",
+      "title_en": "Aflac",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aflac-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aflac-6b1e37",
+        "wikidata": "Q26311"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "allstate_q2645636": {
+      "slug": "allstate_q2645636",
+      "title": "Allstate",
+      "title_en": "Allstate",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allstate-a15ce9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allstate-a15ce9",
+        "wikidata": "Q2645636"
+      }
+    },
+    "americanfamilyinsurance_q4743730": {
+      "slug": "americanfamilyinsurance_q4743730",
+      "title": "American Family Insurance",
+      "title_en": "American Family Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/americanfamilyinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "americanfamilyinsurance-6b1e37",
+        "wikidata": "Q4743730"
+      }
+    },
+    "assuredpartners_q6983958": {
+      "slug": "assuredpartners_q6983958",
+      "title": "AssuredPartners",
+      "title_en": "AssuredPartners",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "assuredpartners-a47c9c",
+        "wikidata": "Q6983958"
+      }
+    },
+    "axa_q160054": {
+      "slug": "axa_q160054",
+      "title": "AXA",
+      "title_en": "AXA",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axa-1820e0.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axa-1820e0",
+        "wikidata": "Q160054"
+      }
+    },
+    "bankerslife_q4856264": {
+      "slug": "bankerslife_q4856264",
+      "title": "Bankers Life",
+      "title_en": "Bankers Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankerslife-6b1e37.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankerslife-6b1e37",
+        "wikidata": "Q4856264"
+      }
+    },
+    "comparioninsuranceagency_q122259255": {
+      "slug": "comparioninsuranceagency_q122259255",
+      "title": "Comparion Insurance Agency",
+      "title_en": "Comparion Insurance Agency",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/comparioninsuranceagency-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "comparioninsuranceagency-6b1e37",
+        "wikidata": "Q122259255"
+      }
+    },
+    "countryfinancial_q5177282": {
+      "slug": "countryfinancial_q5177282",
+      "title": "Country Financial",
+      "title_en": "Country Financial",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/countryfinancial-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "countryfinancial-6b1e37",
+        "wikidata": "Q5177282"
+      }
+    },
+    "directautoinsurance_q115251812": {
+      "slug": "directautoinsurance_q115251812",
+      "title": "Direct Auto Insurance",
+      "title_en": "Direct Auto Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/directautoinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "directautoinsurance-6b1e37",
+        "wikidata": "Q115251812"
+      }
+    },
+    "erieinsurance_q5388314": {
+      "slug": "erieinsurance_q5388314",
+      "title": "Erie Insurance",
+      "title_en": "Erie Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/erieinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "erieinsurance-6b1e37",
+        "wikidata": "Q5388314"
+      }
+    },
+    "estrellainsurance_q120716784": {
+      "slug": "estrellainsurance_q120716784",
+      "title": "Estrella Insurance",
+      "title_en": "Estrella Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/estrellainsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "estrellainsurance-6b1e37",
+        "wikidata": "Q120716784"
+      }
+    },
+    "farmbureaufinancialservices_q121587731": {
+      "slug": "farmbureaufinancialservices_q121587731",
+      "title": "Farm Bureau Financial Services",
+      "title_en": "Farm Bureau Financial Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmbureaufinancialservices-6b1e37.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmbureaufinancialservices-6b1e37",
+        "wikidata": "Q121587731"
+      }
+    },
+    "farmbureauinsurancemichigan_q54006666": {
+      "slug": "farmbureauinsurancemichigan_q54006666",
+      "title": "Farm Bureau Insurance",
+      "title_en": "Farm Bureau Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmbureauinsurance-473946.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmbureauinsurance-473946",
+        "wikidata": "Q54006666"
+      }
+    },
+    "farmbureauinsuranceoftennessee_q120732726": {
+      "slug": "farmbureauinsuranceoftennessee_q120732726",
+      "title": "Farm Bureau Insurance",
+      "title_en": "Farm Bureau Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmbureauinsurance-f07d60",
+        "wikidata": "Q120732726"
+      }
+    },
+    "farmersinsurance_q1396863": {
+      "slug": "farmersinsurance_q1396863",
+      "title": "Farmers Insurance",
+      "title_en": "Farmers Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/farmersinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "farmersinsurance-6b1e37",
+        "wikidata": "Q1396863"
+      }
+    },
+    "fredloyainsurance_q5495810": {
+      "slug": "fredloyainsurance_q5495810",
+      "title": "Fred Loya Insurance",
+      "title_en": "Fred Loya Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fredloyainsurance-6b1e37.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fredloyainsurance-6b1e37",
+        "wikidata": "Q5495810"
+      }
+    },
+    "freewayinsurance_q108044578": {
+      "slug": "freewayinsurance_q108044578",
+      "title": "Freeway Insurance",
+      "title_en": "Freeway Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/freewayinsurance-6b1e37.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "freewayinsurance-6b1e37",
+        "wikidata": "Q108044578"
+      }
+    },
+    "geico_q1498689": {
+      "slug": "geico_q1498689",
+      "title": "GEICO",
+      "title_en": "GEICO",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/geico-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "geico-6b1e37",
+        "wikidata": "Q1498689"
+      }
+    },
+    "gooseheadinsurance_q122308269": {
+      "slug": "gooseheadinsurance_q122308269",
+      "title": "Goosehead Insurance",
+      "title_en": "Goosehead Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gooseheadinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gooseheadinsurance-6b1e37",
+        "wikidata": "Q122308269"
+      }
+    },
+    "grangeinsurance_q17183481": {
+      "slug": "grangeinsurance_q17183481",
+      "title": "Grange Insurance",
+      "title_en": "Grange Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grangeinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "grangeinsurance-6b1e37",
+        "wikidata": "Q17183481"
+      }
+    },
+    "insurancenavybrokers_q106564453": {
+      "slug": "insurancenavybrokers_q106564453",
+      "title": "Insurance Navy Brokers",
+      "title_en": "Insurance Navy Brokers",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/insurancenavybrokers-082118.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "insurancenavybrokers-082118",
+        "wikidata": "Q106564453"
+      }
+    },
+    "libertymutualinsurance_q1516450": {
+      "slug": "libertymutualinsurance_q1516450",
+      "title": "Liberty Mutual Insurance",
+      "title_en": "Liberty Mutual Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libertymutualinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "libertymutualinsurance-6b1e37",
+        "wikidata": "Q1516450"
+      }
+    },
+    "missourifarmbureauinsurance_q122719497": {
+      "slug": "missourifarmbureauinsurance_q122719497",
+      "title": "Missouri Farm Bureau Insurance",
+      "title_en": "Missouri Farm Bureau Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/missourifarmbureauinsurance-2b3a0f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "missourifarmbureauinsurance-2b3a0f",
+        "wikidata": "Q122719497"
+      }
+    },
+    "mutualofomaha_q17108173": {
+      "slug": "mutualofomaha_q17108173",
+      "title": "Mutual of Omaha",
+      "title_en": "Mutual of Omaha",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mutualofomaha-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mutualofomaha-6b1e37",
+        "wikidata": "Q17108173"
+      }
+    },
+    "nationwide_q6979886": {
+      "slug": "nationwide_q6979886",
+      "title": "Nationwide",
+      "title_en": "Nationwide",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nationwide-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nationwide-6b1e37",
+        "wikidata": "Q6979886"
+      }
+    },
+    "newyorklife_q1039380": {
+      "slug": "newyorklife_q1039380",
+      "title": "New York Life",
+      "title_en": "New York Life",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/newyorklife-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "newyorklife-6b1e37",
+        "wikidata": "Q1039380"
+      }
+    },
+    "northwesternmutual_q1630166": {
+      "slug": "northwesternmutual_q1630166",
+      "title": "Northwestern Mutual",
+      "title_en": "Northwestern Mutual",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/northwesternmutual-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "northwesternmutual-6b1e37",
+        "wikidata": "Q1630166"
+      }
+    },
+    "primerica_q7243481": {
+      "slug": "primerica_q7243481",
+      "title": "Primerica",
+      "title_en": "Primerica",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/primerica-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "primerica-6b1e37",
+        "wikidata": "Q7243481"
+      }
+    },
+    "progressive_q7248721": {
+      "slug": "progressive_q7248721",
+      "title": "Progressive",
+      "title_en": "Progressive",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/progressive-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "progressive-6b1e37",
+        "wikidata": "Q7248721"
+      }
+    },
+    "prudentialfinancial_q2114414": {
+      "slug": "prudentialfinancial_q2114414",
+      "title": "Prudential Financial",
+      "title_en": "Prudential Financial",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/prudentialfinancial-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "prudentialfinancial-6b1e37",
+        "wikidata": "Q2114414"
+      }
+    },
+    "shelterinsurance_q7493959": {
+      "slug": "shelterinsurance_q7493959",
+      "title": "Shelter Insurance",
+      "title_en": "Shelter Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shelterinsurance-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shelterinsurance-6b1e37",
+        "wikidata": "Q7493959"
+      }
+    },
+    "statefarm_q2007336": {
+      "slug": "statefarm_q2007336",
+      "title": "State Farm",
+      "title_en": "State Farm",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/statefarm-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "statefarm-6b1e37",
+        "wikidata": "Q2007336"
+      }
+    },
+    "texasfarmbureauinsurance_q112965654": {
+      "slug": "texasfarmbureauinsurance_q112965654",
+      "title": "Texas Farm Bureau Insurance",
+      "title_en": "Texas Farm Bureau Insurance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/texasfarmbureauinsurance-92243f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "texasfarmbureauinsurance-92243f",
+        "wikidata": "Q112965654"
+      }
+    },
+    "thehartford_q444110": {
+      "slug": "thehartford_q444110",
+      "title": "The Hartford",
+      "title_en": "The Hartford",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thehartford-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thehartford-6b1e37",
+        "wikidata": "Q444110"
+      }
+    },
+    "thestandard_q7598252": {
+      "slug": "thestandard_q7598252",
+      "title": "The Standard",
+      "title_en": "The Standard",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thestandard-6b1e37",
+        "wikidata": "Q7598252"
+      }
+    },
+    "unitedhealthcare_q2103926": {
+      "slug": "unitedhealthcare_q2103926",
+      "title": "United Healthcare",
+      "title_en": "United Healthcare",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unitedhealthcare-6b1e37.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unitedhealthcare-6b1e37",
+        "wikidata": "Q2103926"
+      }
+    },
+    "wfgnationaltitlecompany_q113495857": {
+      "slug": "wfgnationaltitlecompany_q113495857",
+      "title": "WFG National Title Insurance Company",
+      "title_en": "WFG National Title Insurance Company",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wfgnationaltitleinsurancecompany-6b1e37.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wfgnationaltitleinsurancecompany-6b1e37",
+        "wikidata": "Q113495857"
+      }
+    },
+    "zurich_q230426": {
+      "slug": "zurich_q230426",
+      "title": "Zurich",
+      "title_en": "Zurich",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zurich-a7d045",
+        "wikidata": "Q230426"
+      }
+    },
+    "lifetimework_q19995004": {
+      "slug": "lifetimework_q19995004",
+      "title": "Life Time Work",
+      "title_en": "Life Time Work",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lifetimework-7094fa.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lifetimework-7094fa",
+        "wikidata": "Q19995004"
+      }
+    },
+    "secondhome_q111387268": {
+      "slug": "secondhome_q111387268",
+      "title": "Second Home",
+      "title_en": "Second Home",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/secondhome-b3460a.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "secondhome-b3460a",
+        "wikidata": "Q111387268"
+      }
+    },
+    "morganlewisbockius_q4302384": {
+      "slug": "morganlewisbockius_q4302384",
+      "title": "Morgan, Lewis & Bockius",
+      "title_en": "Morgan, Lewis & Bockius",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganlewisandbockius-ef3027.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "morganlewisandbockius-ef3027",
+        "wikidata": "Q4302384"
+      }
+    },
+    "tsrconsultingservices_q122258109": {
+      "slug": "tsrconsultingservices_q122258109",
+      "title": "TSR Consulting Services",
+      "title_en": "TSR Consulting Services",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tsrconsultingservices-ef3027",
+        "wikidata": "Q122258109"
+      }
+    },
+    "aladdinbailbonds_q64166257": {
+      "slug": "aladdinbailbonds_q64166257",
+      "title": "Aladdin Bail Bonds",
+      "title_en": "Aladdin Bail Bonds",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aladdinbailbonds-e2590f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aladdinbailbonds-e2590f",
+        "wikidata": "Q64166257"
+      }
+    },
+    "blockadvisors_q64166231": {
+      "slug": "blockadvisors_q64166231",
+      "title": "Block Advisors",
+      "title_en": "Block Advisors",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/blockadvisors-53d576.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "blockadvisors-53d576",
+        "wikidata": "Q64166231"
+      }
+    },
+    "hrblock_q5627799": {
+      "slug": "hrblock_q5627799",
+      "title": "H&R Block",
+      "title_en": "H&R Block",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handrblock-c966c8.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "handrblock-c966c8",
+        "wikidata": "Q5627799"
+      }
+    },
+    "jacksonhewitt_q6117132": {
+      "slug": "jacksonhewitt_q6117132",
+      "title": "Jackson Hewitt",
+      "title_en": "Jackson Hewitt",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jacksonhewitt-53d576.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jacksonhewitt-53d576",
+        "wikidata": "Q6117132"
+      }
+    },
+    "libertytax_q6541978": {
+      "slug": "libertytax_q6541978",
+      "title": "Liberty Tax",
+      "title_en": "Liberty Tax",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/libertytax-15740c.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "libertytax-15740c",
+        "wikidata": "Q6541978"
+      }
+    },
+    "flintco_q5459585": {
+      "slug": "flintco_q5459585",
+      "title": "Flintco",
+      "title_en": "Flintco",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flintco-777304",
+        "wikidata": "Q5459585"
+      }
+    },
+    "kiewitcorporation_q1741142": {
+      "slug": "kiewitcorporation_q1741142",
+      "title": "Kiewit",
+      "title_en": "Kiewit",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kiewit-777304",
+        "wikidata": "Q1741142"
+      }
+    },
+    "fischerhomes_q120884936": {
+      "slug": "fischerhomes_q120884936",
+      "title": "Fischer Homes",
+      "title_en": "Fischer Homes",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fischerhomes-ae3287.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fischerhomes-ae3287",
+        "wikidata": "Q120884936"
+      }
+    },
+    "ironmountain_q1673079": {
+      "slug": "ironmountain_q1673079",
+      "title": "Iron Mountain",
+      "title_en": "Iron Mountain",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ironmountain-ae3287.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ironmountain-ae3287",
+        "wikidata": "Q1673079"
+      }
+    },
+    "shrednations_q122438340": {
+      "slug": "shrednations_q122438340",
+      "title": "Shred Nations",
+      "title_en": "Shred Nations",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shrednations-fbd77b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shrednations-fbd77b",
+        "wikidata": "Q122438340"
+      }
+    },
+    "taylorcorporation_q17108752": {
+      "slug": "taylorcorporation_q17108752",
+      "title": "Taylor Corporation",
+      "title_en": "Taylor Corporation",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/taylorcorporation-8847c5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "taylorcorporation-8847c5",
+        "wikidata": "Q17108752"
+      }
+    },
+    "allieduniversal_q4732537": {
+      "slug": "allieduniversal_q4732537",
+      "title": "Allied Universal",
+      "title_en": "Allied Universal",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allieduniversal-8dcc43.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allieduniversal-8dcc43",
+        "wikidata": "Q4732537"
+      }
+    },
+    "fisherphillips_q16993410": {
+      "slug": "fisherphillips_q16993410",
+      "title": "Fisher Phillips",
+      "title_en": "Fisher Phillips",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fisherphillips-b93f35.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fisherphillips-b93f35",
+        "wikidata": "Q16993410"
+      }
+    },
+    "foley_q5464319": {
+      "slug": "foley_q5464319",
+      "title": "Foley",
+      "title_en": "Foley",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/foley-2b4d11.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "foley-2b4d11",
+        "wikidata": "Q5464319"
+      }
+    },
+    "morganmorgan_q111597979": {
+      "slug": "morganmorgan_q111597979",
+      "title": "Morgan & Morgan",
+      "title_en": "Morgan & Morgan",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/morganandmorgan-1353b6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "morganandmorgan-1353b6",
+        "wikidata": "Q111597979"
+      }
+    },
     "inxpress_q130400315": {
       "slug": "inxpress_q130400315",
       "title": "InXpress",
-      "short_name": "InXpress",
-      "badge_text": "I",
+      "title_en": "InXpress",
       "category": "express",
       "sub_category": "courier",
       "color": "#3B82F6",
-      "aliases": [
-        "InXpress"
-      ],
-      "keywords": [
-        "InXpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inxpress-182e7a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "inxpress-182e7a",
         "wikidata": "Q130400315"
@@ -76,23 +1465,12 @@
     "costcocom_q715583": {
       "slug": "costcocom_q715583",
       "title": "Costco.com",
-      "short_name": "Costco.com",
-      "badge_text": "C",
+      "title_en": "Costco.com",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Costco.com",
-        "Costco"
-      ],
-      "keywords": [
-        "Costco.com",
-        "Costco"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "costcocom-b3da58",
         "wikidata": "Q715583"
@@ -101,21 +1479,12 @@
     "pakmail_q122731315": {
       "slug": "pakmail_q122731315",
       "title": "Pak Mail",
-      "short_name": "Pak Mail",
-      "badge_text": "P",
+      "title_en": "Pak Mail",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Pak Mail"
-      ],
-      "keywords": [
-        "Pak Mail"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pakmail-b9aa24.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pakmail-b9aa24",
         "wikidata": "Q122731315"
@@ -124,21 +1493,12 @@
     "postnet_q7233611": {
       "slug": "postnet_q7233611",
       "title": "PostNet",
-      "short_name": "PostNet",
-      "badge_text": "P",
+      "title_en": "PostNet",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "PostNet"
-      ],
-      "keywords": [
-        "PostNet"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/postnet-7f7712.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "postnet-7f7712",
         "wikidata": "Q7233611"
@@ -147,21 +1507,12 @@
     "theupsstore_q7771029": {
       "slug": "theupsstore_q7771029",
       "title": "The UPS Store",
-      "short_name": "The UPS St",
-      "badge_text": "T",
+      "title_en": "The UPS Store",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "The UPS Store"
-      ],
-      "keywords": [
-        "The UPS Store"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theupsstore-d4e3fc.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "theupsstore-d4e3fc",
         "wikidata": "Q7771029"

@@ -1,27 +1,272 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 13,
+  "country": "no",
+  "category": "food",
+  "total_brands": 49,
   "brand_aliases": {
+    "nokasnorway_q7047836": {
+      "slug": "nokasnorway_q7047836",
+      "title": "Nokas",
+      "title_en": "Nokas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nokas-924d4d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nokas-924d4d",
+        "wikidata": "Q7047836"
+      }
+    },
+    "bnpparibas_q499707": {
+      "slug": "bnpparibas_q499707",
+      "title": "BNP Paribas",
+      "title_en": "BNP Paribas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bnpparibas-a4be3f",
+        "wikidata": "Q499707"
+      }
+    },
+    "danskebank_q1636974": {
+      "slug": "danskebank_q1636974",
+      "title": "Danske Bank",
+      "title_en": "Danske Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/danskebank-c75d31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "danskebank-c75d31",
+        "wikidata": "Q1636974"
+      }
+    },
+    "dnb_q80788": {
+      "slug": "dnb_q80788",
+      "title": "DNB",
+      "title_en": "DNB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dnb-825b55.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dnb-825b55",
+        "wikidata": "Q80788"
+      }
+    },
+    "handelsbanken_q1421630": {
+      "slug": "handelsbanken_q1421630",
+      "title": "Handelsbanken",
+      "title_en": "Handelsbanken",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/handelsbanken-1834eb.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "handelsbanken-1834eb",
+        "wikidata": "Q1421630"
+      }
+    },
+    "nordea_q1123823": {
+      "slug": "nordea_q1123823",
+      "title": "Nordea",
+      "title_en": "Nordea",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nordea-5e8542.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nordea-5e8542",
+        "wikidata": "Q1123823"
+      }
+    },
+    "aimopark_q126728228": {
+      "slug": "aimopark_q126728228",
+      "title": "Aimo Park",
+      "title_en": "Aimo Park",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aimopark-1fafa9",
+        "wikidata": "Q126728228"
+      }
+    },
+    "selecta_q472153": {
+      "slug": "selecta_q472153",
+      "title": "Selecta",
+      "title_en": "Selecta",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/selecta-ed4d31.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "selecta-ed4d31",
+        "wikidata": "Q472153"
+      }
+    },
+    "espira_q21592512": {
+      "slug": "espira_q21592512",
+      "title": "Espira",
+      "title_en": "Espira",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "espira-87cca0",
+        "wikidata": "Q21592512"
+      }
+    },
+    "lesekioskforeningenles_q11008642": {
+      "slug": "lesekioskforeningenles_q11008642",
+      "title": "Lesekiosk",
+      "title_en": "Lesekiosk",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lesekiosk-1271c4.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lesekiosk-1271c4",
+        "wikidata": "Q11008642"
+      }
+    },
+    "brewdog_q911367": {
+      "slug": "brewdog_q911367",
+      "title": "BrewDog",
+      "title_en": "BrewDog",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brewdog-f93a3c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "brewdog-f93a3c",
+        "wikidata": "Q911367"
+      }
+    },
+    "charge365": {
+      "slug": "charge365",
+      "title": "Charge365",
+      "title_en": "Charge365",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "charge365-054d0f",
+        "wikidata": ""
+      }
+    },
+    "eviny_q4891601": {
+      "slug": "eviny_q4891601",
+      "title": "Eviny",
+      "title_en": "Eviny",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/eviny-054d0f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eviny-054d0f",
+        "wikidata": "Q4891601"
+      }
+    },
+    "ishavsveien": {
+      "slug": "ishavsveien",
+      "title": "Ishavsveien",
+      "title_en": "Ishavsveien",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ishavsveien-054d0f",
+        "wikidata": ""
+      }
+    },
+    "kople_q126708777": {
+      "slug": "kople_q126708777",
+      "title": "Kople",
+      "title_en": "Kople",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kople-054d0f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kople-054d0f",
+        "wikidata": "Q126708777"
+      }
+    },
+    "mer_q100821564": {
+      "slug": "mer_q100821564",
+      "title": "Mer",
+      "title_en": "Mer",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mer-36d5f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mer-36d5f6",
+        "wikidata": "Q100821564"
+      }
+    },
+    "recharge_q126540050": {
+      "slug": "recharge_q126540050",
+      "title": "Recharge",
+      "title_en": "Recharge",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/recharge-12f14e.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "recharge-12f14e",
+        "wikidata": "Q126540050"
+      }
+    },
+    "anicura_q21100245": {
+      "slug": "anicura_q21100245",
+      "title": "AniCura",
+      "title_en": "AniCura",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anicura-acf389.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "anicura-acf389",
+        "wikidata": "Q21100245"
+      }
+    },
     "bigbite_q11960977": {
       "slug": "bigbite_q11960977",
       "title": "Big Bite",
-      "short_name": "Big Bite",
-      "badge_text": "B",
+      "title_en": "Big Bite",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Big Bite"
-      ],
-      "keywords": [
-        "Big Bite"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bigbite-86f814.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bigbite-86f814",
         "wikidata": "Q11960977"
@@ -30,21 +275,12 @@
     "dixychicken_q5285003": {
       "slug": "dixychicken_q5285003",
       "title": "Dixy Chicken",
-      "short_name": "Dixy Chick",
-      "badge_text": "D",
+      "title_en": "Dixy Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Dixy Chicken"
-      ],
-      "keywords": [
-        "Dixy Chicken"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dixychicken-d5291b",
         "wikidata": "Q5285003"
@@ -53,23 +289,12 @@
     "ikeabistro_q54078": {
       "slug": "ikeabistro_q54078",
       "title": "IKEA Bistro",
-      "short_name": "IKEA Bistr",
-      "badge_text": "I",
+      "title_en": "IKEA Bistro",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "keywords": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeabistro-e746e6",
         "wikidata": "Q54078"
@@ -78,23 +303,12 @@
     "ikearestaurant_q54078": {
       "slug": "ikearestaurant_q54078",
       "title": "IKEA Restaurant",
-      "short_name": "IKEA Resta",
-      "badge_text": "I",
+      "title_en": "IKEA Restaurant",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikearestaurant-15fdc5",
         "wikidata": "Q54078"
@@ -103,21 +317,12 @@
     "max_q1912172": {
       "slug": "max_q1912172",
       "title": "Max",
-      "short_name": "Max",
-      "badge_text": "M",
+      "title_en": "Max",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Max"
-      ],
-      "keywords": [
-        "Max"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/max-829f63.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "max-829f63",
         "wikidata": "Q1912172"
@@ -125,22 +330,13 @@
     },
     "mcdonaldsnorge_q38076": {
       "slug": "mcdonaldsnorge_q38076",
-      "title": "McDonald's (Norge)",
-      "short_name": "McDonald's",
-      "badge_text": "M",
+      "title": "McDonald's",
+      "title_en": "McDonald's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "McDonald's"
-      ],
-      "keywords": [
-        "McDonald's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mcdonalds-86f814.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mcdonalds-86f814",
         "wikidata": "Q38076"
@@ -149,21 +345,12 @@
     "pizzabakeren_q11995777": {
       "slug": "pizzabakeren_q11995777",
       "title": "Pizzabakeren",
-      "short_name": "Pizzabaker",
-      "badge_text": "P",
+      "title_en": "Pizzabakeren",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Pizzabakeren"
-      ],
-      "keywords": [
-        "Pizzabakeren"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pizzabakeren-4d7dcd.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pizzabakeren-4d7dcd",
         "wikidata": "Q11995777"
@@ -172,44 +359,82 @@
     "uppercrust_q7898585": {
       "slug": "uppercrust_q7898585",
       "title": "Upper Crust",
-      "short_name": "Upper Crus",
-      "badge_text": "U",
+      "title_en": "Upper Crust",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Upper Crust"
-      ],
-      "keywords": [
-        "Upper Crust"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "uppercrust-fb0467",
         "wikidata": "Q7898585"
       }
     },
+    "apotek1_q4581428": {
+      "slug": "apotek1_q4581428",
+      "title": "Apotek 1",
+      "title_en": "Apotek 1",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apotek1-bfbf58.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "apotek1-bfbf58",
+        "wikidata": "Q4581428"
+      }
+    },
+    "boots_q6123139": {
+      "slug": "boots_q6123139",
+      "title": "Boots",
+      "title_en": "Boots",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/boots-3d082e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "boots-3d082e",
+        "wikidata": "Q6123139"
+      }
+    },
+    "dittapotek_q5283710": {
+      "slug": "dittapotek_q5283710",
+      "title": "Ditt Apotek",
+      "title_en": "Ditt Apotek",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dittapotek-bfbf58.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dittapotek-bfbf58",
+        "wikidata": "Q5283710"
+      }
+    },
+    "vitusapotek_q17047215": {
+      "slug": "vitusapotek_q17047215",
+      "title": "Vitusapotek",
+      "title_en": "Vitusapotek",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vitusapotek-bfbf58.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vitusapotek-bfbf58",
+        "wikidata": "Q17047215"
+      }
+    },
     "diggpizza_q141447618": {
       "slug": "diggpizza_q141447618",
       "title": "DIGG Pizza",
-      "short_name": "DIGG Pizza",
-      "badge_text": "D",
+      "title_en": "DIGG Pizza",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "DIGG Pizza"
-      ],
-      "keywords": [
-        "DIGG Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/DIGG Pizza.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "DIGG Pizza",
         "wikidata": "Q141447618"
@@ -218,21 +443,12 @@
     "egon_q1298438": {
       "slug": "egon_q1298438",
       "title": "Egon",
-      "short_name": "Egon",
-      "badge_text": "E",
+      "title_en": "Egon",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Egon"
-      ],
-      "keywords": [
-        "Egon"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/egon-0a0782.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "egon-0a0782",
         "wikidata": "Q1298438"
@@ -241,21 +457,12 @@
     "olearys_q10605590": {
       "slug": "olearys_q10605590",
       "title": "O'Learys",
-      "short_name": "O'Learys",
-      "badge_text": "O",
+      "title_en": "O'Learys",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "O'Learys"
-      ],
-      "keywords": [
-        "O'Learys"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/olearys-d05cca.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "olearys-d05cca",
         "wikidata": "Q10605590"
@@ -264,21 +471,12 @@
     "peppespizza_q911973": {
       "slug": "peppespizza_q911973",
       "title": "Peppes Pizza",
-      "short_name": "Peppes Piz",
-      "badge_text": "P",
+      "title_en": "Peppes Pizza",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Peppes Pizza"
-      ],
-      "keywords": [
-        "Peppes Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/peppespizza-0a0782.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "peppespizza-0a0782",
         "wikidata": "Q911973"
@@ -287,24 +485,211 @@
     "pinchonation_q42298558": {
       "slug": "pinchonation_q42298558",
       "title": "Pincho Nation",
-      "short_name": "Pincho Nat",
-      "badge_text": "P",
+      "title_en": "Pincho Nation",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Pincho Nation"
-      ],
-      "keywords": [
-        "Pincho Nation"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pinchonation-c5098f",
         "wikidata": "Q42298558"
+      }
+    },
+    "europcarscandinavia_q1376256": {
+      "slug": "europcarscandinavia_q1376256",
+      "title": "Europcar",
+      "title_en": "Europcar",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/europcar-95cde7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "europcar-95cde7",
+        "wikidata": "Q1376256"
+      }
+    },
+    "driv": {
+      "slug": "driv",
+      "title": "Driv",
+      "title_en": "Driv",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "driv-38a742",
+        "wikidata": ""
+      }
+    },
+    "everfuel_q114905024": {
+      "slug": "everfuel_q114905024",
+      "title": "Everfuel",
+      "title_en": "Everfuel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/everfuel-06f3d9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "everfuel-06f3d9",
+        "wikidata": "Q114905024"
+      }
+    },
+    "preem_q598835": {
+      "slug": "preem_q598835",
+      "title": "Preem",
+      "title_en": "Preem",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/preem-906b06.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "preem-906b06",
+        "wikidata": "Q598835"
+      }
+    },
+    "st1_q7592214": {
+      "slug": "st1_q7592214",
+      "title": "St1",
+      "title_en": "St1",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/st1-c8bbc2.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "st1-c8bbc2",
+        "wikidata": "Q7592214"
+      }
+    },
+    "unox_q3362746": {
+      "slug": "unox_q3362746",
+      "title": "Uno-X",
+      "title_en": "Uno-X",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unox-56bd0e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unox-56bd0e",
+        "wikidata": "Q3362746"
+      }
+    },
+    "yx_q4580519": {
+      "slug": "yx_q4580519",
+      "title": "YX",
+      "title_en": "YX",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yx-9449e0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yx-9449e0",
+        "wikidata": "Q4580519"
+      }
+    },
+    "yx7eleven": {
+      "slug": "yx7eleven",
+      "title": "YX 7-Eleven",
+      "title_en": "YX 7-Eleven",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yx7eleven-38a742",
+        "wikidata": ""
+      }
+    },
+    "yxtruck": {
+      "slug": "yxtruck",
+      "title": "YX Truck",
+      "title_en": "YX Truck",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yxtruck-9449e0",
+        "wikidata": ""
+      }
+    },
+    "bergenbysykkel_q109288835": {
+      "slug": "bergenbysykkel_q109288835",
+      "title": "Bergen Bysykkel",
+      "title_en": "Bergen Bysykkel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bergenbysykkel-e79826.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bergenbysykkel-e79826",
+        "wikidata": "Q109288835"
+      }
+    },
+    "bysykkeloslo_q7107010": {
+      "slug": "bysykkeloslo_q7107010",
+      "title": "Oslo Bysykkel",
+      "title_en": "Oslo Bysykkel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oslobysykkel-e79826.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oslobysykkel-e79826",
+        "wikidata": "Q7107010"
+      }
+    },
+    "drammenbysykler": {
+      "slug": "drammenbysykler",
+      "title": "Drammen Bysykler",
+      "title_en": "Drammen Bysykler",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "drammenbysykler-e79826",
+        "wikidata": ""
+      }
+    },
+    "trondheimbysykkel": {
+      "slug": "trondheimbysykkel",
+      "title": "Trondheim Bysykkel",
+      "title_en": "Trondheim Bysykkel",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "trondheimbysykkel-e79826",
+        "wikidata": ""
+      }
+    },
+    "urbaninfrastructurepartneras": {
+      "slug": "urbaninfrastructurepartneras",
+      "title": "Urban Infrastructure Partner AS",
+      "title_en": "Urban Infrastructure Partner AS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "urbaninfrastructurepartneras-e79826",
+        "wikidata": ""
       }
     }
   }

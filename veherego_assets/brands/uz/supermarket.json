@@ -1,27 +1,160 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "uz",
+  "category": "supermarket",
+  "total_brands": 18,
   "brand_aliases": {
+    "drkong_q116547631": {
+      "slug": "drkong_q116547631",
+      "title": "Dr. Kong",
+      "title_en": "Dr. Kong",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/drkong-2bd793.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "drkong-2bd793",
+        "wikidata": "Q116547631"
+      }
+    },
+    "ozon_q2365235": {
+      "slug": "ozon_q2365235",
+      "title": "Ozon",
+      "title_en": "Ozon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ozon-e8ee33.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ozon-e8ee33",
+        "wikidata": "Q2365235"
+      }
+    },
+    "wildberries_q24933714": {
+      "slug": "wildberries_q24933714",
+      "title": "Wildberries",
+      "title_en": "Wildberries",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wildberries-c79976.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wildberries-c79976",
+        "wikidata": "Q24933714"
+      }
+    },
+    "starline": {
+      "slug": "starline",
+      "title": "StarLine",
+      "title_en": "StarLine",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "starline-672e72",
+        "wikidata": ""
+      }
+    },
+    "legionco": {
+      "slug": "legionco",
+      "title": "Legion Co",
+      "title_en": "Legion Co",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "legionco-8561ad",
+        "wikidata": ""
+      }
+    },
+    "eaf1c4079ad0": {
+      "slug": "eaf1c4079ad0",
+      "title": "Виноград",
+      "title_en": "Виноград",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "eaf1c4-079ad0",
+        "wikidata": ""
+      }
+    },
+    "mcosmetic": {
+      "slug": "mcosmetic",
+      "title": "M Cosmetic",
+      "title_en": "M Cosmetic",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mcosmetic-1bb423",
+        "wikidata": ""
+      }
+    },
+    "kulikov": {
+      "slug": "kulikov",
+      "title": "Kulikov",
+      "title_en": "Kulikov",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kulikov-3f21b0",
+        "wikidata": ""
+      }
+    },
+    "safia": {
+      "slug": "safia",
+      "title": "Safia",
+      "title_en": "Safia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "safia-eb269c",
+        "wikidata": ""
+      }
+    },
+    "charuel_q139816894": {
+      "slug": "charuel_q139816894",
+      "title": "Charuel",
+      "title_en": "Charuel",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "charuel-99f5b9",
+        "wikidata": "Q139816894"
+      }
+    },
     "korzinka_q110120894": {
       "slug": "korzinka_q110120894",
       "title": "Korzinka",
-      "short_name": "Korzinka",
-      "badge_text": "K",
+      "title_en": "Korzinka",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Korzinka"
-      ],
-      "keywords": [
-        "Korzinka"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/korzinka-c068bf.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "korzinka-c068bf",
         "wikidata": "Q110120894"
@@ -30,21 +163,12 @@
     "d1ee01c9c3c5": {
       "slug": "d1ee01c9c3c5",
       "title": "Азия",
-      "short_name": "Азия",
-      "badge_text": "А",
+      "title_en": "Азия",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Азия"
-      ],
-      "keywords": [
-        "Азия"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "d1ee01-c9c3c5",
         "wikidata": ""
@@ -53,48 +177,54 @@
     "_q940518": {
       "slug": "_q940518",
       "title": "Магнит",
-      "short_name": "Магнит",
-      "badge_text": "М",
+      "title_en": "Magnit",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Магнит",
-        "Magnit"
-      ],
-      "keywords": [
-        "Магнит",
-        "Magnit"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "magnit-4e470f",
         "wikidata": "Q940518"
       }
     },
+    "360f737d3a48": {
+      "slug": "360f737d3a48",
+      "title": "Авиакасса",
+      "title_en": "Авиакасса",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "360f73-7d3a48",
+        "wikidata": ""
+      }
+    },
+    "_q65371": {
+      "slug": "_q65371",
+      "title": "Связной",
+      "title_en": "Svyaznoy",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/svyaznoy-fee8f4.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "svyaznoy-fee8f4",
+        "wikidata": "Q65371"
+      }
+    },
     "_q329347": {
       "slug": "_q329347",
       "title": "Лукойл",
-      "short_name": "Лукойл",
-      "badge_text": "Л",
+      "title_en": "Lukoil",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Lukoil",
-        "Лукойл"
-      ],
-      "keywords": [
-        "Lukoil",
-        "Лукойл"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lukoil-5a849f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lukoil-5a849f",
         "wikidata": "Q329347"
@@ -103,24 +233,29 @@
     "4cacba162f8e": {
       "slug": "4cacba162f8e",
       "title": "Флагман",
-      "short_name": "Флагман",
-      "badge_text": "Ф",
+      "title_en": "Флагман",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Флагман"
-      ],
-      "keywords": [
-        "Флагман"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "4cacba-162f8e",
         "wikidata": ""
+      }
+    },
+    "_q126596908": {
+      "slug": "_q126596908",
+      "title": "Шатура",
+      "title_en": "Shatura",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shatura-56eb69",
+        "wikidata": "Q126596908"
       }
     }
   }

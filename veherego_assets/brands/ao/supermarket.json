@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "ao",
+  "category": "supermarket",
+  "total_brands": 12,
   "brand_aliases": {
+    "worten_q10394039": {
+      "slug": "worten_q10394039",
+      "title": "Worten",
+      "title_en": "Worten",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "worten-f7e8ae",
+        "wikidata": "Q10394039"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "hope_q116222673": {
+      "slug": "hope_q116222673",
+      "title": "Hope",
+      "title_en": "Hope",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hope-0b7e74.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hope-0b7e74",
+        "wikidata": "Q116222673"
+      }
+    },
+    "pep_q7166182": {
+      "slug": "pep_q7166182",
+      "title": "PEP",
+      "title_en": "PEP",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pep-f0ab19.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pep-f0ab19",
+        "wikidata": "Q7166182"
+      }
+    },
     "shopriteafrica_q1857639": {
       "slug": "shopriteafrica_q1857639",
-      "title": "Shoprite (Africa)",
-      "short_name": "Shoprite (",
-      "badge_text": "S",
+      "title": "Shoprite",
+      "title_en": "Shoprite",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Shoprite"
-      ],
-      "keywords": [
-        "Shoprite"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shoprite-502f12.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shoprite-502f12",
         "wikidata": "Q1857639"
@@ -30,47 +79,99 @@
     "usave_q115696368": {
       "slug": "usave_q115696368",
       "title": "Usave",
-      "short_name": "Usave",
-      "badge_text": "U",
+      "title_en": "Usave",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Usave"
-      ],
-      "keywords": [
-        "Usave"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usave-1d4ed7.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "usave-1d4ed7",
         "wikidata": "Q115696368"
       }
     },
+    "oficina": {
+      "slug": "oficina",
+      "title": "Oficina",
+      "title_en": "Oficina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oficina-3dbfde",
+        "wikidata": ""
+      }
+    },
     "shopritemini_q1857639": {
       "slug": "shopritemini_q1857639",
       "title": "Shoprite Mini",
-      "short_name": "Shoprite M",
-      "badge_text": "S",
+      "title_en": "Shoprite Mini",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Shoprite Mini"
-      ],
-      "keywords": [
-        "Shoprite Mini"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shopritemini-65248a.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shopritemini-65248a",
         "wikidata": "Q1857639"
+      }
+    },
+    "chateaudax_q100249791": {
+      "slug": "chateaudax_q100249791",
+      "title": "Chateau d'Ax",
+      "title_en": "Chateau d'Ax",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chateaudax-dd1a0d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chateaudax-dd1a0d",
+        "wikidata": "Q100249791"
+      }
+    },
+    "okfurniture_q116474866": {
+      "slug": "okfurniture_q116474866",
+      "title": "OK Furniture",
+      "title_en": "OK Furniture",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/okfurniture-e98456.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "okfurniture-e98456",
+        "wikidata": "Q116474866"
+      }
+    },
+    "equivalenza_q104649798": {
+      "slug": "equivalenza_q104649798",
+      "title": "Equivalenza",
+      "title_en": "Equivalenza",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equivalenza-59ad61.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "equivalenza-59ad61",
+        "wikidata": "Q104649798"
+      }
+    },
+    "oboticrio_q7073219": {
+      "slug": "oboticrio_q7073219",
+      "title": "O Boticário",
+      "title_en": "O Boticário",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oboticario-40d28a",
+        "wikidata": "Q7073219"
       }
     }
   }

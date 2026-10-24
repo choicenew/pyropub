@@ -1,27 +1,132 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 2,
+  "country": "lk",
+  "category": "food",
+  "total_brands": 14,
   "brand_aliases": {
+    "bankofceylon_q2882652": {
+      "slug": "bankofceylon_q2882652",
+      "title": "Bank of Ceylon",
+      "title_en": "Bank of Ceylon",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankofceylon-358381.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankofceylon-358381",
+        "wikidata": "Q2882652"
+      }
+    },
+    "commercialbankofceylon_q5152468": {
+      "slug": "commercialbankofceylon_q5152468",
+      "title": "Commercial Bank of Ceylon",
+      "title_en": "Commercial Bank of Ceylon",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/commercialbankofceylon-358381.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "commercialbankofceylon-358381",
+        "wikidata": "Q5152468"
+      }
+    },
+    "hattonnationalbank_q3532080": {
+      "slug": "hattonnationalbank_q3532080",
+      "title": "Hatton National Bank",
+      "title_en": "Hatton National Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hattonnationalbank-358381.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hattonnationalbank-358381",
+        "wikidata": "Q3532080"
+      }
+    },
+    "mcbpakistan_q15982510": {
+      "slug": "mcbpakistan_q15982510",
+      "title": "MCB",
+      "title_en": "MCB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mcb-57526d",
+        "wikidata": "Q15982510"
+      }
+    },
+    "nsb_q12500189": {
+      "slug": "nsb_q12500189",
+      "title": "NSB",
+      "title_en": "NSB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nsb-358381.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nsb-358381",
+        "wikidata": "Q12500189"
+      }
+    },
+    "sampathbank_q7410095": {
+      "slug": "sampathbank_q7410095",
+      "title": "Sampath Bank",
+      "title_en": "Sampath Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/sampathbank-358381.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sampathbank-358381",
+        "wikidata": "Q7410095"
+      }
+    },
+    "seylanbank_q3532083": {
+      "slug": "seylanbank_q3532083",
+      "title": "Seylan Bank",
+      "title_en": "Seylan Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/seylanbank-358381.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "seylanbank-358381",
+        "wikidata": "Q3532083"
+      }
+    },
+    "maplebear_q10324823": {
+      "slug": "maplebear_q10324823",
+      "title": "Maple Bear",
+      "title_en": "Maple Bear",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maplebear-101006.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maplebear-101006",
+        "wikidata": "Q10324823"
+      }
+    },
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
@@ -30,24 +135,71 @@
     "thepizzabakery_q124374570": {
       "slug": "thepizzabakery_q124374570",
       "title": "The Pizza Bakery",
-      "short_name": "The Pizza ",
-      "badge_text": "T",
+      "title_en": "The Pizza Bakery",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "The Pizza Bakery"
-      ],
-      "keywords": [
-        "The Pizza Bakery"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thepizzabakery-4478cd.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "thepizzabakery-4478cd",
         "wikidata": "Q124374570"
+      }
+    },
+    "caltex_q277470": {
+      "slug": "caltex_q277470",
+      "title": "Caltex",
+      "title_en": "Caltex",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/caltex-a02c05.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "caltex-a02c05",
+        "wikidata": "Q277470"
+      }
+    },
+    "ceypetco_q5065795": {
+      "slug": "ceypetco_q5065795",
+      "title": "Ceypetco",
+      "title_en": "Ceypetco",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ceypetco-0d1ef7",
+        "wikidata": "Q5065795"
+      }
+    },
+    "lankaioc_q30595420": {
+      "slug": "lankaioc_q30595420",
+      "title": "Lanka IOC",
+      "title_en": "Lanka IOC",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lankaioc-0d1ef7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lankaioc-0d1ef7",
+        "wikidata": "Q30595420"
+      }
+    },
+    "laugfs_q112300731": {
+      "slug": "laugfs_q112300731",
+      "title": "Laugfs",
+      "title_en": "Laugfs",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "laugfs-0d1ef7",
+        "wikidata": "Q112300731"
       }
     }
   }

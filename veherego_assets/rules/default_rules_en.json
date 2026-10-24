@@ -5,64 +5,261 @@
   "description": "VehereGo English default locale pack (global fallback)",
   "brands": {
     "drink": [
-      { "name": "Starbucks", "aliases": ["STARBUCKS"], "category": "beverage", "keywords": ["Siren Order", "Mobile Order"] },
-      { "name": "Luckin Coffee", "aliases": ["LUCKIN"], "category": "beverage" },
-      { "name": "CoCo", "aliases": ["COCO"], "category": "beverage" },
-      { "name": "Heytea", "aliases": ["HEYTEA"], "category": "beverage" },
-      { "name": "Manner", "category": "beverage" },
-      { "name": "Tims", "aliases": ["TIMS"], "category": "beverage" }
+      {
+        "name": "Starbucks",
+        "aliases": [
+          "STARBUCKS"
+        ],
+        "category": "beverage",
+        "keywords": [
+          "Siren Order",
+          "Mobile Order"
+        ]
+      },
+      {
+        "name": "Luckin Coffee",
+        "aliases": [
+          "LUCKIN"
+        ],
+        "category": "beverage"
+      },
+      {
+        "name": "CoCo",
+        "aliases": [
+          "COCO"
+        ],
+        "category": "beverage"
+      },
+      {
+        "name": "Heytea",
+        "aliases": [
+          "HEYTEA"
+        ],
+        "category": "beverage"
+      },
+      {
+        "name": "Manner",
+        "category": "beverage"
+      },
+      {
+        "name": "Tims",
+        "aliases": [
+          "TIMS"
+        ],
+        "category": "beverage"
+      }
     ],
     "food": [
-      { "name": "McDonalds", "aliases": ["MCDONALDS","MCD"], "category": "food" },
-      { "name": "KFC", "aliases": ["kfc"], "category": "food" },
-      { "name": "Burger King", "aliases": ["BK"], "category": "food" },
-      { "name": "Pizza Hut", "aliases": ["PIZZAHUT"], "category": "food" },
-      { "name": "Subway", "category": "food" },
-      { "name": "Dominos", "aliases": ["DOMINOS"], "category": "food" }
+      {
+        "name": "McDonalds",
+        "aliases": [
+          "MCDONALDS",
+          "MCD"
+        ],
+        "category": "food"
+      },
+      {
+        "name": "KFC",
+        "aliases": [
+          "kfc"
+        ],
+        "category": "food"
+      },
+      {
+        "name": "Burger King",
+        "aliases": [
+          "BK"
+        ],
+        "category": "food"
+      },
+      {
+        "name": "Pizza Hut",
+        "aliases": [
+          "PIZZAHUT"
+        ],
+        "category": "food"
+      },
+      {
+        "name": "Subway",
+        "category": "food"
+      },
+      {
+        "name": "Dominos",
+        "aliases": [
+          "DOMINOS"
+        ],
+        "category": "food"
+      }
     ],
     "express": [
-      { "name": "DHL", "category": "parcel" },
-      { "name": "UPS", "category": "parcel" },
-      { "name": "FedEx", "category": "parcel" },
-      { "name": "USPS", "category": "parcel" },
-      { "name": "Royal Mail", "aliases": ["ROYALMAIL"], "category": "parcel" },
-      { "name": "Amazon Logistics", "aliases": ["AMAZON"], "category": "parcel" },
-      { "name": "Hermes", "aliases": ["Evri"], "category": "parcel" },
-      { "name": "InPost", "category": "parcel" },
-      { "name": "Yamato", "category": "parcel" },
-      { "name": "Sagawa", "category": "parcel" }
+      {
+        "name": "DHL",
+        "category": "parcel"
+      },
+      {
+        "name": "UPS",
+        "category": "parcel"
+      },
+      {
+        "name": "FedEx",
+        "category": "parcel"
+      },
+      {
+        "name": "USPS",
+        "category": "parcel"
+      },
+      {
+        "name": "Royal Mail",
+        "aliases": [
+          "ROYALMAIL"
+        ],
+        "category": "parcel"
+      },
+      {
+        "name": "Amazon Logistics",
+        "aliases": [
+          "AMAZON"
+        ],
+        "category": "parcel"
+      },
+      {
+        "name": "Hermes",
+        "aliases": [
+          "Evri"
+        ],
+        "category": "parcel"
+      },
+      {
+        "name": "InPost",
+        "category": "parcel"
+      },
+      {
+        "name": "Yamato",
+        "category": "parcel"
+      },
+      {
+        "name": "Sagawa",
+        "category": "parcel"
+      }
     ]
   },
   "code_extraction": {
     "express": {
-      "trigger_keywords": ["pickup code","collection code","parcel code","locker code","access code","PIN","your code is","code:","reference"],
-      "hint_keywords": ["pickup","collect","parcel","locker","delivered"]
+      "trigger_keywords": [
+        "pickup code",
+        "collection code",
+        "parcel code",
+        "locker code",
+        "access code",
+        "PIN",
+        "your code is",
+        "code:",
+        "reference"
+      ],
+      "hint_keywords": [
+        "pickup",
+        "collect",
+        "parcel",
+        "locker",
+        "delivered"
+      ]
     },
     "food": {
-      "trigger_keywords": ["order ready","your order","order number","collection number","queue number","ticket number","voucher","coupon"],
-      "hint_keywords": ["order","ready","pick up","collect","table"]
+      "trigger_keywords": [
+        "order ready",
+        "your order",
+        "order number",
+        "collection number",
+        "queue number",
+        "ticket number",
+        "voucher",
+        "coupon"
+      ],
+      "hint_keywords": [
+        "order",
+        "ready",
+        "pick up",
+        "collect",
+        "table"
+      ]
     }
   },
   "category_detection": {
     "default_category": "food",
     "drink_triggers": {
       "brand_based": true,
-      "text_keywords": ["coffee","tea","latte","drink","beverage","bubble tea","boba"]
+      "text_keywords": [
+        "coffee",
+        "tea",
+        "latte",
+        "drink",
+        "beverage",
+        "bubble tea",
+        "boba"
+      ]
     },
     "express_triggers": {
-      "text_keywords": ["parcel","package","delivery","shipment","locker","courier","pickup"],
+      "text_keywords": [
+        "parcel",
+        "package",
+        "delivery",
+        "shipment",
+        "locker",
+        "courier",
+        "pickup"
+      ],
       "brand_in_text": true
     }
   },
   "homepage_detection": {
     "threshold": 3,
-    "keywords": ["my account","home","membership","loyalty","my orders","order history","sign in"]
+    "keywords": [
+      "my account",
+      "home",
+      "membership",
+      "loyalty",
+      "my orders",
+      "order history",
+      "sign in"
+    ]
   },
   "pickup_location": {
-    "start_keywords": ["at","from","located at","address:","pick up at","collect from","delivered to"],
-    "target_keywords": ["locker","parcel shop","post office","collection point","access point","pickup point","hub","depot","store"],
-    "stop_keywords": ["collect","pickup","view","contact","click","tap"],
-    "trailing_labels": ["pickup address","collection address","delivery address","store address","locker address","location"],
+    "start_keywords": [
+      "at",
+      "from",
+      "located at",
+      "address:",
+      "pick up at",
+      "collect from",
+      "delivered to"
+    ],
+    "target_keywords": [
+      "locker",
+      "parcel shop",
+      "post office",
+      "collection point",
+      "access point",
+      "pickup point",
+      "hub",
+      "depot",
+      "store"
+    ],
+    "stop_keywords": [
+      "collect",
+      "pickup",
+      "view",
+      "contact",
+      "click",
+      "tap"
+    ],
+    "trailing_labels": [
+      "pickup address",
+      "collection address",
+      "delivery address",
+      "store address",
+      "locker address",
+      "location"
+    ],
     "sentence_patterns": [
       "((?:Amazon Locker|InPost Locker|DHL Packstation|UPS Access Point|FedEx OnSite|Hub Locker|Royal Mail Delivery Office)\\\\s*[-:\\\\s]*[A-Za-z0-9\\\\s]{2,25})",
       "(?:at|from|located at|pick up at|collect from)\\\\s+([A-Za-z0-9\\\\s,&-]{3,40}(?:Store|Shop|Locker|Post Office|Hub|Depot|Point))"
@@ -74,18 +271,41 @@
     "transit_patterns": [
       "([A-Za-z0-9\\\\s]{2,20}(?:Station|Airport|Terminal|Stop|Hub))"
     ],
-    "business_hour_keywords": ["opening hours","business hours","hours of operation","collection hours","open until","horario","horaires"]
+    "business_hour_keywords": [
+      "opening hours",
+      "business hours",
+      "hours of operation",
+      "collection hours",
+      "open until",
+      "horario",
+      "horaires"
+    ]
   },
   "text_cleaning": {
     "corrections": [],
-    "char_removals": ["|"]
+    "char_removals": [
+      "|"
+    ]
   },
   "validation": {
     "express_code": {
-      "reject_time_keywords": ["time","date","speed","KB/s","mb/s"],
+      "reject_time_keywords": [
+        "time",
+        "date",
+        "speed",
+        "KB/s",
+        "mb/s"
+      ],
       "phone_tail": {
-        "context_keywords": ["mobile","phone","tel","contact","number ending"]
+        "context_keywords": [
+          "mobile",
+          "phone",
+          "tel",
+          "contact",
+          "number ending"
+        ]
       }
     }
-  }
+  },
+  "version": 1
 }

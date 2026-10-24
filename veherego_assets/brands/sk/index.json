@@ -1,11 +1,14 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "sk",
-  "total_categories": 4,
+  "country_name": "Slovensko",
+  "total_categories": 5,
   "manifest_files": [
+    "other.json",
+    "supermarket.json",
     "food.json",
     "drink.json",
-    "supermarket.json",
     "express.json"
-  ]
+  ],
+  "version": 1
 }

@@ -1,10 +1,14 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "pa",
-  "total_categories": 3,
+  "country_name": "PA",
+  "total_categories": 5,
   "manifest_files": [
+    "other.json",
     "food.json",
     "supermarket.json",
-    "express.json"
-  ]
+    "express.json",
+    "travel.json"
+  ],
+  "version": 1
 }

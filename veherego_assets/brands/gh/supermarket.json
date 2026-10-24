@@ -1,27 +1,132 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 3,
+  "country": "gh",
+  "category": "supermarket",
+  "total_brands": 13,
   "brand_aliases": {
-    "melcom_q6812065": {
-      "slug": "melcom_q6812065",
-      "title": "Melcom",
-      "short_name": "Melcom",
-      "badge_text": "M",
+    "home_q116429887": {
+      "slug": "home_q116429887",
+      "title": "@home",
+      "title_en": "@home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/home-dd60e2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "home-dd60e2",
+        "wikidata": "Q116429887"
+      }
+    },
+    "homelivingspace_q117406343": {
+      "slug": "homelivingspace_q117406343",
+      "title": "@Home Livingspace",
+      "title_en": "@Home Livingspace",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "homelivingspace-dd60e2",
+        "wikidata": "Q117406343"
+      }
+    },
+    "mrpricehome_q129561270": {
+      "slug": "mrpricehome_q129561270",
+      "title": "Mr Price Home",
+      "title_en": "Mr Price Home",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrpricehome-764653.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricehome-764653",
+        "wikidata": "Q129561270"
+      }
+    },
+    "ixina_q3156424": {
+      "slug": "ixina_q3156424",
+      "title": "Ixina",
+      "title_en": "Ixina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ixina-ef6c85.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ixina-ef6c85",
+        "wikidata": "Q3156424"
+      }
+    },
+    "edgars_q97276073": {
+      "slug": "edgars_q97276073",
+      "title": "Edgars",
+      "title_en": "Edgars",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Melcom"
-      ],
-      "keywords": [
-        "Melcom"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/edgars-34fd38.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "edgars-34fd38",
+        "wikidata": "Q97276073"
+      }
+    },
+    "markham_q116378583": {
+      "slug": "markham_q116378583",
+      "title": "Markham",
+      "title_en": "Markham",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/markham-b23c0b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "markham-b23c0b",
+        "wikidata": "Q116378583"
+      }
+    },
+    "mrprice_q129561257": {
+      "slug": "mrprice_q129561257",
+      "title": "Mr Price",
+      "title_en": "Mr Price",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mrprice-445d46.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrprice-445d46",
+        "wikidata": "Q129561257"
+      }
+    },
+    "mrpricesport_q129561262": {
+      "slug": "mrpricesport_q129561262",
+      "title": "Mr Price Sport",
+      "title_en": "Mr Price Sport",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricesport-445d46",
+        "wikidata": "Q129561262"
+      }
+    },
+    "melcom_q6812065": {
+      "slug": "melcom_q6812065",
+      "title": "Melcom",
+      "title_en": "Melcom",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/melcom-bfc6b6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "melcom-bfc6b6",
         "wikidata": "Q6812065"
@@ -29,22 +134,13 @@
     },
     "palaceghana_q130376211": {
       "slug": "palaceghana_q130376211",
-      "title": "Palace (Ghana)",
-      "short_name": "Palace (Gh",
-      "badge_text": "P",
+      "title": "Palace",
+      "title_en": "Palace",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Palace"
-      ],
-      "keywords": [
-        "Palace"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/palace-bfc6b6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "palace-bfc6b6",
         "wikidata": "Q130376211"
@@ -52,25 +148,44 @@
     },
     "shopriteafrica_q1857639": {
       "slug": "shopriteafrica_q1857639",
-      "title": "Shoprite (Africa)",
-      "short_name": "Shoprite (",
-      "badge_text": "S",
+      "title": "Shoprite",
+      "title_en": "Shoprite",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Shoprite"
-      ],
-      "keywords": [
-        "Shoprite"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shoprite-502f12.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "shoprite-502f12",
         "wikidata": "Q1857639"
+      }
+    },
+    "mrpricecellular_q6929120": {
+      "slug": "mrpricecellular_q6929120",
+      "title": "Mr Price Cellular",
+      "title_en": "Mr Price Cellular",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mrpricecellular-16619e",
+        "wikidata": "Q6929120"
+      }
+    },
+    "vodafone_q122141": {
+      "slug": "vodafone_q122141",
+      "title": "Vodafone",
+      "title_en": "Vodafone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vodafone-187d7d.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vodafone-187d7d",
+        "wikidata": "Q122141"
       }
     }
   }

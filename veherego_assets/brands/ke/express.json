@@ -1,27 +1,76 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 1,
+  "country": "ke",
+  "category": "express",
+  "total_brands": 5,
   "brand_aliases": {
+    "pamgoldingproperties_q65051429": {
+      "slug": "pamgoldingproperties_q65051429",
+      "title": "Pam Golding Properties",
+      "title_en": "Pam Golding Properties",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pamgoldingproperties-80530e.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pamgoldingproperties-80530e",
+        "wikidata": "Q65051429"
+      }
+    },
+    "oldmutualfinance_q289704": {
+      "slug": "oldmutualfinance_q289704",
+      "title": "Old Mutual Finance",
+      "title_en": "Old Mutual Finance",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutualfinance-38693f.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutualfinance-38693f",
+        "wikidata": "Q289704"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "oldmutualinsure_q289704": {
+      "slug": "oldmutualinsure_q289704",
+      "title": "Old Mutual Insure",
+      "title_en": "Old Mutual Insure",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutualinsure-170662.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutualinsure-170662",
+        "wikidata": "Q289704"
+      }
+    },
     "postakenya_q7233983": {
       "slug": "postakenya_q7233983",
       "title": "Posta Kenya",
-      "short_name": "Posta Keny",
-      "badge_text": "P",
+      "title_en": "Posta Kenya",
       "category": "express",
       "sub_category": "station",
       "color": "#3B82F6",
-      "aliases": [
-        "Posta Kenya"
-      ],
-      "keywords": [
-        "Posta Kenya"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "postakenya-411fca",
         "wikidata": "Q7233983"

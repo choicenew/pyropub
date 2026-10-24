@@ -1,27 +1,216 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 4,
+  "country": "ua",
+  "category": "express",
+  "total_brands": 18,
   "brand_aliases": {
+    "_q122851760": {
+      "slug": "_q122851760",
+      "title": "Твій час",
+      "title_en": "Твій час",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/8833b6-c6f3a5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "8833b6-c6f3a5",
+        "wikidata": "Q122851760"
+      }
+    },
+    "allianz_q487292": {
+      "slug": "allianz_q487292",
+      "title": "Allianz",
+      "title_en": "Allianz",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allianz-4457e3.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allianz-4457e3",
+        "wikidata": "Q487292"
+      }
+    },
+    "arx_q97805189": {
+      "slug": "arx_q97805189",
+      "title": "АРКС",
+      "title_en": "ARX",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/arx-43aba6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "arx-43aba6",
+        "wikidata": "Q97805189"
+      }
+    },
+    "express_q118630381": {
+      "slug": "express_q118630381",
+      "title": "Експрес Страхування",
+      "title_en": "Експрес Страхування",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/602250-43aba6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "602250-43aba6",
+        "wikidata": "Q118630381"
+      }
+    },
+    "grawe_q877006": {
+      "slug": "grawe_q877006",
+      "title": "Grawe",
+      "title_en": "Grawe",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/grawe-49851b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "grawe-49851b",
+        "wikidata": "Q877006"
+      }
+    },
+    "ingo_q122942670": {
+      "slug": "ingo_q122942670",
+      "title": "ІНГО",
+      "title_en": "INGO",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ingo-43aba6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ingo-43aba6",
+        "wikidata": "Q122942670"
+      }
+    },
+    "pzu_q1807170": {
+      "slug": "pzu_q1807170",
+      "title": "PZU",
+      "title_en": "PZU",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pzu-33d2fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pzu-33d2fe",
+        "wikidata": "Q1807170"
+      }
+    },
+    "uniqa_q1022419": {
+      "slug": "uniqa_q1022419",
+      "title": "Uniqa",
+      "title_en": "Uniqa",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uniqa-39b262.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uniqa-39b262",
+        "wikidata": "Q1022419"
+      }
+    },
+    "universalna_q20095892": {
+      "slug": "universalna_q20095892",
+      "title": "Універсальна",
+      "title_en": "Universalna",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/universalna-43aba6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "universalna-43aba6",
+        "wikidata": "Q20095892"
+      }
+    },
+    "usg_q56367294": {
+      "slug": "usg_q56367294",
+      "title": "УСГ",
+      "title_en": "USG",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/usg-43aba6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "usg-43aba6",
+        "wikidata": "Q56367294"
+      }
+    },
+    "vuso_q122828369": {
+      "slug": "vuso_q122828369",
+      "title": "ВУСО",
+      "title_en": "VUSO",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vuso-43aba6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vuso-43aba6",
+        "wikidata": "Q122828369"
+      }
+    },
+    "_q56367281": {
+      "slug": "_q56367281",
+      "title": "Княжа",
+      "title_en": "Княжа",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/7df9f6-43aba6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "7df9f6-43aba6",
+        "wikidata": "Q56367281"
+      }
+    },
+    "_q16710186": {
+      "slug": "_q16710186",
+      "title": "Оранта",
+      "title_en": "Oranta",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oranta-43aba6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oranta-43aba6",
+        "wikidata": "Q16710186"
+      }
+    },
+    "_q122762419": {
+      "slug": "_q122762419",
+      "title": "ТАС",
+      "title_en": "TAS",
+      "category": "express",
+      "sub_category": "general",
+      "color": "#3B82F6",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tas-43aba6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tas-43aba6",
+        "wikidata": "Q122762419"
+      }
+    },
     "meest_q25432124": {
       "slug": "meest_q25432124",
       "title": "Meest",
-      "short_name": "Meest",
-      "badge_text": "M",
+      "title_en": "Meest",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Meest"
-      ],
-      "keywords": [
-        "Meest"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/meest-7c151e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "meest-7c151e",
         "wikidata": "Q25432124"
@@ -30,21 +219,12 @@
     "rozetka_q12072279": {
       "slug": "rozetka_q12072279",
       "title": "Rozetka",
-      "short_name": "Rozetka",
-      "badge_text": "R",
+      "title_en": "Rozetka",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Rozetka"
-      ],
-      "keywords": [
-        "Rozetka"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rozetka-7c151e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rozetka-7c151e",
         "wikidata": "Q12072279"
@@ -53,21 +233,12 @@
     "_q4532244": {
       "slug": "_q4532244",
       "title": "Епіцентр К",
-      "short_name": "Епіцентр К",
-      "badge_text": "Е",
+      "title_en": "Епіцентр К",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Епіцентр К"
-      ],
-      "keywords": [
-        "Епіцентр К"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/13cf8e-7c151e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "13cf8e-7c151e",
         "wikidata": "Q4532244"
@@ -76,21 +247,12 @@
     "_q12133863": {
       "slug": "_q12133863",
       "title": "Нова Пошта",
-      "short_name": "Нова Пошта",
-      "badge_text": "Н",
+      "title_en": "Нова Пошта",
       "category": "express",
       "sub_category": "locker",
       "color": "#3B82F6",
-      "aliases": [
-        "Нова Пошта"
-      ],
-      "keywords": [
-        "Нова Пошта"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/530f2c-7c151e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "530f2c-7c151e",
         "wikidata": "Q12133863"

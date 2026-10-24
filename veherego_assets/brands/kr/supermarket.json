@@ -1,29 +1,720 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 10,
+  "country": "kr",
+  "category": "supermarket",
+  "total_brands": 61,
   "brand_aliases": {
-    "emart_q490371": {
-      "slug": "emart_q490371",
-      "title": "E-Mart",
-      "short_name": "E-Mart",
-      "badge_text": "E",
+    "_q55735302": {
+      "slug": "_q55735302",
+      "title": "크린토피아",
+      "title_en": "Cleantopia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cleantopia-17a592",
+        "wikidata": "Q55735302"
+      }
+    },
+    "theconranshop_q63959046": {
+      "slug": "theconranshop_q63959046",
+      "title": "The Conran Shop",
+      "title_en": "The Conran Shop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theconranshop-672f56.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "theconranshop-672f56",
+        "wikidata": "Q63959046"
+      }
+    },
+    "_q48880993": {
+      "slug": "_q48880993",
+      "title": "周大福",
+      "title_en": "Chow Tai Fook",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chowtaifook-4629af.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chowtaifook-4629af",
+        "wikidata": "Q48880993"
+      }
+    },
+    "johnsonfitnesswellness_q120785852": {
+      "slug": "johnsonfitnesswellness_q120785852",
+      "title": "Johnson Fitness & Wellness",
+      "title_en": "Johnson Fitness & Wellness",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/johnsonfitnessandwellness-f410ff.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "johnsonfitnessandwellness-f410ff",
+        "wikidata": "Q120785852"
+      }
+    },
+    "rapha_q131446199": {
+      "slug": "rapha_q131446199",
+      "title": "Rapha",
+      "title_en": "Rapha",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rapha-e13309",
+        "wikidata": "Q131446199"
+      }
+    },
+    "costco_q715583": {
+      "slug": "costco_q715583",
+      "title": "Costco",
+      "title_en": "Costco",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "costco-69a5bf",
+        "wikidata": "Q715583"
+      }
+    },
+    "casetify_q64209733": {
+      "slug": "casetify_q64209733",
+      "title": "Casetify",
+      "title_en": "Casetify",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/casetify-c25a6d.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "casetify-c25a6d",
+        "wikidata": "Q64209733"
+      }
+    },
+    "mulberry_q3866987": {
+      "slug": "mulberry_q3866987",
+      "title": "Mulberry",
+      "title_en": "Mulberry",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mulberry-e1f087.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mulberry-e1f087",
+        "wikidata": "Q3866987"
+      }
+    },
+    "suavinex_q122258837": {
+      "slug": "suavinex_q122258837",
+      "title": "Suavinex",
+      "title_en": "Suavinex",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/suavinex-a2e0f6.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "suavinex-a2e0f6",
+        "wikidata": "Q122258837"
+      }
+    },
+    "dammannfrres_q3012927": {
+      "slug": "dammannfrres_q3012927",
+      "title": "Dammann Frères",
+      "title_en": "Dammann Frères",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dammannfreres-14c0a7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dammannfreres-14c0a7",
+        "wikidata": "Q3012927"
+      }
+    },
+    "tirebank_q21825258": {
+      "slug": "tirebank_q21825258",
+      "title": "타이어뱅크",
+      "title_en": "Tire Bank",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tirebank-f5977f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tirebank-f5977f",
+        "wikidata": "Q21825258"
+      }
+    },
+    "koenigsegg_q35594": {
+      "slug": "koenigsegg_q35594",
+      "title": "Koenigsegg",
+      "title_en": "Koenigsegg",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/koenigsegg-45c2de.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "koenigsegg-45c2de",
+        "wikidata": "Q35594"
+      }
+    },
+    "flyingtigercopenhagen_q2786319": {
+      "slug": "flyingtigercopenhagen_q2786319",
+      "title": "Flying Tiger Copenhagen",
+      "title_en": "Flying Tiger Copenhagen",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/flyingtigercopenhagen-55ef00.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "flyingtigercopenhagen-55ef00",
+        "wikidata": "Q2786319"
+      }
+    },
+    "_q12590862": {
+      "slug": "_q12590862",
+      "title": "다이소",
+      "title_en": "Daiso",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/daiso-67f747.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "daiso-67f747",
+        "wikidata": "Q12590862"
+      }
+    },
+    "banilaco_q16243459": {
+      "slug": "banilaco_q16243459",
+      "title": "바닐라코",
+      "title_en": "Banila Co.",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/banilaco-b395fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "banilaco-b395fe",
+        "wikidata": "Q16243459"
+      }
+    },
+    "chicor_q65331881": {
+      "slug": "chicor_q65331881",
+      "title": "시코르",
+      "title_en": "Chicor",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chicor-b395fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chicor-b395fe",
+        "wikidata": "Q65331881"
+      }
+    },
+    "etudehouse_q16174973": {
+      "slug": "etudehouse_q16174973",
+      "title": "에뛰드",
+      "title_en": "Etude House",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/etudehouse-b395fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "etudehouse-b395fe",
+        "wikidata": "Q16174973"
+      }
+    },
+    "innisfree_q16176002": {
+      "slug": "innisfree_q16176002",
+      "title": "이니스프리",
+      "title_en": "Innisfree",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/innisfree-b395fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "innisfree-b395fe",
+        "wikidata": "Q16176002"
+      }
+    },
+    "itsskin_q22974808": {
+      "slug": "itsskin_q22974808",
+      "title": "잇츠스킨",
+      "title_en": "It's Skin",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "itsskin-b395fe",
+        "wikidata": "Q22974808"
+      }
+    },
+    "lohbs_q16160242": {
+      "slug": "lohbs_q16160242",
+      "title": "롭스",
+      "title_en": "LOHB's",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lohbs-b395fe",
+        "wikidata": "Q16160242"
+      }
+    },
+    "missha_q4668069": {
+      "slug": "missha_q4668069",
+      "title": "미샤",
+      "title_en": "Missha",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/missha-b395fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "missha-b395fe",
+        "wikidata": "Q4668069"
+      }
+    },
+    "oliveyoung_q55643246": {
+      "slug": "oliveyoung_q55643246",
+      "title": "올리브영",
+      "title_en": "Olive Young",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oliveyoung-b395fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oliveyoung-b395fe",
+        "wikidata": "Q55643246"
+      }
+    },
+    "skinfood_q7535345": {
+      "slug": "skinfood_q7535345",
+      "title": "스킨푸드",
+      "title_en": "Skinfood",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "skinfood-b395fe",
+        "wikidata": "Q7535345"
+      }
+    },
+    "thefaceshop_q624440": {
+      "slug": "thefaceshop_q624440",
+      "title": "더페이스샵",
+      "title_en": "The Face Shop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thefaceshop-b395fe.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "thefaceshop-b395fe",
+        "wikidata": "Q624440"
+      }
+    },
+    "tonymoly_q16935513": {
+      "slug": "tonymoly_q16935513",
+      "title": "토니모리",
+      "title_en": "Tony Moly",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tonymoly-b395fe.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tonymoly-b395fe",
+        "wikidata": "Q16935513"
+      }
+    },
+    "brentreff_q99510166": {
+      "slug": "brentreff_q99510166",
+      "title": "Bären-Treff",
+      "title_en": "Bären-Treff",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "barentreff-b9e3ac",
+        "wikidata": "Q99510166"
+      }
+    },
+    "popmart_q97180096": {
+      "slug": "popmart_q97180096",
+      "title": "Pop Mart",
+      "title_en": "Pop Mart",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/popmart-32846c.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "popmart-32846c",
+        "wikidata": "Q97180096"
+      }
+    },
+    "homeplus_q5889167": {
+      "slug": "homeplus_q5889167",
+      "title": "홈플러스",
+      "title_en": "Homeplus",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "이마트",
-        "E-Mart"
-      ],
-      "keywords": [
-        "이마트",
-        "E-Mart"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/homeplus-84c155.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "homeplus-84c155",
+        "wikidata": "Q5889167"
+      }
+    },
+    "lottedutyfree_q12594196": {
+      "slug": "lottedutyfree_q12594196",
+      "title": "롯데면세점",
+      "title_en": "Lotte Duty Free",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedutyfree-8352b8.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lottedutyfree-8352b8",
+        "wikidata": "Q12594196"
+      }
+    },
+    "shinsegae_q490787": {
+      "slug": "shinsegae_q490787",
+      "title": "신세계",
+      "title_en": "Shinsegae",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shinsegae-84c155.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shinsegae-84c155",
+        "wikidata": "Q490787"
+      }
+    },
+    "_q489905": {
+      "slug": "_q489905",
+      "title": "롯데백화점",
+      "title_en": "Lotte Department Store",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottedepartmentstore-84c155.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lottedepartmentstore-84c155",
+        "wikidata": "Q489905"
+      }
+    },
+    "_q624388": {
+      "slug": "_q624388",
+      "title": "현대",
+      "title_en": "Hyundai",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hyundai-84c155.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hyundai-84c155",
+        "wikidata": "Q624388"
+      }
+    },
+    "6ixty8ight_q131463201": {
+      "slug": "6ixty8ight_q131463201",
+      "title": "6IXTY8IGHT",
+      "title_en": "6IXTY8IGHT",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/6ixty8ight-7905dc.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "6ixty8ight-7905dc",
+        "wikidata": "Q131463201"
+      }
+    },
+    "8seconds_q20444883": {
+      "slug": "8seconds_q20444883",
+      "title": "에잇세컨즈",
+      "title_en": "8 seconds",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/8seconds-d098b5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "8seconds-d098b5",
+        "wikidata": "Q20444883"
+      }
+    },
+    "land_q18156410": {
+      "slug": "land_q18156410",
+      "title": "에이랜드",
+      "title_en": "Åland",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aland-d098b5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aland-d098b5",
+        "wikidata": "Q18156410"
+      }
+    },
+    "aliceolivia_q4725705": {
+      "slug": "aliceolivia_q4725705",
+      "title": "Alice + Olivia",
+      "title_en": "Alice + Olivia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aliceolivia-b99316",
+        "wikidata": "Q4725705"
+      }
+    },
+    "allsaints_q4728473": {
+      "slug": "allsaints_q4728473",
+      "title": "AllSaints",
+      "title_en": "AllSaints",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allsaints-200d98.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allsaints-200d98",
+        "wikidata": "Q4728473"
+      }
+    },
+    "bensherman_q18169875": {
+      "slug": "bensherman_q18169875",
+      "title": "Ben Sherman",
+      "title_en": "Ben Sherman",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bensherman-cad47b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bensherman-cad47b",
+        "wikidata": "Q18169875"
+      }
+    },
+    "discoveryexpedition_q26286443": {
+      "slug": "discoveryexpedition_q26286443",
+      "title": "Discovery Expedition",
+      "title_en": "Discovery Expedition",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "discoveryexpedition-d098b5",
+        "wikidata": "Q26286443"
+      }
+    },
+    "essentielantwerp_q117456339": {
+      "slug": "essentielantwerp_q117456339",
+      "title": "Essentiel Antwerp",
+      "title_en": "Essentiel Antwerp",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/essentielantwerp-fbdad9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "essentielantwerp-fbdad9",
+        "wikidata": "Q117456339"
+      }
+    },
+    "gu_q5512642": {
+      "slug": "gu_q5512642",
+      "title": "GU",
+      "title_en": "GU",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gu-ff89be.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gu-ff89be",
+        "wikidata": "Q5512642"
+      }
+    },
+    "lululemon_q6702957": {
+      "slug": "lululemon_q6702957",
+      "title": "Lululemon",
+      "title_en": "Lululemon",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lululemon-4bc474.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "lululemon-4bc474",
+        "wikidata": "Q6702957"
+      }
+    },
+    "mixxo_q20445833": {
+      "slug": "mixxo_q20445833",
+      "title": "미쏘",
+      "title_en": "MIXXO",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mixxo-d098b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mixxo-d098b5",
+        "wikidata": "Q20445833"
+      }
+    },
+    "patagonia_q1660552": {
+      "slug": "patagonia_q1660552",
+      "title": "Patagonia",
+      "title_en": "Patagonia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/patagonia-5dc190.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "patagonia-5dc190",
+        "wikidata": "Q1660552"
+      }
+    },
+    "peaceminusone_q110269085": {
+      "slug": "peaceminusone_q110269085",
+      "title": "Peaceminusone",
+      "title_en": "Peaceminusone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "peaceminusone-d098b5",
+        "wikidata": "Q110269085"
+      }
+    },
+    "spao_q55731273": {
+      "slug": "spao_q55731273",
+      "title": "스파오",
+      "title_en": "SPAO",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spao-d098b5.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "spao-d098b5",
+        "wikidata": "Q55731273"
+      }
+    },
+    "stylenanda_q21178775": {
+      "slug": "stylenanda_q21178775",
+      "title": "Stylenanda",
+      "title_en": "Stylenanda",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/stylenanda-d098b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "stylenanda-d098b5",
+        "wikidata": "Q21178775"
+      }
+    },
+    "topten_q42303266": {
+      "slug": "topten_q42303266",
+      "title": "탑텐",
+      "title_en": "Topten",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "topten-d098b5",
+        "wikidata": "Q42303266"
+      }
+    },
+    "wonderplace_q109455770": {
+      "slug": "wonderplace_q109455770",
+      "title": "원더플레이스",
+      "title_en": "Wonderplace",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wonderplace-d098b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wonderplace-d098b5",
+        "wikidata": "Q109455770"
+      }
+    },
+    "_q26070": {
+      "slug": "_q26070",
+      "title": "유니클로",
+      "title_en": "Uniqlo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uniqlo-d098b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uniqlo-d098b5",
+        "wikidata": "Q26070"
+      }
+    },
+    "emart_q490371": {
+      "slug": "emart_q490371",
+      "title": "이마트",
+      "title_en": "E-Mart",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emart-12b833.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "emart-12b833",
         "wikidata": "Q490371"
@@ -32,23 +723,12 @@
     "_q326715": {
       "slug": "_q326715",
       "title": "롯데마트",
-      "short_name": "롯데마트",
-      "badge_text": "롯",
+      "title_en": "Lotte Mart",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "롯데마트",
-        "Lotte Mart"
-      ],
-      "keywords": [
-        "롯데마트",
-        "Lotte Mart"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/lottemart-12b833.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lottemart-12b833",
         "wikidata": "Q326715"
@@ -57,23 +737,12 @@
     "_q12594199": {
       "slug": "_q12594199",
       "title": "롯데슈퍼",
-      "short_name": "롯데슈퍼",
-      "badge_text": "롯",
+      "title_en": "Lotte Super",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Lotte Super",
-        "롯데슈퍼"
-      ],
-      "keywords": [
-        "Lotte Super",
-        "롯데슈퍼"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "lottesuper-12b833",
         "wikidata": "Q12594199"
@@ -82,23 +751,12 @@
     "woorimart12b833": {
       "slug": "woorimart12b833",
       "title": "우리마트",
-      "short_name": "우리마트",
-      "badge_text": "우",
+      "title_en": "Woori Mart",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Woori Mart",
-        "우리마트"
-      ],
-      "keywords": [
-        "Woori Mart",
-        "우리마트"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woorimart-12b833",
         "wikidata": ""
@@ -107,23 +765,12 @@
     "_q12590611": {
       "slug": "_q12590611",
       "title": "하나로마트",
-      "short_name": "하나로마트",
-      "badge_text": "하",
+      "title_en": "Hanaro Mart",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Hanaro Mart",
-        "하나로마트"
-      ],
-      "keywords": [
-        "Hanaro Mart",
-        "하나로마트"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hanaromart-12b833",
         "wikidata": "Q12590611"
@@ -132,21 +779,12 @@
     "cu_q12580836": {
       "slug": "cu_q12580836",
       "title": "CU",
-      "short_name": "CU",
-      "badge_text": "C",
+      "title_en": "CU",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "CU"
-      ],
-      "keywords": [
-        "CU"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cu-d8bf46.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cu-d8bf46",
         "wikidata": "Q12580836"
@@ -155,21 +793,12 @@
     "gs25_q624041": {
       "slug": "gs25_q624041",
       "title": "GS25",
-      "short_name": "GS25",
-      "badge_text": "G",
+      "title_en": "GS25",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "GS25"
-      ],
-      "keywords": [
-        "GS25"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gs25-20a8b5.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "gs25-20a8b5",
         "wikidata": "Q624041"
@@ -178,23 +807,12 @@
     "ikeaswedishfoodmarket_q54078": {
       "slug": "ikeaswedishfoodmarket_q54078",
       "title": "IKEA Swedish Food Market",
-      "short_name": "IKEA Swedi",
-      "badge_text": "I",
+      "title_en": "IKEA Swedish Food Market",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Swedish Food Market",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeaswedishfoodmarket-e66215.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeaswedishfoodmarket-e66215",
         "wikidata": "Q54078"
@@ -203,23 +821,12 @@
     "_q259340": {
       "slug": "_q259340",
       "title": "세븐일레븐",
-      "short_name": "세븐일레븐",
-      "badge_text": "세",
+      "title_en": "7-Eleven",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "세븐일레븐",
-        "7-Eleven"
-      ],
-      "keywords": [
-        "세븐일레븐",
-        "7-Eleven"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/7eleven-fab923.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "7eleven-fab923",
         "wikidata": "Q259340"
@@ -228,26 +835,29 @@
     "24_q16219674": {
       "slug": "24_q16219674",
       "title": "이마트24",
-      "short_name": "이마트24",
-      "badge_text": "이",
+      "title_en": "emart24",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "이마트24",
-        "emart24"
-      ],
-      "keywords": [
-        "이마트24",
-        "emart24"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/emart24-fab923.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "emart24-fab923",
         "wikidata": "Q16219674"
+      }
+    },
+    "ikea_q54078": {
+      "slug": "ikea_q54078",
+      "title": "IKEA",
+      "title_en": "IKEA",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikea-ac4ccb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ikea-ac4ccb",
+        "wikidata": "Q54078"
       }
     }
   }

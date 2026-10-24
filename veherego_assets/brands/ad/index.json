@@ -1,10 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ad",
-  "total_categories": 3,
+  "country_name": "AD",
+  "total_categories": 4,
   "manifest_files": [
     "food.json",
     "supermarket.json",
-    "express.json"
-  ]
+    "express.json",
+    "travel.json"
+  ],
+  "version": 1
 }

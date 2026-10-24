@@ -1,27 +1,370 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 12,
+  "country": "ar",
+  "category": "supermarket",
+  "total_brands": 41,
   "brand_aliases": {
-    "cooperativaobrera_q110454268": {
-      "slug": "cooperativaobrera_q110454268",
-      "title": "Cooperativa Obrera",
-      "short_name": "Cooperativ",
-      "badge_text": "C",
+    "res": {
+      "slug": "res",
+      "title": "Res",
+      "title_en": "Res",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "res-e3b2fd",
+        "wikidata": ""
+      }
+    },
+    "laverap": {
+      "slug": "laverap",
+      "title": "Laverap",
+      "title_en": "Laverap",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "laverap-717e4b",
+        "wikidata": ""
+      }
+    },
+    "hstern_q2660388": {
+      "slug": "hstern_q2660388",
+      "title": "H. Stern",
+      "title_en": "H. Stern",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hstern-5f2e62",
+        "wikidata": "Q2660388"
+      }
+    },
+    "maxikiosco": {
+      "slug": "maxikiosco",
+      "title": "Maxikiosco",
+      "title_en": "Maxikiosco",
+      "category": "supermarket",
+      "sub_category": "convenience",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maxikiosco-478c1f",
+        "wikidata": ""
+      }
+    },
+    "frvega_q5401467": {
+      "slug": "frvega_q5401467",
+      "title": "Frávega",
+      "title_en": "Frávega",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fravega-6d37eb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "fravega-6d37eb",
+        "wikidata": "Q5401467"
+      }
+    },
+    "garbarino_q5875270": {
+      "slug": "garbarino_q5875270",
+      "title": "Garbarino",
+      "title_en": "Garbarino",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/garbarino-6d37eb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "garbarino-6d37eb",
+        "wikidata": "Q5875270"
+      }
+    },
+    "megatone_q6009149": {
+      "slug": "megatone_q6009149",
+      "title": "Megatone",
+      "title_en": "Megatone",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/megatone-6d37eb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "megatone-6d37eb",
+        "wikidata": "Q6009149"
+      }
+    },
+    "musimundo_q6034719": {
+      "slug": "musimundo_q6034719",
+      "title": "Musimundo",
+      "title_en": "Musimundo",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/musimundo-6d37eb.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "musimundo-6d37eb",
+        "wikidata": "Q6034719"
+      }
+    },
+    "visin_q126961117": {
+      "slug": "visin_q126961117",
+      "title": "+Visión",
+      "title_en": "+Visión",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/vision-af475b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "vision-af475b",
+        "wikidata": "Q126961117"
+      }
+    },
+    "europtica_q131418760": {
+      "slug": "europtica_q131418760",
+      "title": "Europtica",
+      "title_en": "Europtica",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "europtica-61fd57",
+        "wikidata": "Q131418760"
+      }
+    },
+    "loteralaneuquina": {
+      "slug": "loteralaneuquina",
+      "title": "Lotería La Neuquina",
+      "title_en": "Lotería La Neuquina",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "loterialaneuquina-05b0f7",
+        "wikidata": ""
+      }
+    },
+    "gaes_q98492565": {
+      "slug": "gaes_q98492565",
+      "title": "GAES",
+      "title_en": "GAES",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gaes-681898.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gaes-681898",
+        "wikidata": "Q98492565"
+      }
+    },
+    "teashop_q111730818": {
+      "slug": "teashop_q111730818",
+      "title": "Tea Shop",
+      "title_en": "Tea Shop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/teashop-d87694.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "teashop-d87694",
+        "wikidata": "Q111730818"
+      }
+    },
+    "colorshop_q109933148": {
+      "slug": "colorshop_q109933148",
+      "title": "Colorshop",
+      "title_en": "Colorshop",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/colorshop-dd351e.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "colorshop-dd351e",
+        "wikidata": "Q109933148"
+      }
+    },
+    "easy_q5331091": {
+      "slug": "easy_q5331091",
+      "title": "Easy",
+      "title_en": "Easy",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/easy-063ae0.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "easy-063ae0",
+        "wikidata": "Q5331091"
+      }
+    },
+    "sodimac_q7553274": {
+      "slug": "sodimac_q7553274",
+      "title": "Sodimac",
+      "title_en": "Sodimac",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "sodimac-0b4811",
+        "wikidata": "Q7553274"
+      }
+    },
+    "coppel_q2497795": {
+      "slug": "coppel_q2497795",
+      "title": "Coppel",
+      "title_en": "Coppel",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Cooperativa Obrera"
-      ],
-      "keywords": [
-        "Cooperativa Obrera"
-      ],
-      "package_hints": [],
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coppel-a1f638.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "coppel-a1f638",
+        "wikidata": "Q2497795"
+      }
+    },
+    "falabella_q5135229": {
+      "slug": "falabella_q5135229",
+      "title": "Falabella",
+      "title_en": "Falabella",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/falabella-f2bfac.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "falabella-f2bfac",
+        "wikidata": "Q5135229"
+      }
+    },
+    "47street_q4638513": {
+      "slug": "47street_q4638513",
+      "title": "47 Street",
+      "title_en": "47 Street",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/47street-3c23f6.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "47street-3c23f6",
+        "wikidata": "Q4638513"
+      }
+    },
+    "brooksfield_q3645372": {
+      "slug": "brooksfield_q3645372",
+      "title": "Brooksfield",
+      "title_en": "Brooksfield",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brooksfield-373ae7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "brooksfield-373ae7",
+        "wikidata": "Q3645372"
+      }
+    },
+    "chicos_q5096393": {
+      "slug": "chicos_q5096393",
+      "title": "Chico's",
+      "title_en": "Chico's",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chicos-d97106.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chicos-d97106",
+        "wikidata": "Q5096393"
+      }
+    },
+    "chicosofftherack_q5096393": {
+      "slug": "chicosofftherack_q5096393",
+      "title": "Chico's Off the Rack",
+      "title_en": "Chico's Off the Rack",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/chicosofftherack-d97106.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "chicosofftherack-d97106",
+        "wikidata": "Q5096393"
+      }
+    },
+    "patagonia_q1660552": {
+      "slug": "patagonia_q1660552",
+      "title": "Patagonia",
+      "title_en": "Patagonia",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/patagonia-5dc190.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "patagonia-5dc190",
+        "wikidata": "Q1660552"
+      }
+    },
+    "renner_q3064071": {
+      "slug": "renner_q3064071",
+      "title": "Renner",
+      "title_en": "Renner",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/renner-41b5c2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "renner-41b5c2",
+        "wikidata": "Q3064071"
+      }
+    },
+    "todomoda_q115898759": {
+      "slug": "todomoda_q115898759",
+      "title": "Todomoda",
+      "title_en": "Todomoda",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/todomoda-69b017.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "todomoda-69b017",
+        "wikidata": "Q115898759"
+      }
+    },
+    "cooperativaobrera_q110454268": {
+      "slug": "cooperativaobrera_q110454268",
+      "title": "Cooperativa Obrera",
+      "title_en": "Cooperativa Obrera",
+      "category": "supermarket",
+      "sub_category": "hypermarket",
+      "color": "#16A34A",
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cooperativaobrera-0d2b84.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cooperativaobrera-0d2b84",
         "wikidata": "Q110454268"
@@ -30,21 +373,12 @@
     "coto_q5175411": {
       "slug": "coto_q5175411",
       "title": "Coto",
-      "short_name": "Coto",
-      "badge_text": "C",
+      "title_en": "Coto",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Coto"
-      ],
-      "keywords": [
-        "Coto"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/coto-0d2b84.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "coto-0d2b84",
         "wikidata": "Q5175411"
@@ -53,21 +387,12 @@
     "dia_q925132": {
       "slug": "dia_q925132",
       "title": "Dia",
-      "short_name": "Dia",
-      "badge_text": "D",
+      "title_en": "Dia",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Dia"
-      ],
-      "keywords": [
-        "Dia"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dia-675159.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dia-675159",
         "wikidata": "Q925132"
@@ -75,22 +400,13 @@
     },
     "discoargentina_q6135978": {
       "slug": "discoargentina_q6135978",
-      "title": "Disco (Argentina)",
-      "short_name": "Disco (Arg",
-      "badge_text": "D",
+      "title": "Disco",
+      "title_en": "Disco",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Disco"
-      ],
-      "keywords": [
-        "Disco"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/disco-0d2b84.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "disco-0d2b84",
         "wikidata": "Q6135978"
@@ -98,22 +414,13 @@
     },
     "jumbocencosud_q6310864": {
       "slug": "jumbocencosud_q6310864",
-      "title": "Jumbo (Cencosud)",
-      "short_name": "Jumbo (Cen",
-      "badge_text": "J",
+      "title": "Jumbo",
+      "title_en": "Jumbo",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Jumbo"
-      ],
-      "keywords": [
-        "Jumbo"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jumbo-99a0d7.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "jumbo-99a0d7",
         "wikidata": "Q6310864"
@@ -122,21 +429,12 @@
     "laannima_q6135985": {
       "slug": "laannima_q6135985",
       "title": "La Anónima",
-      "short_name": "La Anónima",
-      "badge_text": "L",
+      "title_en": "La Anónima",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "La Anónima"
-      ],
-      "keywords": [
-        "La Anónima"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/laanonima-0d2b84.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "laanonima-0d2b84",
         "wikidata": "Q6135985"
@@ -145,21 +443,12 @@
     "luna": {
       "slug": "luna",
       "title": "Luna",
-      "short_name": "Luna",
-      "badge_text": "L",
+      "title_en": "Luna",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Luna"
-      ],
-      "keywords": [
-        "Luna"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "luna-0d2b84",
         "wikidata": ""
@@ -168,90 +457,96 @@
     "vea_q5858167": {
       "slug": "vea_q5858167",
       "title": "Vea",
-      "short_name": "Vea",
-      "badge_text": "V",
+      "title_en": "Vea",
       "category": "supermarket",
       "sub_category": "hypermarket",
       "color": "#16A34A",
-      "aliases": [
-        "Vea"
-      ],
-      "keywords": [
-        "Vea"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "vea-0d2b84",
         "wikidata": "Q5858167"
       }
     },
+    "claro_q1770208": {
+      "slug": "claro_q1770208",
+      "title": "Claro",
+      "title_en": "Claro",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/claro-1c9651.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "claro-1c9651",
+        "wikidata": "Q1770208"
+      }
+    },
+    "movistar_q967735": {
+      "slug": "movistar_q967735",
+      "title": "Movistar",
+      "title_en": "Movistar",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/movistar-acd455.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "movistar-acd455",
+        "wikidata": "Q967735"
+      }
+    },
+    "personal_q10933021": {
+      "slug": "personal_q10933021",
+      "title": "Personal",
+      "title_en": "Personal",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/personal-3c681b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "personal-3c681b",
+        "wikidata": "Q10933021"
+      }
+    },
+    "norauto_q3317698": {
+      "slug": "norauto_q3317698",
+      "title": "Norauto",
+      "title_en": "Norauto",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "norauto-388a61",
+        "wikidata": "Q3317698"
+      }
+    },
     "full_q126681765": {
       "slug": "full_q126681765",
       "title": "Full",
-      "short_name": "Full",
-      "badge_text": "F",
+      "title_en": "Full",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Full"
-      ],
-      "keywords": [
-        "Full"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/full-4c351f.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "full-4c351f",
         "wikidata": "Q126681765"
       }
     },
-    "maxikiosco": {
-      "slug": "maxikiosco",
-      "title": "Maxikiosco",
-      "short_name": "Maxikiosco",
-      "badge_text": "M",
-      "category": "supermarket",
-      "sub_category": "convenience",
-      "color": "#16A34A",
-      "aliases": [
-        "Maxikiosco"
-      ],
-      "keywords": [
-        "Maxikiosco"
-      ],
-      "package_hints": [],
-      "icon_url": null,
-      "domain": null,
-      "forces_pickup_scene": true,
-      "custom_metadata": {
-        "nsi_id": "maxikiosco-478c1f",
-        "wikidata": ""
-      }
-    },
     "servicompras": {
       "slug": "servicompras",
       "title": "Servicompras",
-      "short_name": "Servicompr",
-      "badge_text": "S",
+      "title_en": "Servicompras",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Servicompras"
-      ],
-      "keywords": [
-        "Servicompras"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "servicompras-4c351f",
         "wikidata": ""
@@ -260,24 +555,29 @@
     "spot": {
       "slug": "spot",
       "title": "Spot",
-      "short_name": "Spot",
-      "badge_text": "S",
+      "title_en": "Spot",
       "category": "supermarket",
       "sub_category": "convenience",
       "color": "#16A34A",
-      "aliases": [
-        "Spot"
-      ],
-      "keywords": [
-        "Spot"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spot-4c351f",
         "wikidata": ""
+      }
+    },
+    "viajeselcorteingls_q115268048": {
+      "slug": "viajeselcorteingls_q115268048",
+      "title": "Viajes El Corte Inglés",
+      "title_en": "Viajes El Corte Inglés",
+      "category": "supermarket",
+      "sub_category": "general",
+      "color": "#16A34A",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/viajeselcorteingles-d900b5.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "viajeselcorteingles-d900b5",
+        "wikidata": "Q115268048"
       }
     }
   }

@@ -1,11 +1,14 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ge",
-  "total_categories": 4,
+  "country_name": "GE",
+  "total_categories": 5,
   "manifest_files": [
+    "supermarket.json",
     "food.json",
     "drink.json",
-    "supermarket.json",
+    "other.json",
     "express.json"
-  ]
+  ],
+  "version": 1
 }

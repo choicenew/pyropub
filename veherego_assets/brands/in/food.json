@@ -1,27 +1,20 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 48,
+  "country": "in",
+  "category": "food",
+  "total_brands": 146,
   "brand_aliases": {
     "milliescookies_q1935533": {
       "slug": "milliescookies_q1935533",
       "title": "Millie's Cookies",
-      "short_name": "Millie's C",
-      "badge_text": "M",
+      "title_en": "Millie's Cookies",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Millie's Cookies"
-      ],
-      "keywords": [
-        "Millie's Cookies"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/milliescookies-376142.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "milliescookies-376142",
         "wikidata": "Q1935533"
@@ -30,21 +23,12 @@
     "paul_q3370417": {
       "slug": "paul_q3370417",
       "title": "Paul",
-      "short_name": "Paul",
-      "badge_text": "P",
+      "title_en": "Paul",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Paul"
-      ],
-      "keywords": [
-        "Paul"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/paul-652955.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "paul-652955",
         "wikidata": "Q3370417"
@@ -53,21 +37,12 @@
     "justbake_q124374121": {
       "slug": "justbake_q124374121",
       "title": "Just Bake",
-      "short_name": "Just Bake",
-      "badge_text": "J",
+      "title_en": "Just Bake",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Just Bake"
-      ],
-      "keywords": [
-        "Just Bake"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/justbake-77ae94.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "justbake-77ae94",
         "wikidata": "Q124374121"
@@ -76,21 +51,12 @@
     "mioamore_q130534919": {
       "slug": "mioamore_q130534919",
       "title": "Mio Amore",
-      "short_name": "Mio Amore",
-      "badge_text": "M",
+      "title_en": "Mio Amore",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Mio Amore"
-      ],
-      "keywords": [
-        "Mio Amore"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mioamore-77ae94.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "mioamore-77ae94",
         "wikidata": "Q130534919"
@@ -98,22 +64,13 @@
     },
     "monginisindia_q6899504": {
       "slug": "monginisindia_q6899504",
-      "title": "Monginis (India)",
-      "short_name": "Monginis (",
-      "badge_text": "M",
+      "title": "Monginis",
+      "title_en": "Monginis",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Monginis"
-      ],
-      "keywords": [
-        "Monginis"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/monginis-77ae94.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "monginis-77ae94",
         "wikidata": "Q6899504"
@@ -122,21 +79,12 @@
     "sweetchariot_q124374392": {
       "slug": "sweetchariot_q124374392",
       "title": "Sweet Chariot",
-      "short_name": "Sweet Char",
-      "badge_text": "S",
+      "title_en": "Sweet Chariot",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Sweet Chariot"
-      ],
-      "keywords": [
-        "Sweet Chariot"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "sweetchariot-77ae94",
         "wikidata": "Q124374392"
@@ -145,21 +93,12 @@
     "thesugarrspice_q130550402": {
       "slug": "thesugarrspice_q130550402",
       "title": "The Sugarr & Spice",
-      "short_name": "The Sugarr",
-      "badge_text": "T",
+      "title_en": "The Sugarr & Spice",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "The Sugarr & Spice"
-      ],
-      "keywords": [
-        "The Sugarr & Spice"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thesugarrandspice-77ae94.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "thesugarrandspice-77ae94",
         "wikidata": "Q130550402"
@@ -168,44 +107,1020 @@
     "theobroma_q124374469": {
       "slug": "theobroma_q124374469",
       "title": "Theobroma",
-      "short_name": "Theobroma",
-      "badge_text": "T",
+      "title_en": "Theobroma",
       "category": "food",
       "sub_category": "bakery",
       "color": "#F97316",
-      "aliases": [
-        "Theobroma"
-      ],
-      "keywords": [
-        "Theobroma"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/theobroma-77ae94.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "theobroma-77ae94",
         "wikidata": "Q124374469"
       }
     },
+    "hitachimoneyspotatm_q53238": {
+      "slug": "hitachimoneyspotatm_q53238",
+      "title": "Hitachi",
+      "title_en": "Hitachi",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hitachi-ad0527",
+        "wikidata": "Q53238"
+      }
+    },
+    "india1atm_q134601469": {
+      "slug": "india1atm_q134601469",
+      "title": "India1 ATM",
+      "title_en": "India1 ATM",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/india1atm-ad0527.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "india1atm-ad0527",
+        "wikidata": "Q134601469"
+      }
+    },
+    "allahabadbank_q2018840": {
+      "slug": "allahabadbank_q2018840",
+      "title": "Allahabad Bank",
+      "title_en": "Allahabad Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allahabadbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allahabadbank-34f411",
+        "wikidata": "Q2018840"
+      }
+    },
+    "almoraurbancooperativebanklimited_q74121721": {
+      "slug": "almoraurbancooperativebanklimited_q74121721",
+      "title": "Almora Urban Cooperative Bank Limited",
+      "title_en": "Almora Urban Cooperative Bank Limited",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "almoraurbancooperativebanklimited-34f411",
+        "wikidata": "Q74121721"
+      }
+    },
+    "andhrapradeshgrameenavikasbank_q18109664": {
+      "slug": "andhrapradeshgrameenavikasbank_q18109664",
+      "title": "Andhra Pradesh Grameena Vikas Bank",
+      "title_en": "Andhra Pradesh Grameena Vikas Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/andhrapradeshgrameenavikasbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "andhrapradeshgrameenavikasbank-34f411",
+        "wikidata": "Q18109664"
+      }
+    },
+    "assamgraminvikashbank_q24041756": {
+      "slug": "assamgraminvikashbank_q24041756",
+      "title": "Assam Gramin Vikash Bank",
+      "title_en": "Assam Gramin Vikash Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/assamgraminvikashbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "assamgraminvikashbank-34f411",
+        "wikidata": "Q24041756"
+      }
+    },
+    "ausmallfinancebank_q48729722": {
+      "slug": "ausmallfinancebank_q48729722",
+      "title": "AU Small Finance Bank",
+      "title_en": "AU Small Finance Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ausmallfinancebank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ausmallfinancebank-34f411",
+        "wikidata": "Q48729722"
+      }
+    },
+    "axisbank_q2003549": {
+      "slug": "axisbank_q2003549",
+      "title": "Axis Bank",
+      "title_en": "Axis Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/axisbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "axisbank-34f411",
+        "wikidata": "Q2003549"
+      }
+    },
+    "bandhanbank_q19882235": {
+      "slug": "bandhanbank_q19882235",
+      "title": "Bandhan Bank",
+      "title_en": "Bandhan Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bandhanbank-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bandhanbank-34f411",
+        "wikidata": "Q19882235"
+      }
+    },
+    "bankofmaharashtra_q2004304": {
+      "slug": "bankofmaharashtra_q2004304",
+      "title": "Bank of Maharashtra",
+      "title_en": "Bank of Maharashtra",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bankofmaharashtra-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bankofmaharashtra-34f411",
+        "wikidata": "Q2004304"
+      }
+    },
+    "canarabank_q2003777": {
+      "slug": "canarabank_q2003777",
+      "title": "केनरा बैंक",
+      "title_en": "Canara Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/canarabank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "canarabank-34f411",
+        "wikidata": "Q2003777"
+      }
+    },
+    "capitalsmallfinancebank_q76383664": {
+      "slug": "capitalsmallfinancebank_q76383664",
+      "title": "Capital Small Finance Bank",
+      "title_en": "Capital Small Finance Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/capitalsmallfinancebank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "capitalsmallfinancebank-34f411",
+        "wikidata": "Q76383664"
+      }
+    },
+    "centralbankofindia_q2007090": {
+      "slug": "centralbankofindia_q2007090",
+      "title": "Central Bank of India",
+      "title_en": "Central Bank of India",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/centralbankofindia-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "centralbankofindia-34f411",
+        "wikidata": "Q2007090"
+      }
+    },
+    "cityunionbank_q2040264": {
+      "slug": "cityunionbank_q2040264",
+      "title": "सिटी यूनियन बैंक",
+      "title_en": "City Union Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cityunionbank-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cityunionbank-34f411",
+        "wikidata": "Q2040264"
+      }
+    },
+    "csbbank_q5053244": {
+      "slug": "csbbank_q5053244",
+      "title": "CSB Bank",
+      "title_en": "CSB Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/csbbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "csbbank-34f411",
+        "wikidata": "Q5053244"
+      }
+    },
+    "dbsbankindia_q76514597": {
+      "slug": "dbsbankindia_q76514597",
+      "title": "DBS Bank India",
+      "title_en": "DBS Bank India",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dbsbankindia-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dbsbankindia-34f411",
+        "wikidata": "Q76514597"
+      }
+    },
+    "dhanlaxmibank_q2040440": {
+      "slug": "dhanlaxmibank_q2040440",
+      "title": "Dhanlaxmi Bank",
+      "title_en": "Dhanlaxmi Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dhanlaxmibank-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "dhanlaxmibank-34f411",
+        "wikidata": "Q2040440"
+      }
+    },
+    "equitassmallfinancebank_q29467249": {
+      "slug": "equitassmallfinancebank_q29467249",
+      "title": "Equitas Small Finance Bank",
+      "title_en": "Equitas Small Finance Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/equitassmallfinancebank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "equitassmallfinancebank-34f411",
+        "wikidata": "Q29467249"
+      }
+    },
+    "esafsmallfinancebank_q28173964": {
+      "slug": "esafsmallfinancebank_q28173964",
+      "title": "ESAF Small Finance Bank",
+      "title_en": "ESAF Small Finance Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/esafsmallfinancebank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "esafsmallfinancebank-34f411",
+        "wikidata": "Q28173964"
+      }
+    },
+    "federalbank_q2044983": {
+      "slug": "federalbank_q2044983",
+      "title": "Federal Bank",
+      "title_en": "Federal Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/federalbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "federalbank-34f411",
+        "wikidata": "Q2044983"
+      }
+    },
+    "hdfcbank_q631047": {
+      "slug": "hdfcbank_q631047",
+      "title": "HDFC Bank",
+      "title_en": "HDFC Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hdfcbank-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hdfcbank-34f411",
+        "wikidata": "Q631047"
+      }
+    },
+    "icicibank_q1653258": {
+      "slug": "icicibank_q1653258",
+      "title": "ICICI Bank",
+      "title_en": "ICICI Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/icicibank-4f7c25.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "icicibank-4f7c25",
+        "wikidata": "Q1653258"
+      }
+    },
+    "idbibank_q3633485": {
+      "slug": "idbibank_q3633485",
+      "title": "IDBI Bank",
+      "title_en": "IDBI Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/idbibank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "idbibank-34f411",
+        "wikidata": "Q3633485"
+      }
+    },
+    "idfcfirstbank_q22031467": {
+      "slug": "idfcfirstbank_q22031467",
+      "title": "IDFC First Bank",
+      "title_en": "IDFC First Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/idfcfirstbank-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "idfcfirstbank-34f411",
+        "wikidata": "Q22031467"
+      }
+    },
+    "indiapostpaymentsbank_q19895346": {
+      "slug": "indiapostpaymentsbank_q19895346",
+      "title": "भारतीय डाक भुगतान बैंक",
+      "title_en": "India Post Payments Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indiapostpaymentsbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "indiapostpaymentsbank-34f411",
+        "wikidata": "Q19895346"
+      }
+    },
+    "indianbank_q2003789": {
+      "slug": "indianbank_q2003789",
+      "title": "Indian Bank",
+      "title_en": "Indian Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indianbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "indianbank-34f411",
+        "wikidata": "Q2003789"
+      }
+    },
+    "indianoverseasbank_q2003611": {
+      "slug": "indianoverseasbank_q2003611",
+      "title": "Indian Overseas Bank",
+      "title_en": "Indian Overseas Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indianoverseasbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "indianoverseasbank-34f411",
+        "wikidata": "Q2003611"
+      }
+    },
+    "indusindbank_q2040323": {
+      "slug": "indusindbank_q2040323",
+      "title": "IndusInd Bank",
+      "title_en": "IndusInd Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indusindbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "indusindbank-34f411",
+        "wikidata": "Q2040323"
+      }
+    },
+    "jammuandkashmirbank_q2040429": {
+      "slug": "jammuandkashmirbank_q2040429",
+      "title": "Jammu and Kashmir Bank",
+      "title_en": "Jammu and Kashmir Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jammuandkashmirbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jammuandkashmirbank-34f411",
+        "wikidata": "Q2040429"
+      }
+    },
+    "janasmallfinancebank_q65122274": {
+      "slug": "janasmallfinancebank_q65122274",
+      "title": "Jana Small Finance Bank",
+      "title_en": "Jana Small Finance Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/janasmallfinancebank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "janasmallfinancebank-34f411",
+        "wikidata": "Q65122274"
+      }
+    },
+    "karnatakabank_q2042632": {
+      "slug": "karnatakabank_q2042632",
+      "title": "Karnataka Bank",
+      "title_en": "Karnataka Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karnatakabank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karnatakabank-34f411",
+        "wikidata": "Q2042632"
+      }
+    },
+    "karnatakagraminbank_q24936908": {
+      "slug": "karnatakagraminbank_q24936908",
+      "title": "Karnataka Gramin Bank",
+      "title_en": "Karnataka Gramin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karnatakagraminbank-34f411",
+        "wikidata": "Q24936908"
+      }
+    },
+    "karnatakavikasgrameenabank_q19892555": {
+      "slug": "karnatakavikasgrameenabank_q19892555",
+      "title": "Karnataka Vikas Grameena Bank",
+      "title_en": "Karnataka Vikas Grameena Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karnatakavikasgrameenabank-34f411",
+        "wikidata": "Q19892555"
+      }
+    },
+    "karurvysyabank_q6373724": {
+      "slug": "karurvysyabank_q6373724",
+      "title": "Karur Vysya Bank",
+      "title_en": "Karur Vysya Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/karurvysyabank-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "karurvysyabank-34f411",
+        "wikidata": "Q6373724"
+      }
+    },
+    "keralagraminbank_q13674094": {
+      "slug": "keralagraminbank_q13674094",
+      "title": "Kerala Gramin Bank",
+      "title_en": "Kerala Gramin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/keralagraminbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "keralagraminbank-34f411",
+        "wikidata": "Q13674094"
+      }
+    },
+    "kotakmahindrabank_q2040404": {
+      "slug": "kotakmahindrabank_q2040404",
+      "title": "Kotak Mahindra Bank",
+      "title_en": "Kotak Mahindra Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kotakmahindrabank-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kotakmahindrabank-34f411",
+        "wikidata": "Q2040404"
+      }
+    },
+    "madhyanchalgraminbank_q6727651": {
+      "slug": "madhyanchalgraminbank_q6727651",
+      "title": "मध्यांचल ग्रामीण बैंक",
+      "title_en": "Madhyanchal Gramin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/madhyanchalgraminbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "madhyanchalgraminbank-34f411",
+        "wikidata": "Q6727651"
+      }
+    },
+    "maharashtragraminbank_q16915974": {
+      "slug": "maharashtragraminbank_q16915974",
+      "title": "महाराष्ट्र ग्रामीण बैंक",
+      "title_en": "Maharashtra Gramin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maharashtragraminbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maharashtragraminbank-34f411",
+        "wikidata": "Q16915974"
+      }
+    },
+    "mizoramruralbank_q60764014": {
+      "slug": "mizoramruralbank_q60764014",
+      "title": "Mizoram Rural Bank",
+      "title_en": "Mizoram Rural Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/mizoramruralbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "mizoramruralbank-34f411",
+        "wikidata": "Q60764014"
+      }
+    },
+    "nainitalbank_q6959715": {
+      "slug": "nainitalbank_q6959715",
+      "title": "Nainital Bank",
+      "title_en": "Nainital Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nainitalbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nainitalbank-34f411",
+        "wikidata": "Q6959715"
+      }
+    },
+    "odishagramyabank_q18356206": {
+      "slug": "odishagramyabank_q18356206",
+      "title": "Odisha Gramya Bank",
+      "title_en": "Odisha Gramya Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/odishagramyabank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "odishagramyabank-34f411",
+        "wikidata": "Q18356206"
+      }
+    },
+    "pragathikrishnagraminbank_q75801175": {
+      "slug": "pragathikrishnagraminbank_q75801175",
+      "title": "Pragathi Krishna Gramin Bank",
+      "title_en": "Pragathi Krishna Gramin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pragathikrishnagraminbank-34f411",
+        "wikidata": "Q75801175"
+      }
+    },
+    "pragathikrishnagraminabank": {
+      "slug": "pragathikrishnagraminabank",
+      "title": "Pragathi Krishna Gramina Bank",
+      "title_en": "Pragathi Krishna Gramina Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pragathikrishnagraminabank-34f411",
+        "wikidata": ""
+      }
+    },
+    "puduvaibharathiargramabank_q17014664": {
+      "slug": "puduvaibharathiargramabank_q17014664",
+      "title": "Puduvai Bharathiar Grama Bank",
+      "title_en": "Puduvai Bharathiar Grama Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/puduvaibharathiargramabank-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "puduvaibharathiargramabank-34f411",
+        "wikidata": "Q17014664"
+      }
+    },
+    "punjabsindbank_q2003302": {
+      "slug": "punjabsindbank_q2003302",
+      "title": "पंजाब एण्ड सिंध बैंक",
+      "title_en": "Punjab & Sind Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/punjabandsindbank-34f411.svg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "punjabandsindbank-34f411",
+        "wikidata": "Q2003302"
+      }
+    },
+    "punjabnationalbank_q2743499": {
+      "slug": "punjabnationalbank_q2743499",
+      "title": "Punjab National Bank",
+      "title_en": "Punjab National Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/punjabnationalbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "punjabnationalbank-34f411",
+        "wikidata": "Q2743499"
+      }
+    },
+    "rblbank_q13120398": {
+      "slug": "rblbank_q13120398",
+      "title": "RBL Bank",
+      "title_en": "RBL Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rblbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "rblbank-34f411",
+        "wikidata": "Q13120398"
+      }
+    },
+    "repcobank_q18394050": {
+      "slug": "repcobank_q18394050",
+      "title": "Repco Bank",
+      "title_en": "Repco Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/repcobank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "repcobank-34f411",
+        "wikidata": "Q18394050"
+      }
+    },
+    "southindianbank_q2044973": {
+      "slug": "southindianbank_q2044973",
+      "title": "South Indian Bank",
+      "title_en": "South Indian Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southindianbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "southindianbank-34f411",
+        "wikidata": "Q2044973"
+      }
+    },
+    "syndicatebank_q2004088": {
+      "slug": "syndicatebank_q2004088",
+      "title": "Syndicate Bank",
+      "title_en": "Syndicate Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/syndicatebank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "syndicatebank-34f411",
+        "wikidata": "Q2004088"
+      }
+    },
+    "tamilnadugramabank_q108166718": {
+      "slug": "tamilnadugramabank_q108166718",
+      "title": "Tamil Nadu Grama Bank",
+      "title_en": "Tamil Nadu Grama Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tamilnadugramabank-34f411",
+        "wikidata": "Q108166718"
+      }
+    },
+    "tamilnadmercantilebanklimited_q2044991": {
+      "slug": "tamilnadmercantilebanklimited_q2044991",
+      "title": "Tamilnad Mercantile Bank Limited",
+      "title_en": "Tamilnad Mercantile Bank Limited",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tamilnadmercantilebanklimited-34f411",
+        "wikidata": "Q2044991"
+      }
+    },
+    "tripuragraminbank_q18354573": {
+      "slug": "tripuragraminbank_q18354573",
+      "title": "त्रिपुरा ग्रामीण बैंक",
+      "title_en": "Tripura Gramin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tripuragraminbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "tripuragraminbank-34f411",
+        "wikidata": "Q18354573"
+      }
+    },
+    "ucobank_q2005310": {
+      "slug": "ucobank_q2005310",
+      "title": "UCO Bank",
+      "title_en": "UCO Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ucobank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ucobank-34f411",
+        "wikidata": "Q2005310"
+      }
+    },
+    "ujjivansmallfinancebank_q42529272": {
+      "slug": "ujjivansmallfinancebank_q42529272",
+      "title": "Ujjivan Small Finance Bank",
+      "title_en": "Ujjivan Small Finance Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ujjivansmallfinancebank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "ujjivansmallfinancebank-34f411",
+        "wikidata": "Q42529272"
+      }
+    },
+    "unionbankofindia_q2004078": {
+      "slug": "unionbankofindia_q2004078",
+      "title": "Union Bank of India",
+      "title_en": "Union Bank of India",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unionbankofindia-34f411.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unionbankofindia-34f411",
+        "wikidata": "Q2004078"
+      }
+    },
+    "uob_q2064074": {
+      "slug": "uob_q2064074",
+      "title": "UOB",
+      "title_en": "UOB",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uob-fef9a3.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uob-fef9a3",
+        "wikidata": "Q2064074"
+      }
+    },
+    "uttarakhandgraminbank_q29467293": {
+      "slug": "uttarakhandgraminbank_q29467293",
+      "title": "Uttarakhand Gramin Bank",
+      "title_en": "Uttarakhand Gramin Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/uttarakhandgraminbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "uttarakhandgraminbank-34f411",
+        "wikidata": "Q29467293"
+      }
+    },
+    "yesbank_q2040394": {
+      "slug": "yesbank_q2040394",
+      "title": "Yes Bank",
+      "title_en": "Yes Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yesbank-34f411.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yesbank-34f411",
+        "wikidata": "Q2040394"
+      }
+    },
+    "akshaya_q99562093": {
+      "slug": "akshaya_q99562093",
+      "title": "Akshaya",
+      "title_en": "Akshaya",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "akshaya-ec41bc",
+        "wikidata": "Q99562093"
+      }
+    },
+    "commonservicecentres_q5153481": {
+      "slug": "commonservicecentres_q5153481",
+      "title": "Common Service Centres",
+      "title_en": "Common Service Centres",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "commonservicecentres-ec41bc",
+        "wikidata": "Q5153481"
+      }
+    },
+    "kdo_q104849185": {
+      "slug": "kdo_q104849185",
+      "title": "Kïdo",
+      "title_en": "Kïdo",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kido-0883b2.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kido-0883b2",
+        "wikidata": "Q104849185"
+      }
+    },
+    "aakash_q4661318": {
+      "slug": "aakash_q4661318",
+      "title": "Aakash",
+      "title_en": "Aakash",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aakash-eafefa.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "aakash-eafefa",
+        "wikidata": "Q4661318"
+      }
+    },
+    "allencareerinstitute_q111825478": {
+      "slug": "allencareerinstitute_q111825478",
+      "title": "Allen Career Institute",
+      "title_en": "Allen Career Institute",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/allencareerinstitute-eafefa.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "allencareerinstitute-eafefa",
+        "wikidata": "Q111825478"
+      }
+    },
+    "physicswallah_q111487437": {
+      "slug": "physicswallah_q111487437",
+      "title": "Physics Wallah",
+      "title_en": "Physics Wallah",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "physicswallah-eafefa",
+        "wikidata": "Q111487437"
+      }
+    },
+    "jawaharnavodayavidyalaya_q2723540": {
+      "slug": "jawaharnavodayavidyalaya_q2723540",
+      "title": "Jawahar Navodaya Vidyalaya",
+      "title_en": "Jawahar Navodaya Vidyalaya",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jawaharnavodayavidyalaya-198395",
+        "wikidata": "Q2723540"
+      }
+    },
+    "kendriyavidyalaya_q1156653": {
+      "slug": "kendriyavidyalaya_q1156653",
+      "title": "Kendriya Vidyalaya",
+      "title_en": "Kendriya Vidyalaya",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kendriyavidyalaya-198395.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "kendriyavidyalaya-198395",
+        "wikidata": "Q1156653"
+      }
+    },
+    "maharishividyamandir": {
+      "slug": "maharishividyamandir",
+      "title": "Maharishi Vidya Mandir",
+      "title_en": "Maharishi Vidya Mandir",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maharishividyamandir-198395",
+        "wikidata": ""
+      }
+    },
+    "maplebear_q10324823": {
+      "slug": "maplebear_q10324823",
+      "title": "Maple Bear",
+      "title_en": "Maple Bear",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/maplebear-101006.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "maplebear-101006",
+        "wikidata": "Q10324823"
+      }
+    },
+    "els_q5323325": {
+      "slug": "els_q5323325",
+      "title": "ELS",
+      "title_en": "ELS",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/els-89568f.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "els-89568f",
+        "wikidata": "Q5323325"
+      }
+    },
+    "unimoni_q7863721": {
+      "slug": "unimoni_q7863721",
+      "title": "Unimoni",
+      "title_en": "Unimoni",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "unimoni-ebe0cc",
+        "wikidata": "Q7863721"
+      }
+    },
     "aubonpain_q4818942": {
       "slug": "aubonpain_q4818942",
       "title": "Au Bon Pain",
-      "short_name": "Au Bon Pai",
-      "badge_text": "A",
+      "title_en": "Au Bon Pain",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Au Bon Pain"
-      ],
-      "keywords": [
-        "Au Bon Pain"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/aubonpain-9652cd.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "aubonpain-9652cd",
         "wikidata": "Q4818942"
@@ -214,21 +1129,12 @@
     "beijingbites_q124374289": {
       "slug": "beijingbites_q124374289",
       "title": "Beijing Bites",
-      "short_name": "Beijing Bi",
-      "badge_text": "B",
+      "title_en": "Beijing Bites",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Beijing Bites"
-      ],
-      "keywords": [
-        "Beijing Bites"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/beijingbites-aba431.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "beijingbites-aba431",
         "wikidata": "Q124374289"
@@ -237,21 +1143,12 @@
     "dixychicken_q5285003": {
       "slug": "dixychicken_q5285003",
       "title": "Dixy Chicken",
-      "short_name": "Dixy Chick",
-      "badge_text": "D",
+      "title_en": "Dixy Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Dixy Chicken"
-      ],
-      "keywords": [
-        "Dixy Chicken"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dixychicken-d5291b",
         "wikidata": "Q5285003"
@@ -260,21 +1157,12 @@
     "fivestarchicken_q127784422": {
       "slug": "fivestarchicken_q127784422",
       "title": "Five Star Chicken",
-      "short_name": "Five Star ",
-      "badge_text": "F",
+      "title_en": "Five Star Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Five Star Chicken"
-      ],
-      "keywords": [
-        "Five Star Chicken"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/fivestarchicken-aba431.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "fivestarchicken-aba431",
         "wikidata": "Q127784422"
@@ -283,21 +1171,12 @@
     "galitos_q116619555": {
       "slug": "galitos_q116619555",
       "title": "Galito's",
-      "short_name": "Galito's",
-      "badge_text": "G",
+      "title_en": "Galito's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Galito's"
-      ],
-      "keywords": [
-        "Galito's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/galitos-00ffa4.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "galitos-00ffa4",
         "wikidata": "Q116619555"
@@ -306,21 +1185,12 @@
     "golivadapav_q5580697": {
       "slug": "golivadapav_q5580697",
       "title": "Goli Vada Pav",
-      "short_name": "Goli Vada ",
-      "badge_text": "G",
+      "title_en": "Goli Vada Pav",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Goli Vada Pav"
-      ],
-      "keywords": [
-        "Goli Vada Pav"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/golivadapav-aba431.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "golivadapav-aba431",
         "wikidata": "Q5580697"
@@ -329,21 +1199,12 @@
     "haldirams_q17054442": {
       "slug": "haldirams_q17054442",
       "title": "Haldiram's",
-      "short_name": "Haldiram's",
-      "badge_text": "H",
+      "title_en": "Haldiram's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Haldiram's"
-      ],
-      "keywords": [
-        "Haldiram's"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "haldirams-f8ff34",
         "wikidata": "Q17054442"
@@ -351,24 +1212,13 @@
     },
     "hellpizza_q1602607": {
       "slug": "hellpizza_q1602607",
-      "title": "Hell Pizza",
-      "short_name": "Hell Pizza",
-      "badge_text": "H",
+      "title": "Hell",
+      "title_en": "Hell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Hell",
-        "Hell Pizza"
-      ],
-      "keywords": [
-        "Hell",
-        "Hell Pizza"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hell-6fb486.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "hell-6fb486",
         "wikidata": "Q1602607"
@@ -377,23 +1227,12 @@
     "ikeabistro_q54078": {
       "slug": "ikeabistro_q54078",
       "title": "IKEA Bistro",
-      "short_name": "IKEA Bistr",
-      "badge_text": "I",
+      "title_en": "IKEA Bistro",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "keywords": [
-        "IKEA",
-        "IKEA Bistro"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikeabistro-e746e6.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikeabistro-e746e6",
         "wikidata": "Q54078"
@@ -402,23 +1241,12 @@
     "ikearestaurant_q54078": {
       "slug": "ikearestaurant_q54078",
       "title": "IKEA Restaurant",
-      "short_name": "IKEA Resta",
-      "badge_text": "I",
+      "title_en": "IKEA Restaurant",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "keywords": [
-        "IKEA Restaurant",
-        "IKEA"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/ikearestaurant-15fdc5.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "ikearestaurant-15fdc5",
         "wikidata": "Q54078"
@@ -427,21 +1255,12 @@
     "indiracanteen_q36164828": {
       "slug": "indiracanteen_q36164828",
       "title": "Indira Canteen",
-      "short_name": "Indira Can",
-      "badge_text": "I",
+      "title_en": "Indira Canteen",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Indira Canteen"
-      ],
-      "keywords": [
-        "Indira Canteen"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indiracanteen-aba431.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "indiracanteen-aba431",
         "wikidata": "Q36164828"
@@ -450,21 +1269,12 @@
     "jumboking_q6310895": {
       "slug": "jumboking_q6310895",
       "title": "Jumbo King",
-      "short_name": "Jumbo King",
-      "badge_text": "J",
+      "title_en": "Jumbo King",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Jumbo King"
-      ],
-      "keywords": [
-        "Jumbo King"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jumboking-aba431.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "jumboking-aba431",
         "wikidata": "Q6310895"
@@ -473,21 +1283,12 @@
     "kaatizone_q6343638": {
       "slug": "kaatizone_q6343638",
       "title": "KaatiZone",
-      "short_name": "KaatiZone",
-      "badge_text": "K",
+      "title_en": "KaatiZone",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "KaatiZone"
-      ],
-      "keywords": [
-        "KaatiZone"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kaatizone-aba431.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kaatizone-aba431",
         "wikidata": "Q6343638"
@@ -495,22 +1296,13 @@
     },
     "kfcindiapakistan_q524757": {
       "slug": "kfcindiapakistan_q524757",
-      "title": "KFC (India/Pakistan)",
-      "short_name": "KFC (India",
-      "badge_text": "K",
+      "title": "केएफसी",
+      "title_en": "KFC",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "KFC"
-      ],
-      "keywords": [
-        "KFC"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/kfc-c522e4.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "kfc-c522e4",
         "wikidata": "Q524757"
@@ -519,21 +1311,12 @@
     "pretamanger_q2109109": {
       "slug": "pretamanger_q2109109",
       "title": "Pret A Manger",
-      "short_name": "Pret A Man",
-      "badge_text": "P",
+      "title_en": "Pret A Manger",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Pret A Manger"
-      ],
-      "keywords": [
-        "Pret A Manger"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pretamanger-a11118.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pretamanger-a11118",
         "wikidata": "Q2109109"
@@ -542,21 +1325,12 @@
     "smokinjoes_q7546011": {
       "slug": "smokinjoes_q7546011",
       "title": "Smokin' Joe's",
-      "short_name": "Smokin' Jo",
-      "badge_text": "S",
+      "title_en": "Smokin' Joe's",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Smokin' Joe's"
-      ],
-      "keywords": [
-        "Smokin' Joe's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/smokinjoes-d1dde8.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "smokinjoes-d1dde8",
         "wikidata": "Q7546011"
@@ -565,21 +1339,12 @@
     "southernfriedchicken_q7569934": {
       "slug": "southernfriedchicken_q7569934",
       "title": "Southern Fried Chicken",
-      "short_name": "Southern F",
-      "badge_text": "S",
+      "title_en": "Southern Fried Chicken",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Southern Fried Chicken"
-      ],
-      "keywords": [
-        "Southern Fried Chicken"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/southernfriedchicken-a6761c.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "southernfriedchicken-a6761c",
         "wikidata": "Q7569934"
@@ -588,21 +1353,12 @@
     "tacobell_q752941": {
       "slug": "tacobell_q752941",
       "title": "Taco Bell",
-      "short_name": "Taco Bell",
-      "badge_text": "T",
+      "title_en": "Taco Bell",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Taco Bell"
-      ],
-      "keywords": [
-        "Taco Bell"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/tacobell-a1c9df.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "tacobell-a1c9df",
         "wikidata": "Q752941"
@@ -611,21 +1367,12 @@
     "therameshwaramcafe_q124374630": {
       "slug": "therameshwaramcafe_q124374630",
       "title": "The Rameshwaram Cafe",
-      "short_name": "The Ramesh",
-      "badge_text": "T",
+      "title_en": "The Rameshwaram Cafe",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "The Rameshwaram Cafe"
-      ],
-      "keywords": [
-        "The Rameshwaram Cafe"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/therameshwaramcafe-aba431.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "therameshwaramcafe-aba431",
         "wikidata": "Q124374630"
@@ -634,21 +1381,12 @@
     "woktowalk_q4020634": {
       "slug": "woktowalk_q4020634",
       "title": "Wok to Walk",
-      "short_name": "Wok to Wal",
-      "badge_text": "W",
+      "title_en": "Wok to Walk",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wok to Walk"
-      ],
-      "keywords": [
-        "Wok to Walk"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/woktowalk-f5ada9.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "woktowalk-f5ada9",
         "wikidata": "Q4020634"
@@ -657,44 +1395,250 @@
     "wowmomo_q8037446": {
       "slug": "wowmomo_q8037446",
       "title": "Wow! Momo",
-      "short_name": "Wow! Momo",
-      "badge_text": "W",
+      "title_en": "Wow! Momo",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "Wow! Momo"
-      ],
-      "keywords": [
-        "Wow! Momo"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wowmomo-aba431.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "wowmomo-aba431",
         "wikidata": "Q8037446"
       }
     },
+    "apollopharmacy_q62562612": {
+      "slug": "apollopharmacy_q62562612",
+      "title": "Apollo Pharmacy",
+      "title_en": "Apollo Pharmacy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/apollopharmacy-95192b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "apollopharmacy-95192b",
+        "wikidata": "Q62562612"
+      }
+    },
+    "davaindia_q126740400": {
+      "slug": "davaindia_q126740400",
+      "title": "Davaindia Generic Pharmacy",
+      "title_en": "Davaindia Generic Pharmacy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/davaindiagenericpharmacy-95192b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "davaindiagenericpharmacy-95192b",
+        "wikidata": "Q126740400"
+      }
+    },
+    "frankrosspharmacy_q134608440": {
+      "slug": "frankrosspharmacy_q134608440",
+      "title": "Frank Ross Pharmacy",
+      "title_en": "Frank Ross Pharmacy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/frankrosspharmacy-95192b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "frankrosspharmacy-95192b",
+        "wikidata": "Q134608440"
+      }
+    },
+    "janaushadhi_q39058281": {
+      "slug": "janaushadhi_q39058281",
+      "title": "Jan Aushadhi",
+      "title_en": "Jan Aushadhi",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "janaushadhi-95192b",
+        "wikidata": "Q39058281"
+      }
+    },
+    "medplus_q65684234": {
+      "slug": "medplus_q65684234",
+      "title": "MedPlus",
+      "title_en": "MedPlus",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/medplus-95192b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "medplus-95192b",
+        "wikidata": "Q65684234"
+      }
+    },
+    "neethimedicalstore_q99960935": {
+      "slug": "neethimedicalstore_q99960935",
+      "title": "Neethi Medical Store",
+      "title_en": "Neethi Medical Store",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "neethimedicalstore-95192b",
+        "wikidata": "Q99960935"
+      }
+    },
+    "supplycomedicalstore_q99614176": {
+      "slug": "supplycomedicalstore_q99614176",
+      "title": "Supplyco Medical Store",
+      "title_en": "Supplyco Medical Store",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "supplycomedicalstore-95192b",
+        "wikidata": "Q99614176"
+      }
+    },
+    "wellnessforever_q123114721": {
+      "slug": "wellnessforever_q123114721",
+      "title": "Wellness Forever",
+      "title_en": "Wellness Forever",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/wellnessforever-95192b.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "wellnessforever-95192b",
+        "wikidata": "Q123114721"
+      }
+    },
+    "zeelabpharmacy_q123015627": {
+      "slug": "zeelabpharmacy_q123015627",
+      "title": "Zeelab Pharmacy",
+      "title_en": "Zeelab Pharmacy",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/zeelabpharmacy-95192b.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "zeelabpharmacy-95192b",
+        "wikidata": "Q123015627"
+      }
+    },
+    "inoxleisure_q5972349": {
+      "slug": "inoxleisure_q5972349",
+      "title": "INOX Leisure",
+      "title_en": "INOX Leisure",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/inoxleisure-41b2b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "inoxleisure-41b2b7",
+        "wikidata": "Q5972349"
+      }
+    },
+    "pvrcinemas_q3359908": {
+      "slug": "pvrcinemas_q3359908",
+      "title": "PVR Cinemas",
+      "title_en": "PVR Cinemas",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pvrcinemas-41b2b7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "pvrcinemas-41b2b7",
+        "wikidata": "Q3359908"
+      }
+    },
+    "cornerhouse_q124374322": {
+      "slug": "cornerhouse_q124374322",
+      "title": "Corner House",
+      "title_en": "Corner House",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "cornerhouse-c284d9",
+        "wikidata": "Q124374322"
+      }
+    },
+    "gelatissimo_q105270111": {
+      "slug": "gelatissimo_q105270111",
+      "title": "Gelatissimo",
+      "title_en": "Gelatissimo",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/gelatissimo-17af97.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "gelatissimo-17af97",
+        "wikidata": "Q105270111"
+      }
+    },
+    "menchies_q6816528": {
+      "slug": "menchies_q6816528",
+      "title": "Menchie's",
+      "title_en": "Menchie's",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/menchies-411174.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "menchies-411174",
+        "wikidata": "Q6816528"
+      }
+    },
+    "naturals_q24439154": {
+      "slug": "naturals_q24439154",
+      "title": "Naturals",
+      "title_en": "Naturals",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/naturals-c284d9.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "naturals-c284d9",
+        "wikidata": "Q24439154"
+      }
+    },
+    "polarbear_q124374249": {
+      "slug": "polarbear_q124374249",
+      "title": "Polar Bear",
+      "title_en": "Polar Bear",
+      "category": "food",
+      "sub_category": "bakery",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "polarbear-c284d9",
+        "wikidata": "Q124374249"
+      }
+    },
     "anjapparchettinadrestaurant_q4765786": {
       "slug": "anjapparchettinadrestaurant_q4765786",
       "title": "Anjappar Chettinad Restaurant",
-      "short_name": "Anjappar C",
-      "badge_text": "A",
+      "title_en": "Anjappar Chettinad Restaurant",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Anjappar Chettinad Restaurant"
-      ],
-      "keywords": [
-        "Anjappar Chettinad Restaurant"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anjapparchettinadrestaurant-d9e7a3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "anjapparchettinadrestaurant-d9e7a3",
         "wikidata": "Q4765786"
@@ -703,21 +1647,12 @@
     "barbequenation_q4859568": {
       "slug": "barbequenation_q4859568",
       "title": "Barbeque Nation",
-      "short_name": "Barbeque N",
-      "badge_text": "B",
+      "title_en": "Barbeque Nation",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Barbeque Nation"
-      ],
-      "keywords": [
-        "Barbeque Nation"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/barbequenation-1f583a.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "barbequenation-1f583a",
         "wikidata": "Q4859568"
@@ -726,21 +1661,12 @@
     "bhartiyajalpan_q124374711": {
       "slug": "bhartiyajalpan_q124374711",
       "title": "Bhartiya Jalpan",
-      "short_name": "Bhartiya J",
-      "badge_text": "B",
+      "title_en": "Bhartiya Jalpan",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Bhartiya Jalpan"
-      ],
-      "keywords": [
-        "Bhartiya Jalpan"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "bhartiyajalpan-d9e7a3",
         "wikidata": "Q124374711"
@@ -749,21 +1675,12 @@
     "brikoven_q124374702": {
       "slug": "brikoven_q124374702",
       "title": "Brik Oven",
-      "short_name": "Brik Oven",
-      "badge_text": "B",
+      "title_en": "Brik Oven",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Brik Oven"
-      ],
-      "keywords": [
-        "Brik Oven"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/brikoven-d9e7a3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "brikoven-d9e7a3",
         "wikidata": "Q124374702"
@@ -772,21 +1689,12 @@
     "cafenoir_q124374751": {
       "slug": "cafenoir_q124374751",
       "title": "Cafe Noir",
-      "short_name": "Cafe Noir",
-      "badge_text": "C",
+      "title_en": "Cafe Noir",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Cafe Noir"
-      ],
-      "keywords": [
-        "Cafe Noir"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cafenoir-d9e7a3.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cafenoir-d9e7a3",
         "wikidata": "Q124374751"
@@ -795,21 +1703,12 @@
     "californiaburrito_q124374596": {
       "slug": "californiaburrito_q124374596",
       "title": "California Burrito",
-      "short_name": "California",
-      "badge_text": "C",
+      "title_en": "California Burrito",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "California Burrito"
-      ],
-      "keywords": [
-        "California Burrito"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/californiaburrito-d9e7a3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "californiaburrito-d9e7a3",
         "wikidata": "Q124374596"
@@ -818,21 +1717,12 @@
     "chinita_q124374771": {
       "slug": "chinita_q124374771",
       "title": "Chinita",
-      "short_name": "Chinita",
-      "badge_text": "C",
+      "title_en": "Chinita",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Chinita"
-      ],
-      "keywords": [
-        "Chinita"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "chinita-d9e7a3",
         "wikidata": "Q124374771"
@@ -841,21 +1731,12 @@
     "cocoichibanya_q5986105": {
       "slug": "cocoichibanya_q5986105",
       "title": "CoCo Ichibanya",
-      "short_name": "CoCo Ichib",
-      "badge_text": "C",
+      "title_en": "CoCo Ichibanya",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "CoCo Ichibanya"
-      ],
-      "keywords": [
-        "CoCo Ichibanya"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/cocoichibanya-84891e.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "cocoichibanya-84891e",
         "wikidata": "Q5986105"
@@ -864,21 +1745,12 @@
     "dailysushi_q124374644": {
       "slug": "dailysushi_q124374644",
       "title": "Daily Sushi",
-      "short_name": "Daily Sush",
-      "badge_text": "D",
+      "title_en": "Daily Sushi",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Daily Sushi"
-      ],
-      "keywords": [
-        "Daily Sushi"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dailysushi-d9e7a3.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dailysushi-d9e7a3",
         "wikidata": "Q124374644"
@@ -887,21 +1759,12 @@
     "dindigulthalappakattirestaurant_q16312263": {
       "slug": "dindigulthalappakattirestaurant_q16312263",
       "title": "Dindigul Thalappakatti Restaurant",
-      "short_name": "Dindigul T",
-      "badge_text": "D",
+      "title_en": "Dindigul Thalappakatti Restaurant",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Dindigul Thalappakatti Restaurant"
-      ],
-      "keywords": [
-        "Dindigul Thalappakatti Restaurant"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/dindigulthalappakattirestaurant-d9e7a3.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "dindigulthalappakattirestaurant-d9e7a3",
         "wikidata": "Q16312263"
@@ -910,21 +1773,12 @@
     "empire_q124374511": {
       "slug": "empire_q124374511",
       "title": "Empire",
-      "short_name": "Empire",
-      "badge_text": "E",
+      "title_en": "Empire",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Empire"
-      ],
-      "keywords": [
-        "Empire"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "empire-d9e7a3",
         "wikidata": "Q124374511"
@@ -933,21 +1787,12 @@
     "habibifalafel_q124374610": {
       "slug": "habibifalafel_q124374610",
       "title": "Habibi Falafel",
-      "short_name": "Habibi Fal",
-      "badge_text": "H",
+      "title_en": "Habibi Falafel",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Habibi Falafel"
-      ],
-      "keywords": [
-        "Habibi Falafel"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "habibifalafel-d9e7a3",
         "wikidata": "Q124374610"
@@ -956,21 +1801,12 @@
     "indiancoffeehouse_q3595301": {
       "slug": "indiancoffeehouse_q3595301",
       "title": "Indian Coffee House",
-      "short_name": "Indian Cof",
-      "badge_text": "I",
+      "title_en": "Indian Coffee House",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Indian Coffee House"
-      ],
-      "keywords": [
-        "Indian Coffee House"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indiancoffeehouse-d9e7a3.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "indiancoffeehouse-d9e7a3",
         "wikidata": "Q3595301"
@@ -979,21 +1815,12 @@
     "nandos_q3472954": {
       "slug": "nandos_q3472954",
       "title": "Nando's",
-      "short_name": "Nando's",
-      "badge_text": "N",
+      "title_en": "Nando's",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Nando's"
-      ],
-      "keywords": [
-        "Nando's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nandos-32ebee.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nandos-32ebee",
         "wikidata": "Q3472954"
@@ -1002,21 +1829,12 @@
     "parispanini_q124374583": {
       "slug": "parispanini_q124374583",
       "title": "Paris Panini",
-      "short_name": "Paris Pani",
-      "badge_text": "P",
+      "title_en": "Paris Panini",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Paris Panini"
-      ],
-      "keywords": [
-        "Paris Panini"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/parispanini-d9e7a3.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "parispanini-d9e7a3",
         "wikidata": "Q124374583"
@@ -1025,21 +1843,12 @@
     "pizzaexpress_q662845": {
       "slug": "pizzaexpress_q662845",
       "title": "PizzaExpress",
-      "short_name": "PizzaExpre",
-      "badge_text": "P",
+      "title_en": "PizzaExpress",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "PizzaExpress"
-      ],
-      "keywords": [
-        "PizzaExpress"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/pizzaexpress-ebbd3d.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "pizzaexpress-ebbd3d",
         "wikidata": "Q662845"
@@ -1048,21 +1857,12 @@
     "punjabgrill_q124374761": {
       "slug": "punjabgrill_q124374761",
       "title": "Punjab Grill",
-      "short_name": "Punjab Gri",
-      "badge_text": "P",
+      "title_en": "Punjab Grill",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Punjab Grill"
-      ],
-      "keywords": [
-        "Punjab Grill"
-      ],
-      "package_hints": [],
       "icon_url": null,
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "punjabgrill-d9e7a3",
         "wikidata": "Q124374761"
@@ -1071,21 +1871,12 @@
     "thepizzabakery_q124374570": {
       "slug": "thepizzabakery_q124374570",
       "title": "The Pizza Bakery",
-      "short_name": "The Pizza ",
-      "badge_text": "T",
+      "title_en": "The Pizza Bakery",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "The Pizza Bakery"
-      ],
-      "keywords": [
-        "The Pizza Bakery"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/thepizzabakery-4478cd.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "thepizzabakery-4478cd",
         "wikidata": "Q124374570"
@@ -1094,24 +1885,169 @@
     "unopizzeriagrill_q7897209": {
       "slug": "unopizzeriagrill_q7897209",
       "title": "Uno Pizzeria & Grill",
-      "short_name": "Uno Pizzer",
-      "badge_text": "U",
+      "title_en": "Uno Pizzeria & Grill",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Uno Pizzeria & Grill"
-      ],
-      "keywords": [
-        "Uno Pizzeria & Grill"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/unopizzeriaandgrill-76ab79.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "unopizzeriaandgrill-76ab79",
         "wikidata": "Q7897209"
+      }
+    },
+    "anganvady": {
+      "slug": "anganvady",
+      "title": "Anganvady",
+      "title_en": "Anganvady",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "anganvady-115c62",
+        "wikidata": ""
+      }
+    },
+    "anganwadi_q16251231": {
+      "slug": "anganwadi_q16251231",
+      "title": "आँगनवाडी",
+      "title_en": "Anganwadi",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/anganwadi-115c62.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "anganwadi-115c62",
+        "wikidata": "Q16251231"
+      }
+    },
+    "bharatpetroleum_q854826": {
+      "slug": "bharatpetroleum_q854826",
+      "title": "Bharat Petroleum",
+      "title_en": "Bharat Petroleum",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/bharatpetroleum-989925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "bharatpetroleum-989925",
+        "wikidata": "Q854826"
+      }
+    },
+    "essar_q5399372": {
+      "slug": "essar_q5399372",
+      "title": "Essar",
+      "title_en": "Essar",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": null,
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "essar-853965",
+        "wikidata": "Q5399372"
+      }
+    },
+    "hp_q1619375": {
+      "slug": "hp_q1619375",
+      "title": "Hindustan Petroleum",
+      "title_en": "Hindustan Petroleum",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/hindustanpetroleum-989925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "hindustanpetroleum-989925",
+        "wikidata": "Q1619375"
+      }
+    },
+    "iglindraprasthagaslimited_q125553945": {
+      "slug": "iglindraprasthagaslimited_q125553945",
+      "title": "IGL",
+      "title_en": "IGL",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/igl-989925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "igl-989925",
+        "wikidata": "Q125553945"
+      }
+    },
+    "indianoil_q1289348": {
+      "slug": "indianoil_q1289348",
+      "title": "Indian Oil",
+      "title_en": "Indian Oil",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/indianoil-989925.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "indianoil-989925",
+        "wikidata": "Q1289348"
+      }
+    },
+    "jiobp_q7311026": {
+      "slug": "jiobp_q7311026",
+      "title": "जियो-बीपी",
+      "title_en": "Jio-BP",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/jiobp-989925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "jiobp-989925",
+        "wikidata": "Q7311026"
+      }
+    },
+    "nayara_q5399377": {
+      "slug": "nayara_q5399377",
+      "title": "Nayara",
+      "title_en": "Nayara",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nayara-989925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nayara-989925",
+        "wikidata": "Q5399377"
+      }
+    },
+    "relianceindia_q908931": {
+      "slug": "relianceindia_q908931",
+      "title": "Reliance",
+      "title_en": "Reliance",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/reliance-989925.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "reliance-989925",
+        "wikidata": "Q908931"
+      }
+    },
+    "yulu_q104871276": {
+      "slug": "yulu_q104871276",
+      "title": "Yulu",
+      "title_en": "Yulu",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/yulu-6d1b20.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "yulu-6d1b20",
+        "wikidata": "Q104871276"
       }
     }
   }

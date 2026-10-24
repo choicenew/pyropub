@@ -1,8 +1,11 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "ps",
-  "total_categories": 1,
+  "country_name": "PS",
+  "total_categories": 2,
   "manifest_files": [
+    "supermarket.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

@@ -1,10 +1,13 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "cy",
-  "total_categories": 3,
+  "country_name": "CY",
+  "total_categories": 4,
   "manifest_files": [
     "food.json",
     "supermarket.json",
+    "express.json",
     "drink.json"
-  ]
+  ],
+  "version": 1
 }

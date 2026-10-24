@@ -7,8 +7,22 @@
     "train": {
       "type_name": "Train / High-Speed Rail",
       "text_triggers": [
-        "Train", "Rail", "Railway", "Express", "Platform", "Coach", "Carriage", "Track",
-        "Seat", "Booking Reference", "Departure", "Arrival", "Station", "Amtrak", "Eurostar", "Thalys"
+        "Train",
+        "Rail",
+        "Railway",
+        "Express",
+        "Platform",
+        "Coach",
+        "Carriage",
+        "Track",
+        "Seat",
+        "Booking Reference",
+        "Departure",
+        "Arrival",
+        "Station",
+        "Amtrak",
+        "Eurostar",
+        "Thalys"
       ],
       "service_number_patterns": [
         "(?:Train|Rail|Service)\\s*#?\\s*([A-Z0-9]{2,8})",
@@ -21,12 +35,28 @@
         "(?:Car|Coach|Carriage)\\s*(\\d{1,2})\\s*(?:Seat)?\\s*(\\d{1,2}[A-K]?)",
         "(?:Seat)\\s*#?\\s*(\\d{1,2}[A-K]?)"
       ],
-      "class_keywords": ["First Class", "Second Class", "Business Class", "Standard", "Sleeper"]
+      "class_keywords": [
+        "First Class",
+        "Second Class",
+        "Business Class",
+        "Standard",
+        "Sleeper"
+      ]
     },
     "flight": {
       "type_name": "Flight / Boarding Pass",
       "text_triggers": [
-        "Flight", "Airline", "Boarding Pass", "Gate", "Terminal", "Seat", "Economy", "Business Class", "First Class", "Check-in", "Departure Time"
+        "Flight",
+        "Airline",
+        "Boarding Pass",
+        "Gate",
+        "Terminal",
+        "Seat",
+        "Economy",
+        "Business Class",
+        "First Class",
+        "Check-in",
+        "Departure Time"
       ],
       "service_number_patterns": [
         "([A-Z0-9]{2}\\s*\\d{3,4})",
@@ -38,12 +68,24 @@
       "seat_patterns": [
         "(?:Seat|SEAT)\\s*([A-Z0-9]{2,4})"
       ],
-      "class_keywords": ["First Class", "Business", "Premium Economy", "Economy"]
+      "class_keywords": [
+        "First Class",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ]
     },
     "bus": {
       "type_name": "Intercity Bus / Coach",
       "text_triggers": [
-        "Bus", "Coach", "Terminal", "Gate", "Seat", "Intercity", "FlixBus", "Greyhound"
+        "Bus",
+        "Coach",
+        "Terminal",
+        "Gate",
+        "Seat",
+        "Intercity",
+        "FlixBus",
+        "Greyhound"
       ],
       "gate_patterns": [
         "(?:Gate|Bay|Door|Platform)\\s*#?\\s*([A-Z0-9]{1,4})"
@@ -55,7 +97,13 @@
     "ferry": {
       "type_name": "Ferry / Cruise / Boat",
       "text_triggers": [
-        "Ferry", "Cruise", "Pier", "Dock", "Berth", "Cabin", "Deck"
+        "Ferry",
+        "Cruise",
+        "Pier",
+        "Dock",
+        "Berth",
+        "Cabin",
+        "Deck"
       ],
       "gate_patterns": [
         "(?:Pier|Dock|Berth|Gate)\\s*#?\\s*([A-Z0-9]{1,4})"
@@ -64,5 +112,7 @@
         "(?:Deck|Cabin|Seat)\\s*#?\\s*([A-Z0-9]{1,6})"
       ]
     }
-  }
+  },
+  "type": "travel_rules",
+  "version": 1
 }

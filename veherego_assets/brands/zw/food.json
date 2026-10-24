@@ -1,27 +1,62 @@
 {
-  "type": "brand",
+  "type": "brand_catalog",
   "version": 6,
   "source": "nsi_auto_generated",
-  "total_brands": 5,
+  "country": "zw",
+  "category": "food",
+  "total_brands": 9,
   "brand_aliases": {
+    "oldmutual_q289704": {
+      "slug": "oldmutual_q289704",
+      "title": "Old Mutual",
+      "title_en": "Old Mutual",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oldmutual-ff45b4.png",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "oldmutual-ff45b4",
+        "wikidata": "Q289704"
+      }
+    },
+    "agribankzimbabwe_q4693887": {
+      "slug": "agribankzimbabwe_q4693887",
+      "title": "Agribank",
+      "title_en": "Agribank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/agribank-ce50d7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "agribank-ce50d7",
+        "wikidata": "Q4693887"
+      }
+    },
+    "nmbbankzimbabwe_q17107908": {
+      "slug": "nmbbankzimbabwe_q17107908",
+      "title": "NMB Bank",
+      "title_en": "NMB Bank",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nmbbank-ce50d7.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "nmbbank-ce50d7",
+        "wikidata": "Q17107908"
+      }
+    },
     "rocogo_q123034964": {
       "slug": "rocogo_q123034964",
       "title": "RocoGo",
-      "short_name": "RocoGo",
-      "badge_text": "R",
+      "title_en": "RocoGo",
       "category": "food",
       "sub_category": "fast_food",
       "color": "#F97316",
-      "aliases": [
-        "RocoGo"
-      ],
-      "keywords": [
-        "RocoGo"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocogo-0f34ca.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rocogo-0f34ca",
         "wikidata": "Q123034964"
@@ -30,21 +65,12 @@
     "nandos_q3472954": {
       "slug": "nandos_q3472954",
       "title": "Nando's",
-      "short_name": "Nando's",
-      "badge_text": "N",
+      "title_en": "Nando's",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Nando's"
-      ],
-      "keywords": [
-        "Nando's"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/nandos-32ebee.png",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "nandos-32ebee",
         "wikidata": "Q3472954"
@@ -53,21 +79,12 @@
     "oceanbasket_q62075311": {
       "slug": "oceanbasket_q62075311",
       "title": "Ocean Basket",
-      "short_name": "Ocean Bask",
-      "badge_text": "O",
+      "title_en": "Ocean Basket",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Ocean Basket"
-      ],
-      "keywords": [
-        "Ocean Basket"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/oceanbasket-5d9698.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "oceanbasket-5d9698",
         "wikidata": "Q62075311"
@@ -76,21 +93,12 @@
     "rocomamas_q123034964": {
       "slug": "rocomamas_q123034964",
       "title": "RocoMamas",
-      "short_name": "RocoMamas",
-      "badge_text": "R",
+      "title_en": "RocoMamas",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "RocoMamas"
-      ],
-      "keywords": [
-        "RocoMamas"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/rocomamas-a7acfa.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "rocomamas-a7acfa",
         "wikidata": "Q123034964"
@@ -99,24 +107,29 @@
     "spur_q7581546": {
       "slug": "spur_q7581546",
       "title": "Spur",
-      "short_name": "Spur",
-      "badge_text": "S",
+      "title_en": "Spur",
       "category": "food",
       "sub_category": "restaurant",
       "color": "#F97316",
-      "aliases": [
-        "Spur"
-      ],
-      "keywords": [
-        "Spur"
-      ],
-      "package_hints": [],
       "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/spur-efd5c1.jpg",
       "domain": null,
-      "forces_pickup_scene": true,
       "custom_metadata": {
         "nsi_id": "spur-efd5c1",
         "wikidata": "Q7581546"
+      }
+    },
+    "shiptech_q116894475": {
+      "slug": "shiptech_q116894475",
+      "title": "Shiptech",
+      "title_en": "Shiptech",
+      "category": "food",
+      "sub_category": "general",
+      "color": "#F97316",
+      "icon_url": "https://raw.githubusercontent.com/choicenew/name-suggestion-index/main/localbrand/logo/shiptech-ddc474.jpg",
+      "domain": null,
+      "custom_metadata": {
+        "nsi_id": "shiptech-ddc474",
+        "wikidata": "Q116894475"
       }
     }
   }

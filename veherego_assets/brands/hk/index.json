@@ -1,11 +1,15 @@
 {
-  "type": "brand_index",
+  "type": "brand_catalog_index",
   "country": "hk",
-  "total_categories": 4,
+  "country_name": "香港",
+  "total_categories": 6,
   "manifest_files": [
+    "other.json",
     "drink.json",
     "food.json",
     "supermarket.json",
-    "express.json"
-  ]
+    "express.json",
+    "travel.json"
+  ],
+  "version": 1
 }
