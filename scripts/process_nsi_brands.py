@@ -158,7 +158,9 @@ def process_brands():
 
                 brand_item = {
                     "slug": slug,
+                    "name": local_title,
                     "title": local_title,
+                    "name_en": en_fallback,
                     "title_en": en_fallback,
                     "category": cat,
                     "sub_category": sub_cat,
