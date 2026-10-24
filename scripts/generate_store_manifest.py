@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+from validate_and_generate_assets import run_all_asset_cleaners
 
 WORKSPACE = os.environ.get('GITHUB_WORKSPACE', os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 VEHEREGO_ASSETS_DIR = os.path.join(WORKSPACE, 'veherego_assets')
@@ -107,6 +108,9 @@ def count_items_in_json_file(abs_path):
     return 0
 
 def generate_store_manifest():
+    # 1. 运行全量资产标头标准化清洗
+    run_all_asset_cleaners()
+
     all_sources = []
 
     def register_official_file(rel_path, res_type, c_code):

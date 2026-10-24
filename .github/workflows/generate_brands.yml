@@ -37,6 +37,11 @@ jobs:
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
 
+      - name: Run Total Asset JSON Header Cleaner
+        run: python scripts/validate_and_generate_assets.py
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+
       - name: Run Store Catalog Manifest Generator
         run: python scripts/generate_store_manifest.py
         env:
