@@ -1,4 +1,5 @@
 {
+  "type": "app_rules",
   "schema_version": 1,
   "locale": "zh",
   "description": "VehereGo Chinese default rules pack",
@@ -53,7 +54,7 @@
   },
   "code_extraction": {
     "express": {
-      "trigger_keywords": ["取件码", "取件码为", "取件码是", "取性码", "请凭", "靖凭"],
+      "trigger_keywords": ["取件码", "取件码为", "取件码是", "取件码", "请凭", "靖凭", "凭", "快递柜", "驿站"],
       "hint_keywords": ["取件", "快递", "包裹", "已到", "取件码"]
     },
     "food": {
