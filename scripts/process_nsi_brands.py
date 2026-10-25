@@ -62,7 +62,7 @@ def generate_slug(display_name, wikidata, item_id=""):
     return slug or "unknown_brand"
 
 def process_brands():
-    """从 NSI 上游提取全球品牌并自动导出为分类 brand_catalog 与国家 brand_catalog_index JSON"""
+    """从 NSI 上游提取全球品牌并自动导出为分类 brand_catalog 与国家 brand_catalog_index JSON (100% 纯净名属性: name)"""
     os.makedirs(BRANDS_OUT_DIR, exist_ok=True)
 
     logo_manifest = {}
@@ -159,9 +159,7 @@ def process_brands():
                 brand_item = {
                     "slug": slug,
                     "name": local_title,
-                    "title": local_title,
                     "name_en": en_fallback,
-                    "title_en": en_fallback,
                     "category": cat,
                     "sub_category": sub_cat,
                     "color": default_color,

@@ -14,7 +14,7 @@ DIRECTORY_TYPE_MAP = {
 }
 
 def clean_file_header(file_path, expected_type):
-    """强制覆写为 100% 统一规范的标准 2-word snake_case 标头"""
+    """强制覆写为 100% 统一规范的标准 2-word snake_case 标头与纯净属性名 name"""
     if not os.path.exists(file_path):
         return
     try:
@@ -26,14 +26,27 @@ def clean_file_header(file_path, expected_type):
             if 'version' not in data:
                 data['version'] = 1
 
+            # 全量清洗 brand_aliases 内部键名：title -> name, title_en -> name_en
+            if 'brand_aliases' in data and isinstance(data['brand_aliases'], dict):
+                for item in data['brand_aliases'].values():
+                    if isinstance(item, dict):
+                        if 'title' in item:
+                            if 'name' not in item or not item['name']:
+                                item['name'] = item['title']
+                            del item['title']
+                        if 'title_en' in item:
+                            if 'name_en' not in item or not item['name_en']:
+                                item['name_en'] = item['title_en']
+                            del item['title_en']
+
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            print(f"[OK] Normalized: {os.path.relpath(file_path, VEHEREGO_ASSETS_DIR)} -> type: '{expected_type}'")
+            print(f"[OK] Normalized: {os.path.relpath(file_path, VEHEREGO_ASSETS_DIR)} -> type: '{expected_type}' & pure name")
     except Exception as e:
         print(f"[Error] Failed to normalize {file_path}: {e}")
 
 def run_all_asset_cleaners():
-    print("Starting total asset JSON header normalization (Dict Map Driven)...")
+    print("Starting total asset JSON header & key normalization...")
 
     # 1. 基础领域目录驱动清洗 (rules, dictionaries, travel, identity)
     for dir_name, target_type in DIRECTORY_TYPE_MAP.items():
@@ -55,7 +68,7 @@ def run_all_asset_cleaners():
         if not cat_file.endswith('index.json'):
             clean_file_header(cat_file, 'brand_catalog')
 
-    print("Total asset JSON header normalization completed cleanly!")
+    print("Total asset JSON header & key normalization completed cleanly!")
 
 if __name__ == "__main__":
     run_all_asset_cleaners()
