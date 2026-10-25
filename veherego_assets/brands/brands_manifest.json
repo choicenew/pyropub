@@ -22,7 +22,6 @@
   "brand_aliases": {
     "cainiao": {
       "slug": "cainiao",
-      "title": "菜鸟驿站",
       "short_name": "菜鸟驿站",
       "badge_text": "鸟",
       "category": "express",
@@ -54,11 +53,11 @@
         "cainiao://",
         "taobao://"
       ],
-      "supports_identity_code": true
+      "supports_identity_code": true,
+      "name": "菜鸟驿站"
     },
     "taobao": {
       "slug": "taobao",
-      "title": "淘宝",
       "short_name": "淘宝",
       "badge_text": "淘",
       "category": "express",
@@ -88,11 +87,11 @@
         "taobao://",
         "tbopen://"
       ],
-      "supports_identity_code": true
+      "supports_identity_code": true,
+      "name": "淘宝"
     },
     "pinduoduo": {
       "slug": "pinduoduo",
-      "title": "拼多多",
       "short_name": "拼多多",
       "badge_text": "拼",
       "category": "express",
@@ -123,11 +122,11 @@
         "pinduoduo://com.xunmeng.pinduoduo/",
         "pinduoduo://"
       ],
-      "supports_identity_code": true
+      "supports_identity_code": true,
+      "name": "拼多多"
     },
     "sfexpress": {
       "slug": "sfexpress",
-      "title": "顺丰速运",
       "short_name": "顺丰",
       "badge_text": "顺",
       "category": "express",
@@ -159,11 +158,11 @@
         "sfexpress://track?mailNo={code}",
         "sfexpress://",
         "sf-express://"
-      ]
+      ],
+      "name": "顺丰速运"
     },
     "fengchao": {
       "slug": "fengchao",
-      "title": "丰巢自提柜",
       "short_name": "丰巢",
       "badge_text": "巢",
       "category": "express",
@@ -192,11 +191,11 @@
       "pickup_schemes": [
         "fcbox://",
         "hivebox://"
-      ]
+      ],
+      "name": "丰巢自提柜"
     },
     "jdlogistics": {
       "slug": "jdlogistics",
-      "title": "京东物流",
       "short_name": "京东物流",
       "badge_text": "东",
       "category": "express",
@@ -227,11 +226,11 @@
       "pickup_schemes": [
         "openapp.jdmobile://virtual?params=%7B%22category%22%3A%22jump%22%2C%22des%22%3A%22view_wuliu%22%2C%22orderId%22%3A%22{code}%22%7D",
         "openapp.jdmobile://"
-      ]
+      ],
+      "name": "京东物流"
     },
     "zto": {
       "slug": "zto",
-      "title": "中通快递",
       "short_name": "中通快递",
       "badge_text": "中",
       "category": "express",
@@ -255,11 +254,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "中通快递"
     },
     "yto": {
       "slug": "yto",
-      "title": "圆通速递",
       "short_name": "圆通",
       "badge_text": "圆",
       "category": "express",
@@ -283,11 +282,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "圆通速递"
     },
     "yunda": {
       "slug": "yunda",
-      "title": "韵达快递",
       "short_name": "韵达快递",
       "badge_text": "韵",
       "category": "express",
@@ -311,11 +310,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "韵达快递"
     },
     "sto": {
       "slug": "sto",
-      "title": "申通快递",
       "short_name": "申通快递",
       "badge_text": "申",
       "category": "express",
@@ -339,11 +338,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "申通快递"
     },
     "jtexpress": {
       "slug": "jtexpress",
-      "title": "极兔速递",
       "short_name": "极兔",
       "badge_text": "极",
       "category": "express",
@@ -367,11 +366,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "极兔速递"
     },
     "deppon": {
       "slug": "deppon",
-      "title": "德邦快递",
       "short_name": "德邦快递",
       "badge_text": "德",
       "category": "express",
@@ -395,11 +394,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "德邦快递"
     },
     "chinapost": {
       "slug": "chinapost",
-      "title": "中国邮政 EMS",
       "short_name": "邮政 EMS",
       "badge_text": "邮",
       "category": "express",
@@ -424,11 +423,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "中国邮政 EMS"
     },
     "tuxi": {
       "slug": "tuxi",
-      "title": "兔喜生活",
       "short_name": "兔喜生活",
       "badge_text": "兔",
       "category": "express",
@@ -452,11 +451,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "兔喜生活"
     },
     "mama": {
       "slug": "mama",
-      "title": "妈妈驿站",
       "short_name": "妈妈驿站",
       "badge_text": "妈",
       "category": "express",
@@ -479,11 +478,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "妈妈驿站"
     },
     "kuaibao": {
       "slug": "kuaibao",
-      "title": "快宝驿站",
       "short_name": "快宝驿站",
       "badge_text": "快",
       "category": "express",
@@ -506,11 +505,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "快宝驿站"
     },
     "gege": {
       "slug": "gege",
-      "title": "格格货栈",
       "short_name": "格格货栈",
       "badge_text": "格",
       "category": "express",
@@ -533,11 +532,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "格格货栈"
     },
     "danniao": {
       "slug": "danniao",
-      "title": "丹鸟物流",
       "short_name": "丹鸟物流",
       "badge_text": "丹",
       "category": "express",
@@ -561,11 +560,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "丹鸟物流"
     },
     "kuayue": {
       "slug": "kuayue",
-      "title": "跨越速运",
       "short_name": "跨越",
       "badge_text": "跨",
       "category": "express",
@@ -588,11 +587,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "跨越速运"
     },
     "meituan": {
       "slug": "meituan",
-      "title": "美团外卖",
       "short_name": "美团",
       "badge_text": "美",
       "category": "food",
@@ -623,11 +622,11 @@
         "meituanwaimai://waimai.meituan.com/order/detail?order_id={code}",
         "meituanwaimai://",
         "imeituan://"
-      ]
+      ],
+      "name": "美团外卖"
     },
     "eleme": {
       "slug": "eleme",
-      "title": "饿了么",
       "short_name": "饿了么",
       "badge_text": "饿",
       "category": "food",
@@ -655,11 +654,11 @@
       "pickup_schemes": [
         "eleme://catering.ele.me/order/detail?orderId={code}",
         "eleme://"
-      ]
+      ],
+      "name": "饿了么"
     },
     "kfc": {
       "slug": "kfc",
-      "title": "肯德基",
       "short_name": "肯德基",
       "badge_text": "K",
       "category": "food",
@@ -683,11 +682,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "肯德基"
     },
     "mcdonalds": {
       "slug": "mcdonalds",
-      "title": "麦当劳",
       "short_name": "麦当劳",
       "badge_text": "麦",
       "category": "food",
@@ -712,11 +711,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "麦当劳"
     },
     "burgerking": {
       "slug": "burgerking",
-      "title": "汉堡王",
       "short_name": "汉堡王",
       "badge_text": "堡",
       "category": "food",
@@ -739,11 +738,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "汉堡王"
     },
     "tasting": {
       "slug": "tasting",
-      "title": "塔斯汀中国汉堡",
       "short_name": "塔斯汀汉堡",
       "badge_text": "塔",
       "category": "food",
@@ -767,11 +766,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "塔斯汀中国汉堡"
     },
     "wallace": {
       "slug": "wallace",
-      "title": "华莱士",
       "short_name": "华莱士",
       "badge_text": "华",
       "category": "food",
@@ -794,11 +793,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "华莱士"
     },
     "laoxiangji": {
       "slug": "laoxiangji",
-      "title": "老乡鸡",
       "short_name": "老乡鸡",
       "badge_text": "老",
       "category": "food",
@@ -821,11 +820,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "老乡鸡"
     },
     "haidilao": {
       "slug": "haidilao",
-      "title": "海底捞",
       "short_name": "海底捞",
       "badge_text": "海",
       "category": "food",
@@ -848,11 +847,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "海底捞"
     },
     "pizzahut": {
       "slug": "pizzahut",
-      "title": "必胜客",
       "short_name": "必胜客",
       "badge_text": "必",
       "category": "food",
@@ -875,11 +874,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "必胜客"
     },
     "dominos": {
       "slug": "dominos",
-      "title": "达美乐比萨",
       "short_name": "达美乐比萨",
       "badge_text": "达",
       "category": "food",
@@ -902,11 +901,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "达美乐比萨"
     },
     "juewei": {
       "slug": "juewei",
-      "title": "绝味鸭脖",
       "short_name": "绝味鸭脖",
       "badge_text": "绝",
       "category": "food",
@@ -929,11 +928,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "绝味鸭脖"
     },
     "zhouheiya": {
       "slug": "zhouheiya",
-      "title": "周黑鸭",
       "short_name": "周黑鸭",
       "badge_text": "周",
       "category": "food",
@@ -955,11 +954,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "周黑鸭"
     },
     "holiland": {
       "slug": "holiland",
-      "title": "好利来",
       "short_name": "好利来",
       "badge_text": "好",
       "category": "food",
@@ -982,11 +981,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "好利来"
     },
     "zhenkongfu": {
       "slug": "zhenkongfu",
-      "title": "真功夫",
       "short_name": "真功夫",
       "badge_text": "真",
       "category": "food",
@@ -1008,11 +1007,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "真功夫"
     },
     "xibei": {
       "slug": "xibei",
-      "title": "西贝莜面村",
       "short_name": "西贝莜面村",
       "badge_text": "西",
       "category": "food",
@@ -1035,11 +1034,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "西贝莜面村"
     },
     "luckin": {
       "slug": "luckin",
-      "title": "瑞幸咖啡",
       "short_name": "瑞幸咖啡",
       "badge_text": "幸",
       "category": "drink",
@@ -1067,11 +1066,11 @@
       "custom_metadata": {},
       "pickup_schemes": [
         "luckincoffee://"
-      ]
+      ],
+      "name": "瑞幸咖啡"
     },
     "starbucks": {
       "slug": "starbucks",
-      "title": "星巴克",
       "short_name": "星巴克",
       "badge_text": "星",
       "category": "drink",
@@ -1099,11 +1098,11 @@
       "custom_metadata": {},
       "pickup_schemes": [
         "starbucks://"
-      ]
+      ],
+      "name": "星巴克"
     },
     "cotti": {
       "slug": "cotti",
-      "title": "库迪咖啡",
       "short_name": "库迪咖啡",
       "badge_text": "库",
       "category": "drink",
@@ -1127,11 +1126,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "库迪咖啡"
     },
     "mixue": {
       "slug": "mixue",
-      "title": "蜜雪冰城",
       "short_name": "蜜雪冰城",
       "badge_text": "雪",
       "category": "drink",
@@ -1155,11 +1154,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "蜜雪冰城"
     },
     "heytea": {
       "slug": "heytea",
-      "title": "喜茶",
       "short_name": "喜茶",
       "badge_text": "喜",
       "category": "drink",
@@ -1184,11 +1183,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "喜茶"
     },
     "naixue": {
       "slug": "naixue",
-      "title": "奈雪的茶",
       "short_name": "奈雪的茶",
       "badge_text": "奈",
       "category": "drink",
@@ -1212,11 +1211,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "奈雪的茶"
     },
     "chagee": {
       "slug": "chagee",
-      "title": "霸王茶姬",
       "short_name": "霸王茶姬",
       "badge_text": "姬",
       "category": "drink",
@@ -1241,11 +1240,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "霸王茶姬"
     },
     "goodme": {
       "slug": "goodme",
-      "title": "古茗",
       "short_name": "古茗",
       "badge_text": "茗",
       "category": "drink",
@@ -1271,11 +1270,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "古茗"
     },
     "chapanda": {
       "slug": "chapanda",
-      "title": "茶百道",
       "short_name": "茶百道",
       "badge_text": "茶",
       "category": "drink",
@@ -1300,11 +1299,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "茶百道"
     },
     "hushangayi": {
       "slug": "hushangayi",
-      "title": "沪上阿姨",
       "short_name": "沪上阿姨",
       "badge_text": "沪",
       "category": "drink",
@@ -1328,11 +1327,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "沪上阿姨"
     },
     "coco": {
       "slug": "coco",
-      "title": "CoCo都可",
       "short_name": "CoCo都可",
       "badge_text": "C",
       "category": "drink",
@@ -1357,11 +1356,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "CoCo都可"
     },
     "yidiandian": {
       "slug": "yidiandian",
-      "title": "一点点奶茶",
       "short_name": "一点点奶茶",
       "badge_text": "一",
       "category": "drink",
@@ -1386,11 +1385,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "一点点奶茶"
     },
     "shuyi": {
       "slug": "shuyi",
-      "title": "书亦烧仙草",
       "short_name": "书亦烧仙草",
       "badge_text": "书",
       "category": "drink",
@@ -1413,11 +1412,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "书亦烧仙草"
     },
     "chayan": {
       "slug": "chayan",
-      "title": "茶颜悦色",
       "short_name": "茶颜悦色",
       "badge_text": "茶",
       "category": "drink",
@@ -1441,11 +1440,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "茶颜悦色"
     },
     "manner": {
       "slug": "manner",
-      "title": "Manner Coffee",
       "short_name": "Manner Coffee",
       "badge_text": "M",
       "category": "drink",
@@ -1469,11 +1468,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Manner Coffee"
     },
     "tims": {
       "slug": "tims",
-      "title": "Tims天好咖啡",
       "short_name": "Tims天好咖啡",
       "badge_text": "T",
       "category": "drink",
@@ -1498,11 +1497,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Tims天好咖啡"
     },
     "luckycup": {
       "slug": "luckycup",
-      "title": "幸运咖",
       "short_name": "幸运咖",
       "badge_text": "幸",
       "category": "drink",
@@ -1524,11 +1523,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "幸运咖"
     },
     "mollytea": {
       "slug": "mollytea",
-      "title": "茉莉奶白",
       "short_name": "茉莉奶白",
       "badge_text": "茉",
       "category": "drink",
@@ -1552,11 +1551,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "茉莉奶白"
     },
     "noyetea": {
       "slug": "noyetea",
-      "title": "爷爷不泡茶",
       "short_name": "爷爷不泡茶",
       "badge_text": "爷",
       "category": "drink",
@@ -1578,11 +1577,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "爷爷不泡茶"
     },
     "chaliys": {
       "slug": "chaliys",
-      "title": "茶理宜世",
       "short_name": "茶理宜世",
       "badge_text": "茶",
       "category": "drink",
@@ -1604,11 +1603,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "茶理宜世"
     },
     "linlee": {
       "slug": "linlee",
-      "title": "LINLEE 林里手打柠檬茶",
       "short_name": "LINLEE 林里手打柠檬茶",
       "badge_text": "L",
       "category": "drink",
@@ -1632,11 +1631,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "LINLEE 林里手打柠檬茶"
     },
     "tianlala": {
       "slug": "tianlala",
-      "title": "甜啦啦",
       "short_name": "甜啦啦",
       "badge_text": "甜",
       "category": "drink",
@@ -1658,11 +1657,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "甜啦啦"
     },
     "sevenfall": {
       "slug": "sevenfall",
-      "title": "7分甜",
       "short_name": "7分甜",
       "badge_text": "7",
       "category": "drink",
@@ -1685,11 +1684,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "7分甜"
     },
     "yizhisuannai": {
       "slug": "yizhisuannai",
-      "title": "一只酸奶牛",
       "short_name": "一只酸奶牛",
       "badge_text": "一",
       "category": "drink",
@@ -1711,11 +1710,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "一只酸奶牛"
     },
     "xianguoshijian": {
       "slug": "xianguoshijian",
-      "title": "鲜果时间",
       "short_name": "鲜果时间",
       "badge_text": "鲜",
       "category": "drink",
@@ -1737,11 +1736,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "鲜果时间"
     },
     "happylemon": {
       "slug": "happylemon",
-      "title": "快乐柠檬",
       "short_name": "快乐柠檬",
       "badge_text": "快",
       "category": "drink",
@@ -1763,11 +1762,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "快乐柠檬"
     },
     "12306": {
       "slug": "12306",
-      "title": "中国铁路 12306",
       "short_name": "铁路 12306",
       "badge_text": "铁",
       "category": "travel",
@@ -1799,11 +1798,11 @@
       "custom_metadata": {},
       "pickup_schemes": [
         "com.MobileTicket://"
-      ]
+      ],
+      "name": "中国铁路 12306"
     },
     "didi": {
       "slug": "didi",
-      "title": "滴滴出行",
       "short_name": "滴滴出行",
       "badge_text": "滴",
       "category": "travel",
@@ -1835,11 +1834,11 @@
       "pickup_schemes": [
         "diditaxi://",
         "didi://"
-      ]
+      ],
+      "name": "滴滴出行"
     },
     "amap": {
       "slug": "amap",
-      "title": "高德打车",
       "short_name": "高德打车",
       "badge_text": "高",
       "category": "travel",
@@ -1863,11 +1862,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "高德打车"
     },
     "t3go": {
       "slug": "t3go",
-      "title": "T3 出行",
       "short_name": "T3 出行",
       "badge_text": "T",
       "category": "travel",
@@ -1891,11 +1890,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "T3 出行"
     },
     "caocao": {
       "slug": "caocao",
-      "title": "曹操出行",
       "short_name": "曹操出行",
       "badge_text": "曹",
       "category": "travel",
@@ -1918,11 +1917,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "曹操出行"
     },
     "hellobike": {
       "slug": "hellobike",
-      "title": "哈啰出行",
       "short_name": "哈啰出行",
       "badge_text": "哈",
       "category": "travel",
@@ -1948,11 +1947,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "哈啰出行"
     },
     "huaxiaozhu": {
       "slug": "huaxiaozhu",
-      "title": "花小猪打车",
       "short_name": "花小猪打车",
       "badge_text": "花",
       "category": "travel",
@@ -1976,11 +1975,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "花小猪打车"
     },
     "ctrip": {
       "slug": "ctrip",
-      "title": "携程旅行",
       "short_name": "携程旅行",
       "badge_text": "携",
       "category": "travel",
@@ -2004,11 +2003,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "携程旅行"
     },
     "tongcheng": {
       "slug": "tongcheng",
-      "title": "同程旅行",
       "short_name": "同程旅行",
       "badge_text": "同",
       "category": "travel",
@@ -2032,11 +2031,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "同程旅行"
     },
     "qunar": {
       "slug": "qunar",
-      "title": "去哪儿旅行",
       "short_name": "去哪儿旅行",
       "badge_text": "去",
       "category": "travel",
@@ -2059,11 +2058,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "去哪儿旅行"
     },
     "fliggy": {
       "slug": "fliggy",
-      "title": "飞猪旅行",
       "short_name": "飞猪旅行",
       "badge_text": "飞",
       "category": "travel",
@@ -2087,11 +2086,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "飞猪旅行"
     },
     "airchina": {
       "slug": "airchina",
-      "title": "中国国际航空",
       "short_name": "国际航空",
       "badge_text": "航",
       "category": "flight",
@@ -2116,11 +2115,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "中国国际航空"
     },
     "ceair": {
       "slug": "ceair",
-      "title": "中国东方航空",
       "short_name": "东方航空",
       "badge_text": "航",
       "category": "flight",
@@ -2144,11 +2143,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "中国东方航空"
     },
     "csair": {
       "slug": "csair",
-      "title": "中国南方航空",
       "short_name": "南方航空",
       "badge_text": "航",
       "category": "flight",
@@ -2172,11 +2171,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "中国南方航空"
     },
     "hainanair": {
       "slug": "hainanair",
-      "title": "海南航空",
       "short_name": "海南航空",
       "badge_text": "航",
       "category": "flight",
@@ -2200,11 +2199,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "海南航空"
     },
     "xiamenair": {
       "slug": "xiamenair",
-      "title": "厦门航空",
       "short_name": "厦门航空",
       "badge_text": "航",
       "category": "flight",
@@ -2228,11 +2227,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "厦门航空"
     },
     "springair": {
       "slug": "springair",
-      "title": "春秋航空",
       "short_name": "春秋航空",
       "badge_text": "航",
       "category": "flight",
@@ -2256,11 +2255,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "春秋航空"
     },
     "juneyaoair": {
       "slug": "juneyaoair",
-      "title": "吉祥航空",
       "short_name": "吉祥航空",
       "badge_text": "航",
       "category": "flight",
@@ -2284,11 +2283,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "吉祥航空"
     },
     "sichuanair": {
       "slug": "sichuanair",
-      "title": "四川航空",
       "short_name": "四川航空",
       "badge_text": "航",
       "category": "flight",
@@ -2312,11 +2311,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "四川航空"
     },
     "shenzhenair": {
       "slug": "shenzhenair",
-      "title": "深圳航空",
       "short_name": "深圳航空",
       "badge_text": "航",
       "category": "flight",
@@ -2340,11 +2339,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "深圳航空"
     },
     "hema": {
       "slug": "hema",
-      "title": "盒马鲜生",
       "short_name": "盒马鲜生",
       "badge_text": "盒",
       "category": "supermarket",
@@ -2368,11 +2367,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "盒马鲜生"
     },
     "samsclub": {
       "slug": "samsclub",
-      "title": "山姆会员商店",
       "short_name": "山姆会员商店",
       "badge_text": "山",
       "category": "supermarket",
@@ -2396,11 +2395,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "山姆会员商店"
     },
     "walmart": {
       "slug": "walmart",
-      "title": "沃尔玛",
       "short_name": "沃尔玛",
       "badge_text": "沃",
       "category": "supermarket",
@@ -2423,11 +2422,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "沃尔玛"
     },
     "dingdong": {
       "slug": "dingdong",
-      "title": "叮咚买菜",
       "short_name": "叮咚买菜",
       "badge_text": "叮",
       "category": "supermarket",
@@ -2450,11 +2449,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "叮咚买菜"
     },
     "xiaoxiang": {
       "slug": "xiaoxiang",
-      "title": "小象超市 / 美团买菜",
       "short_name": "小象超市 / 美团买菜",
       "badge_text": "小",
       "category": "supermarket",
@@ -2477,11 +2476,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "小象超市 / 美团买菜"
     },
     "pupu": {
       "slug": "pupu",
-      "title": "朴朴超市",
       "short_name": "朴朴超市",
       "badge_text": "朴",
       "category": "supermarket",
@@ -2504,11 +2503,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "朴朴超市"
     },
     "yonghui": {
       "slug": "yonghui",
-      "title": "永辉超市",
       "short_name": "永辉超市",
       "badge_text": "永",
       "category": "supermarket",
@@ -2536,11 +2535,11 @@
       "pickup_schemes": [
         "sfexpress://",
         "sf-express://"
-      ]
+      ],
+      "name": "永辉超市"
     },
     "rtmart": {
       "slug": "rtmart",
-      "title": "大润发",
       "short_name": "大润发",
       "badge_text": "大",
       "category": "supermarket",
@@ -2563,11 +2562,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "大润发"
     },
     "seveneleven": {
       "slug": "seveneleven",
-      "title": "7-Eleven",
       "short_name": "7-Eleven",
       "badge_text": "7",
       "category": "supermarket",
@@ -2590,11 +2589,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "7-Eleven"
     },
     "familymart": {
       "slug": "familymart",
-      "title": "全家 FamilyMart",
       "short_name": "全家 FamilyMart",
       "badge_text": "全",
       "category": "supermarket",
@@ -2617,11 +2616,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "全家 FamilyMart"
     },
     "lawson": {
       "slug": "lawson",
-      "title": "罗森 Lawson",
       "short_name": "罗森 Lawson",
       "badge_text": "罗",
       "category": "supermarket",
@@ -2644,11 +2643,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "罗森 Lawson"
     },
     "ubereats": {
       "slug": "ubereats",
-      "title": "Uber Eats",
       "short_name": "Uber Eats",
       "badge_text": "U",
       "category": "food",
@@ -2671,11 +2670,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Uber Eats"
     },
     "doordash": {
       "slug": "doordash",
-      "title": "DoorDash",
       "short_name": "DoorDash",
       "badge_text": "D",
       "category": "food",
@@ -2697,11 +2696,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "DoorDash"
     },
     "deliveroo": {
       "slug": "deliveroo",
-      "title": "Deliveroo",
       "short_name": "Deliveroo",
       "badge_text": "D",
       "category": "food",
@@ -2723,11 +2722,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Deliveroo"
     },
     "grab": {
       "slug": "grab",
-      "title": "Grab SuperApp",
       "short_name": "Grab SuperApp",
       "badge_text": "G",
       "category": "travel",
@@ -2750,11 +2749,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Grab SuperApp"
     },
     "foodpanda": {
       "slug": "foodpanda",
-      "title": "Foodpanda",
       "short_name": "Foodpanda",
       "badge_text": "F",
       "category": "food",
@@ -2776,11 +2775,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Foodpanda"
     },
     "shopee": {
       "slug": "shopee",
-      "title": "Shopee",
       "short_name": "Shopee",
       "badge_text": "S",
       "category": "express",
@@ -2803,11 +2802,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Shopee"
     },
     "lazada": {
       "slug": "lazada",
-      "title": "Lazada",
       "short_name": "Lazada",
       "badge_text": "L",
       "category": "express",
@@ -2829,11 +2828,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Lazada"
     },
     "amazon": {
       "slug": "amazon",
-      "title": "Amazon",
       "short_name": "Amazon",
       "badge_text": "A",
       "category": "express",
@@ -2856,11 +2855,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "Amazon"
     },
     "dhl": {
       "slug": "dhl",
-      "title": "DHL Express",
       "short_name": "DHL Express",
       "badge_text": "D",
       "category": "express",
@@ -2883,11 +2882,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "DHL Express"
     },
     "fedex": {
       "slug": "fedex",
-      "title": "FedEx",
       "short_name": "FedEx",
       "badge_text": "F",
       "category": "express",
@@ -2910,11 +2909,11 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "FedEx"
     },
     "ups": {
       "slug": "ups",
-      "title": "UPS",
       "short_name": "UPS",
       "badge_text": "U",
       "category": "express",
@@ -2937,7 +2936,8 @@
         "code_patterns": [],
         "require_qr_code": false
       },
-      "custom_metadata": {}
+      "custom_metadata": {},
+      "name": "UPS"
     }
   },
   "total_brands": 101
