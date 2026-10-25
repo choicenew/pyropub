@@ -51,11 +51,13 @@ OFFICIAL_TITLE_TEMPLATES = {
         "cn": ("自提身份码与核销二维码规则库", "Pick-up Identity Rules", "包含菜鸟身份码、多多提货码、快递柜扫码核销规则")
     },
     "brand_catalog": {
+        "001": ("Global Master Brands Manifest", "Global Master Brands Manifest", "Global chain stores, express, delivery, and services registry")
+    },
+    "brand_catalog_index": {
         "cn": ("商超即配与餐饮品牌库", "China Retail & Food Brands", "包含美团、菜鸟、顺丰、瑞幸、蜜雪冰城等中国高频商户品牌"),
         "us": ("US Retail, Food & Express Brands", "US Retail & Express Brands", "Includes DoorDash, UberEats, FedEx, UPS, Starbucks"),
         "jp": ("コンビニ・スーパー・外食ブランド", "Japan Retail & Express Brands", "Seven-Eleven, Lawson, FamilyMart, Yamato など日本向け品牌"),
-        "kr": ("한국 마트・편의점・배달 브랜드", "Korean Retail & Delivery Brands", "한국 쿠팡, 배달의민족, GS25, CU 브랜드"),
-        "001": ("Global Master Brands Manifest", "Global Master Brands Manifest", "Global chain stores, express, delivery, and services registry")
+        "kr": ("한국 마트・편의점・배달 브랜드", "Korean Retail & Delivery Brands", "한국 쿠팡, 배달의민족, GS25, CU 브랜드")
     }
 }
 
@@ -178,17 +180,18 @@ def generate_store_manifest():
     if os.path.exists(identity_file):
         register_official_file("identity/identity_manifest.json", "identity_rules", "cn")
 
-    # 5. Brands Master & Country Catalogs (type: brand_catalog)
+    # 5. Brands Master Manifest (type: brand_catalog)
     master_brand_file = os.path.join(VEHEREGO_ASSETS_DIR, 'brands', 'brands_manifest.json')
     if os.path.exists(master_brand_file):
         register_official_file("brands/brands_manifest.json", "brand_catalog", "001")
 
+    # 6. Country Brand Indexes (type: brand_catalog_index)
     for b_index in glob.glob(os.path.join(BRANDS_OUT_DIR, '*', 'index.json')):
         c_code = os.path.basename(os.path.dirname(b_index))
         rel = f"brands/{c_code}/index.json"
-        register_official_file(rel, "brand_catalog", c_code)
+        register_official_file(rel, "brand_catalog_index", c_code)
 
-    # 6. 合并第三方独立订阅源 (third_party_sources.json)
+    # 7. 合并第三方独立订阅源 (third_party_sources.json)
     third_party_items = THIRD_PARTY_CONFIG.get('third_party_sources', [])
     for tp in third_party_items:
         c_code = tp.get('country', '001')
