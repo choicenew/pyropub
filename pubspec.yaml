@@ -7,7 +7,6 @@ environment:
   flutter: '>=3.10.0'
 
 workspace:
-  - pyro_magma
   - packages/action/pyro_action_hub
   - packages/action/pyro_action_protocol
   - packages/ai/pyro_ai_agent_ports
