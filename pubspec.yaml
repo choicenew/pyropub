@@ -31,7 +31,7 @@ workspace:
   - packages/ai/pyro_edge_ai_orchestrator
   - packages/ai/pyro_edge_ai_orchestrator_ui
   - packages/ai/pyro_edge_ai_translate
-  - packages/迭代package/pyro_ai
+
   - packages/algorithms/pyro_algorithm_ad_insertion
   - packages/algorithms/pyro_algorithm_behavior
   - packages/algorithms/pyro_algorithm_protocol
@@ -170,7 +170,7 @@ workspace:
   - packages/wallpaper/pyro_wallpaper_models
   - packages/wallpaper/pyro_wallpaper_platform
   - packages/wallpaper/pyro_wallpaper_ui
-  - packages/迭代package/pyro_plugin_manager
+
 
 dependencies:
   flutter:
