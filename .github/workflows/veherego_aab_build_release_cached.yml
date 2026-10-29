@@ -48,13 +48,17 @@ jobs:
 
       - name: Locate Flutter Project
         run: |
-          VEHEREGO_DIR=$(find veherego -type f -name pubspec.yaml -print0 | while IFS= read -r -d '' manifest; do
-            project_dir=${manifest%/pubspec.yaml}
-            if [ -d "$project_dir/android" ]; then
-              printf '%s' "$project_dir"
-              break
-            fi
-          done)
+          if [ -f "veherego/pubspec.yaml" ] && [ -d "veherego/android" ]; then
+            VEHEREGO_DIR="veherego"
+          else
+            VEHEREGO_DIR=$(find veherego -path 'veherego/packages*' -prune -o -type f -name pubspec.yaml -print0 | while IFS= read -r -d '' manifest; do
+              project_dir=${manifest%/pubspec.yaml}
+              if [ -d "$project_dir/android" ]; then
+                printf '%s' "$project_dir"
+                break
+              fi
+            done)
+          fi
           if [ -z "$VEHEREGO_DIR" ]; then
             echo "Unable to locate the VehereGo Flutter project"
             find veherego -name pubspec.yaml -print
