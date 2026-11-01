@@ -121,12 +121,12 @@ jobs:
           channel: 'stable'
           cache: true
 
-      - name: Preprocess & Sync Latest Global Brands & Holidays
-        working-directory: ./veherego
+      - name: Sync Store Manifest to App Local Assets
         run: |
-          dart run tools/sync_simple_icons.dart
-          dart run tools/sync_holiday_catalog.dart
-          dart run tools/sync_l10n.dart
+          if [ -f "veherego_assets/store_manifest.json" ]; then
+            cp -f veherego_assets/store_manifest.json veherego/assets/store_manifest.json
+            echo "✅ Successfully synced latest store_manifest.json to veherego/assets/store_manifest.json"
+          fi
 
       - name: Install Dependencies
         working-directory: ${{ env.VEHEREGO_DIR }}
