@@ -1,6 +1,6 @@
 # 🌐 多源翻译语言 Difference 差异比对报告 (Autonym 母语版)
 
-- **比对时间**: `2026-10-26 03:59:59`
+- **比对时间**: `2026-11-02 05:14:37`
 - **合并总语言条目**: `604` 种
 
 ### 各翻译源 Difference 明细表
@@ -13,8 +13,8 @@
 | `baidu` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function baidu() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `bing` | 179 | 179 | 179 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `caiyun` | 20 | 20 | 20 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
-| `cloudTranslation` | 36 | 37 | 36 | `100.0%` | ✨ 新增扩展 (+1) | `+cs` | - |
-| `deepl` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (429 Client Error: Too Many Requests for url: https://www2.deepl.com/jsonrpc?method=LMT_split_text) | - | - |
+| `cloudTranslation` | 37 | 37 | 37 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
+| `deepl` | 0 | 33 | 0 | `100.0%` | ✨ 新增扩展 (+33) | `+ar`, `+auto`, `+bg`, `+cs`, `+da`, `+de` 等 33 个 | - |
 | `elia` | 6 | 6 | 6 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `google` | 250 | 250 | 250 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `hujiang` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (403 Client Error: Forbidden for url: https://dict.hjenglish.com/v10/dict/translation/cn/en) | - | - |
