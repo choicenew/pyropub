@@ -1,6 +1,6 @@
 # 🌐 多源翻译语言 Difference 差异比对报告 (Autonym 母语版)
 
-- **比对时间**: `2026-11-02 05:14:37`
+- **比对时间**: `2026-11-09 05:30:29`
 - **合并总语言条目**: `604` 种
 
 ### 各翻译源 Difference 明细表
@@ -14,7 +14,7 @@
 | `bing` | 179 | 179 | 179 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `caiyun` | 20 | 20 | 20 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `cloudTranslation` | 37 | 37 | 37 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
-| `deepl` | 0 | 33 | 0 | `100.0%` | ✨ 新增扩展 (+33) | `+ar`, `+auto`, `+bg`, `+cs`, `+da`, `+de` 等 33 个 | - |
+| `deepl` | 33 | 33 | 33 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `elia` | 6 | 6 | 6 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `google` | 250 | 250 | 250 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `hujiang` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (403 Client Error: Forbidden for url: https://dict.hjenglish.com/v10/dict/translation/cn/en) | - | - |
@@ -36,13 +36,13 @@
 | `qqTranSmart` | 135 | 0 | 0 | `0.0%` | ✕ 抓取异常 (HTTPSConnectionPool(host='transmart.qq.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)')))) | - | `-ach`, `-af`, `-ak`, `-am`, `-an`, `-ar` 等 135 个 |
 | `reverso` | 43 | 43 | 43 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `sogou` | 20 | 20 | 20 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
-| `sysTran` | 67 | 67 | 67 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
+| `sysTran` | 67 | 68 | 67 | `100.0%` | ✨ 新增扩展 (+1) | `+az` | - |
 | `tilde` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function tilde() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `translateCom` | 38 | 38 | 38 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `translateMe` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function translateMe() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `utibet` | 2 | 2 | 2 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `volcEngine` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function volcEngine() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
-| `xunjie` | 68 | 68 | 68 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
+| `xunjie` | 68 | 0 | 0 | `0.0%` | ✕ 抓取异常 (HTTPSConnectionPool(host='app.xunjiepdf.com', port=443): Max retries exceeded with url: /linefanyi (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))) | - | `-am`, `-ar`, `-az`, `-be`, `-bg`, `-bn` 等 68 个 |
 | `yandex` | 34 | 34 | 34 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `yeekit` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function yeekit() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `youdao` | 109 | 109 | 109 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
