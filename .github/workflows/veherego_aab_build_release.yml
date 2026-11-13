@@ -49,11 +49,6 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           submodules: false
 
-      - name: Sync packages into veherego/packages
-        run: |
-          mkdir -p veherego/packages
-          cp -rn packages/* veherego/packages/ 2>/dev/null || true
-
       - name: Cloud Monorepo Highest Version & Workspace Harmonizer
         run: |
           python3 -c "
