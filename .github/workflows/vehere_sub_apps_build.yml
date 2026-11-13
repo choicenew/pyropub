@@ -90,6 +90,10 @@ jobs:
           channel: 'stable'
           cache: true
 
+      - name: Generate Sub-App pubspec_overrides.yaml
+        run: |
+          sed 's|path: \.\./packages/|path: ../../../packages/|g; s|path: \.\./\.\./wallpaper/|path: ../../../../wallpaper/|g' veherego/pubspec_overrides.yaml > veherego/packages/vehere_perk_dock/pubspec_overrides.yaml
+
       - name: Install Dependencies
         working-directory: ./veherego/packages/vehere_perk_dock
         run: |
@@ -206,6 +210,10 @@ jobs:
           channel: 'stable'
           cache: true
 
+      - name: Generate Sub-App pubspec_overrides.yaml
+        run: |
+          sed 's|path: \.\./packages/|path: ../../../packages/|g; s|path: \.\./\.\./wallpaper/|path: ../../../../wallpaper/|g' veherego/pubspec_overrides.yaml > veherego/packages/vehere_yijing_compass/pubspec_overrides.yaml
+
       - name: Install Dependencies
         working-directory: ./veherego/packages/vehere_yijing_compass
         run: |
@@ -321,6 +329,10 @@ jobs:
         with:
           channel: 'stable'
           cache: true
+
+      - name: Generate Sub-App pubspec_overrides.yaml
+        run: |
+          sed 's|path: \.\./packages/|path: ../../../packages/|g; s|path: \.\./\.\./wallpaper/|path: ../../../../wallpaper/|g' veherego/pubspec_overrides.yaml > veherego/packages/vehere_notification_filter/pubspec_overrides.yaml
 
       - name: Install Dependencies
         working-directory: ./veherego/packages/vehere_notification_filter
