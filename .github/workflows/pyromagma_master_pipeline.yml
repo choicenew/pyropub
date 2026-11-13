@@ -49,6 +49,32 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           submodules: false
 
+      - name: Auto-Generate Monorepo Workspace pubspec_overrides.yaml for CI
+        run: |
+          python3 -c "
+          import os, glob
+          overrides = [
+              'dependency_overrides:',
+              '  archive: ^4.0.0',
+              '  flutter_riverpod: ^3.5.0',
+              '  riverpod_annotation: ^3.0.3',
+              '  isar_community: ^3.4.1',
+              '  isar_community_flutter_libs: ^3.4.1',
+              '  isar_community_generator: ^3.4.1'
+          ]
+          for p in glob.glob('packages/**/pubspec.yaml', recursive=True) + glob.glob('pyro_magma/packages/**/pubspec.yaml', recursive=True):
+              with open(p, 'r', encoding='utf-8', errors='ignore') as f:
+                  for line in f:
+                      if line.startswith('name:'):
+                          pkg_name = line.split(':')[1].strip()
+                          rel_path = os.path.relpath(os.path.dirname(p), 'pyro_magma' if os.path.exists('pyro_magma') else '.').replace('\\\\', '/')
+                          overrides.append(f'  {pkg_name}:\n    path: {rel_path}')
+                          break
+          target_path = 'pyro_magma/pubspec_overrides.yaml' if os.path.exists('pyro_magma') else 'pubspec_overrides.yaml'
+          with open(target_path, 'w', encoding='utf-8') as f:
+              f.write('\n'.join(overrides) + '\n')
+          "
+
       - name: Checkout legado_parser
         uses: actions/checkout@v4
         with:
