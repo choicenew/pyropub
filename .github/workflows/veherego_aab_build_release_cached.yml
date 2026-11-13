@@ -42,12 +42,10 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           submodules: false
 
-      - name: Sync packages into veherego/packages & wallpaper/packages
+      - name: Sync packages into veherego/packages
         run: |
           mkdir -p veherego/packages
-          mkdir -p wallpaper
           cp -rn packages/* veherego/packages/ 2>/dev/null || true
-          cp -rn packages/* wallpaper/packages/ 2>/dev/null || true
 
       - name: Locate Flutter Project
         run: |
