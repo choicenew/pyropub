@@ -58,24 +58,19 @@ jobs:
         run: |
           python3 -c "
           import os, glob
-          overrides = [
-              'dependency_overrides:',
-              '  archive: ^4.0.0',
-              '  flutter_riverpod: ^3.5.0',
-              '  riverpod_annotation: ^3.0.3',
-              '  isar_community: ^3.4.1',
-              '  isar_community_flutter_libs: ^3.4.1',
-              '  isar_community_generator: ^3.4.1'
-          ]
+          overrides = ['dependency_overrides:']
           for p in glob.glob('packages/**/pubspec.yaml', recursive=True) + glob.glob('veherego/packages/**/pubspec.yaml', recursive=True):
+              if 'build/' in p or '.dart_tool/' in p: continue
               with open(p, 'r', encoding='utf-8', errors='ignore') as f:
                   for line in f:
                       if line.startswith('name:'):
                           pkg_name = line.split(':')[1].strip()
-                          rel_path = os.path.relpath(os.path.dirname(p), 'veherego').replace('\\\\', '/')
+                          if pkg_name in ('veherego', 'app'): break
+                          rel_path = os.path.relpath(os.path.dirname(p), 'veherego' if os.path.exists('veherego') else '.').replace('\\\\', '/')
                           overrides.append(f'  {pkg_name}:\n    path: {rel_path}')
                           break
-          with open('veherego/pubspec_overrides.yaml', 'w', encoding='utf-8') as f:
+          target_file = 'veherego/pubspec_overrides.yaml' if os.path.exists('veherego') else 'pubspec_overrides.yaml'
+          with open(target_file, 'w', encoding='utf-8') as f:
               f.write('\n'.join(overrides) + '\n')
           "
 
