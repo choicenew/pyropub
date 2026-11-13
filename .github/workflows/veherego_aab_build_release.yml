@@ -45,13 +45,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: choicenew/packages
-          path: external_packages
+          path: packages
           token: ${{ secrets.GH_PAT }}
           submodules: false
 
-      - name: Merge external packages into veherego/packages
+      - name: Sync packages into veherego/packages
         run: |
-          cp -r external_packages/* veherego/packages/
+          mkdir -p veherego/packages
+          cp -rn packages/* veherego/packages/ 2>/dev/null || true
 
       - name: Locate Flutter Project
         run: |

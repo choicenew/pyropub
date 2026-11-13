@@ -44,6 +44,19 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           ref: ${{ steps.pr_sha.outputs.sha || github.sha }}
 
+      - name: Checkout packages repository
+        uses: actions/checkout@v4
+        with:
+          repository: choicenew/packages
+          path: packages
+          token: ${{ secrets.GH_PAT }}
+          submodules: false
+
+      - name: Sync packages into veherego/packages
+        run: |
+          mkdir -p veherego/packages
+          cp -rn packages/* veherego/packages/ 2>/dev/null || true
+
       - name: Locate Flutter Project
         run: |
           if [ -f "veherego/pubspec.yaml" ] && [ -d "veherego/android" ]; then
