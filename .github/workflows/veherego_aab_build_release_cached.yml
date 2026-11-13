@@ -71,18 +71,9 @@ jobs:
           overrides = ['dependency_overrides:']
           for k, v in dep_highest_versions.items():
               overrides.append(f'  {k}: ^{v}')
-          seen_names = set(['veherego', 'app', 'pyro_magma', 'example'])
-          for p in glob.glob('packages/**/pubspec.yaml', recursive=True) + glob.glob('**/packages/**/pubspec.yaml', recursive=True):
-              if 'build/' in p or '.dart_tool/' in p or '/example/' in p.replace('\\\\', '/'): continue
-              with open(p, 'r', encoding='utf-8', errors='ignore') as f:
-                  content = f.read()
-                  name_match = re.search(r'^name:\s*([^\s]+)', content, re.MULTILINE)
-                  if name_match:
-                      pkg_name = name_match.group(1).strip()
-                      if pkg_name in seen_names: continue
-                      seen_names.add(pkg_name)
-                      rel_path = os.path.relpath(os.path.dirname(p), 'veherego' if os.path.exists('veherego') else '.').replace('\\\\', '/')
-                      overrides.append(f'  {pkg_name}:\n    path: {rel_path}')
+          target_file = 'veherego/pubspec_overrides.yaml' if os.path.exists('veherego') else 'pubspec_overrides.yaml'
+          with open(target_file, 'w', encoding='utf-8') as f:
+              f.write('\n'.join(overrides) + '\n')
           target_file = 'veherego/pubspec_overrides.yaml' if os.path.exists('veherego') else 'pubspec_overrides.yaml'
           with open(target_file, 'w', encoding='utf-8') as f:
               f.write('\n'.join(overrides) + '\n')
