@@ -1,6 +1,6 @@
 # 🌐 多源翻译语言 Difference 差异比对报告 (Autonym 母语版)
 
-- **比对时间**: `2026-11-09 05:30:29`
+- **比对时间**: `2026-11-16 05:38:18`
 - **合并总语言条目**: `604` 种
 
 ### 各翻译源 Difference 明细表
@@ -34,15 +34,15 @@
 | `papago` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 ('NoneType' object has no attribute 'group') | - | - |
 | `qqFanyi` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function qqFanyi() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `qqTranSmart` | 135 | 0 | 0 | `0.0%` | ✕ 抓取异常 (HTTPSConnectionPool(host='transmart.qq.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)')))) | - | `-ach`, `-af`, `-ak`, `-am`, `-an`, `-ar` 等 135 个 |
-| `reverso` | 43 | 43 | 43 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
+| `reverso` | 43 | 0 | 0 | `0.0%` | ✕ 抓取异常 (dictionary changed size during iteration) | - | `-af`, `-ar`, `-bg`, `-bn`, `-cs`, `-da` 等 43 个 |
 | `sogou` | 20 | 20 | 20 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
-| `sysTran` | 67 | 68 | 67 | `100.0%` | ✨ 新增扩展 (+1) | `+az` | - |
+| `sysTran` | 68 | 68 | 68 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `tilde` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function tilde() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `translateCom` | 38 | 38 | 38 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `translateMe` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function translateMe() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `utibet` | 2 | 2 | 2 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `volcEngine` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function volcEngine() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
-| `xunjie` | 68 | 0 | 0 | `0.0%` | ✕ 抓取异常 (HTTPSConnectionPool(host='app.xunjiepdf.com', port=443): Max retries exceeded with url: /linefanyi (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))) | - | `-am`, `-ar`, `-az`, `-be`, `-bg`, `-bn` 等 68 个 |
+| `xunjie` | 68 | 68 | 68 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `yandex` | 34 | 34 | 34 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `yeekit` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function yeekit() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `youdao` | 109 | 109 | 109 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
