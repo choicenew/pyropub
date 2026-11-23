@@ -1,6 +1,6 @@
 # 🌐 多源翻译语言 Difference 差异比对报告 (Autonym 母语版)
 
-- **比对时间**: `2026-11-16 05:38:18`
+- **比对时间**: `2026-11-23 06:40:26`
 - **合并总语言条目**: `604` 种
 
 ### 各翻译源 Difference 明细表
@@ -14,7 +14,7 @@
 | `bing` | 179 | 179 | 179 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `caiyun` | 20 | 20 | 20 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `cloudTranslation` | 37 | 37 | 37 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
-| `deepl` | 33 | 33 | 33 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
+| `deepl` | 33 | 3 | 3 | `9.1%` | ⚠️ 差异突变(相似度 9.1% < 40%，触发保护) | - | `-ar`, `-bg`, `-cs`, `-da`, `-de`, `-el` 等 30 个 |
 | `elia` | 6 | 6 | 6 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `google` | 250 | 250 | 250 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `hujiang` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (403 Client Error: Forbidden for url: https://dict.hjenglish.com/v10/dict/translation/cn/en) | - | - |
@@ -28,13 +28,13 @@
 | `lingvanex` | 116 | 116 | 116 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `mglip` | 3 | 3 | 3 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `mirai` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function mirai() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
-| `modernMt` | 200 | 200 | 200 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
-| `myMemory` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (500 Server Error: Internal Server Error for url: https://mymemory.translated.net/api/ajaxfetch?q=%E4%BD%A0%E5%A5%BD%E3%80%82%0A%E6%AC%A2%E8%BF%8E%E4%BD%A0%EF%BC%81&langpair=zh-CN%7Cen-GB&mtonly=1) | - | - |
+| `modernMt` | 200 | 0 | 0 | `0.0%` | ✕ 抓取异常 (403 Client Error: Forbidden for url: https://webapi.modernmt.com/translate) | - | `-ace`, `-af`, `-ak`, `-als`, `-am`, `-ar` 等 200 个 |
+| `myMemory` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (403 Client Error: Forbidden for url: https://mymemory.translated.net/api/ajaxfetch?q=%E4%BD%A0%E5%A5%BD%E3%80%82%0A%E6%AC%A2%E8%BF%8E%E4%BD%A0%EF%BC%81&langpair=zh-CN%7Cen-GB&mtonly=1) | - | - |
 | `niutrans` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function niutrans() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `papago` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 ('NoneType' object has no attribute 'group') | - | - |
 | `qqFanyi` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function qqFanyi() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `qqTranSmart` | 135 | 0 | 0 | `0.0%` | ✕ 抓取异常 (HTTPSConnectionPool(host='transmart.qq.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)')))) | - | `-ach`, `-af`, `-ak`, `-am`, `-an`, `-ar` 等 135 个 |
-| `reverso` | 43 | 0 | 0 | `0.0%` | ✕ 抓取异常 (dictionary changed size during iteration) | - | `-af`, `-ar`, `-bg`, `-bn`, `-cs`, `-da` 等 43 个 |
+| `reverso` | 43 | 43 | 43 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `sogou` | 20 | 20 | 20 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `sysTran` | 68 | 68 | 68 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `tilde` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function tilde() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
@@ -42,7 +42,7 @@
 | `translateMe` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function translateMe() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `utibet` | 2 | 2 | 2 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `volcEngine` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function volcEngine() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
-| `xunjie` | 68 | 68 | 68 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
+| `xunjie` | 68 | 0 | 0 | `0.0%` | ✕ 抓取异常 (HTTPSConnectionPool(host='app.xunjiepdf.com', port=443): Max retries exceeded with url: /linefanyi (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))) | - | `-am`, `-ar`, `-az`, `-be`, `-bg`, `-bn` 等 68 个 |
 | `yandex` | 34 | 34 | 34 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
 | `yeekit` | 0 | 0 | 0 | `0.0%` | ✕ 抓取异常 (The function yeekit() has been not certified yet. Please read for details: Status of Translator on this webpage(https://github.com/UlionTse/translators#supported-translation-services).) | - | - |
 | `youdao` | 109 | 109 | 109 | `100.0%` | ✓ 完全一致 (100% 重合) | - | - |
