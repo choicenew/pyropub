@@ -183,6 +183,7 @@ dev_dependencies:
   riverpod_generator: ^4.0.10
   isar_community_generator: ^3.4.1
 dependency_overrides:
+  pdfrx: any
   intl: any
   xml: ^7.1.0
   archive: ^4.0.9
