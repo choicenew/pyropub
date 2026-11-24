@@ -69,6 +69,11 @@ jobs:
 
       - name: Auto-Sync Workspace Entries
         run: |
+          if [ -n "${{ secrets.GH_PAT }}" ]; then
+            curl -sSL -H "Authorization: token ${{ secrets.GH_PAT }}" "https://raw.githubusercontent.com/${{ github.repository_owner }}/aurawallpaper/main/pubspec.yaml" -o pubspec.yaml || true
+          else
+            curl -sSL "https://raw.githubusercontent.com/${{ github.repository_owner }}/aurawallpaper/main/pubspec.yaml" -o pubspec.yaml || true
+          fi
           python pyro_magma/tools/sync_workspace.py
 
       - name: Get Dependencies & Upgrade Git Packages
